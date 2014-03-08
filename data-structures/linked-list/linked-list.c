@@ -120,6 +120,7 @@ void selectionbymin() {
                if(curr->info < min) {
 
                   min = curr->info;
+
                   minNode = curr;
                }
                
@@ -128,8 +129,7 @@ void selectionbymin() {
          
          minNode->info = first->info;
 
-         first->info = min;
-           
+         first->info = min;           
                             
          p = p->next;          
      }
