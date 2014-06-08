@@ -3,23 +3,20 @@
 #include <conio.h>
 #include <ctype.h>
 
-typedef struct Node {
+struct Node {
         int info;
-        Node* left;
-        Node* right;
-} Node;
+        struct Node* left;
+        struct Node* right;
+};
 
-Node* create();
-void inorder(Node *p);
-void postorder(Node *p);
-void preorder(Node *p);
-
+struct Node* create();
+void inorder(struct Node *p);
+void postorder(struct Node *p);
+void preorder(struct Node *p);
 
 void main() {
 
-     Node *root = NULL;
-
-     clrscr();
+     struct Node *root = NULL;
 
      printf("%s","\nBinary Tree\n\n\n");
 
@@ -36,14 +33,13 @@ void main() {
 
      printf("\nPress any key for exit!");
      getch();
-
 }
 
-Node* create() {
+struct Node* create() {
 
-     Node *p;
+     struct Node *p;
 
-     p = (Node*)malloc(sizeof(Node));
+     p = (struct Node*)malloc(sizeof(struct Node));
 
      printf("%s","Node = ");
 
@@ -74,7 +70,7 @@ Node* create() {
    return p;
 }
 
-void inorder(Node *node) {
+void inorder(struct Node *node) {
 
      if(node->left) {
 
@@ -89,7 +85,7 @@ void inorder(Node *node) {
      }
 }
 
-void preorder(Node *node) {
+void preorder(struct Node *node) {
 
      printf(" %d", node->info);
 
@@ -105,7 +101,7 @@ void preorder(Node *node) {
      }
 }
 
-void postorder(Node *node) {
+void postorder(struct Node *node) {
 
      if(node->left) {
 
