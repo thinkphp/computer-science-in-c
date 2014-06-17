@@ -13,34 +13,40 @@ typedef struct Node{
 
 } Node;
 
+//global pointer root that is initial NULL
+Node *root = NULL;
+
 
 //prototypes functions
 void  read();
 void  display();
-void  sort(Node *root);
-void insert(Node *&root,int val);
+void  sort();
+void insert(int val);
 void inorder(Node *p);
 
+//number of items from array
 int n,
 
+    //defined an array of 100 items integers
     v[100];
 
+//input output file
 fstream fin("c:\\file.in",ios::in),
 
 	fout("c:\\file.out",ios::out);
 
 
 
+//main program
 void main() {
 
-     Node *root = NULL;
- 
      //firstly, clear screen
      clrscr();
 
+     //display on screen
      cout<<"\n\n\nBinary Search Tree Inorder\n\n\n";
 
-     //read the vector
+     //read the input vector
      read();
 
      //display the vector
@@ -50,14 +56,16 @@ void main() {
      //then display the sorted array
      cout<<"\n\nOutput:\n";
 
-     sort( root );
-
+     //insert into Binary Tree Search and then walk inorder to get sorted
+     sort();
 
      //press any key for exit
      cout<<"\n\n\nPress any key for exit!";
      getch();
 }
 
+
+//read input data
 void read() {
 
      int i;
@@ -72,6 +80,7 @@ void read() {
      fin.close();
 }
 
+//display the data on screen
 void display() {
 
      int i;
@@ -86,13 +95,14 @@ void display() {
      cout<<"\n";
 }
 
-void sort(Node *root) {
+//sorting by Binary Tree Search
+void sort() {
 
      //for each item from array execute the following instructions
      for(int i = 0; i < n; i++) {
 
 	 //insert one by one the elements into Binary Tree Search
-	 insert(root, v[i]);
+	 insert( v[i] );
      }
 
      //walk inorder and finally the array is sorted
@@ -100,7 +110,7 @@ void sort(Node *root) {
 }
 
 
-void insert(Node* &root, int val) {
+void insert(int val) {
 
      Node *current, *newNode;
 
