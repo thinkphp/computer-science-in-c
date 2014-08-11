@@ -67,8 +67,11 @@ void display(int *v) {
 void bubblesort(int *p) {
 
      int i,
+
 	 j,
+
 	 swapped = 1,
+
 	 xor;
 
      for(j = n - 1; j > 0 && swapped; j--) {
@@ -77,16 +80,16 @@ void bubblesort(int *p) {
 
 	 for(i = 0; i < j; i++) {
 
+            //swapped items of the arrray
 	    if( *(p+i) > *(p+i+1)) {
 
-		xor = p[i]^p[i+1];
+		xor = p[i] ^ p[i+1];
 
-		*(p+i) = xor^p[i];
+		*(p+i) = xor ^ p[i];
 
-		p[i+1] = xor^p[i+1];
+		p[i+1] = xor ^ p[i+1];
 
-		swapped =1;
-
+		swapped = 1;
 	    }   
 	 }
      }
