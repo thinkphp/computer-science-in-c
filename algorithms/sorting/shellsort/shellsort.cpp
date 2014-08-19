@@ -4,7 +4,7 @@
 
 /**
  *
- * Sorting Method Selection by Min
+ * Sorting by shell technique
  *
  */
 
