@@ -4,10 +4,16 @@
 //prototypes functions
 void* readMatrix(int n,int m);
 void displayMatrix(int n,int m,int (*adr)[20]);
+
 void sortColsMatrix(int n,int m, int (*adr)[20]);
 void sortColsMatrix2(int n,int m, int (*adr)[20]);
 void sortLinesMatrix(int n,int m, int (*adr)[20]);
 void sortLinesMatrix2(int n,int m, int (*adr)[20]);
+
+void sortMainDiagonal(int n,int m, int (*adr)[20]);
+void sortSecondDiagonal(int n,int m, int (*adr)[20]);
+int* insertionSort(int v[30], int n);
+int* insertionSort2(int v[30], int n);
 
 void main() {
 
@@ -33,16 +39,47 @@ void main() {
      displayMatrix(n,m,adr);
 
      //sorted cols matrix
-     cout<<"\nSort col matrix\n";
+     //cout<<"\nSort cols matrix\n";
 
+     //sorted lines matrix
+     cout<<"\nSort lines matrix\n";
      sortLinesMatrix2(n,m,adr);
 
-     //dislpay sorted cols matrix
+     //display the Matrix
+     displayMatrix(n,m,adr);
+
+     //sorting by insertion in action for main diagonal
+     //
+     //x 0 0
+     //0 x 0
+     //0 0 x
+     //
+     cout<<"\nSorting by insertion for Main Diagonal using Binary Search";
+     sortMainDiagonal(n,m,adr);
+
+     cout<<"\n";
+
+     //display Matrix
+     displayMatrix(n,m,adr);
+
+     //sorting by insertion in action for Second Diagonal
+     //
+     //0 0 x
+     //0 x 0
+     //x 0 0
+     //
+     cout<<"\nSorting by insertion for Second Diagonal";
+     sortSecondDiagonal(n,m,adr);
+
+     cout<<"\n";
+
+     //display Matrix
      displayMatrix(n,m,adr);
 
 
+
      //press any key for exit
-     cout<<"\nPress any key for exit\n";
+     cout<<"\nPress any key for exit\nhttp://thinkphp.ro";
 
      //waiting for press any key to exit
      getch();
@@ -78,11 +115,15 @@ void displayMatrix(int n,int m,int (*mat)[20]) {
 
 }
 
+//first version with two fors
 void sortColsMatrix(int n,int m,int (*adr)[20]) {
 
      int i,
+
 	 j,
+
 	 k,
+
 	 sign;
 
      for(i = 0; i < m; i++) {
@@ -90,7 +131,9 @@ void sortColsMatrix(int n,int m,int (*adr)[20]) {
 	 if( i&1 ) sign = -1;
 
 	     else
-		 sign = 1;
+
+		   sign = 1;
+
 
 	 for(j = 0;j < n - 1; j++) {
 
@@ -113,7 +156,7 @@ void sortColsMatrix(int n,int m,int (*adr)[20]) {
 
 }
 
-//cols are sorted with bubble sort method
+//second version with do...while and for within
 void sortColsMatrix2(int n,int m,int (*adr)[20]) {
 
      int i,
@@ -151,11 +194,14 @@ void sortColsMatrix2(int n,int m,int (*adr)[20]) {
      }
 }
 
+//sorting lines with bubble sort with temporary variable
 void sortLinesMatrix(int n, int m, int (*adr)[20]) {
 
      int i,
 
 	 j,
+
+	 k = -1,
 
 	 swapped,
 
@@ -168,11 +214,15 @@ void sortLinesMatrix(int n, int m, int (*adr)[20]) {
 	     else
 		   sign = 1;
 
+	 k = -1;
+
 	 do{
 
 	   swapped = 0;
 
-	   for(j = 0; j < m - 1; j++) {
+	   k++;
+
+	   for(j = 0; j < m - k - 1; j++) {
 
 
 	     if((adr[ i ][ j ] - adr[ i ][ j + 1])*sign < 0) {
@@ -194,11 +244,15 @@ void sortLinesMatrix(int n, int m, int (*adr)[20]) {
      }
 }
 
+// sorting lines with bubble sort without termporary variable,
+// just using XOR
 void sortLinesMatrix2(int n, int m, int (*adr)[20]) {
 
      int i,
 
 	 j,
+
+	 k = -1,
 
 	 swapped,
 
@@ -210,12 +264,15 @@ void sortLinesMatrix2(int n, int m, int (*adr)[20]) {
 
 	     else
 		   sign = 1;
+	 k = -1;
 
 	 do{
 
 	   swapped = 0;
 
-	   for(j = 0; j < m - 1; j++) {
+	   k++;
+
+	   for(j = 0; j < m - k - 1; j++) {
 
 
 	     if((adr[ i ][ j ] - adr[ i ][ j + 1])*sign < 0) {
@@ -238,5 +295,150 @@ void sortLinesMatrix2(int n, int m, int (*adr)[20]) {
 }
 
 
+void sortMainDiagonal(int n, int m, int (*adr)[20]) {
+
+	   int i,j;
+
+	   int *p;
+
+	   int aux[20];
+
+	   for(i = 0; i < n; i++) {
+
+	       for(j = 0; j < m; j++) {
+
+		   if(i == j) {
+
+		      aux[i] = adr[i][j];
+		   }
+
+	       }
+	   }
+
+	   p = insertionSort(aux, n);
+
+	   for(i = 0; i < n; i++) {
+
+	       for(j = 0; j < m; j++) {
+
+		   if(i == j) {
+
+		      adr[i][j] = p[i];
+		   }
+
+	       }
+	   }
 
 
+}
+
+int* insertionSort(int vec[30], int n) {
+
+
+     int i,
+
+	 j,
+
+	 li,
+
+	 ls,
+
+	 aux, middle;
+
+     for(i = 1; i < n; i++) {
+
+	 aux = vec[i];
+
+	 li = 0;
+
+	 ls = i-1;
+
+	 while(li <= ls) {
+
+	      middle = (li+ls)/2;
+
+	      if(aux < vec[ middle ]) {
+
+		     ls = middle - 1;
+
+	      } else {
+
+		     li = middle + 1;
+	      }
+	 }
+
+
+	 for(j=i-1;j>=li;j--) {
+
+	     vec[j+1] = vec[j];
+	 }
+
+	 vec[ li ] = aux;
+     }
+
+   return vec;
+}
+
+void sortSecondDiagonal(int n, int m, int (*adr)[20]) {
+
+	   int i,j;
+
+	   int *p;
+
+	   int aux[20];
+
+	   for(i = 0; i < n; i++) {
+
+	       for(j = 0; j < m; j++) {
+
+		   if(i == n - j - 1) {
+
+		      aux[i] = adr[i][j];
+		   }
+
+	       }
+	   }
+
+	   p = insertionSort2(aux, n);
+
+	   for(i = 0; i < n; i++) {
+
+	       for(j = 0; j < m; j++) {
+
+		   if(i == n - j - 1) {
+
+		      adr[i][j] = p[i];
+		   }
+
+	       }
+	   }
+
+
+}
+
+
+int* insertionSort2(int vec[30], int n) {
+
+
+     int i,
+
+	 j,
+
+	 aux;
+
+     for(i = 1; i < n; i++) {
+
+	 aux = vec[i];
+
+	 j = i - 1;
+
+	 while(j>=0 && aux < vec[j]) {
+
+	       vec[j+1] = vec[j--];
+	 }
+
+         vec[j+1] = aux;
+     }
+
+   return vec;
+}
