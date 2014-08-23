@@ -49,6 +49,92 @@ void displayMatrix(int n,int m, int (*adr)[10]) {
       }
 }
 
+void displayMainDiagonal(int n,int m, int (*mat)[10]) {
+
+      for(int i=0;i<n;i++) {
+
+	  for(int j=0;j<m;j++) {
+
+	    if(i == j) {
+
+	       cout<<mat[i][j]<<" ";
+	    }
+	  }
+      }
+}
+
+
+void displaySecondaryDiagonal(int n,int m, int (*mat)[10]) {
+
+      for(int i=0;i<n;i++) {
+
+	  for(int j=0;j<m;j++) {
+
+	    if(j == m - i - 1) {
+
+	       cout<<mat[i][j]<<" ";
+	    }
+	  }
+      }
+}
+
+void displayElementsAboveSecondaryDiagonal(int n,int m, int (*mat)[10]) {
+
+      for(int i = 0; i < n; i++) {
+
+	  for(int j = 0; j < m; j++) {
+
+	    if(j < m - i - 1) {
+
+	       cout<<mat[ i ][ j ]<<" ";
+	    }
+	  }
+      }
+}
+
+
+void displayElementsBellowSecondaryDiagonal(int n,int m, int (*mat)[10]) {
+
+      for(int i = 0; i < n; i++) {
+
+	  for(int j = 0; j < m; j++) {
+
+	    if(j > m - i - 1) {
+
+	       cout<<mat[i][j]<<" ";
+	    }
+	  }
+      }
+}
+
+void displayElementsAboveMainDiagonal(int n,int m, int (*mat)[10]) {
+
+      for(int i = 0; i < n; i++) {
+
+	  for(int j = 0; j < m; j++) {
+
+	    if(j > i) {
+
+	       cout<<mat[i][j]<<" ";
+	    }
+	  }
+      }
+}
+
+void displayElementsBellowMainDiagonal(int n,int m, int (*mat)[10]) {
+
+      for(int i = 0; i < n; i++) {
+
+	  for(int j = 0; j < m; j++) {
+
+	    if(j < i) {
+
+	       cout<<mat[i][j]<<" ";
+	    }
+	  }
+      }
+}
+
 
 void main() {
 
@@ -72,7 +158,7 @@ void main() {
 
      adr2 = (int(*)[10])readMatrix(n,m);
 
-     adr = (int(*)[10])sumMatrix(n,m,adr1,adr2);
+     adr = (int(*)[10])sumMatrix(n, m, adr1, adr2);
 
      cout<<"Display first matrix"<<"\n";
      displayMatrix(n,m,adr1);
@@ -83,6 +169,26 @@ void main() {
      cout<<"Sum:"<<"\n";
      displayMatrix(n,m,adr);
 
-     cout<<"Press any key for exit";
+     cout<<"\n"<<"Main Diagonal:"<<"\n\n";
+     displayMainDiagonal(n,m,adr);
+
+     cout<<"\n"<<"Secondary Diagonal:"<<"\n\n";
+     displaySecondaryDiagonal(n,m,adr);
+
+
+     cout<<"\n"<<"Elements above Secondary Diagonal"<<"\n\n";
+     displayElementsAboveSecondaryDiagonal(n,m,adr);
+
+     cout<<"\n"<<"Elements bellow Secondary Diagonal"<<"\n\n";
+     displayElementsBellowSecondaryDiagonal(n,m,adr);
+
+
+     cout<<"\n"<<"Elements above Main Diagonal"<<"\n\n";
+     displayElementsAboveMainDiagonal(n,m,adr);
+
+     cout<<"\n"<<"Elements bellow Main Diagonal"<<"\n\n";
+     displayElementsBellowMainDiagonal(n,m,adr);
+
+     cout<<"\n"<<"Press any key for exit";
      getch();
 }
