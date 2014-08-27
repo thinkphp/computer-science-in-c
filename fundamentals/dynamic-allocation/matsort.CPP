@@ -6,6 +6,8 @@ void* readMatrix(int n,int m);
 void displayMatrix(int n,int m,int (*adr)[20]);
 void sortColsMatrix(int n,int m, int (*adr)[20]);
 void sortColsMatrix2(int n,int m, int (*adr)[20]);
+void sortLinesMatrix(int n,int m, int (*adr)[20]);
+void sortLinesMatrix2(int n,int m, int (*adr)[20]);
 
 void main() {
 
@@ -30,10 +32,10 @@ void main() {
      //display the matrix
      displayMatrix(n,m,adr);
 
-     //sort cols matrix
+     //sorted cols matrix
      cout<<"\nSort col matrix\n";
 
-     sortColsMatrix2(n,m,adr);
+     sortLinesMatrix2(n,m,adr);
 
      //dislpay sorted cols matrix
      displayMatrix(n,m,adr);
@@ -138,18 +140,103 @@ void sortColsMatrix2(int n,int m,int (*adr)[20]) {
 
 			 adr[ j ][ i ] = adr[ j + 1 ][ i ];
 
-			 adr[ j + 1][ i ] = temp;
+			 adr[ j + 1 ][ i ] = temp;
 
 			 swapped = 1;
 
 		 }
 	  }
 
-         }while(swapped);
+	 }while(swapped);
      }
-
-
 }
+
+void sortLinesMatrix(int n, int m, int (*adr)[20]) {
+
+     int i,
+
+	 j,
+
+	 swapped,
+
+	 sign;
+
+     for(i = 0; i < n; i++) {
+
+	 if( i&1 ) sign = -1;
+
+	     else
+		   sign = 1;
+
+	 do{
+
+	   swapped = 0;
+
+	   for(j = 0; j < m - 1; j++) {
+
+
+	     if((adr[ i ][ j ] - adr[ i ][ j + 1])*sign < 0) {
+
+
+		 int temp = adr[i][j];
+
+		     adr[i][j] = adr[i][j+1];
+
+		     adr[i][j+1] = temp;
+
+		     swapped = 1;
+	     }
+
+	   }
+
+	 }while(swapped);
+
+     }
+}
+
+void sortLinesMatrix2(int n, int m, int (*adr)[20]) {
+
+     int i,
+
+	 j,
+
+	 swapped,
+
+	 sign;
+
+     for(i = 0; i < n; i++) {
+
+	 if( i&1 ) sign = -1;
+
+	     else
+		   sign = 1;
+
+	 do{
+
+	   swapped = 0;
+
+	   for(j = 0; j < m - 1; j++) {
+
+
+	     if((adr[ i ][ j ] - adr[ i ][ j + 1])*sign < 0) {
+
+
+		 int xor = adr[i][j]^adr[i][j+1];
+
+		     adr[i][j] = xor^adr[i][j];
+
+		     adr[i][j+1] = xor^adr[i][j+1];
+
+		     swapped = 1;
+	     }
+
+	   }
+
+	 }while(swapped);
+
+     }
+}
+
 
 
 
