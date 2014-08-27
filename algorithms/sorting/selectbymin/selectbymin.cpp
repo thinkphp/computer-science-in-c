@@ -77,8 +77,12 @@ void sort() {
 		posMin = j;
 
 	     }
+
 	 }
 
+       v[posMin] = v[i];
+
+       v[i] = min;
 
      }
 
