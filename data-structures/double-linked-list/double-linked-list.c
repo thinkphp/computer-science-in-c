@@ -227,7 +227,26 @@ void delete(int node) {
 
         free( removal );    
 
+     } else if(last->info == node) {
+
+        removal = last;
+        last = last->prev;
+        last->next = NULL;
+
+        free( removal ); 
+
+     } else {
+
+        c = first;
+
+        while(c->info != node) c = c->next;
+        
+        c->prev->next = c->next;
+        c->next->prev = c->prev;           
+         
+        free(c); 
      }
+ 
 
 };
 
