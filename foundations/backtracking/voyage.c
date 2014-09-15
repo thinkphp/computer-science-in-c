@@ -1,3 +1,6 @@
+/*
+ * Backtracking for Salesman.
+ */
 #include <stdio.h>
 #define MAX 20
 
@@ -15,12 +18,18 @@ int level;
 
 int stack[ MAX ];
 
-int mat[MAX][MAX];
+int mat[ MAX ][ MAX ];
 int num_nodes,num_edges;
 
 int main() {
 
     read(); 
+    matrix();
+
+    level = 1;
+    stack[level] = 1;
+
+    level = 2;//go 
     back();
 
     return(0);
@@ -31,7 +40,6 @@ void back() {
 
      int HS;
 
-     level = 1;
      init();
 
      while(level > 0) {
@@ -61,7 +69,7 @@ void back() {
 
 void init() {
 
-     stack[level] = 0;      
+     stack[ level ] = 0;      
 };
 
 int solution() {
@@ -73,31 +81,33 @@ void printSolution() {
 
      int i;
 
-     for(i=1;i<=num_nodes;i++) printf("%d ", stack[i]);
+     for(i = 1; i <= num_nodes; i++) printf("%d ", stack[i]);
 
      printf("\n");
 };
 
 int isValid() {
+
     int i;
-    if(mat[level-1][level] == 0) return 0;
 
-    else {
+    if(mat[ stack[ level - 1 ] ][ stack[ level ] ] == 0) return 0;
 
-         for(i=1;i<level;i++) 
-             if(stack[i] == stack[level]) return 0;
+    else 
 
-         if(level == num_nodes && !mat[level][num_nodes]) return 0;  
-    }    
+         for(i = 1; i < level; i++) 
 
+             if(stack[ i ] == stack[ level ]) return 0;
 
+         if(level == num_nodes && !mat[1][ stack[ level ] ]) return 0;  
+    
     return 1;
 };
 
 int has_next() {
 
-    if(stack[level]<num_nodes) {
-       stack[level]++;
+    if(stack[ level ] < num_nodes) {
+       stack[ level ]++;
+
        return 1; 
     }
     return 0;
