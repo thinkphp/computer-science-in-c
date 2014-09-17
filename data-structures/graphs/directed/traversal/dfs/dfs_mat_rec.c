@@ -2,7 +2,7 @@
  * 
  *  @ Depth First Search 
  *
- *  @ Graph -> Matrix of Adjacency -> iterative
+ *  @ Graph -> Matrix of Adjacency -> recursive
  *
  *  @ author Adrian Statescu <mergesortv@gmail.com> <http://thinkphp>
  *
@@ -11,8 +11,8 @@
  */
 #include <stdio.h>
 #define MAX 1000
-#define FIN "bfs.in"
-#define FOUT "bfs.out"
+#define FIN "dfs.in"
+#define FOUT "dfs.out"
 
 FILE *fin, *fout;
 
@@ -76,7 +76,6 @@ void DFS( node ) {
 
          if(matrix_of_adjacency[ node ][ i ] == 1 && !visited[i]) {
 
-
                       visited[i] = 1;
 
                       DFS( i ); 
@@ -84,7 +83,7 @@ void DFS( node ) {
 
      }           
 
-     sol[++sol[0]] = node;
+     sol[ ++sol[ 0 ] ] = node;
 
 };
 
@@ -98,8 +97,7 @@ void DFS2( node ) {
 
      for(i = 1; i <= num_nodes; i++) {
 
-         if(matrix_of_adjacency[ node ][ i ] == 1 && !visited[i]) {
-
+         if(matrix_of_adjacency[ node ][ i ] == 1 && !visited[ i ]) {
 
                       visited[i] = 1;
 
@@ -137,5 +135,11 @@ void displaySol2() {
 
     int j;  
 
-    for(j = 1; j <= sol[0]; j++) printf("%d ", sol[j]);
+    fout = fopen(FOUT, "w");
+
+    printf("Depth First Search -> ");
+
+    fprintf(fout, "Depth First Search -> ");
+
+    for(j = 1; j <= sol[0]; j++) printf("%d ", sol[j]), fprintf(fout, "%d ", sol[j]);
 }

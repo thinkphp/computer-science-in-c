@@ -2,51 +2,49 @@
  * 
  *  @ Depth First Search 
  *
- *  @ Graph -> Matrix of Adjacency -> recursion
+ *  @ Graph -> Matrix of Adjacency -> iterative version
  *
  *  @ author Adrian Statescu <mergesortv@gmail.com> <http://thinkphp>
  *
- *  @ Compiler -> C 
+ *  @ Compiler -> GNU C gcc dfs_mat_it.c -o d.exe
  *
  */
 #include <stdio.h>
 #define MAX 1000
-#define FIN "bfs.in"
-#define FOUT "bfs.out"
+#define FIN "dfs.in"
+#define FOUT "dfs.out"
 
 FILE *fin, *fout;
 
-int num_nodes, num_arcs;
+int num_nodes, 
+    num_arcs;
 
-int matrix_of_adjacency[ MAX ][ MAX ];
-int Queue[ MAX ];
-int visited[ MAX ];
-
-int first_index, 
-    last_index;
-
-
+int matrix_of_adjacency[ MAX ][ MAX ], 
+    visited[ MAX ], 
+    sol[ MAX ], 
+    stack[ MAX ],
+    start_node;
 
 //function prototype
 void readGraph();
-void BFS();
+void DFS();
 void displayMatrixAdjacency();
-void displayQueue();
+void displaySol();
 
 int main() {
 
+    int j;
+
+    int start_node = 1;
+
     readGraph();
-    displayMatrixAdjacency();
 
-     first_index = 1;
-      last_index = 1;
-      visited [ first_index ] = 1;
-      Queue[ first_index ] = 1;
+    displayMatrixAdjacency(); 
 
-    BFS();
+    DFS();
 
-    displayQueue();
-
+    displaySol();
+   
     return(0);
 };
 
@@ -68,28 +66,52 @@ void readGraph() {
      fclose( fin ); 
 };
 
-void BFS() {
+void DFS() {
 
-      int node, i;
-   
-      if(first_index <= last_index) {
+    int _index,
+        node,
+        found,
+        i;
 
-           node = Queue[ first_index ];
+    start_node = 1;
 
-           for(i = 1; i <= num_nodes; i++) {
+    _index = 0;
 
-                   if(matrix_of_adjacency[ node ][ i ] == 1 && !visited[ i ]) {
+    visited[ start_node ] = 1;
 
-                            visited[ i ] = 1;
+    stack[ _index ] = 1; 
+ 
+    sol[++sol[0]] = _index + 1;  
 
-                            Queue[ ++last_index ] = i;
-                   } 
-           }   
-          
-           first_index++;  
+    while( _index >= 0) {
 
-           BFS();
-     }
+           node = stack[ _index ]; 
+
+           found = 0;
+
+           for(i = 1; i <= num_nodes && !found; i++)
+                  
+                   if(matrix_of_adjacency[ node ][ i ] == 1 && !visited[ i ])
+
+                      found = 1;
+
+           if( found ) {
+        
+              //we take i-1 because i was i + 1
+              sol[++sol[0]] = i - 1;
+
+              //we take i-1 because i was i + 1
+              visited[ i - 1] = 1;
+
+              //we take i-1 because i was i + 1
+              stack[++_index] = i - 1;
+
+           } else {
+
+             _index--;
+
+           }
+    }   
 };
 
 void displayMatrixAdjacency() {
@@ -107,13 +129,19 @@ void displayMatrixAdjacency() {
      }   
 }
 
-void displayQueue() {
+void displaySol() {
 
-     int j;  
+    int j;  
 
-     for(j = 1; j <= num_nodes; j++) {
+    fout = fopen(FOUT, "w");
 
-             printf("%d ", Queue[ j ]);
-     }   
+    printf("DFS -> "); 
 
+    fprintf(fout, "Depth First Search -> "); 
+   
+    for(j = 1; j <= sol[0]; j++) 
+
+            printf("%d ", sol[ j ]), fprintf(fout, "%d ", sol[ j ]);
+
+    fclose( fout );
 }
