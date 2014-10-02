@@ -59,7 +59,7 @@ void write(uint *p, uint n) {
 
      for(uint i = 0; i < n; ++i) fout<<p[ i ]<<" ";
 
-     fout.close(); 
+     fout.close();
 };
 
 int main() {
