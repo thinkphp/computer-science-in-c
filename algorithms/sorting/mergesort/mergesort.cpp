@@ -111,7 +111,6 @@ void _merge(int li, int middle, int ls) {
      int x[30], k = 0;
 
 
-
      while(i <= middle && j <= ls) {
 
 	   if(v[i]<v[j]) {
