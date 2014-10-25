@@ -12,7 +12,9 @@ int N,
 void _minHeap(int node, int N) {
 
      int val = arr[ node ], 
+
          base = 2 * node,
+
          ready = 0; 
 
      while(base <= N && !ready) {
@@ -87,7 +89,9 @@ int main() {
     int i;
 
     read();
+
     HeapSort();
+
     write();
  
     return(0);

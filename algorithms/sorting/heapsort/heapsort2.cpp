@@ -67,6 +67,7 @@ void down(int node) {
 void insert(int elem) {
 
          heap[++sizeHeap] = elem;
+
          up( sizeHeap );  
 };
 
@@ -75,7 +76,9 @@ int removeFromHeap() {
      int val;
 
      val = heap[1];
+
      heap[1] = heap[sizeHeap--]; 
+
      down(1);
 
      return val;
@@ -84,6 +87,7 @@ int removeFromHeap() {
 void read() {
 
      FILE *fin = fopen(FIN, "r");
+
      int elem;
 
      fscanf(fin, "%d", &n);
@@ -91,6 +95,7 @@ void read() {
      for(int i = 0; i < n; i++ ) {
 
          fscanf(fin, "%d", &elem);
+
          insert( elem );
      } 
 
