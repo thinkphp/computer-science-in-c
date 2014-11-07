@@ -35,7 +35,9 @@ class Sort {
            for(int i = 0; i < n; i++ ) {
 
                fin>>arr[ i ]; 
-           }  
+           }
+
+           fin.close();
       };
 
       void cocktail() {
@@ -88,6 +90,7 @@ class Sort {
                fout<<arr[ i ]<<" "; 
            }  
 
+           fout.close();
       };
 
       private:
