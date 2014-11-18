@@ -34,7 +34,9 @@ void write() {
 void oddeven() {
  
      int swap = 0,
+
          aux,
+
          i;
  
      while( !swap ) {
