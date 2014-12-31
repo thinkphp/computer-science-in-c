@@ -1,4 +1,4 @@
-# QuickSort c/c++
+# QuickSort C/C++
 
 * Charles Antony Richard Hoare, commonly known as Tony Hoare, He Developed the Sorting Algorithm QuickSort.
 
