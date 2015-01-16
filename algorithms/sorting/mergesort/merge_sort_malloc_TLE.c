@@ -5,7 +5,6 @@
 #include <malloc.h>
 #define FIN "algsort.in"
 #define FOUT "algsort.out"
-#define integer int
 #define nothing void
 
 typedef unsigned int uint;
@@ -13,12 +12,12 @@ typedef unsigned int uint;
 nothing read();
 nothing display();
 nothing sort();
-nothing _mergesort(int, int);
+nothing _mergesort(uint, uint);
 
 uint *arr,
       size;
 
-integer main() {
+int main() {
 
   read(); 
   sort();
@@ -56,7 +55,7 @@ nothing display() {
 
 };
 
-nothing _mergesort(int left, int right) {
+nothing _mergesort(uint left, uint right) {
 
     if(right == left) return;
 
@@ -74,29 +73,34 @@ nothing _mergesort(int left, int right) {
 
                k,
 
+               //I Get Time limit exceeded!!!
                *temp;
 
-          temp = (uint*)malloc(sizeof(uint) * (right - left + 1));
+               //No Time limit exceeded!!!
+               //temp[ right + 1 ];
 
-          for(i = left; i <= right; i++) temp[ i - left ] = arr[ i ]; 
+          temp = ( uint* ) malloc(sizeof( uint ) * ( right + 1 ));
 
-          for(i = k = left, j = middle + 1; i <= middle && j <= right;) 
+          for(i = left; i <= right; i++) temp[ i ] = arr[ i ];           
 
-              if(temp[ i - left ] < temp[ j - left ]) arr[ k++ ] = temp[ i++ - left ];
+          for(i = k = left, j = middle + 1; i <= middle && j <= right;) {
 
-                                                 else
+              if(temp[ i ] < temp[ j ]) arr[ k++ ] = temp[ i++ ];
 
-                                                       arr[ k++ ] = temp[ j++ - left ];
+                                    else
+
+                                         arr[ k++ ] = temp[ j++ ];
+         }
+
           while( i <= middle )
 
-            arr[ k++ ] = temp[ i++ - left ];       
+            arr[ k++ ] = temp[ i++ ];       
           
-
           while( j <= right )
 
-            arr[ k++ ] = temp[ j++ - left ];
+            arr[ k++ ] = temp[ j++ ];
 
-          free( temp );
+          free( temp );  
     } 
 };
 

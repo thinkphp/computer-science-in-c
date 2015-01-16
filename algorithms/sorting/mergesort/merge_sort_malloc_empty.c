@@ -1,19 +1,23 @@
 /**
- * Merge Sort in C Language.
+ * Filename    : mergesort.c
+ * Description : Merge Sort in C Language.
+ * License     : MIT
+ * Compile     : gcc mergesort.c -o merge
  */
+
 #include <stdio.h>
 #include <malloc.h>
 #define FIN "algsort.in"
 #define FOUT "algsort.out"
 #define integer int
-#define nothing void
+#define empty_set void
 
 typedef unsigned int uint;
 
-nothing read();
-nothing display();
-nothing sort();
-nothing _mergesort(int, int);
+empty_set read();
+empty_set display();
+empty_set sort();
+empty_set _mergesort(int, int);
 
 uint *arr,
       size;
@@ -27,7 +31,7 @@ integer main() {
   return(0);
 };
 
-nothing read() {
+empty_set read() {
 
   uint i;
 
@@ -42,7 +46,7 @@ nothing read() {
   fclose( stdin );
 };
 
-nothing display() {
+empty_set display() {
 
   uint i;
 
@@ -56,11 +60,9 @@ nothing display() {
 
 };
 
-nothing _mergesort(int left, int right) {
+empty_set _mergesort(int left, int right) {
 
-    if(right == left) return;
-
-    else {
+     if(right > left) {
 
          uint middle = (left + right) >> 1;
 
@@ -76,17 +78,17 @@ nothing _mergesort(int left, int right) {
 
                *temp;
 
-          temp = (uint*)malloc(sizeof(uint) * (right - left + 1));
+          temp = ( uint* ) malloc( sizeof( uint ) * ( right - left + 1 ) );
 
           for(i = left; i <= right; i++) temp[ i - left ] = arr[ i ]; 
 
-          for(i = k = left, j = middle + 1; i <= middle && j <= right;) 
+          for( i = k = left, j = middle + 1; i <= middle && j <= right; k++ ) 
 
-              if(temp[ i - left ] < temp[ j - left ]) arr[ k++ ] = temp[ i++ - left ];
+              if(temp[ i - left ] < temp[ j - left ]) arr[ k ] = temp[ i++ - left ];
 
                                                  else
 
-                                                       arr[ k++ ] = temp[ j++ - left ];
+                                                       arr[ k ] = temp[ j++ - left ];
           while( i <= middle )
 
             arr[ k++ ] = temp[ i++ - left ];       
@@ -100,7 +102,7 @@ nothing _mergesort(int left, int right) {
     } 
 };
 
-nothing sort() {
+empty_set sort() {
 
      _mergesort(0, size - 1); 
 };
