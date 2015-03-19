@@ -1,9 +1,8 @@
 #include <cstdio>
 #include <fstream>
 #include <vector>
-#define FIN "perm.class.in"
-#define FOUT "perm.class.out"
-#define DIM 50
+#define FIN "permutari.in"
+#define FOUT "permutari.out"
 
 using namespace std;
 
@@ -51,7 +50,9 @@ void init() {
 
 void back() {
 
-     int HN;
+   int HN;
+ 
+   init();
 
    while(level > 0) {   
 
@@ -81,12 +82,6 @@ void back() {
 void gen() {
 
      level = 1;
- 
-     Stack[ level ] = 1;
-
-     level = 2;
-
-     init();
 
      back(); 
 }   
@@ -96,7 +91,8 @@ vector<int> vec,
             Stack;
 int    N,
     level; 
-};
+
+};//end class
 
 int main() {
 
@@ -106,12 +102,10 @@ int main() {
  freopen(FOUT, "w", stdout);
 
  in>>n;
-
  in.close();
 
  Permut p(n);
         p.gen();
-
   
  fclose( stdout );
 
