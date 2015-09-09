@@ -4,13 +4,15 @@
   incrementally builds candidates to the solutions, and abandons each partial candidate c as soon as it determines that c cannot
   possibly be candidate to a valid solution.
 
-# Hamilton
-# Map
-# Permutations
-# Cartesian
-# Combinations
-# Arrangements
-# Eight Qeens Puzzle
+## Applications
+
+* Hamilton
+* Map
+* Permutations
+* Cartesian
+* Combinations
+* Arrangements
+* Eight Qeens Puzzle
 
 ## Referecens
 
