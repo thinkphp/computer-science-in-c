@@ -16,4 +16,6 @@
 
 ## Referecens
 
-    Donald E. Knuth (1968). https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming . Addison-Wesley.
+    Donald E. Knuth (1968). The Art of Computer Programming. Addison-Wesley.
+
+    * https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming 
