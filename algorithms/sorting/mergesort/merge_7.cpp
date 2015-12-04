@@ -96,8 +96,7 @@ class Container {
 
 int main() {
 
-    int n, 
-        elem;
+    int n;
 
     ifstream fin( FIN );
 
