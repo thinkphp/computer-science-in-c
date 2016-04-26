@@ -40,11 +40,12 @@ void printout(struct Node *node) {
 
 void postorder(struct Node *node) {
 
+
+     if(node->left) printout(node->left);
+
      if(node->right) printout(node->right); 
 
      printf("%d ", node->val);  
-
-     if(node->left) printout(node->left);
    
 }
 
