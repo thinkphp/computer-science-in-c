@@ -56,6 +56,8 @@ void write(){
 
      for(i = 0; i < (int)n; ++i) fprintf(fout, "%d ", arr[i]);
 
+     free(arr); 
+
      fclose( fout ); 
 }
 
