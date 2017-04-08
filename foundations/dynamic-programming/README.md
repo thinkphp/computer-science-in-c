@@ -18,3 +18,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 2. Recursively define the value of an optimal solution.
 3. Compute the value of an optimal solution, typically in a bottom-up fashion.
 4. Construct an optimal solution from computed information.
+
+
+### Problems:
+
+1. Longest Increasing Subsequence.
