@@ -23,3 +23,5 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 ### Problems:
 
 1. Longest Increasing Subsequence.
+2. Knapsack Problem.
+3. Match Words.
