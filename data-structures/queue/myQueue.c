@@ -111,8 +111,9 @@ int main() {
     push(&Rear,5);   
     push(&Rear,6);   
     push(&Rear,7);   
-/*
+
     displayQueue(Front);
+
     pop();
     pop();
     pop();
@@ -120,11 +121,11 @@ int main() {
     displayQueue(Front);
     printf("Front -> %d\n",front());
     printf("Rear -> %d\n",back());
-*/
+
     while(!isEmpty(Front)) {
-         printf("%d ", Front->data);
+
+         printf("%d ", front());
          pop();
     }
-
 
 }
