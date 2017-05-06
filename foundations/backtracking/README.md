@@ -14,7 +14,7 @@
 6.  Subsets
 7.  Partitions
 8.  Product Cartesian
-9   Functions Surjective
+9.  Functions Surjective
 10. Functions Injective
 11. Maze
 12. Knight's Tour
