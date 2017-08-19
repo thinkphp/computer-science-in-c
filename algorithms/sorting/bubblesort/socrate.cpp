@@ -11,7 +11,7 @@ class Container {
       public:
       Container(vector<int> _arr):vec(_arr){n = vec.size();}
 
-      void sorted() {
+      void sorted2() {
 
            int swapped = 1; 
             for(int i = 0; i < n - 1 && swapped; ++i) {
@@ -28,7 +28,7 @@ class Container {
       }; 
 
 
-      void sorted2() {
+      void sorted1() {
 
            int swapped = 1; 
             for(int i = n-1; i >= 1 && swapped; --i) {
@@ -44,7 +44,7 @@ class Container {
            }          
       }; 
 
-      void sorted1() {
+      void sorted() {
 
            int i,
                finished = 0,
@@ -64,6 +64,52 @@ class Container {
                       if(swapped) last--;
                             else  finished = 1;
                }  
+                  
+      }; 
+
+      void sorted3() {
+
+           for(int i = 0; i < n - 1; ++i) {
+
+               for(int j = i + 1; j < n; j++) {
+
+                   if(vec[i] > vec[j]) {
+
+                      vec[i] = vec[i] + vec[j];
+                      vec[j] = vec[i] - vec[j];
+                      vec[i] = vec[i] - vec[j];  
+                   }
+               }
+           } 
+           
+      }; 
+
+
+      void sorted4() {
+
+           int i,
+
+               swapped,
+
+               last = n - 1;
+ 
+                do {
+                      swapped = 0;
+
+                      for(i = 0; i < last; ++i) {
+
+                          if(vec[i]>vec[i+1]) {
+
+                             int tmp = vec[i];
+                                 vec[i] = vec[i+1];
+                                 vec[i+1] = tmp;
+                                 swapped = 1;
+                          }
+                      } 
+       
+                      if( swapped ) last--;
+
+                 } while(swapped);
                   
       }; 
 
@@ -90,7 +136,7 @@ int main() {
     fin>>n;
     for(int i = 0; i < n; ++i) fin>>item, arr.push_back(item);
     Container container( arr );
-    container.sorted();
+    container.sorted3();
     container.print(); 
     return(0);
 };
