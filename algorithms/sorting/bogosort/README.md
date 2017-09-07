@@ -1,6 +1,7 @@
 BogoSort
 --------
 
+## Reference
 https://en.wikipedia.org/wiki/Bogosort
 
 1. Worst-case O(n+1)!
