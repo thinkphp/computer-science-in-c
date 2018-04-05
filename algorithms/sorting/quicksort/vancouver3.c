@@ -18,11 +18,11 @@ void _quicksort(int *p, int lo, int hi) {
                     i++;
                     j--;
            } 
+     } 
 
            if(lo<j) _quicksort(p, lo, j);
 
            if(hi>i) _quicksort(p, i, hi);
-     } 
 
 }
 
@@ -37,7 +37,7 @@ int main() {
     const char *fin = "algsort.in";
     const char *fout = "algsort.out";
 
-    int v[50005],
+    int v[ 500005 ],
         n,
         i;   
 
