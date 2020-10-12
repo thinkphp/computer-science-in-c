@@ -31,7 +31,7 @@ void read(const char *filename) {
 
      fin = fopen(filename, "r");
 
-     fscanf(fin, "%d %d", &n); 
+     fscanf(fin, "%d", &n); 
 
      fclose(fin);
 };
