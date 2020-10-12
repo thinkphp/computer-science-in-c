@@ -111,7 +111,6 @@ void printSolution(const char *filename) {
 
 int have_next() {
 
-    //because we have four colors
     if(stack[level] < n) {
        stack[level]++; 
        return 1; 
