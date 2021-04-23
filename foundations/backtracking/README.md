@@ -25,3 +25,7 @@
    Donald E. Knuth (1968). The Art of Computer Programming. Addison-Wesley.
 
     * https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming 
+
+## Knight Puzzle
+
+https://ideone.com/O6UMvb
