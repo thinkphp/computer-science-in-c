@@ -4,3 +4,4 @@
   * Pow in logN Complexity time and O(1) space https://ideone.com/Mygt0h
   * Factorial with Tail Recursion https://ideone.com/gvuZfa 
   * Sorting Without Comparison https://ideone.com/KZ08vi
+  * Quadratic Equation Roots https://ideone.com/ct57BL
