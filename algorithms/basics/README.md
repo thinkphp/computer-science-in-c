@@ -7,3 +7,4 @@
   * Quadratic Equation Roots https://ideone.com/ct57BL
   * Derivates of Polynomial https://ideone.com/8laBGu in C
   * Derivates of Polynomial https://ideone.com/dDO9F8 in Python 3
+  * Check Order Array (4 variants: strict ascending, strict descending, constant, unordered) https://ideone.com/AHg7gj
