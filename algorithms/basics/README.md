@@ -9,3 +9,4 @@
   * Derivates of Polynomial https://ideone.com/dDO9F8 in Python 3
   * Check Order Array (4 variants: strict ascending, strict descending, constant, unordered) https://ideone.com/AHg7gj
   * Find Kth Permutation https://ideone.com/yUjSng
+  * Isosceles Triangle - https://replit.com/@thinkphp/IsoscelTriangle
