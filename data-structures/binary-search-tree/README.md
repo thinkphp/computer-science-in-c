@@ -7,3 +7,4 @@
 ## mplementations
 
 * https://ideone.com/a7UJXh
+* https://ideone.com/tdjjGu
