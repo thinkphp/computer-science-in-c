@@ -9,7 +9,7 @@
    - display(head)
    - insertAfterNode(head,key,value)
    - insertBeforeNode(head,key,value)
-   - sort(head
+   - sort(arr, n)
  */
 
 typedef struct Node {
