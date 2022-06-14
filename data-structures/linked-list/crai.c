@@ -35,6 +35,8 @@ Node *add(Node *head, int val) {
         newNode->next = head;
         head = newNode;
      }
+   
+   return head;
 }
 
 Node *removeNode(Node *head, int key) {
