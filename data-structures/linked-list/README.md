@@ -7,4 +7,5 @@ the simplest form, each node is composed of data and a reference(in other words 
 
 ## Implementations:
 
-https://ideone.com/RdLnGW
+* https://ideone.com/RdLnGW
+* https://ideone.com/DqIkSZ
