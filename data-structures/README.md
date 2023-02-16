@@ -1,1 +1,1 @@
-# Data Structures + Algorithms = Programs
+# Data Structures + Algorithm = Program
