@@ -11,3 +11,4 @@
   * Check Order Array (4 variants: strict ascending, strict descending, constant, unordered) https://ideone.com/AHg7gj
   * Find Kth Permutation https://ideone.com/yUjSng
   * Isosceles Triangle - https://replit.com/@thinkphp/IsoscelTriangle
+  * Search Max Consecutive Subsequence https://ideone.com/Olt3mO
