@@ -28,3 +28,6 @@ while (not finished) execute
    SOL <-- Sol U {x}
 END
 ```
+## Problems:
+
+1. Fractional Knapsack Problem  https://ideone.com/oaoo2H
