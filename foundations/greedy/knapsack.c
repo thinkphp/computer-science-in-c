@@ -99,9 +99,32 @@ int main(int argc, char const *argv[]) {
 
   bubblesort( arr, count, ascending );
 
-  for(int i = 0; i < count; i++) {
+  int i = 0;
 
-      printf("%d: %.4f %.4f\n", arr[i].index,arr[i].weight, arr[i].value);
+  while(capacity>0) {
+
+    if(arr[i].weight < capacity) {
+
+      capacity -= arr[i].weight;
+
+      i++;
+
+    } else {
+
+      capacity = -capacity;
+    }
+  }
+  
+  printf("%f\n", capacity);
+
+  for(int j = 0; j < i; j++) {
+
+      printf("%d: %.4f %.4f completed object\n", arr[j].index,arr[j].weight, arr[j].value);
+  }
+
+  if(capacity<0) {
+
+     printf("%d: %.4f %.4f fractional object %f\n", arr[i].index,arr[i].weight, arr[i].value, capacity);
   }
 
   return 0;
