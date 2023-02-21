@@ -17,6 +17,8 @@ Aceasta metoda se aseamana cu Backtracking prin faptul ca vectorul-solutie se
 construieste progresiv, dar nu se mai executa o intoarcere la nivelul inferior(ceea ce
 explica si diferenta enorma de timp de executie relativ la cele doua metode), ci se
 trece la alegerea directa a urmatorului element.
+
+```
 S1 <--- S
 SOL <--- VOID
 while (not finished) execute
@@ -24,4 +26,5 @@ while (not finished) execute
    S1 <-- S1 U {x}
    IF SOL U {x} satisfacted the criteria Then
    SOL <-- Sol U {x}
-END   
+END
+```
