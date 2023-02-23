@@ -31,3 +31,4 @@ END
 ## Problems:
 
 1. Fractional Knapsack Problem  https://ideone.com/oaoo2H
+2. Maps Coloring https://ideone.com/IJ88Fb
