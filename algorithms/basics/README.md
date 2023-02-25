@@ -12,3 +12,4 @@
   * Find Kth Permutation https://ideone.com/yUjSng
   * Isosceles Triangle - https://replit.com/@thinkphp/IsoscelTriangle
   * Search Max Consecutive Subsequence https://ideone.com/Olt3mO
+  * Distance From Point to Line https://ideone.com/U8Yhvu
