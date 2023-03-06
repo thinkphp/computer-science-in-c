@@ -13,3 +13,4 @@
   * Isosceles Triangle - https://replit.com/@thinkphp/IsoscelTriangle
   * Search Max Consecutive Subsequence https://ideone.com/Olt3mO
   * Distance From Point to Line https://ideone.com/U8Yhvu
+  * Conversion Hexadecimal to Decimal Greatest Common Divisor Array https://ideone.com/dXh1IW
