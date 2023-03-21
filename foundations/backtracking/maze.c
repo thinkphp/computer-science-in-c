@@ -9,54 +9,55 @@ int maze[DIM][DIM], stack[DIM*DIM][3],
 int explored(int level, int r, int c) {
 
     for(int i = 1; i <= level-1; i++) {
-      if(stack[i][0] && stack[i][1] == c)
-      return 0;
+
+      if(stack[i][0] == r && stack[i][1] == c)
+
+      return 1;
     }
-    return 1;
+    return 0;
 }
 
 void print_solution(int level) {
-  
+
      for(int i = 1; i <= level - 1; ++i) {
-       
+
        printf("[%d,%d]\n", stack[i][0], stack[i][1]);
      }
+     printf("\n");
 }
 
 void solve(int Level,int Row, int Column) {
 
   if(maze[Row][Column] == 16) {
+
     print_solution(Level);
   } else {
+
     stack[Level][0] = Row;
     stack[Level][1] = Column;
+
   }
 
   for(int i = 1; i <= 4; ++i) {
     switch (i) {
       case 1:
-      if(maze[Row][Column] & 8 && !explored(Level, Row-1, Column) == 0) {
+      if(maze[Row][Column] & 8 && !explored(Level, Row-1, Column))
          solve(Level+1, Row - 1, Column);
-      }
       break;
       case 2:
-      if(maze[Row][Column] & 4 && !explored(Level, Row, Column+1) == 0) {
+      if(maze[Row][Column] & 4 && !explored(Level, Row, Column+1))
          solve(Level+1, Row, Column + 1);
-      }
       break;
       case 3:
-      if(maze[Row][Column] & 2 && !explored(Level, Row+1, Column) == 0) {
+      if(maze[Row][Column] & 2 && !explored(Level, Row+1, Column))
          solve(Level+1, Row+1, Column);
-      }
       break;
       case 4:
-      if(maze[Row][Column] & 1 && !explored(Level, Row, Column - 1) == 0) {
+      if(maze[Row][Column] & 1 && !explored(Level, Row, Column - 1))
          solve(Level+1, Row, Column - 1);
-      }
-      break;
+         break;
     }
   }
-
 }
 
 int main(int argc, char const *argv[]) {
