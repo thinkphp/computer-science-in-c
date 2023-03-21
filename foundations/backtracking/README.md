@@ -26,6 +26,10 @@
 
     * https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming 
 
-## Knight Puzzle
+## Knight's Tour
 
 https://ideone.com/O6UMvb
+
+## Maze
+
+https://ideone.com/aLNCQg
