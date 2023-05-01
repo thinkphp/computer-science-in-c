@@ -7,12 +7,12 @@
 ## Applications
 
 1.  Permutations
-2.  Arrangements
-3.  Combinations
-4.  Hamilton
-5.  Map Color
-6.  Subsets
-7.  Partitions
+2.  Partitions https://ideone.com/7nXCoW
+3.  Arrangements
+4.  Combinations
+5.  Hamilton
+6.  Map Color
+7.  Subsets
 8.  Product Cartesian
 9.  Functions Surjective
 10. Functions Injective
