@@ -3,7 +3,18 @@
 
 int stack[SIZE],
     level,
-    n; 
+    n;
+
+int getMax(int level) {
+
+  int max = 0;
+  for (size_t i = 1; i < level; i++) {
+      if(stack[i]>max) {
+        max = stack[i];
+      }
+  }
+  return max;
+}
 
 int init() {
 
@@ -12,7 +23,7 @@ int init() {
 
 int successor() {
 
-    if(stack[level] < stack[level-1] + 1) {
+    if(stack[level] < getMax(level) + 1) {
 
        stack[level]++;
 
@@ -28,7 +39,7 @@ int valid() {
 
 int solution() {
 
-    return level == n; 
+    return level == n;
 };
 
 void print() {
@@ -38,11 +49,11 @@ void print() {
     for(i = 2; i <= n; i++) {
 
         if(stack[i] > max) max = stack[i];
-    } 
+    }
 
     for(j = 1; j <= max; j++) {
 
-        printf("{");
+        printf("{ ");
 
         for(i = 1; i <= n; i++) {
 
@@ -50,7 +61,7 @@ void print() {
 
                 printf("%d ", i);
             }
-        }       
+        }
         printf("},");
     }
 
@@ -67,17 +78,17 @@ void back() {
 
      while(level > 0) {
 
-           hs = 1; is = 0; 
+           hs = 1; is = 0;
 
            while(hs && !is) {
 
- 
+
                  hs = successor();
 
                  if( hs ) {
 
                      is = valid();
-                 }               
+                 }
            }
 
            if( hs ) {
@@ -87,18 +98,18 @@ void back() {
                      else  {level++; init();}
 
            } else level--;
-     } 
+     }
 
 };
 
-//n = 3; A = {1,2,3} -> one partition -> {1,3},{2}  <-> 1 2 1 
+//n = 3; A = {1,2,3} -> one partition -> {1,3},{2}  <-> 1 2 1
 
 int main() {
 
+    printf("Set=");
     scanf("%d",&n);
 
     back();
- 
+
  return(0);
 }
-
