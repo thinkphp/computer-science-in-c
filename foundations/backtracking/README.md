@@ -10,10 +10,10 @@
 2.  Partitions (set) https://ideone.com/7nXCoW (integer) https://ideone.com/HIWObq 
 3.  Arrangements
 4.  Combinations
-5.  Hamilton
-6.  Map Color
-7.  Subsets
-8.  Product Cartesian
+5.  Subsets
+6.  Product Cartesian
+7.  Hamilton
+8.  Map Color
 9.  Functions Surjective
 10. Functions Injective
 11. Maze https://ideone.com/aLNCQg
