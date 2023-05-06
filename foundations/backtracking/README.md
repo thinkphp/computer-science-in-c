@@ -7,7 +7,7 @@
 ## Applications
 
 1.  Permutations
-2.  Partitions https://ideone.com/7nXCoW
+2.  Partitions (set) https://ideone.com/7nXCoW (integer) https://ideone.com/HIWObq 
 3.  Arrangements
 4.  Combinations
 5.  Hamilton
