@@ -19,6 +19,7 @@
 11. Maze https://ideone.com/aLNCQg
 12. Knight's Tour https://ideone.com/KcnbXq
 13. Eight Qeens Puzzle
+14. Ball Problem
 
 ## Referecens
 
