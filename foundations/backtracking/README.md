@@ -26,11 +26,14 @@
    Donald E. Knuth (1968). The Art of Computer Programming. Addison-Wesley.
 
     * https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming 
+    
+## Queens    
+https://ideone.com/hALeCJ
 
 ## Knight's Tour
+https://ideone.com/O6UMvb https://ideone.com/1kaCoh
 
-https://ideone.com/O6UMvb
-
-## Maze
-
+## Labyrinth
 https://ideone.com/aLNCQg
+
+
