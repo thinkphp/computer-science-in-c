@@ -24,6 +24,7 @@
 16. Eight Qeens Puzzle
 17. Ball Problem
 18. Mountaineer Problem
+19. Sudoku.
 
 ## Referecens
 
