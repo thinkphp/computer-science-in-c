@@ -14,15 +14,16 @@
 6.  Subsets.
 7.  Product Cartesian.
 8.  Salesman Travel.
-9.  Photo Color.
-10.  Map Color
-11. Functions Surjective
-12. Functions Injective
-13. Labyrinth -> https://ideone.com/aLNCQg
-14. Knight's Tour -> https://ideone.com/KcnbXq
-15. Eight Qeens Puzzle
-16. Ball Problem
-17. Mountaineer Problem
+9.  Sum Coins.
+10.  Photo Color.
+11.  Map Color
+12. Functions Surjective
+13. Functions Injective
+14. Labyrinth -> https://ideone.com/aLNCQg
+15. Knight's Tour -> https://ideone.com/KcnbXq
+16. Eight Qeens Puzzle
+17. Ball Problem
+18. Mountaineer Problem
 
 ## Referecens
 
