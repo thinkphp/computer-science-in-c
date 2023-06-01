@@ -6,20 +6,23 @@
 
 ## Applications
 
-1.  Permutations
-2.  Partitions (set) https://ideone.com/7nXCoW (integer) https://ideone.com/HIWObq 
-3.  Arrangements
-4.  Combinations
-5.  Subsets
-6.  Product Cartesian
-7.  Hamilton
-8.  Map Color
-9.  Functions Surjective
-10. Functions Injective
-11. Maze https://ideone.com/aLNCQg
-12. Knight's Tour https://ideone.com/KcnbXq
-13. Eight Qeens Puzzle
-14. Ball Problem
+1.  Permutations.
+2.  Partitions (set) https://ideone.com/7nXCoW 
+3.  Partitions (integer) https://ideone.com/HIWObq 
+4.  Arrangements.
+5.  Combinations.
+6.  Subsets.
+7.  Product Cartesian.
+8.  Salesman Travel.
+9.  Photo Color.
+10.  Map Color
+11. Functions Surjective
+12. Functions Injective
+13. Labyrinth -> https://ideone.com/aLNCQg
+14. Knight's Tour -> https://ideone.com/KcnbXq
+15. Eight Qeens Puzzle
+16. Ball Problem
+17. Mountaineer Problem
 
 ## Referecens
 
