@@ -1,3 +1,7 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
 class Solution {
     
 private:
@@ -38,8 +42,6 @@ private:
     }
   
 };
-
-//{ Driver Code Starts.
 int main() {
     int tc;
     cin >> tc;
