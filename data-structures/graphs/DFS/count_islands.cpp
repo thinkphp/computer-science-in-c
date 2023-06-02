@@ -44,7 +44,7 @@ private:
 };
 int main() {
     int tc;
-    cin >> tc;
+    tc = 1;
     while (tc--) {
         int n, m;
         cin >> n >> m;
