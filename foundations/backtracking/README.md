@@ -26,47 +26,49 @@
 18. Mountaineer Problem
 19. Sudoku.
 
-## Referecens
+## Referecens:
  
     * https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming 
     
     * https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1188/lectures/Lecture11/Lecture11.pdf
     
-##  Permutations.
+## Demos:    
+    
+###  Permutations.
 
-##  Partitions (set) https://ideone.com/7nXCoW 
+###  Partitions (set) https://ideone.com/7nXCoW 
 
-##  Partitions (integer)  https://ideone.com/HIWObq 
+###  Partitions (integer)  https://ideone.com/HIWObq 
 
-##  Arrangements.
+###  Arrangements.
 
-##  Combinations.
+###  Combinations.
 
-##  Subsets.
+###  Subsets.
 
-##  Product Cartesian.
+###  Product Cartesian.
 
-##  Salesman Travel.
+###  Salesman Travel.
 
-##  Sum Coins.
+###  Sum Coins.
 
-##  Photo Color.
+###  Photo Color.
 
-##  Map Color
+###  Map Color
 
-##  Functions Surjective
+###  Functions Surjective
 
-##  Functions Injective
+###  Functions Injective
 
-## Queens    
+### Queens    
 https://ideone.com/hALeCJ
 
-## Knight's Tour
+### Knight's Tour
 https://ideone.com/O6UMvb https://ideone.com/1kaCoh
 
-## Labyrinth
+### Labyrinth
 https://ideone.com/aLNCQg
 
-## Sudoku
+### Sudoku
 
 
