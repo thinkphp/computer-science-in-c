@@ -20,3 +20,13 @@ example, to construct the set of natural numbers, one basic element, 0 is single
        3. there are no other objects in the set N
         
 According to these rules, the set of natural numbers N consists of the following items: 0, 0 + 1, 0 + 1 + 1, etc 
+
+
+### References
+
+https://www.cs.princeton.edu/courses/archive/fall13/cos126/lectures/07-Recursion.pdf
+
+https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1206/lectures/intro-to-recursion/
+
+https://web.mit.edu/6.005/www/fa15/classes/10-recursion/
+
