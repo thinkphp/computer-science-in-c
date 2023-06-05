@@ -27,11 +27,37 @@
 19. Sudoku.
 
 ## Referecens
-
-   Donald E. Knuth (1968). The Art of Computer Programming. Addison-Wesley.
-
+ 
     * https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming 
     
+    * https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1188/lectures/Lecture11/Lecture11.pdf
+    
+##  Permutations.
+
+##  Partitions (set) 
+
+##  Partitions (integer)
+
+##  Arrangements.
+
+##  Combinations.
+
+##  Subsets.
+
+##  Product Cartesian.
+
+##  Salesman Travel.
+
+##  Sum Coins.
+
+##  Photo Color.
+
+##  Map Color
+
+##  Functions Surjective
+
+##  Functions Injective
+
 ## Queens    
 https://ideone.com/hALeCJ
 
@@ -40,5 +66,7 @@ https://ideone.com/O6UMvb https://ideone.com/1kaCoh
 
 ## Labyrinth
 https://ideone.com/aLNCQg
+
+## Sudoku
 
 
