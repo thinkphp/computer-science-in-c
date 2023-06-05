@@ -36,9 +36,13 @@
     
 ###  Permutations.
 
-###  Partitions (set) https://ideone.com/7nXCoW 
+###  Partitions (set) 
 
-###  Partitions (integer)  https://ideone.com/HIWObq 
+https://ideone.com/7nXCoW 
+
+###  Partitions (integer)  
+
+https://ideone.com/HIWObq 
 
 ###  Arrangements.
 
