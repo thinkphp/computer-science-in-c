@@ -1,8 +1,19 @@
 # Backtracking
 
-  it's a general algorithm for finding solutions to some computational problems, notably constraint satisfaction problems, that
-  incrementally builds candidates to the solutions, and abandons each partial candidate c as soon as it determines that c cannot
-  possibly be candidate to a valid solution.
+Backtracking is a systematic way to iterate through all the possible configurations
+of a search space. These configurations may represent all possible arrangements
+of objects (permutations) or all possible ways of building a collection of them
+(subsets). Other situations may demand enumerating all spanning trees of a graph,
+all paths between two vertices, or all possible ways to partition vertices into color
+classes.
+What these problems have in common is that we must generate each one pos-
+sible configuration exactly once. Avoiding both repetitions and missing configura-
+tions means that we must define a systematic generation order. We will model our
+combinatorial search solution as a vector a = (a 1 , a 2 , ..., a n ), where each element a i
+is selected from a finite ordered set S i . Such a vector might represent an arrange-
+ment where a i contains the ith element of the permutation. Or, the vector might
+represent a given subset S, where a i is true if and only if the ith element of the
+universe is in S. The vector can even represent a sequence of moves i
 
 ## Applications
 
