@@ -7,8 +7,8 @@
 ## Applications
 
 1.  Permutations.
-2.  Partitions (set) https://ideone.com/7nXCoW 
-3.  Partitions (integer) https://ideone.com/HIWObq 
+2.  Partitions (set) 
+3.  Partitions (integer)
 4.  Arrangements.
 5.  Combinations.
 6.  Subsets.
@@ -34,9 +34,9 @@
     
 ##  Permutations.
 
-##  Partitions (set) 
+##  Partitions (set) https://ideone.com/7nXCoW 
 
-##  Partitions (integer)
+##  Partitions (integer)  https://ideone.com/HIWObq 
 
 ##  Arrangements.
 
