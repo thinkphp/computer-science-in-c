@@ -73,6 +73,8 @@ https://ideone.com/O6UMvb https://ideone.com/1kaCoh
 ### Labyrinth
 https://ideone.com/aLNCQg
 
+### Ball Problem
+
 ### Sudoku
 
 
