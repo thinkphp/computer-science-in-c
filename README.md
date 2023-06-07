@@ -1,4 +1,4 @@
 ## Computer Science in C/C++
 
-# References
+### References
 https://web.stanford.edu/class/cs97si/
