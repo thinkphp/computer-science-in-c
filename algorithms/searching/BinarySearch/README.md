@@ -1,4 +1,4 @@
-## Binary Search 
+## Binary Search Algorithm
 
 ### Using Bitwise
 
