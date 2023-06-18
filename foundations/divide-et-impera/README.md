@@ -8,3 +8,7 @@
   
   * https://ideone.com/thinkphp/divideetimpera
   * https://replit.com/@emilstates/findminmaxcpp#main.cpp Find Min Max Array Elements
+
+## Problem Set:
+
+https://www.pbinfo.ro/probleme/categorii/94/divide-et-impera
