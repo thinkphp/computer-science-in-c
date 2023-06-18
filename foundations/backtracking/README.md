@@ -88,4 +88,6 @@ https://ideone.com/aLNCQg
 
 ### Sudoku
 
+## Problem Set
 
+https://www.pbinfo.ro/probleme/categorii/27/backtracking
