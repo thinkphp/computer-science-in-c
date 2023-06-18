@@ -28,7 +28,11 @@ while (not finished) execute
    SOL <-- Sol U {x}
 END
 ```
-## Problems:
+## Solutions:
 
 1. Fractional Knapsack Problem  https://ideone.com/oaoo2H
 2. Maps Coloring https://ideone.com/IJ88Fb
+
+## Problem Set
+
+https://www.pbinfo.ro/probleme/categorii/25/metoda-greedy
