@@ -20,9 +20,13 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 4. Construct an optimal solution from computed information.
 
 
-### Problems:
+### Solutions:
 0. Maximum Subsequence Sum. In action: https://ideone.com/3jZMWP
 1. Longest Increasing Subsequence.
 2. Longest Commond Subsequence.In action: https://ideone.com/6EcvVr https://ideone.com/sfThv1 https://ideone.com/kf02K5
 4. Knapsack Problem.
 5. Match Words.
+
+## Problem Set
+
+https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
