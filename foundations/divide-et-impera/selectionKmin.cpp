@@ -1,4 +1,13 @@
 /*
+Se considera un sir de n (n<=100) numere naturale memorate cu ajutorul unui vector Arr. Sa se realizeze functia SEl care returneaza cel de-al
+k-lea element minim din vector. Functia schimba ordinea elementelor Arr, astfel incat, la finalul executarii ei, pe pozitia k in vector se va afla cel de-al 
+k-lea numar cel mai mic.
+
+Exemplu:
+n = 6
+k = 4
+Arr= [14,23,2,1,4,2]
+Functia Sel va returna valoarea 14, iar vectorul va contine: (4, 1, 2, 14, 23, 21)
 */
 #include <stdio.h>
 #include <math.h>
