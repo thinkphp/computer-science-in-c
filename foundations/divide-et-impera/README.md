@@ -12,3 +12,9 @@
 ## Problem Set:
 
 https://www.pbinfo.ro/probleme/categorii/94/divide-et-impera
+
+## References
+
+https://usaco.guide/gold/intro-dp?lang=cpp
+
+https://usaco.guide/gold/lis?lang=cpp
