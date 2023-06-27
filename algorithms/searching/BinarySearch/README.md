@@ -1,5 +1,9 @@
 ## Binary Search Algorithm
 
+## Examples:
+
+https://ideone.com/0WVBSi
+
 ### Using Bitwise
 
 https://ideone.com/fR8nF8
