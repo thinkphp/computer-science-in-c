@@ -5,7 +5,8 @@
   until these become simple enough to be solved directly (conquer).
   
   Examples:
-  
+
+  * https://ideone.com/Yd0kPv (quicksort and select K min)
   * https://ideone.com/thinkphp/divideetimpera
   * https://replit.com/@emilstates/findminmaxcpp#main.cpp Find Min Max Array Elements
 
