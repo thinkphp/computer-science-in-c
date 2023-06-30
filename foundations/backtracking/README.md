@@ -88,6 +88,8 @@ https://ideone.com/aLNCQg
 
 ### Sudoku
 
+### Mountaineer Problem
+
 ## Problem Set
 
 https://www.pbinfo.ro/probleme/categorii/27/backtracking
