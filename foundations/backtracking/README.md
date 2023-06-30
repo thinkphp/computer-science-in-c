@@ -25,9 +25,9 @@ universe is in S. The vector can even represent a sequence of moves i
 6.  Subsets.
 7.  Product Cartesian.
 8.  Salesman Travel.
-9.  Sum Coins.
-10.  Photo Color.
-11.  Map Color
+9.  Payment Method.
+10. Photo Color.
+11. Map Color
 12. Functions Surjective
 13. Functions Injective
 14. Labyrinth -> https://ideone.com/aLNCQg
@@ -65,7 +65,7 @@ https://ideone.com/HIWObq
 
 ###  Salesman Travel.
 
-###  Sum Coins.
+###  Payment Method.
 
 ###  Photo Color.
 
