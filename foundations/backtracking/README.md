@@ -37,11 +37,19 @@ universe is in S. The vector can even represent a sequence of moves i
 18. Mountaineer Problem
 19. Sudoku.
 
-## Referecens:
+## Referecens
  
     * https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming 
     
     * https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1188/lectures/Lecture11/Lecture11.pdf
+
+## Practice
+
+https://www.pbinfo.ro/probleme/categorii/51/backtracking-backtracking-in-plan
+
+https://www.pbinfo.ro/probleme/categorii/28/backtracking-elemente-de-combinatorica
+
+https://www.pbinfo.ro/probleme/categorii/50/backtracking-probleme-diverse
     
 ## Demos:    
     
