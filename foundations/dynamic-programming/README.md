@@ -25,7 +25,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 0. Maximum Subsequence Sum. In action: https://ideone.com/3jZMWP
 1. Longest Increasing Subsequence.
-2. Longest Commond Subsequence.In action: https://ideone.com/6EcvVr https://ideone.com/sfThv1 https://ideone.com/kf02K5
+2. Longest Common Subsequence.In action: https://ideone.com/6EcvVr https://ideone.com/sfThv1 https://ideone.com/kf02K5
 4. Knapsack Problem.
 5. Match Words.
 
@@ -34,6 +34,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
 
 ## References
+
+https://www.infoarena.ro/pd
 
 https://www.pbinfo.ro/articole/17951/programare-dinamica-introducere
 
