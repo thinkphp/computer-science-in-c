@@ -20,7 +20,9 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 4. Construct an optimal solution from computed information.
 
 
-### Solutions:
+### Samples:
+
+
 0. Maximum Subsequence Sum. In action: https://ideone.com/3jZMWP
 1. Longest Increasing Subsequence.
 2. Longest Commond Subsequence.In action: https://ideone.com/6EcvVr https://ideone.com/sfThv1 https://ideone.com/kf02K5
@@ -30,3 +32,9 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 ## Problem Set
 
 https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
+
+## References
+
+https://www.pbinfo.ro/articole/17951/programare-dinamica-introducere
+
+https://ocw.cs.pub.ro/courses/pa/laboratoare/laborator-03
