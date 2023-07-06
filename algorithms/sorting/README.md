@@ -4,10 +4,7 @@
 
 * ComboSort in Action https://ideone.com/O5elxy
 
-## Problems:
-
-https://www.pbinfo.ro/probleme/categorii/3/tablouri-unidimensionale-vectori-sortarea-vectorilor
-
 ### Practice
 
 https://www.pbinfo.ro/probleme/categorii/3/tablouri-unidimensionale-vectori-sortarea-vectorilor
+https://cses.fi/problemset/
