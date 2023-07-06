@@ -75,3 +75,7 @@ https://cses.fi/problemset/
     <p><a href="https://adventofcode.com/">Advent of code</a></p>
   </li>
 </ul>
+
+### Practice
+
+https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
