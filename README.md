@@ -2,13 +2,13 @@
 
 ### References
 
-https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/
+[Introduction to Algorithms, 3rd Edition (The MIT Press)](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/)
 
-https://www.amazon.com/Ellis-Horowitz/dp/0929306414?ref_=ast_author_dp
+[Computer Algorithms](https://www.amazon.com/Ellis-Horowitz/dp/0929306414?ref_=ast_author_dp)
 
 [Fundamentals of Computer Algorithms](https://www.amazon.com/dp/B01FGIRFCG?ref_=ast_author_dp)
 
-https://www.amazon.com/dp/B01FIZZFU6?ref_=ast_author_dp
+[Fundamentals of Data Structures in C++ ](https://www.amazon.com/dp/B01FIZZFU6?ref_=ast_author_dp)
 
 https://web.stanford.edu/class/cs97si/
 
