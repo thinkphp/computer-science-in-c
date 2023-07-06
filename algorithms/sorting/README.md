@@ -7,3 +7,7 @@
 ## Problems:
 
 https://www.pbinfo.ro/probleme/categorii/3/tablouri-unidimensionale-vectori-sortarea-vectorilor
+
+### Practice
+
+https://www.pbinfo.ro/probleme/categorii/3/tablouri-unidimensionale-vectori-sortarea-vectorilor
