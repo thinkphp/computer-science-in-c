@@ -6,5 +6,5 @@
 
 ### Practice
 
-https://www.pbinfo.ro/probleme/categorii/3/tablouri-unidimensionale-vectori-sortarea-vectorilor
-https://cses.fi/problemset/
+* https://www.pbinfo.ro/probleme/categorii/3/tablouri-unidimensionale-vectori-sortarea-vectorilor
+* https://cses.fi/problemset/
