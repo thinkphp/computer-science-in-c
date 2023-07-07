@@ -2,7 +2,7 @@
 
 ### References
 
-[Introduction to Algorithms, 3rd](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/)
+[Introduction to Algorithms - Cormen](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/)
 
 [Computer Algorithms](https://www.amazon.com/Ellis-Horowitz/dp/0929306414?ref_=ast_author_dp) Ellis Horowitz
 
