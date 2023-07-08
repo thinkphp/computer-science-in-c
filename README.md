@@ -10,6 +10,8 @@
 
 [Fundamentals of Data Structures in C++ ](https://www.amazon.com/dp/B01FIZZFU6?ref_=ast_author_dp) Ellis Horowitz
 
+[Books] (https://cs.stanford.edu/people/eroberts/books/index.html) Eric Roberts
+
 https://web.stanford.edu/class/cs97si/
 
 https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm
