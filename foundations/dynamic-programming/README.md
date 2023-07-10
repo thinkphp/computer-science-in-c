@@ -27,6 +27,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 2. Maximum Subsequence. Sum https://ideone.com/3jZMWP
 3. Knapsack Problem.
 4. Match Words.
+5. Generating Combinations.
 
 ## Practice
 
