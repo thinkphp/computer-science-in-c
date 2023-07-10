@@ -31,6 +31,9 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    
 3. Triangle Problem
    https://ideone.com/PJBk00
+   https://www.pbinfo.ro/probleme/385/sumtri
+   https://www.pbinfo.ro/probleme/386/sumtri1
+   
    
 5. Maximum Subsequence Sum
    https://ideone.com/3jZMWP
