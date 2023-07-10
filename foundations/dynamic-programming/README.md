@@ -30,9 +30,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    https://ideone.com/kf02K5
    
 3. Triangle Problem
-   https://ideone.com/PJBk00
-   https://www.pbinfo.ro/probleme/385/sumtri
-   https://www.pbinfo.ro/probleme/386/sumtri1
+   * https://ideone.com/PJBk00
+   * Practice: https://www.pbinfo.ro/probleme/385/sumtri https://www.pbinfo.ro/probleme/386/sumtri1
    
    
 5. Maximum Subsequence Sum
@@ -42,7 +41,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 7. Match Words.
 8. Generating Combinations.
 
-## Practice
+## Problem Set
 
 https://www.pbinfo.ro/probleme/categorii/158/programare-dinamica-probleme-de-numarare
 
