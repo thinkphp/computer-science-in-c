@@ -31,6 +31,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 ## Practice
 
+https://www.pbinfo.ro/probleme/categorii/158/programare-dinamica-probleme-de-numarare
+
 https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
 
 ## References
