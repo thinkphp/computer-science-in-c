@@ -20,20 +20,21 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 4. Construct an optimal solution from computed information.
 
 
-### Samples:
+### Samples
 
+0. Longest Increasing Subsequence.
+1. Longest Common Subsequence. https://ideone.com/6EcvVr https://ideone.com/sfThv1 https://ideone.com/kf02K5
+2. Maximum Subsequence. Sum https://ideone.com/3jZMWP
+3. Knapsack Problem.
+4. Match Words.
 
-0. Maximum Subsequence Sum. In action: https://ideone.com/3jZMWP
-1. Longest Increasing Subsequence.
-2. Longest Common Subsequence.In action: https://ideone.com/6EcvVr https://ideone.com/sfThv1 https://ideone.com/kf02K5
-4. Knapsack Problem.
-5. Match Words.
-
-## Problem Set
+## Practice
 
 https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
 
 ## References
+
+https://www.cs.princeton.edu/courses/archive/spring21/cos226/lectures/DynamicProgramming.pdf
 
 https://www.infoarena.ro/pd
 
