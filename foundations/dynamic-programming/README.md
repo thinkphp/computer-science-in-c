@@ -39,7 +39,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    
    
 5. MSS - Maximum Subsequence Sum
-   https://ideone.com/3jZMWP
+   * https://ideone.com/3jZMWP
    
 6. Knapsack Problem.
 7. Match Words.
