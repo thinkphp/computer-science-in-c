@@ -26,6 +26,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://cses.fi/problemset/task/1145
    * https://www.pbinfo.ro/probleme/396/sclm
    * https://www.pbinfo.ro/probleme/1876/sclm2
+   * https://www.pbinfo.ro/probleme/2086/sclmprime
 
 2. LCS - Longest Common Subsequence
    * https://ideone.com/6EcvVr
