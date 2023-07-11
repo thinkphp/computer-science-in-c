@@ -44,15 +44,13 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    
 6. Knapsack Problem.
 
-7. Match Words.
+7. Matrix Chain Multiplication
 
-8. Generating Combinations.
+8. Levenshtein Distance
 
-9. Matrix Chain Multiplication
+9. Match Words.
 
-10. Levenshtein Distance
-
-11. Finding Comb(n,k)
+10. Finding Comb(n,k)
       * https://ideone.com/ZYjGlM
 
 ## Problem Set
