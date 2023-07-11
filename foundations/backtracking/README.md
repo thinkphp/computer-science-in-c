@@ -35,7 +35,7 @@ universe is in S. The vector can even represent a sequence of moves i
 16. Eight Qeens Puzzle
 17. Ball Problem
 18. Mountaineer Problem
-19. Sudoku.
+19. Sudoku. https://ideone.com/HftRzb
 
 ## Referecens
  
