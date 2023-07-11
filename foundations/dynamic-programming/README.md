@@ -44,6 +44,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 6. Knapsack Problem.
 7. Match Words.
 8. Generating Combinations.
+9. Matrix Chain Multiplication
+10. Levenshtein Distance
 
 ## Problem Set
 
