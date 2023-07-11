@@ -96,6 +96,8 @@ https://ideone.com/aLNCQg
 
 ### Sudoku
 
+https://ideone.com/HftRzb
+
 ### Mountaineer Problem
 
 ## Problem Set
