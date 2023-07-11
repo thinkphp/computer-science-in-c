@@ -33,7 +33,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://ideone.com/sfThv1
    * https://ideone.com/kf02K5
    
-4. TP - Triangle Problem TP
+4. TP - Triangle Problem
    * https://ideone.com/PJBk00
    * https://www.pbinfo.ro/probleme/385/sumtri
    * https://www.pbinfo.ro/probleme/386/sumtri1
@@ -53,7 +53,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 10. Levenshtein Distance
 
 11. Finding Comb(n,k)
-   * https://ideone.com/ZYjGlM
+      * https://ideone.com/ZYjGlM
 
 ## Problem Set
 
