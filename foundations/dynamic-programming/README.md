@@ -20,23 +20,22 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 4. Construct an optimal solution from computed information.
 
 
-### Samples
+### Practice
 
-0. Longest Increasing Subsequence
-   * Practice:
+0. Longest Increasing Subsequence   
    * https://cses.fi/problemset/task/1145
    * https://www.pbinfo.ro/probleme/396/sclm
    * https://www.pbinfo.ro/probleme/1876/sclm2
 
-2. Longest Common Subsequence
-   * Practice
+2. Longest Common Subsequence   
    * https://ideone.com/6EcvVr
    * https://ideone.com/sfThv1
    * https://ideone.com/kf02K5
    
 4. Triangle Problem
    * https://ideone.com/PJBk00
-   * Practice: https://www.pbinfo.ro/probleme/385/sumtri https://www.pbinfo.ro/probleme/386/sumtri1
+   * https://www.pbinfo.ro/probleme/385/sumtri
+   * https://www.pbinfo.ro/probleme/386/sumtri1
    
    
 5. Maximum Subsequence Sum
