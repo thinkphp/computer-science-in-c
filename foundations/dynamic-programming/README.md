@@ -23,6 +23,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 ### Samples
 
 0. Longest Increasing Subsequence
+   Practice:
+   * https://cses.fi/problemset/task/1145
 
 2. Longest Common Subsequence
    https://ideone.com/6EcvVr
