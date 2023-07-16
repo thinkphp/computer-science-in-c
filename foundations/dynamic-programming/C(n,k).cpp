@@ -29,6 +29,8 @@ int main(int argc, char const *argv[]) {
 
         if(0 == j || i == j) C[i][j] = 1;
 
+        else
+
         C[i][j] = C[i-1][j-1] + C[i-1][j];
 
       }
