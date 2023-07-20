@@ -1,6 +1,6 @@
 /*
  Object Oriented Programming OOP 
- - Inheritance
+ - Inheritance + polymorphism
  */
 #include <bits/stdc++.h>
 
@@ -16,7 +16,7 @@ class Base {
            cout<<"Numarator = "<<nr;
       }
 
-      virtual int getNumitor() {
+      virtual void getNumitor() {
            cout<<"Numitor = "<<num;
       }
 
@@ -41,7 +41,7 @@ class Derivate: public Base {
            cout<<"Apply Polymorphism. Numarator => "<<nr;
       }
 
-      int getNumitor() {
+      void getNumitor() {
            cout<<"Apply Polymorphism. Numitor => "<<num;
       }
 };
