@@ -47,6 +47,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 6. Matrix Chain Multiplication
 
 7. Levenshtein Distance
+   * https://leetcode.com/problems/edit-distance/
    * https://cses.fi/problemset/task/1639/
    * https://ideone.com/cmwTX3
 
