@@ -29,24 +29,25 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://www.pbinfo.ro/probleme/2086/sclmprime
 
 2. LCS - Longest Common Subsequence
+   * https://infoarena.ro/problema/cmlsc
    * https://ideone.com/6EcvVr
    * https://ideone.com/sfThv1
    * https://ideone.com/kf02K5
    
-3. TP - Triangle Problem
+4. TP - Triangle Problem
    * https://ideone.com/PJBk00
    * https://www.pbinfo.ro/probleme/385/sumtri
    * https://www.pbinfo.ro/probleme/386/sumtri1
    
    
-4. MSS - Maximum Subsequence Sum
+5. MSS - Maximum Subsequence Sum
    * https://ideone.com/3jZMWP
    
-5. Knapsack Problem.
+6. Knapsack Problem.
 
-6. Matrix Chain Multiplication
+7. Matrix Chain Multiplication
 
-7. Levenshtein Distance
+8. Levenshtein Distance
    * https://leetcode.com/problems/edit-distance/
    * https://cses.fi/problemset/task/1639/
    * https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
