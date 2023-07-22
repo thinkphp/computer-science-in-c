@@ -46,12 +46,13 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 6. Matrix Chain Multiplication
 
-7. Levenshtein Distance   
+7. Levenshtein Distance
+   * https://cses.fi/problemset/task/1639/
    * https://ideone.com/cmwTX3
 
-8. Match Words.
+9. Match Words.
 
-9. Finding Comb(n,k)
+10. Finding Comb(n,k)
       * https://ideone.com/ZYjGlM
 
 ## Problem Set
@@ -59,6 +60,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 https://www.pbinfo.ro/probleme/categorii/158/programare-dinamica-probleme-de-numarare
 
 https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
+
+https://cses.fi/problemset/task/1639/
 
 ## References
 
