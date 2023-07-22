@@ -1,3 +1,7 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
 int minDistance(string word1, string word2) {
     auto min3=[](int a,int b,int c)
     {
@@ -30,4 +34,12 @@ int minDistance(string word1, string word2) {
         }
     }
     return dp[m][n];
+}
+
+int main() {
+	
+	string word1 = "saturday";
+	string word2 = "sunday";
+	
+	cout<<minDistance(word1, word2);
 }
