@@ -67,4 +67,6 @@ https://www.infoarena.ro/pd
 
 https://www.pbinfo.ro/articole/17951/programare-dinamica-introducere
 
+https://www.programiz.com/dsa/longest-common-subsequence
+
 https://ocw.cs.pub.ro/courses/pa/laboratoare/laborator-03
