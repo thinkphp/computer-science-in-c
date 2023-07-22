@@ -22,7 +22,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 ### Practice
 
-0. LIS - Longest Increasing Subsequence
+1. LIS - Longest Increasing Subsequence
    * https://cses.fi/problemset/task/1145
    * https://www.pbinfo.ro/probleme/396/sclm
    * https://www.pbinfo.ro/probleme/1876/sclm2
@@ -33,25 +33,25 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://ideone.com/sfThv1
    * https://ideone.com/kf02K5
    
-4. TP - Triangle Problem
+3. TP - Triangle Problem
    * https://ideone.com/PJBk00
    * https://www.pbinfo.ro/probleme/385/sumtri
    * https://www.pbinfo.ro/probleme/386/sumtri1
    
    
-5. MSS - Maximum Subsequence Sum
+4. MSS - Maximum Subsequence Sum
    * https://ideone.com/3jZMWP
    
-6. Knapsack Problem.
+5. Knapsack Problem.
 
-7. Matrix Chain Multiplication
+6. Matrix Chain Multiplication
 
-8. Levenshtein Distance   
+7. Levenshtein Distance   
    * https://ideone.com/cmwTX3
 
-10. Match Words.
+8. Match Words.
 
-11. Finding Comb(n,k)
+9. Finding Comb(n,k)
       * https://ideone.com/ZYjGlM
 
 ## Problem Set
