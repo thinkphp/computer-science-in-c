@@ -35,8 +35,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://ideone.com/6EcvVr
    * https://ideone.com/sfThv1
    * https://ideone.com/kf02K5
-   * https://ideone.com/Cr2Kat for 2Itegers
-   * https://ideone.com/tv5Ms7 for 2Strings
+   * https://ideone.com/Cr2Kat for int arr1[], int arr2[]
+   * https://ideone.com/tv5Ms7 for string word1, string word2
    
 5. TP - Triangle Problem
    * https://ideone.com/PJBk00
