@@ -21,3 +21,5 @@ https://www.enjoyalgorithms.com/
 https://learncs.me/curriculum
 
 https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
+
+https://letmethink.mx/
