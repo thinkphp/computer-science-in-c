@@ -68,7 +68,7 @@ void bubblesort(Object *ob, int n, comparer comp) {
                            swapped = true;
                 }
             }
-            if(!swapped) {
+            if( swapped ) {
               n--;
             } else {
               finished = true;
