@@ -1,5 +1,7 @@
-## Examples
-
+## In Action 
+ 
+https://ideone.com/dXdyjl (manual)
+https://ideone.com/yAJ3Cy (for pbinfo)
 
 ## Practice
 
