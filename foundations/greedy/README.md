@@ -41,3 +41,7 @@ https://www.pbinfo.ro/probleme/categorii/25/metoda-greedy
 ## References 
 
 https://infoarena.ro/metoda-greedy-si-problema-fractionara-a-rucsacului
+
+## Ideone
+
+https://ideone.com/thinkphp/greedy
