@@ -40,6 +40,8 @@ https://www.pbinfo.ro/probleme/categorii/25/metoda-greedy
 
 ## References 
 
+https://www.freecodecamp.org/news/greedy-algorithms/
+
 https://infoarena.ro/metoda-greedy-si-problema-fractionara-a-rucsacului
 
 ## Ideone
