@@ -73,6 +73,8 @@ https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
 
 https://cses.fi/problemset/task/1639/
 
+https://www.infoarena.ro/problema/rucsac
+
 ## References
 
 https://www.cs.princeton.edu/courses/archive/spring21/cos226/lectures/DynamicProgramming.pdf
