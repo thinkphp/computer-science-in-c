@@ -45,10 +45,11 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    
    
 6. MSS - Maximum Subsequence Sum
+
    * https://ideone.com/3jZMWP
    
-7. Knapsack Discret Problem.
-8. 
+8. Knapsack Discret Problem.
+
    * https://ideone.com/dTwyz6
 
 9. Matrix Chain Multiplication
