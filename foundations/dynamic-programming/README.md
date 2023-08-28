@@ -75,6 +75,8 @@ https://cses.fi/problemset/task/1639/
 
 https://www.infoarena.ro/problema/rucsac
 
+https://www.pbinfo.ro/probleme/1886/rucsac1
+
 ## References
 
 https://www.cs.princeton.edu/courses/archive/spring21/cos226/lectures/DynamicProgramming.pdf
