@@ -44,25 +44,25 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://www.pbinfo.ro/probleme/386/sumtri1
    
    
-6. MSS - Maximum Subsequence Sum
+4. MSS - Maximum Subsequence Sum
 
    * https://ideone.com/3jZMWP
    
-8. Knapsack Discret Problem.
+5. Knapsack Discret Problem.
 
    * https://ideone.com/dTwyz6
 
-9. Matrix Chain Multiplication
+6. Matrix Chain Multiplication
 
-10. Levenshtein Distance
+7. Levenshtein Distance
    * https://leetcode.com/problems/edit-distance/
    * https://cses.fi/problemset/task/1639/
    * https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
    * https://ideone.com/cmwTX3
 
-11. Match Words.
+8. Match Words.
 
-12. Finding Comb(n,k)
+9. Finding Comb(n,k)
       * https://ideone.com/ZYjGlM
 
 ## Problem Set
