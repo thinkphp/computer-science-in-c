@@ -89,6 +89,11 @@ https://ocw.cs.pub.ro/courses/pa/laboratoare/laborator-03
 
 https://web.stanford.edu/class/cs124/lec/med.pdf
 
+https://usaco.guide/gold/intro-dp?lang=cpp
+
+https://usaco.guide/gold/lis?lang=cpp
+
+
 ## Ideone
 
 https://ideone.com/thinkphp/dynamicprogramming
