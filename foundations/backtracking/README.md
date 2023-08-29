@@ -26,7 +26,7 @@ universe is in S. The vector can even represent a sequence of moves i
 7.  Product Cartesian.
 8.  Salesman Travel.
 9.  Payment Method.
-10. Photo Color.
+10. Photo Problem. https://ideone.com/UTuGBV
 11. Map Color
 12. Functions Surjective
 13. Functions Injective
@@ -75,7 +75,9 @@ https://ideone.com/HIWObq
 
 ###  Payment Method.
 
-###  Photo Color.
+###  Photo Problem.
+
+https://ideone.com/UTuGBV
 
 ###  Map Color
 
