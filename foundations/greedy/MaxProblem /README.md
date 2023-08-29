@@ -5,3 +5,7 @@
  E = a1x1 + a2x2+...anbn
  unde a1, a2, ... an sunt elementele multimii A intr-o anumita ordine pe care trebuie
  s-o determinati.
+
+ # Example
+
+ https://ideone.com/X1vShx
