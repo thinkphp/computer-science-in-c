@@ -30,7 +30,7 @@ END
 ```
 ## Classic Problems:
 
-1. Sum Problem
+1. Sum Problem https://ideone.com/pKkBga
 2. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
 3. Spectacles Problem. https://ideone.com/6324Jv
 4. Saleman Problem. https://ideone.com/5lfvSq
