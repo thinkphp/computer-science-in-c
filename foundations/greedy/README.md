@@ -30,12 +30,14 @@ END
 ```
 ## Classic Problems:
 
-1. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
-2. Spectacles Problem.
-3. Saleman Problem.
-4. Map 4 Colors https://ideone.com/IJ88Fb
-5. Payment Method https://ideone.com/P8qo5M
-6. Sum Problem
+1. Sum Problem
+2. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
+3. Spectacles Problem.
+4. Saleman Problem.
+5. Map 4 Colors https://ideone.com/IJ88Fb
+6. Payment Method https://ideone.com/P8qo5M
+7. Max Problem https://ideone.com/X1vShx
+
 
 ## Problem Set
 
