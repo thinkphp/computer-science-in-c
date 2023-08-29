@@ -28,11 +28,14 @@ while (not finished) execute
    SOL <-- Sol U {x}
 END
 ```
-## Solutions:
+## Classic Problems:
 
-1. Fractional Knapsack Problem  https://ideone.com/oaoo2H
-2. Maps Coloring https://ideone.com/IJ88Fb
-3. Payment Method https://ideone.com/P8qo5M
+1. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
+2. Spectacles Problem.
+3. Saleman Problem.
+4. Map 4 Colors https://ideone.com/IJ88Fb
+5. Payment Method https://ideone.com/P8qo5M
+6. Sum Problem
 
 ## Problem Set
 
