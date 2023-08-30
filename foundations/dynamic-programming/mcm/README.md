@@ -8,4 +8,5 @@ A_1 * A_2 * ... * A_n?
 ## Examples
 
 https://ideone.com/GAFmpt
+
 https://ideone.com/WMqdeW
