@@ -73,6 +73,8 @@ https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
 
 https://cses.fi/problemset/task/1639/
 
+https://cses.fi/problemset/task/1145
+
 https://www.infoarena.ro/problema/rucsac
 
 https://www.pbinfo.ro/probleme/1886/rucsac1
