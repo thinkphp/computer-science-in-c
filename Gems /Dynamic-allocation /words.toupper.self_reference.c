@@ -79,11 +79,18 @@
 
     } while(!strrchr(end, ch));
 
+    Node *temp;
+
     while(head) {
+
+      temp = head;
       
       printf("%s ", head->word);
-      
+
       head = head->next;
+
+      free(temp);
+
     }
     return 0;
   }
