@@ -1,3 +1,8 @@
+/*
+In fisierul matrice.in se afla un tablou bidimensioonal cu compontente intregi. Pe prima linie se afla doua valori reprezentand numarul 
+de linii, respectiv numarul de coloane, separate printr-un spatiu, iar pe urmatoarele linii componentele tabloului. Se cere sa se obtina
+un tablou format din exact din aceleasi elemente ca si matricea data dar elementele fiecarei linii si coloane sa fie in ordine crescatoare. Tabloul obtinut sa se scrie in fisierul matrice.out.
+*/
 #include <iostream>
 #include <cstring>
 
