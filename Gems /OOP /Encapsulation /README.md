@@ -10,4 +10,6 @@ Multime set;
     set = set + str[i];
     i++;
   }
+
+for(int i = 0; i < 256;++i) if(set.check(i)) cout<<(char)i<<" ";
 ```
