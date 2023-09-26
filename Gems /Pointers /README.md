@@ -1,6 +1,6 @@
 ## Pointers
 
-https://ideone.com/ClXcNb
+https://ideone.com/ClXcNb struct pointer matrix multiplication (book = Bazele programarii in C)
 
 https://ideone.com/CWrQfQ mat=(int*)malloc(n*m*sizeof(int))
 
