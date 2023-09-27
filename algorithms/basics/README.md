@@ -17,7 +17,7 @@
   * Distance From Point to Line https://ideone.com/U8Yhvu
   * Conversion Hexadecimal to Decimal Greatest Common Divisor Array https://ideone.com/dXh1IW
   * An Application of Encapsulation set = set + 1; set = set + 2; cout<<set; https://ideone.com/2Pgn3o
-  * Minimum Distance Point P0(x0,y0) and Set of points. https://ideone.com/IChfGn(version1) https://ideone.com/XR1M13 (version2)
+  * Minimum Distance Point P0(x0,y0) and Set of points. https://ideone.com/IChfGn (version1) https://ideone.com/XR1M13 (version2)
 
 ## CSES Problem Set
 
