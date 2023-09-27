@@ -16,6 +16,7 @@
   * Search Max Consecutive Subsequence https://ideone.com/Olt3mO
   * Distance From Point to Line https://ideone.com/U8Yhvu
   * Conversion Hexadecimal to Decimal Greatest Common Divisor Array https://ideone.com/dXh1IW
+  * An Application of Encapsulation set = set + 1; set = set + 2; https://ideone.com/2Pgn3o 
 
 ## CSES Problem Set
 
