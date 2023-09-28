@@ -5,4 +5,6 @@
 4. Sparse Matrix.
 5. Game Kid 1.
 6. Gamecard.
-
+7. Stack.
+8. Lists.
+9. Hash Tables.
