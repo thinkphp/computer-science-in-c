@@ -20,6 +20,7 @@
   * Minimum Distance Point P0(x0,y0) and Set of points. https://ideone.com/IChfGn (version1) https://ideone.com/XR1M13 (version2)
   * Check whether a Point belongs to Circles https://ideone.com/m8N4jq
   * Check whether the point is Inside, Outside or on the circle https://ideone.com/X5gn60
+  * Collinear Points based on two method: Slope and Sarrus https://ideone.com/S0VNKe
 
 
 ## CSES Problem Set
