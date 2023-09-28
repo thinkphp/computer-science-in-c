@@ -9,3 +9,8 @@
 8. Stack.
 9. Lists.
 10. Hash Tables.
+
+
+### Ideone
+
+https://ideone.com/thinkphp/struct-self-reference
