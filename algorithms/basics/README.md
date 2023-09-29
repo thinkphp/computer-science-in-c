@@ -21,6 +21,7 @@
   * Check whether a Point belongs to Circles https://ideone.com/m8N4jq
   * Check whether the point is Inside, Outside or on the circle https://ideone.com/X5gn60
   * Collinear Points based on two method: Slope and Sarrus https://ideone.com/S0VNKe
+  * Sieve of Eratosthenes Algorithm https://ideone.com/21PcX3
   * Sieve of Eratosthenes using bitwise https://ideone.com/zAurJS
 
 
