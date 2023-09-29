@@ -2,6 +2,7 @@
   * Atoi function synonim https://ideone.com/oWucrp
   * Game Card https://ideone.com/sqysel
   * Multiply 2 Matrix using pointers https://ideone.com/KM71jY
+  * Matrix Multiplication AxB https://ideone.com/stXEyF
   * Generate all subsets of a set https://ideone.com/uLQ8lA | https://infoarena.ro/job_detail/2907807?action=view-source
   * Pow in logN Complexity time and O(1) space https://ideone.com/Mygt0h
   * Factorial with Tail Recursion https://ideone.com/gvuZfa 
