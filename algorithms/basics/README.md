@@ -1,4 +1,5 @@
 ## Basics algorithms
+  * Sum of two fractions F1 and F2 Basic example using Euclid, struct, pointers https://ideone.com/UU3mPG
   * Atoi function synonim https://ideone.com/oWucrp
   * Game Card https://ideone.com/sqysel
   * Multiply 2 Matrix using pointers https://ideone.com/KM71jY
