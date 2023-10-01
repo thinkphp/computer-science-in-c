@@ -1,2 +1,2 @@
-## An App of Polymorphism
+## An Application of Polymorphism
 http://replit.com/@thinkphp/Polymorphism
