@@ -12,6 +12,8 @@ https://replit.com/@thinkphp/Complex-Numbers
 
 https://ideone.com/iaoeSA (Operator postfix and prefix increment ++ overloaded)
 
+https://ideone.com/gAfATz
+
 ## Practice
 
 https://www.pbinfo.ro/probleme/3539/oop-numere-complexe
