@@ -1,4 +1,4 @@
-# An example of encapsulation
+# An Application of Encapsulation
 
 https://ideone.com/2Pgn3o
 
