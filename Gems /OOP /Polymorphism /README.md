@@ -1,4 +1,6 @@
-### Samples
+# Polymorphism
+
+## Samples
 
 * Base -> Derivate https://ideone.com/v8mMzY
 
