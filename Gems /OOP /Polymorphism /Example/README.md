@@ -1,2 +1,2 @@
-## App hosted on Replit:
-https://replit.com/@thinkphp/Polymorphism
+## An App of Polymorphism
+http://replit.com/@thinkphp/Polymorphism
