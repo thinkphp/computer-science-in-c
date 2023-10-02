@@ -28,3 +28,9 @@ https://letmethink.mx/
 ### printf, fprintf, sprintf, snprintf, printf_s, fprintf_s, sprintf_s, snprintf_s
 
 https://en.cppreference.com/w/c/io/fprintf
+
+## Modern c++ 
+
+https://conan.iwr.uni-heidelberg.de/data/people/oklein/pdf/klein_modern_cpp.pdf
+
+https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
