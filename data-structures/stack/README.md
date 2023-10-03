@@ -6,9 +6,9 @@
 >
 ##  Examples
 
-create(&stack) https://ideone.com/IVK6hn 
+LIFO: create(&stack) push(&stack, value); pop(&stack), top(&stack), isEmpty(stack) https://ideone.com/IVK6hn 
 
-template stack https://ideone.com/xBQQ0l
+Template stack https://ideone.com/xBQQ0l
 
 Generating Subsets https://ideone.com/qZsiMY
 ```
