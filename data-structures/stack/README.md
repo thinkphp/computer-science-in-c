@@ -7,6 +7,7 @@
 ##  Examples
 
 create(&stack) https://ideone.com/IVK6hn 
+
 template stack https://ideone.com/xBQQ0l
 ```
 int main(int argc, char const *argv[]) {
