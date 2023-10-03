@@ -1,9 +1,22 @@
 ## Templates
-```
+```c++
 template <class T>
-class stack{
- [code]
-}
+class Stack {
+      public:
+      Stack() {
+        printf("%s\n","Init Stack.");
+        vis = 0;
+      }
+      ~Stack() {
+        printf("\n%s", "Deconstructor:stack is distroyed.");
+      }
+      void push(T v);
+      T pop();
+      private:
+        T stack[SIZE];
+        int vis;
+};
+
 ```
 https://ideone.com/xBQQ0l
 * Stack < char > st_c  
