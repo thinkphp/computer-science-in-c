@@ -20,6 +20,7 @@ void push(Stack**head, Element el){
 
 void pop(Stack**head){
      Stack*q = *head;
+     if(isEmpty(*head)) return;
      *head = (*head)->next;
      free(q);
 }
@@ -32,8 +33,10 @@ Element top(Stack**head) {
   return el;
 }
 
-int isEmpty(Stack**head) {
-    if(*head == NULL) return 0;
+int isEmpty(Stack*head) {
+    if(head == NULL) return 1;
+    else
+    return 0;
 }
 
 void create(Stack**head) {
