@@ -8,6 +8,8 @@
 
 https://ideone.com/YuuY7q
 
+https://ideone.com/xBQQ0l
+
 ```
 int main(int argc, char const *argv[]) {
   Stack*head;
