@@ -1,4 +1,7 @@
 ## Templates
+
+swap https://ideone.com/8Mov8u
+
 ```c++
 template <class T>
 class Stack {
