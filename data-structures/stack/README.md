@@ -6,10 +6,8 @@
 >
 ##  Examples
 
-https://ideone.com/YuuY7q
-
-https://ideone.com/xBQQ0l
-
+create(&stack) https://ideone.com/IVK6hn 
+template stack https://ideone.com/xBQQ0l
 ```
 int main(int argc, char const *argv[]) {
   Stack*head;
