@@ -9,6 +9,8 @@
 create(&stack) https://ideone.com/IVK6hn 
 
 template stack https://ideone.com/xBQQ0l
+
+Generating Subsets https://ideone.com/qZsiMY
 ```
 int main(int argc, char const *argv[]) {
   Stack*head;
