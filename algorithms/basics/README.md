@@ -25,6 +25,7 @@
   * Collinear Points based on two method: Slope and Sarrus https://ideone.com/S0VNKe
   * Sieve of Eratosthenes Algorithm https://ideone.com/21PcX3
   * Sieve of Eratosthenes using bitwise https://ideone.com/zAurJS
+  * Prime Numbers https://ideone.com/5YA0YQ
 
 
 ## CSES Problem Set
