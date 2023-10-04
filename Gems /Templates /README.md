@@ -34,3 +34,5 @@ https://ideone.com/xBQQ0l
 ## References
 
 https://www.geeksforgeeks.org/templates-cpp/
+
+https://ideone.com/thinkphp/templates
