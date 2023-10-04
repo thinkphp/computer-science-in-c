@@ -13,6 +13,8 @@ Template stack https://ideone.com/xBQQ0l
 Generating Subsets https://ideone.com/qZsiMY
 
 Reverse Sentence https://ideone.com/8eSpBP
+
+Reverse a word rely on a stack implemented as a simply linked list https://ideone.com/jLlCx6
 ```
 int main(int argc, char const *argv[]) {
   Stack*head;
