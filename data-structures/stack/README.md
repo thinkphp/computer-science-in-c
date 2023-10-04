@@ -11,6 +11,8 @@ LIFO: create(&stack) push(&stack, value); pop(&stack), top(&stack), isEmpty(stac
 Template stack https://ideone.com/xBQQ0l
 
 Generating Subsets https://ideone.com/qZsiMY
+
+Stack for Elements https://ideone.com/IVK6hn
 ```
 int main(int argc, char const *argv[]) {
   Stack*head;
