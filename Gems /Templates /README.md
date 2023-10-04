@@ -69,7 +69,7 @@ Stack Template
 * Stack < double > st_d
 * Stack < int > st_i
 
-* ```c++
+```c++
 template <class T>
 class Stack {
       public:
