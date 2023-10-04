@@ -26,6 +26,7 @@
   * Sieve of Eratosthenes Algorithm https://ideone.com/21PcX3
   * Sieve of Eratosthenes using bitwise https://ideone.com/zAurJS
   * Prime Numbers https://ideone.com/5YA0YQ
+  * Primes converted to Binary format https://ideone.com/zu9hoV
 
 
 ## CSES Problem Set
