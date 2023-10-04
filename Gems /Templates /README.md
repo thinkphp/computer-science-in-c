@@ -62,7 +62,14 @@ int main(int argc, char const *argv[]) {
 
 ```
 
-```c++
+Stack Template
+
+* Stack < char > st_c  
+* Stack < float > st_f
+* Stack < double > st_d
+* Stack < int > st_i
+
+* ```c++
 template <class T>
 class Stack {
       public:
@@ -82,10 +89,7 @@ class Stack {
 
 ```
 https://ideone.com/xBQQ0l
-* Stack < char > st_c  
-* Stack < float > st_f
-* Stack < double > st_d
-* Stack < int > st_i
+
 
 
 ## References
