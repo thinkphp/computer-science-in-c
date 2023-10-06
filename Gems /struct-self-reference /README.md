@@ -6,7 +6,7 @@
 5. Game Kid 1 (Simply Linked List circular).
 6. Game Kid 2 (Doubly Linked List).
 7. Gamecard.
-8. Stack.
+8. Stack (Stack**head)
 9. Lists.
 10. Hash Tables.
 
