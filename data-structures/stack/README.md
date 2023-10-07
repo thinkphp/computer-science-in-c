@@ -8,7 +8,7 @@
 
 LIFO: create(&stack) push(&stack, value); pop(&stack), top(&stack), isEmpty(stack) https://ideone.com/IVK6hn 
 
-Template stack https://ideone.com/xBQQ0l https://www.onlinegdb.com/edit/kOo3rVc4R
+Template stack https://ideone.com/xBQQ0l https://onlinegdb.com/eq7znIo2A
 
 Generating Subsets https://ideone.com/qZsiMY
 
