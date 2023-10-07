@@ -34,3 +34,5 @@ https://en.cppreference.com/w/c/io/fprintf
 https://conan.iwr.uni-heidelberg.de/data/people/oklein/pdf/klein_modern_cpp.pdf
 
 https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
+
+The Definitive C++ Book Guide and List https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
