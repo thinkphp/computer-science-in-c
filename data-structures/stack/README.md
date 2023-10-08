@@ -29,3 +29,7 @@ int main(int argc, char const *argv[]) {
   return 0;
 }
 ```
+
+Problems:
+
+https://www.pbinfo.ro/probleme/3533/oop-3
