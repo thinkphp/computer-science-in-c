@@ -33,6 +33,6 @@ int main(int argc, char const *argv[]) {
 Problems:
 
 https://www.pbinfo.ro/probleme/3533/oop-3 
-Source: 
+* Solutions: 
 * https://ideone.com/cMWjH0 
 * https://onlinegdb.com/aCDFiF1Q5z
