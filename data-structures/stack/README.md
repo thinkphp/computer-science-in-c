@@ -1,4 +1,4 @@
-### Stack Data Structure in C++
+### Stack Data Structure in C++ (LIFO = Last In First Out)
 
 # Usage
   >g++ stack.cpp -o s.exe
@@ -6,9 +6,9 @@
 >
 ##  Examples
 
-LIFO: create(&stack) push(&stack, value); pop(&stack), top(&stack), isEmpty(stack) https://ideone.com/IVK6hn 
+Stack Data Structure implemented as a Simply Linked List: create(&stack) push(&stack, value); pop(&stack), top(&stack), isEmpty(stack) https://ideone.com/IVK6hn 
 
-Template stack https://ideone.com/xBQQ0l https://onlinegdb.com/eq7znIo2A
+Template Stack https://ideone.com/xBQQ0l | https://onlinegdb.com/eq7znIo2A | https://onlinegdb.com/CTVkOlbUF | https://ideone.com/a9GQbt
 
 Generating Subsets https://ideone.com/qZsiMY
 
