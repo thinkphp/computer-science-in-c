@@ -4,9 +4,7 @@
 
 * >g++ queue.cpp -o q.exe
 * >./q
-
-# Sample
-
+```
   typedef struct node {
  
        int data;
@@ -28,6 +26,7 @@
 
     return 1; 
   } 
+```
   
 ## Examples
 * https://ideone.com/IAhrkr  
