@@ -27,6 +27,28 @@
     return 1; 
   } 
 ```
+
+```
+int main(int argc, char const *argv[]) {
+ 
+  Queue q(100);
+  q.enqueue(1);
+  q.enqueue(2);
+  q.enqueue(3);
+  q.enqueue(4);
+  q.enqueue(5);
+  q.display();
+  q.dequeue();
+  q.dequeue();
+  q.display();
+  q.enqueue(7);
+  q.enqueue(8);
+  q.display();
+  q.dequeue();
+  q.display();
+  return 0;
+}
+```
   
 ## Examples
 * https://ideone.com/IAhrkr  
