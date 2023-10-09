@@ -28,3 +28,6 @@
 
     return 1; 
   } 
+  
+## Examples
+* https://ideone.com/IAhrkr  
