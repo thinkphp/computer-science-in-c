@@ -50,5 +50,7 @@ int main(int argc, char const *argv[]) {
 }
 ```
   
-## Examples
-* https://ideone.com/IAhrkr  
+## Examples on Ideone
+
+* https://ideone.com/IAhrkr
+* https://ideone.com/yjtvIG
