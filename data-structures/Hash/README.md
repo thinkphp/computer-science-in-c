@@ -1,7 +1,7 @@
 ## Hash Data Structure
 
 
-## Problems
+## Practice
 
 https://infoarena.ro/problema/hashuri
 
