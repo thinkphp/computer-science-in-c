@@ -1,4 +1,4 @@
-## Apps
+## Applications on Struct Self Reference
 1. Words in sentence.
 2. Uppercase Ordered Words in sentence.
 3. Uppercase Ordered Words in sentence and taken only once.
