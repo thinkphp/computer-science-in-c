@@ -8,6 +8,8 @@ https://ideone.com/iaoeSA (Operator postfix and prefix increment ++ overloaded)
 
 https://ideone.com/gAfATz
 
+https://ideone.com/3JkKrn (Sum of two matrix)
+
 ## Practice
 
 https://www.pbinfo.ro/probleme/3539/oop-numere-complexe
