@@ -11,7 +11,10 @@
 9. Lists.
 10. Hash Tables.
 
-
-### Ideone
+### Ideone:
 
 https://ideone.com/thinkphp/struct-self-reference
+
+### References:
+
+(Book: Bazele Programarii in C. Page: 247, Title: Structuri cu autoreferire)
