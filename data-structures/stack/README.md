@@ -10,6 +10,10 @@ Stack Data Structure implemented as a Simply Linked List: create(&stack) push(&s
 
 Template Stack https://ideone.com/xBQQ0l | https://onlinegdb.com/eq7znIo2A | https://onlinegdb.com/CTVkOlbUF | https://ideone.com/a9GQbt
 
+Stack implemented as a vector<string> container https://ideone.com/axo91k
+
+Stack implemented as a vector<int> container  https://ideone.com/wInWMa
+
 Generating Subsets https://ideone.com/qZsiMY
 
 Reverse Sentence https://ideone.com/8eSpBP
