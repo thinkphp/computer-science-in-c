@@ -4,7 +4,7 @@
 
 using namespace std;
 
-//Creating a stack for integers
+//Creating a stack for strings
 class Stack {
 
    public:
