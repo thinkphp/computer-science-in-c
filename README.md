@@ -36,7 +36,7 @@ https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 
 The Definitive C++ Book Guide and List https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 
-## Programming Contests
+## Gym Contests Warmup
 
 * VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
 
