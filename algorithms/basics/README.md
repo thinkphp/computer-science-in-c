@@ -95,6 +95,8 @@ https://cses.fi/problemset/
 
 ### Practice
 
+https://infoarena.ro/arhiva-educationala
+
 https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 
 https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem
