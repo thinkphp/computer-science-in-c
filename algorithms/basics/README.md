@@ -99,6 +99,6 @@ https://infoarena.ro/arhiva-educationala
 
 https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 
-https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem
+Quadratic Equation: https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem https://codeforces.com/contest/20/problem/B
 
-https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+Armstring Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
