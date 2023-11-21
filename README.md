@@ -23,9 +23,9 @@ https://learncs.me/curriculum
 https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
 
 
-## printf, fprintf, sprintf, snprintf, printf_s, fprintf_s, sprintf_s, snprintf_s
-
+## printf
 https://en.cppreference.com/w/c/io/fprintf
+* fprintf, sprintf, snprintf, printf_s, fprintf_s, sprintf_s, snprintf_s
 
 ## Modern c++ 
 
