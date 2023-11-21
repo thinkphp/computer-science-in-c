@@ -1,4 +1,7 @@
 ## Basics algorithms
+  
+  * First Degree Equation https://ideone.com/CUUr4v
+  * Quadratic Equation Roots https://ideone.com/ct57BL https://ideone.com/imJbsP
   * Sum of two fractions F1 and F2 Basic example using Euclid, struct, pointers https://ideone.com/UU3mPG
   * Atoi function synonim https://ideone.com/oWucrp
   * Game Card https://ideone.com/sqysel
@@ -8,8 +11,6 @@
   * Pow in logN Complexity time and O(1) space https://ideone.com/Mygt0h
   * Factorial with Tail Recursion https://ideone.com/gvuZfa 
   * Sorting Without Comparison https://ideone.com/KZ08vi
-  * Quadratic Equation Roots https://ideone.com/ct57BL https://ideone.com/imJbsP
-  * First Degree Equation https://ideone.com/CUUr4v
   * Derivates of Polynomial https://ideone.com/8laBGu in C
   * Derivates of Polynomial https://ideone.com/dDO9F8 in Python 3
   * Check Order Array (4 variants: strict ascending, strict descending, constant, unordered) https://ideone.com/AHg7gj
