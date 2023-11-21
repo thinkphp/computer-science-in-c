@@ -36,8 +36,17 @@
 
 https://cses.fi/problemset/
 
-## References
+### Practice
 
+https://infoarena.ro/arhiva-educationala
+
+https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
+
+Quadratic Equation: https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem https://codeforces.com/contest/20/problem/B
+
+Armstring Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+
+## References
 
 <ul>
   <li>
@@ -92,13 +101,3 @@ https://cses.fi/problemset/
     <p><a href="https://adventofcode.com/">Advent of code</a></p>
   </li>
 </ul>
-
-### Practice
-
-https://infoarena.ro/arhiva-educationala
-
-https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
-
-Quadratic Equation: https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem https://codeforces.com/contest/20/problem/B
-
-Armstring Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
