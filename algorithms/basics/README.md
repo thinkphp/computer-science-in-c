@@ -1,6 +1,6 @@
 ## Basics algorithms
   
-  * First Degree Equation https://ideone.com/CUUr4v
+  * First Degree Equation https://ideone.com/0V5gc1 https://ideone.com/CUUr4v 
   * Quadratic Equation Roots https://ideone.com/ct57BL https://ideone.com/imJbsP Practice: https://codeforces.com/contest/20/problem/B
   * Sum of two fractions F1 and F2 Basic example using Euclid, struct, pointers https://ideone.com/UU3mPG
   * Atoi function synonim https://ideone.com/oWucrp
