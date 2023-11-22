@@ -103,4 +103,6 @@ Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/ar
 </ul>
 https://brilliant.org/wiki/bezouts-identity/
 
+https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm#Main_idea_and_Informal_Description
+
 https://www.math.cmu.edu/~bkell/21110-2010s/extended-euclidean.html
