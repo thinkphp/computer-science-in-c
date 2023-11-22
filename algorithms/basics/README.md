@@ -101,8 +101,9 @@ Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/ar
     <p><a href="https://adventofcode.com/">Advent of code</a></p>
   </li>
 </ul>
-https://brilliant.org/wiki/bezouts-identity/
 
-https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm#Main_idea_and_Informal_Description
+* https://brilliant.org/wiki/bezouts-identity/
 
-https://www.math.cmu.edu/~bkell/21110-2010s/extended-euclidean.html
+* https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm#Main_idea_and_Informal_Description
+
+* https://www.math.cmu.edu/~bkell/21110-2010s/extended-euclidean.html
