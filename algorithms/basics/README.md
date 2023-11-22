@@ -101,3 +101,4 @@ Armstring Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/ar
     <p><a href="https://adventofcode.com/">Advent of code</a></p>
   </li>
 </ul>
+https://brilliant.org/wiki/bezouts-identity/
