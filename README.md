@@ -12,6 +12,8 @@
 
 [Books](https://cs.stanford.edu/people/eroberts/books/index.html) Eric Roberts
 
+[Books](__) GoodRich
+
 https://web.stanford.edu/class/cs97si/
 
 https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm
