@@ -41,9 +41,11 @@ https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 
 https://cses.fi/problemset/
 
-### Codeforces
+### Codeforces | HackerRank
 
-Quadratic Equation: https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem https://codeforces.com/contest/20/problem/B
+Quadratic Equation: 
+* https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
+* https://codeforces.com/contest/20/problem/B
 
 Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
