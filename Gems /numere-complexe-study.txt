@@ -1,0 +1,149 @@
+Numere complexe:
+----------------
+
+Adunare:
+z1 + z2 = x1 + iy1 + x2 + iy2 = x1+x2 + i(y1+y2)
+
+Scadere:
+z1 - z2 = x1 + iy1 - x2 + iy2 = x1+x2 + i(y1+y2)
+
+Inmultire:
+z1 * z2 = (x1 + iy1) * (x2 + iy2) = x1*x2 + x1y2i + iy1x2 + iy1 i y2 = x1x2 - y1y2 + 
+i(x1y2+x2y1)
+
+                                                                         partea reala   
+Impartire:
+z1   x1 + i y1   (x1 + i y1) (x2 - i y2)    x1x2 + y1y2 + i(x2y1-x1y2)   x1x2 + y1y2
+-- = --------- = ------------------------ = -------------------------- = ------------
+z2   x2 + i y2   (x2 + i y2)  (x2 - i y2)        x2^2 + y2^2              x2^2 + y2^2
+
+    x2y1-x1y2
++ i ---------- 
+    x2^2 + y2^2
+
+    partea imaginara
+
+
+
+
+x2^2 + y2^2 trebuie sa fie diferit de ZERO, altfel nu are sens fractia
+
+
+Complex operator /(Complex &z) {
+	
+	complex t;
+
+	float numitor = z.x * z.x + z.y * z.y
+
+	if(numitor !=0 ) {
+
+       //partea reala 
+       t.x = (x*z.x + y*z.y)/numitor
+       //partea imaginara
+       t.y =(z.x*y - x*z.y) / numitor
+	} else cout<<"Impartirea la zero nu are sens in matematica!";
+
+	return t;
+}
+
+void display() {
+	
+	cout<<x<<"+"<<y<<"*i"
+}
+
+modulul = sqrt(x*x + y*y)
+
+Modulul unui numar complex:
+
+In matematica:
+Radical(partea_reala * partea_reala + partea_imaginara*partea_imaginara)
+
+5 + 7i + 2 + 2i = 7 + 9i (numarul complex suma)
+
+a = 4-5i
+b = 4+5i
+void modul() {
+	
+}
+
+a = 6
+b = 5
+Numarul complex va arata astfe: 6 + 5i
+
+il adunam cu b(4,5) = 4 + 5i
+
+=> 10 + 10i
+
+Supraincarcarea operatorului <<
+
+Complex b(4,5)
+
+cout<<b
+
+In clasa Complex adaugi:
+
+friend = cuvant cheie
+
+friend ostream& operator<<(ostream& stream,const Complex& numar_complex);
+
+
+ostream& operator<<(ostream& stream,const Complex& numar_complex) {
+	
+
+	 stream<<numar_complex.partea_reala<<" + "<<numar_complex_partea_imaginara<<" i";
+
+	 return stream
+} 
+
+
+Pentru Friend un exemplu:
+
+
+class Fractie {
+	
+	  //date membre
+      public:
+      int nr,
+          num;
+
+      Fractie(int a, int b) {
+         nr= a;
+         num = b;
+      }    
+
+      //metode membre
+      int numarator() {
+         return nr;
+      }
+
+      int numitor() {
+         return num;
+      }
+
+      void display() {
+         cout<<numarator()<<"/"<<numitor();
+      }
+
+      friend void multiply(int n Fractie&f);
+
+};
+
+void multiply(int n, Fractie&f) {
+	  f.nr = f.nr * n; 
+}
+
+int main() {
+    Fractie f(3,4)
+    f.display():
+    multiply(5,f);
+    f.display();
+}
+
+functie prietena cu clasa Complex
+
+int main() {
+	
+	Complex b(4,5);
+
+	cout<<b;
+}
