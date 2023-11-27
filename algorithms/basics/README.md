@@ -50,6 +50,7 @@ Quadratic Equation:
 * https://codeforces.com/problemset/problem/531/A
 
 Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+
 Forecast: https://codeforces.com/problemset/problem/630/N
 
 Divisors of two integers https://codeforces.com/contest/1108/problem/B
