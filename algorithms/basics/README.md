@@ -1,7 +1,9 @@
 ## Basics algorithms
+  * Euclid's Algorithm ___
   * Extended Euclid's algorithm https://ideone.com/ysdfZW
   * First Degree Equation https://ideone.com/0V5gc1 https://ideone.com/CUUr4v 
-  * Quadratic Equation Roots https://ideone.com/ct57BL https://ideone.com/imJbsP Practice: https://codeforces.com/contest/20/problem/B
+  * Quadratic Equation Roots https://ideone.com/imJbsP 
+  * Nature Roots Quadratic Equation https://ideone.com/ct57BL
   * Sum of two fractions F1 and F2 Basic example using Euclid, struct, pointers https://ideone.com/UU3mPG
   * Atoi function synonim https://ideone.com/oWucrp
   * Game Card https://ideone.com/sqysel
