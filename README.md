@@ -45,8 +45,11 @@ https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 
 The Definitive C++ Book Guide and List https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 
-## Contests Gym Warmup ProblemSet
 
-* VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
+## Programming Contests
 
-* Codeforces Alpha Round 20 https://codeforces.com/contest/20
+VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
+
+Codeforces Alpha Round 20 https://codeforces.com/contest/20
+
+Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/contest/630
