@@ -53,7 +53,7 @@ Codeforces Alpha Round 20 https://codeforces.com/contest/20
 
 Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/contest/630
 
-## Math References:
+Math References:
 
 * https://brilliant.org/wiki/bezouts-identity/
 * https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
