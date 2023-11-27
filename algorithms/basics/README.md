@@ -47,6 +47,7 @@ Quadratic Equation:
 * https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
 * https://codeforces.com/contest/20/problem/B
 * https://codeforces.com/contest/630/problem/N
+* https://codeforces.com/problemset/problem/531/A
 
 Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
