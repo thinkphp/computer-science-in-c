@@ -10,7 +10,7 @@ when we do. (Michael Fellows and Ian Parberry,
 “SIGACT trying to get children excited about CS”)
 
 
-## Preface
+### Preface
 
 C is a general-purpose programming language which features economy 
 of expression, modern control flow, and a rich set of operators. C is 
@@ -22,11 +22,11 @@ UNIX operating system on the DEC PDP-11, by Dennis Ritchie. The operating
 system, the C compiler, and essentially all UNIX applications program (including
 all of the software used to prepare this course) are written in C.
 
-## Getting Started
+### Getting Started
 
-## Variables and Arithmentic Expressions
+### Variables and Arithmentic Expressions
 
-### References
+#### References
 
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/) Cormen
 
