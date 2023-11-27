@@ -118,3 +118,9 @@ Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-
 * https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm#Main_idea_and_Informal_Description
 
 * https://www.math.cmu.edu/~bkell/21110-2010s/extended-euclidean.html
+
+Math References:
+
+https://brilliant.org/wiki/bezouts-identity/
+
+https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
