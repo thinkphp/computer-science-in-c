@@ -9,6 +9,21 @@ how we use them and what we find out
 when we do. (Michael Fellows and Ian Parberry,
 “SIGACT trying to get children excited about CS”)
 
+
+## Preface
+
+C is a general-purpose programming language which features economy 
+of expression, modern control flow, and a rich set of operators. C is 
+not a very high level language, nor a big one, and is not specialized to any 
+particular area of application. But its absence of restrictions and its
+generality make it more convenient and effective for many tasks than
+supposedly more power languages. C was designed for and implemented on the
+UNIX operating system on the DEC PDP-11, by Dennis Ritchie. The operating
+system, the C compiler, and essentially all UNIX applications program (including
+all of the software used to prepare this course) are written in C.
+
+## Getting-started
+
 ### References
 
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/) Cormen
