@@ -41,7 +41,7 @@ https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 
 https://cses.fi/problemset/
 
-### Codeforces | HackerRank
+### Codeforces | HackerRank | Leetcode
 
 Quadratic Equation: 
 * https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
@@ -54,6 +54,8 @@ Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/ar
 Forecast: https://codeforces.com/problemset/problem/630/N
 
 Divisors of two integers https://codeforces.com/contest/1108/problem/B
+
+Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/
 
 ## References
 
