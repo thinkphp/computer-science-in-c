@@ -1,3 +1,6 @@
+## Convert String to Double
+
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -18,3 +21,5 @@ printf("No argument given\n");
 }
 return 0;
 }
+
+```
