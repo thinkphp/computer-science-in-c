@@ -24,6 +24,8 @@ all of the software used to prepare this course) are written in C.
 
 ## Getting-started
 
+## Variables and Arithmentic Expressions
+
 ### References
 
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/) Cormen
