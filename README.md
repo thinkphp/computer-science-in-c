@@ -53,7 +53,7 @@ https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
 https://www.best-books.dev/list/best-programming-books
 
 
-## Modern c++ 
+#### Modern c++ 
 
 https://conan.iwr.uni-heidelberg.de/data/people/oklein/pdf/klein_modern_cpp.pdf
 
@@ -62,7 +62,7 @@ https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 The Definitive C++ Book Guide and List https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 
 
-## Programming Contests
+#### Programming Contests
 
 VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
 
