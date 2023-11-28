@@ -67,6 +67,17 @@ If R(a,b) and R(b,c) then R(a,c) for all a,b,c in S
 <1, 2> and <2, 3> in “<=“, <1, 3> is also in “<=“ (and similarly for the others)
 ```
 
+### Equivalence Relations
+```
+A binary relation R is an equivalence relation if R is
+reflexive, symmetric, and transitive
+• Examples
+– Same gender
+– Connected roads in the world
+– "Is equal to" on the set of real numbers
+– "Has the same birthday as" on the set of all people 
+```
+
 #### References:
 
 * https://courses.cs.washington.edu/courses/cse373/14sp/lecture10.pdf
