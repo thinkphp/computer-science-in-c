@@ -78,6 +78,21 @@ reflexive, symmetric, and transitive
 – "Has the same birthday as" on the set of all people 
 ```
 
+### Punch-line
+
+```
+Equivalence relations give rise to partitions.
+• Every partition induces an equivalence relation
+• Every equivalence relation induces a partition
+• Suppose P={S1,S2,…,Sn} is a partition
+– Define R(x,y) to mean x and y are in the same Si
+• R is an equivalence relation
+• Suppose R is an equivalence relation over S
+– Consider a set of sets S1,S2,…,Sn where
+(1) x and y are in the same Si if and only if R(x,y)
+(2) Every x is in some Si
+• This set of sets is a partition 
+```
 #### References:
 
 * https://courses.cs.washington.edu/courses/cse373/14sp/lecture10.pdf
