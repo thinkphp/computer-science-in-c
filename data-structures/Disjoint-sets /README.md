@@ -32,6 +32,23 @@ Example:
 – Not a partition of S: {a,b}, {e,c} …. missing element d
 ```
 
+### Binary relations
+
+```
+• S x S is the set of all pairs of elements of S (cartesian product)
+– Example: If S = {a,b,c}
+ then S x S = {(a,a),(a,b),(a,c),(b,a),(b,b),(b,c), (c,a),(c,b),(c,c)}
+• A binary relation R on a set S is any subset of S x S
+– i.e. a collection of ordered pairs of elements of S.
+– Write R(x,y) to mean (x,y) is “in the relation”
+– (Unary, ternary, quaternary, … relations defined similarly)
+• Examples for S = people-in-this-room
+– Sitting-next-to-each-other relation
+– First-sitting-right-of-second relation
+– Went-to-same-high-school relation
+– First-is-younger-than-second relation 
+```
+
 #### References:
 
 * https://courses.cs.washington.edu/courses/cse373/14sp/lecture10.pdf
