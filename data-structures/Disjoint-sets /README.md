@@ -17,9 +17,20 @@ A partition P of a set S is a set of sets {S1,S2,…,Sn} such that
 every element of S is in exactly one Si 
 
 Put another way:
+```
 – S1 ∪ S2 ∪ . . . ∪ Sk = S
 – i ≠ j implies Si ∩ Sj
- = ∅ (sets are disjoint with each other) 
+ = ∅ (sets are disjoint with each other)
+```
+Example:
+```
+– Let S be {a,b,c,d,e}
+– One partition: {a}, {d,e}, {b,c}
+– Another partition: {a,b,c}, ∅, {d}, {e}
+– A third: {a,b,c,d,e}
+– Not a partition: {a,b,d}, {c,d,e} …. element d appears twice
+– Not a partition of S: {a,b}, {e,c} …. missing element d
+```
 
 #### References:
 
