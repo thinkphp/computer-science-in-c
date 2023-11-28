@@ -16,6 +16,11 @@ no element in common.
 A partition P of a set S is a set of sets {S1,S2,…,Sn} such that
 every element of S is in exactly one Si 
 
+Put another way:
+– S1 ∪ S2 ∪ . . . ∪ Sk = S
+– i ≠ j implies Si ∩ Sj
+ = ∅ (sets are disjoint with each other) 
+
 #### References:
 
 * https://courses.cs.washington.edu/courses/cse373/14sp/lecture10.pdf
