@@ -49,6 +49,24 @@ Example:
 – First-is-younger-than-second relation 
 ```
 
+### Properties of binary relations
+
+```
+• A relation R over set S is reflexive means R(a,a) for all a in S
+– e.g. The relation “<=“ on the set of integers {1, 2, 3} is
+{<1, 1>, <1, 2>, <1, 3>, <2, 2>, <2, 3>, <3, 3>}
+It is reflexive because <1, 1>, <2, 2>, <3, 3> are in this relation.
+• A relation R on a set S is symmetric if and only if for any a and b in S,
+whenever <a, b> is in R , <b, a> is in R .
+– e.g. The relation “=“ on the set of integers {1, 2, 3} is
+{<1, 1> , <2, 2> <3, 3> } and it is symmetric.
+– The relation "being acquainted with" on a set of people is symmetric.
+• A binary relation R over set S is transitive means:
+If R(a,b) and R(b,c) then R(a,c) for all a,b,c in S
+– e.g. The relation “<=“ on the set of integers {1, 2, 3} is transitive, because for
+<1, 2> and <2, 3> in “<=“, <1, 3> is also in “<=“ (and similarly for the others)
+```
+
 #### References:
 
 * https://courses.cs.washington.edu/courses/cse373/14sp/lecture10.pdf
