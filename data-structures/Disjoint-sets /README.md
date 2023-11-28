@@ -7,10 +7,9 @@ A set is a collection of elements (no-repeats)
 * In computer science, two sets are said to be disjoint if they have
 no element in common. 
 
-* For example, {1, 2, 3} and {4, 5, 6} are disjoint sets.
-
+* For example, {1, 2, 3} and {4, 5, 6} are disjoint sets
+.
 • For example, {x, y, z} and {t, u, x} are not disjoint.
-
 
 #### References:
 
