@@ -8,8 +8,13 @@ A set is a collection of elements (no-repeats)
 no element in common. 
 
 * For example, {1, 2, 3} and {4, 5, 6} are disjoint sets
-.
+
 • For example, {x, y, z} and {t, u, x} are not disjoint.
+
+### Partitions
+
+A partition P of a set S is a set of sets {S1,S2,…,Sn} such that
+every element of S is in exactly one Si 
 
 #### References:
 
