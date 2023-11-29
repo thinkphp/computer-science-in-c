@@ -59,4 +59,5 @@
 CS Open CourseWare
 
 * https://www2.cs.uh.edu/~panruowu/2023f_cosc3320/course.html
+* https://learncs.me/curriculum/
 
