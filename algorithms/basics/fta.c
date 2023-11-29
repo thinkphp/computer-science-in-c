@@ -1,3 +1,7 @@
+/*
+ * The Fundamental Theorem of Arithmetic says: 
+ * every integer greater than 1 either is prime itself or is the product of prime numbers, and that this product is unique, up to the order of the factors. 
+ */
 #include <stdio.h>
 
 int main(int argc, char const *argv[]) {
