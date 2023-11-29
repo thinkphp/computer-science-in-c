@@ -113,6 +113,7 @@ Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-
     <p><a href="https://adventofcode.com/">Advent of code</a></p>
   </li>
 </ul>
+https://medium.com/algorithms-and-leetcode/math-related-problems-on-leetcode-9537df481fbe
 
 * https://brilliant.org/wiki/bezouts-identity/
 
