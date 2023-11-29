@@ -48,9 +48,6 @@ https://www.enjoyalgorithms.com/
 
 https://www.best-books.dev/list/best-programming-books
 
-
-#### Modern c++ 
-
 https://conan.iwr.uni-heidelberg.de/data/people/oklein/pdf/klein_modern_cpp.pdf
 
 https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
