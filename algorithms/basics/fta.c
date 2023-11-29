@@ -1,7 +1,3 @@
-/*
- * The Fundamental Theorem of Arithmetic says: 
- * every integer greater than 1 either is prime itself or is the product of prime numbers, and that this product is unique, up to the order of the factors. 
- */
 #include <stdio.h>
 
 int main(int argc, char const *argv[]) {
@@ -12,7 +8,7 @@ int main(int argc, char const *argv[]) {
       fm;//multiplicity factor
 
   printf("%s","Fundamental Theorem of Arithmentic\n");
-  printf("%s\n","Source: https://mathworld.wolfram.com/FundamentalTheoremofArithmetic.html");  
+  printf("%s\n","Source: https://mathworld.wolfram.com/FundamentalTheoremofArithmetic.html");
   printf("%s","Give a N = ");
   //read an integer
   scanf("%d", &n);
@@ -31,9 +27,9 @@ int main(int argc, char const *argv[]) {
           n /= i;
       }
 
-      if(n == 1) printf("%d * %d", i, fm);
+      if(n == 1) printf("%d ^ %d", i, fm);
       else
-      if( fm!=0 ) printf("%d * %d + ", i, fm);
+      if( fm!=0 ) printf("%d ^ %d + ", i, fm);
 
 
       i++;
