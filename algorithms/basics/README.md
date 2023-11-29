@@ -109,12 +109,14 @@ Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-
   <li>
     <p><a href="https://codeforces.com/profile/thinkphp">Codeforce Programming Contests</a></p>
   </li>
-  <li>
-    <p><a href="https://adventofcode.com/">Advent of code</a></p>
-  </li>
-</ul>
-https://medium.com/algorithms-and-leetcode/math-related-problems-on-leetcode-9537df481fbe
 
+  <li>
+    <p><a href="https://medium.com/algorithms-and-leetcode/math-related-problems-on-leetcode-9537df481fbe">problems leetcode </a></p>
+  </li>
+
+</ul>
+
+ 
 * https://brilliant.org/wiki/bezouts-identity/
 
 * https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm#Main_idea_and_Informal_Description
