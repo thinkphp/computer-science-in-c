@@ -1,4 +1,4 @@
-## Algorithms Design
+## Algorithm Design Techniques
 
 
 #### What is computer programming?
