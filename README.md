@@ -75,3 +75,4 @@ Math References:
 * https://brilliant.org/wiki/bezouts-identity/
 * https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
 * https://www.cuemath.com/algebra/nature-of-roots/#What-Do-You-Mean-By-Nature-of-Roots
+* https://www.cuemath.com/geometry/x-intercept/
