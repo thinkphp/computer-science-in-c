@@ -72,3 +72,4 @@ Math References:
 * https://www.cuemath.com/geometry/x-intercept/
 * https://brilliant.org/wiki/vietas-formula/#vietas-formula-problem-solving-easy
 * https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm
+* https://artofproblemsolving.com/wiki/index.php/Goldbach_Conjecture
