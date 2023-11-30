@@ -71,3 +71,4 @@ Math References:
 * https://www.cuemath.com/algebra/nature-of-roots/#What-Do-You-Mean-By-Nature-of-Roots
 * https://www.cuemath.com/geometry/x-intercept/
 * https://brilliant.org/wiki/vietas-formula/#vietas-formula-problem-solving-easy
+* https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm
