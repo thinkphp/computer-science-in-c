@@ -95,6 +95,8 @@ Equivalence relations give rise to partitions.
 ```
 #### References:
 
+* https://www.codingninjas.com/studio/library/disjoint-set-unions-union-find-algorithm
+
 * https://courses.cs.washington.edu/courses/cse373/14sp/lecture10.pdf
 
 * https://cseweb.ucsd.edu/classes/fa14/cse100/lectures/Lec19_annotated_pdf.pdf
