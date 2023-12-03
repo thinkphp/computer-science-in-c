@@ -62,4 +62,5 @@ CS Open CourseWare
 * https://learncs.me/curriculum/
 * https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
 * https://nixdell.com/teaching.html
+* https://courses.cs.washington.edu/courses/cse373/
 
