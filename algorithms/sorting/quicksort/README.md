@@ -2,10 +2,9 @@
 
 Charles Antony Richard Hoare, commonly known as Tony Hoare, He Developed the Sorting Algorithm QuickSort.
 
-![Screenshot](http://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/tony-hoare/images/hoare%20main.jpg)
+## Ideone
 
-## Examples:
-
+* https://ideone.com/Zo9IU0
 * https://ideone.com/wR0f9m
 
 ## References:
