@@ -1,3 +1,9 @@
+/**
+ *  Description   : https://www.infoarena.ro/problema/flip
+ *  Author's name : Adrian Statescu
+ *  License       : MIT Free to use and distribute as long as this note is kept.
+ *  Date          : Dec 10 2023 07:23
+ */
 #include <iostream>
 #define FIN "flip.in"
 #define FOUT "flip.out"
