@@ -45,7 +45,7 @@ https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 
 https://cses.fi/problemset/
 
-### Codeforces | HackerRank | Leetcode
+### Codeforces | HackerRank | Leetcode | Infoarena
 
 Quadratic Equation: 
 * https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
