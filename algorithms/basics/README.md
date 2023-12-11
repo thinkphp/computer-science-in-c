@@ -63,6 +63,8 @@ Triangle https://codeforces.com/contest/6/problem/A
 
 Flip https://www.infoarena.ro/problema/flip
 
+Choose Laptop https://codeforces.com/contest/106/problem/B
+
 ## References
 
 <ul>
