@@ -34,6 +34,7 @@
   * PI Approximation rely on Leibniz (1 - 1/3 + 1/5 - 1/7 + 1/9 -...) and Monte Carlo Methods https://ideone.com/GY5wFH
   * Conjecture of Goldbach https://onlinegdb.com/VVlI37cNf https://ideone.com/kQnmXW
   * Flip https://ideone.com/q3N4Aw
+  * Minimalist Password Generator https://replit.com/@thinkphp/minimalist-password-generator#main.c
 
 ## Practice
 
