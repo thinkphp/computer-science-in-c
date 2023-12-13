@@ -91,8 +91,13 @@ Equivalence relations give rise to partitions.
 – Consider a set of sets S1,S2,…,Sn where
 (1) x and y are in the same Si if and only if R(x,y)
 (2) Every x is in some Si
-• This set of sets is a partition 
+• This set of sets is a partition
 ```
+
+#### Practice
+
+https://codeforces.com/contest/988/problem/A
+
 #### References:
 
 * https://www.codingninjas.com/studio/library/disjoint-set-unions-union-find-algorithm
