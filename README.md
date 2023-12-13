@@ -65,7 +65,7 @@ Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/con
 
 Codeforces Beta Round 82 (Div. 2) https://codeforces.com/contest/106
 
-https://codeforces.com/contest/988
+Codeforces Round 486 (Div. 3) https://codeforces.com/contest/988
 
 Math References:
 
