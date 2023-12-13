@@ -48,6 +48,8 @@ https://cses.fi/problemset/
 
 ### Codeforces | HackerRank | Leetcode | Infoarena
 
+First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+
 Quadratic Equation: 
 * https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
 * https://codeforces.com/contest/20/problem/B
