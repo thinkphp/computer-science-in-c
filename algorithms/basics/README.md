@@ -1,4 +1,4 @@
-## Basics algorithms
+## Basic algorithms
   * Euclid's Algorithm ___
   * Extended Euclid's algorithm https://ideone.com/ysdfZW
   * First Degree Equation https://ideone.com/0V5gc1 https://ideone.com/CUUr4v 
