@@ -102,6 +102,8 @@ https://cses.fi/problemset/task/1675
 
 https://www.infoarena.ro/problema/disjoint
 
+https://leetcode.com/problems/number-of-provinces/description/
+
 #### References:
 
 * https://www.codingninjas.com/studio/library/disjoint-set-unions-union-find-algorithm
