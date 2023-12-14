@@ -97,6 +97,7 @@ Equivalence relations give rise to partitions.
 #### Practice
 
 https://codeforces.com/contest/988/problem/A
+https://cses.fi/problemset/task/1675
 
 #### References:
 
