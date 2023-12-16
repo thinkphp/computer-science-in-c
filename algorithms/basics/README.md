@@ -36,6 +36,7 @@
   * Flip https://ideone.com/q3N4Aw
   * Minimalist Password Generator https://replit.com/@thinkphp/minimalist-password-generator#main.c
   * Choosing Laptop https://ideone.com/q9GxzU
+  * Rook https://ideone.com/BURjNk
 
 ## Practice
 
@@ -68,6 +69,8 @@ Triangle https://codeforces.com/contest/6/problem/A
 Flip https://www.infoarena.ro/problema/flip
 
 Choose Laptop https://codeforces.com/contest/106/problem/B
+
+Rook https://codeforces.com/contest/1907/problem/A
 
 ## References
 
