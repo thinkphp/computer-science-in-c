@@ -35,6 +35,7 @@
   * Conjecture of Goldbach https://onlinegdb.com/VVlI37cNf https://ideone.com/kQnmXW
   * Flip https://ideone.com/q3N4Aw
   * Minimalist Password Generator https://replit.com/@thinkphp/minimalist-password-generator#main.c
+  * Choosing Laptop ____
 
 ## Practice
 
