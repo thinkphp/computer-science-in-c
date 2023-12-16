@@ -72,7 +72,7 @@ https://cses.fi/problemset/
 
 9) Rook https://codeforces.com/contest/1907/problem/A
 
-Love Story https://codeforces.com/problemset/problem/1829/A
+10) Love Story https://codeforces.com/problemset/problem/1829/A
 
 ## References
 
