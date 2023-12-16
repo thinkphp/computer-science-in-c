@@ -72,6 +72,8 @@ Choose Laptop https://codeforces.com/contest/106/problem/B
 
 Rook https://codeforces.com/contest/1907/problem/A
 
+Love Story https://codeforces.com/problemset/problem/1829/A
+
 ## References
 
 <ul>
