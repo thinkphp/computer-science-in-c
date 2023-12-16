@@ -50,27 +50,27 @@ https://cses.fi/problemset/
 
 ### Codeforces | HackerRank | Leetcode | Infoarena
 
-First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+1) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
 
-Quadratic Equation: 
+2) Quadratic Equation: 
 * https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
 * https://codeforces.com/contest/20/problem/B
 * https://codeforces.com/contest/630/problem/N
 * https://codeforces.com/problemset/problem/531/A
 
-Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+3) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
-Divisors of two integers https://codeforces.com/contest/1108/problem/B
+4) Divisors of two integers https://codeforces.com/contest/1108/problem/B
 
-Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
+5) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
 
-Triangle https://codeforces.com/contest/6/problem/A
+6) Triangle https://codeforces.com/contest/6/problem/A
 
-Flip https://www.infoarena.ro/problema/flip
+7) Flip https://www.infoarena.ro/problema/flip
 
-Choose Laptop https://codeforces.com/contest/106/problem/B
+8) Choose Laptop https://codeforces.com/contest/106/problem/B
 
-Rook https://codeforces.com/contest/1907/problem/A
+9) Rook https://codeforces.com/contest/1907/problem/A
 
 Love Story https://codeforces.com/problemset/problem/1829/A
 
