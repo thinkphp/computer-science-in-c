@@ -1,5 +1,23 @@
 /*
-Book: 
+                _ooOoo_
+                  o8888888o
+                  88" . "88
+                  (| -_- |)
+                  O\  =  /O
+               ____/`---'\____
+             .'  \\|     |//  `.
+            /  \\|||  :  |||//  \
+           /  _||||| -:- |||||-  \
+           |   | \\\  -  /// |   |
+           | \_|  ''\---/''  |   |
+           \  .-\__  `-`  ___/-. /
+         ___`. .'  /--.--\  `. . ___
+      ."" '<  `.___\_<|>_/___.'  >'"".
+     | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+     \  \ `-.   \_ __\ /__ _/   .-` /  /
+======`-.____`-.___\_____/___.-`____.-'======
+                   `=---='                   
+Book:
 Fundamentele Programarii. Culegere de probleme pentru clasa a X1-a. Autori: Dana Lica si Mircea Pasoi
 
 Task: Realizati in program care afiseaza numerele obtinute prin permutari circulare ale
@@ -13,3 +31,16 @@ simplu inlantuita. Subprogramul va returna adresa de inceput a listei create pri
 Input: Nr = 1234
 Output: 2341, 3412, 4123, 1234
 */
+
+struct Node {
+
+  int data;
+
+  struct Node *next;
+
+} *head, *aux;
+
+int main(int argc, char const *argv[]) {
+
+  return 0;
+}
