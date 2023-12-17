@@ -13,6 +13,7 @@ the simplest form, each node is composed of data and a reference(in other words 
 
 ### Problem Set
 
+1. Circular Permutation ____
 
 ## References 
 
