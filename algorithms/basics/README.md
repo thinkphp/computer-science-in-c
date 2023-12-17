@@ -58,6 +58,8 @@ https://cses.fi/problemset/
 * https://codeforces.com/contest/630/problem/N
 * https://codeforces.com/problemset/problem/531/A
 
+3) Exponentiation https://infoarena.ro/problema/lgput https://cses.fi/problemset/task/1095/
+
 3) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
 4) Divisors of two integers https://codeforces.com/contest/1108/problem/B
