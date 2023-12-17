@@ -30,47 +30,69 @@ simplu inlantuita. Subprogramul va returna adresa de inceput a listei create pri
 
 Input: Nr = 1234
 Output: 2341, 3412, 4123, 1234
+
 */
-#include <bits/stdc++.h>
+
+#include <iostream>
 
 using namespace std;
 
 struct Node {
-
   int data;
-
   struct Node *next;
-
 } *head, *aux;
 
 long nr;
 
 void CreateList(long nr, struct Node *&p) {
-     p = NULL;
-     struct Node *q;
-     while(nr) {
-       q = new Node;
-       q->data = nr % 10;
-       q->next = p;
-       nr /= 10;
-       p = q;
-     }
-}
-
-void display(struct Node* head) {
-
-  while(head != NULL){
-     printf("%d ", head->data);
-     head = head->next;
+  p = NULL;
+  struct Node *q;
+  while (nr) {
+    q = new Node;
+    q->data = nr % 10;
+    q->next = p;
+    nr /= 10;
+    p = q;
   }
 }
 
-int main(int argc, char const *argv[]) {
+void permut(struct Node *&p) {
 
-    cout<<"Nr=";
-    cin>>nr;
-    CreateList(nr,head);
+  if (p == NULL || p->next == nullptr) {
+    return; // Nothing to permute for empty or single-node list
+  }
+
+  struct Node *q = p;
+
+  while (q->next != nullptr) {
+    q = q->next;
+  }
+
+  q->next = p;
+  
+  p = p->next;
+  
+  q->next->next = nullptr;
+}
+
+void display(struct Node *head) {
+  while (head != NULL) {
+    cout << head->data << " ";
+    head = head->next;
+  }
+  cout << "\n";
+}
+
+int main(int argc, char const *argv[]) {
+  cout << "Nr=";
+  cin >> nr;
+  CreateList(nr, head);
+  display(head);
+  aux = head;
+  do {
+    permut(head);
     display(head);
+  } while (aux != head);
 
   return 0;
 }
