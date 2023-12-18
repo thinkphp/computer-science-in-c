@@ -1,12 +1,13 @@
 
-Creational Patterns:
+### Creational Patterns:
 
 * Singleton Pattern
 * Factory Method Pattern
 * Abstract Factory Pattern
 * Builder Pattern
 * Prototype Pattern
-* Structural Patterns:
+* 
+### Structural Patterns:
 
 * Adapter Pattern
 * Bridge Pattern
@@ -17,7 +18,8 @@ Creational Patterns:
 * Proxy Pattern
 * Behavioral Patterns:
 
-* Chain of Responsibility Pattern
+ ### Chain of Responsibility Pattern
+ 
 * Command Pattern
 * Interpreter Pattern
 * Iterator Pattern
