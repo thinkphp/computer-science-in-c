@@ -21,18 +21,18 @@ private:
     SubscriptionManager() {}
 
 public:
-    // Function to get the instance of SubscriptionManager
+    
     static SubscriptionManager& getInstance() {
         static SubscriptionManager instance;
         return instance;
     }
 
-    // Add a new subscription
+    
     void addSubscription(const std::string& subscriptionName) {
         subscriptions.emplace_back(subscriptionName);
     }
 
-    // Display all subscriptions
+    
     void displaySubscriptions() const {
         std::cout << "All Subscriptions:" << std::endl;
         for (const auto& subscription : subscriptions) {
@@ -54,7 +54,7 @@ int main() {
     // Display all subscriptions
     manager.displaySubscriptions();
 
-    // Attempt to create another instance (compile-time error)
+    // incearca sa creezi o alta instanta (compile-time error)
     // SubscriptionManager manager2; // Error: SubscriptionManager constructor is private
 
     return 0;
