@@ -16,6 +16,10 @@ the simplest form, each node is composed of data and a reference(in other words 
 
 1. Circular Permutation ____
 
+### Basic Operations
+
+https://ideone.com/oFZk9q
+
 ## References 
 
 https://www.eecs.umich.edu/courses/eecs380/ALG/niemann/s_man.htm
