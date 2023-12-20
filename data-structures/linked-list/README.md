@@ -7,6 +7,7 @@ the simplest form, each node is composed of data and a reference(in other words 
 
 ## Implementations:
 
+* https://ideone.com/oFZk9q (Create, Remove, Add After, Add Before, Reverse, Sorting)
 * https://ideone.com/thinkphp/linkedlist
 * https://ideone.com/RdLnGW
 * https://ideone.com/DqIkSZ
@@ -15,10 +16,6 @@ the simplest form, each node is composed of data and a reference(in other words 
 ### Problem Set
 
 1. Circular Permutation ____
-
-### Basic Operations
-
-https://ideone.com/oFZk9q
 
 ## References 
 
