@@ -19,6 +19,8 @@ https://leetcode.com/problems/add-two-numbers/
 
 https://leetcode.com/problems/reverse-linked-list/
 
+https://www.pbinfo.ro/probleme/categorii/111/liste-alocate-dinamic-operatii-cu-liste-simplu-inlantuite
+
 
 ### Ideone
 
