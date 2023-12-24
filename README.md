@@ -69,6 +69,9 @@ Codeforces Round 486 (Div. 3) https://codeforces.com/contest/988
 
 Codeforces Round 907 (Div. 2) https://codeforces.com/contest/1891
 
+### EDU Codeforces
+https://codeforces.com/edu/courses
+
 Math References:
 
 * https://brilliant.org/wiki/bezouts-identity/
