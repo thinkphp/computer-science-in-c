@@ -34,6 +34,8 @@ Create Even Odd lists https://ideone.com/9C2xRf
 
 Remove Negatives https://ideone.com/B6wSSn
 
+Insertion Sort https://ideone.com/PlouhE
+
 
 ## References 
 
