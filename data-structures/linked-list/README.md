@@ -10,7 +10,7 @@ the simplest form, each node is composed of data and a reference(in other words 
 * https://ideone.com/oFZk9q (Create, Remove, Add After, Add Before, Reverse, Sorting)
 * https://ideone.com/RdLnGW
 * https://ideone.com/DqIkSZ
-* https://ideone.com/4VNrKY (Create and Reverse)
+* https://ideone.com/4VNrKY (Reverse)
 
 ### Problem Set
 
@@ -32,6 +32,8 @@ Remove Largest Prime https://ideone.com/QxjP2M
 Create Even Odd lists https://ideone.com/9C2xRf
 
 Remove Negatives https://ideone.com/B6wSSn
+
+Remove Primes https://ideone.com/Osgbuc
 
 Insertion Sort https://ideone.com/PlouhE
 
