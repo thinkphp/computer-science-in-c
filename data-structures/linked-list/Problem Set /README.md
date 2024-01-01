@@ -5,6 +5,7 @@
 3. Remove Largest Prime https://ideone.com/QxjP2M
 4. Create Even Odd lists https://ideone.com/9C2xRf
 5. Remove Negatives https://ideone.com/B6wSSn
+6. Insertion Sort https://ideone.com/PlouhE
 
 
 ### Ideone
