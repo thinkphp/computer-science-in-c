@@ -39,6 +39,7 @@ Remove Primes https://ideone.com/Osgbuc
 
 Insertion Sort https://ideone.com/PlouhE
 
+Merge Two Lists https://ideone.com/1wRUPr
 
 ## References 
 
