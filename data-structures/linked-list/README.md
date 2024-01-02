@@ -20,6 +20,8 @@ https://leetcode.com/problems/reverse-linked-list/
 
 https://www.pbinfo.ro/probleme/categorii/111/liste-alocate-dinamic-operatii-cu-liste-simplu-inlantuite
 
+https://leetcode.com/problems/merge-two-sorted-lists/
+
 
 ### Ideone
 
