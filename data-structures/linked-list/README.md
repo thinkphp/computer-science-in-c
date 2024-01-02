@@ -45,6 +45,7 @@ Merge Two Lists https://ideone.com/1wRUPr
 ### References 
 
 https://www.eecs.umich.edu/courses/eecs380/ALG/niemann/s_man.htm
+https://www.eecs.umich.edu/courses/eecs380/ALG/niemann/s_man.htm
 
 
 ### Ideone
