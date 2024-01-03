@@ -4,4 +4,4 @@ Number of Connected Components in an Undirected Graph https://leetcode.ca/all/32
 
 https://leetcode.ca/2016-10-18-323-Number-of-Connected-Components-in-an-Undirected-Graph/
 
-https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/
+Connected Components for undirected graph using DFS: https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/
