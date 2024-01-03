@@ -18,7 +18,7 @@
 * Proxy Pattern
 * Behavioral Patterns:
 
- ### Chain of Responsibility Pattern
+ ### Behavior Pattern
  
 * Command Pattern
 * Interpreter Pattern
