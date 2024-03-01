@@ -26,6 +26,17 @@ Numerele intregi pozitive se convertesc in baza 2 si se face completarea cu cifr
 
 Exemplu:
 
+Sa determinam forma de reprezentare a numarului intreg 5.
+
+5(10) = 101(2)
+
+Vor fi necesare 4 cifre de 0 nesemnificative, pentru completarea primilor 7 biti, iar pozitia 7 (bitul 8) va fi 0 deoarece numarul este pozitiv.
+
+ _   _   _   _   _  _   _   _
+|0 | 0 | 0 | 0 | 0| 1 | 0 |1 |
+ 
+ 7   6   5   4   3  2   1  0
+
 
 
 
