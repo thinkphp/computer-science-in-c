@@ -80,6 +80,20 @@ Operatorii pe biti se pot aplica datelor ce fac parte din tipurile intregi. Oper
 
 4) Operatorul "sau exclusiv"
 
+5) Operatorul Shift left
+
+6) Operatorul Shift right
+
+### Operatii la nivel de biti.
+
+1) Transformarea unui bit in 1
+
+2) Trasnformarea unui bit in 0
+
+3) Testarea valorii unui bit
+
+4) Testarea valorilor ultimilor biti
+
 
 ### References
 
