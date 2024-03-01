@@ -38,6 +38,27 @@ Vorfi necesare 4 cifre de 0 nesemnificative, pentru completarea primilor 7 biti,
  7   6   5   4   3  2   1  0
 ```
 
+Nu in acelasi mod se face reprezentarea numrelor intregi negative. Pentru aceasta este necesara efectuarea urmatorilor pasi:
+
+1) determinarea reprezentarii interne a numarului ce reprezinta valoarea absoluta a numarului initial. Acesta are bitul de semn egal cu zero.
+
+2) se calculeaza complementul fata de 1 a reprezentarii obtinute la pasul anterior. adica bitul 1 devine 0, iar bitul 0 devine 1.
+
+3) se aduna 1 (adunarea se face in baza 2) la valoarea obtinuta.
+
+
+Exemplu:
+
+Pentru determinarea reprezentarii numarului -8 se procedeaza felul urmator:
+
+- reprezentarea valorii absolute a numarului 8 este: 0000 1000
+
+- complementul fata de 1 este 1111 0111
+ 
+- reprezentarea obtinuta dupa adunarea cu 1 este: 1111 1000
+
+ Deci reprezentarea valorii -8 pe 8 biti este: 11111000
+
 
 
 ### References
