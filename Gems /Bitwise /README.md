@@ -8,13 +8,16 @@ Forma de memorare a intregilor se numeste cod complementar. In functie de lungim
 
 Modul de reprezentare (in cod complementar) va fi prezentat in cele ce urmeaza, folosind reprezentarea pe o lungime de 8 biti, valabila pentru tipul char 
 in c/c++.
-
+```
 _ _ _ _ _ _ _ _ 
 7 6 5 4 3 2 1 0
 
 bit de semn:
 - 0 pentru numar positiv
 - 1 pentru numar negativ
+```
+
+
 ### References
 
 https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/
