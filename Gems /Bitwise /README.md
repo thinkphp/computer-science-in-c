@@ -10,9 +10,10 @@ Modul de reprezentare (in cod complementar) va fi prezentat in cele ce urmeaza, 
 in c/c++.
 ```
 
-_ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ 
-7 6 5 4 3 2 1 0
+ _ _ _ _ _ _ _ _
+| | | | | | | | |
+ _ _ _ _ _ _ _ _ 
+ 7 6 5 4 3 2 1 0
 
 bit de semn:
 - 0 pentru numar positiv
