@@ -20,6 +20,14 @@ bit de semn:
 - 1 pentru numar negativ
 ```
 
+Se observa ca numerotarea pozitiilor se face de la dreapta la stanga (de la 0 la 7), pozitia 7 fiind bit de semn (0 pentru numerele pozitive si 1 pentru numerele negative). Rezulta ca doar 7 biti (pozitiile 0 - 6) se folosesc pentru reprezentarea valorii absolute a numarului. 
+
+Numerele intregi pozitive se convertesc in baza 2 si se face completarea cu cifre 0 nesemnificative, pana la completarea celor 7 biti.
+
+Exemplu:
+
+
+
 
 ### References
 
