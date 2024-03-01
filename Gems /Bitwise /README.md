@@ -9,7 +9,6 @@ Forma de memorare a intregilor se numeste cod complementar. In functie de lungim
 Modul de reprezentare (in cod complementar) va fi prezentat in cele ce urmeaza, folosind reprezentarea pe o lungime de 8 biti, valabila pentru tipul char 
 in c/c++.
 ```
-
  _ _ _ _ _ _ _ _
 | | | | | | | | |
  _ _ _ _ _ _ _ _ 
@@ -30,13 +29,14 @@ Sa determinam forma de reprezentare a numarului intreg 5.
 
 5(10) = 101(2)
 
-Vor fi necesare 4 cifre de 0 nesemnificative, pentru completarea primilor 7 biti, iar pozitia 7 (bitul 8) va fi 0 deoarece numarul este pozitiv.
+Vorfi necesare 4 cifre de 0 nesemnificative, pentru completarea primilor 7 biti, iar pozitia 7 (bitul 8) va fi 0 deoarece numarul este pozitiv.
 
+```
  _   _   _   _   _  _   _   _
 |0 | 0 | 0 | 0 | 0| 1 | 0 |1 |
  
  7   6   5   4   3  2   1  0
-
+```
 
 
 
