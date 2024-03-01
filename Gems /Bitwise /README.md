@@ -59,6 +59,20 @@ Pentru determinarea reprezentarii numarului -8 se procedeaza felul urmator:
 
  Deci reprezentarea valorii -8 pe 8 biti este: 11111000
 
+Dupa cum observam, bitul de semn este 1 ceea ce ne indica faptul ca avem de a face cu un numar negativ.
+
+Putem trage concluzia ca numerele intregi care se pot reprezenta pe 8 biti sunt cuprinse intre: 1000 0000 si 0111 1111, adica -128(10) si 127(10).
+
+
+Asa cum am spus si la inceputul cursului, numerele intregi se pot reprezenta in cod complementar, avand la dispozitie 16, 32, sau 64 de biti. Mecanismul
+este acelasi, insa valorile numerelor cresc.
+
+
+ii) Operatori la nivel de bit.
+
+Operatorii pe biti se pot aplica datelor ce fac parte din tipurile intregi. Operatiile se efectueaza asupra bitilor din reprezentarea interna a numerelor.
+
+#### Operatorul de negatie
 
 
 ### References
