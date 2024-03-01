@@ -68,11 +68,17 @@ Asa cum am spus si la inceputul cursului, numerele intregi se pot reprezenta in 
 este acelasi, insa valorile numerelor cresc.
 
 
-ii) Operatori la nivel de bit.
+#### Operatori la nivel de bit.
 
 Operatorii pe biti se pot aplica datelor ce fac parte din tipurile intregi. Operatiile se efectueaza asupra bitilor din reprezentarea interna a numerelor.
 
-#### Operatorul de negatie
+1) Operatorul de negatie
+
+2) Operatorul de conjunctie
+
+3) Operatorul de disjunctie
+
+4) Operatorul "sau exclusiv"
 
 
 ### References
