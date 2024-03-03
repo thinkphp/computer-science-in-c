@@ -98,3 +98,25 @@ Operatorii pe biti se pot aplica datelor ce fac parte din tipurile intregi. Oper
 ### References
 
 https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/
+
+### Problem Set
+
+https://www.pbinfo.ro/probleme/2711/puterebiti
+
+https://www.pbinfo.ro/probleme/2708/verifparitate
+
+https://www.pbinfo.ro/probleme/2577/getbit
+
+https://www.pbinfo.ro/probleme/2580/setbit0
+
+https://www.pbinfo.ro/probleme/2581/setbit1
+
+https://www.pbinfo.ro/probleme/2589/setlast2
+
+https://www.pbinfo.ro/probleme/2590/removelast2
+
+https://www.pbinfo.ro/probleme/2624/invbits
+
+https://www.pbinfo.ro/probleme/2910/bitswap
+
+https://www.pbinfo.ro/probleme/2672/primulbit
