@@ -22,7 +22,7 @@ universe is in S. The vector can even represent a sequence of moves i
 3.  Partitions (integer)
 4.  Arrangements.
 5.  Combinations.
-6.  Subsets.
+6.  Subsets. https://ideone.com/XcDijE
 7.  Product Cartesian.
 8.  Salesman Travel. https://ideone.com/8zomIJ
 9.  Payment Method.
@@ -68,6 +68,7 @@ https://ideone.com/HIWObq
 ###  Combinations.
 
 ###  Subsets.
+https://ideone.com/XcDijE
 
 ###  Product Cartesian.
 
