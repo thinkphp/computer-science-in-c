@@ -15,7 +15,7 @@ ment where a i contains the ith element of the permutation. Or, the vector might
 represent a given subset S, where a i is true if and only if the ith element of the
 universe is in S. The vector can even represent a sequence of moves i
 
-## Applications
+## Classical Problem Set
 
 1.  Permutations.
 2.  Partitions (set) 
