@@ -51,7 +51,7 @@ https://www.pbinfo.ro/probleme/categorii/28/backtracking-elemente-de-combinatori
 
 https://www.pbinfo.ro/probleme/categorii/50/backtracking-probleme-diverse
     
-## Demos:    
+## Applications    
     
 ###  Permutations.
 
