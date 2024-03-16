@@ -38,6 +38,7 @@
   * Minimalist Password Generator https://replit.com/@thinkphp/minimalist-password-generator#main.c
   * Choosing Laptop https://ideone.com/q9GxzU
   * Rook https://ideone.com/BURjNk
+  * Teams Forming https://ideone.com/AnML2e
 
 ## Practice
 
