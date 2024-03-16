@@ -70,6 +70,9 @@ https://ideone.com/HIWObq
 ###  Subsets.
 https://ideone.com/XcDijE
 
+### Subsets - Sum 
+https://ideone.com/UGLx3Z
+
 ###  Product Cartesian.
 
 ###  Salesman Travel.
