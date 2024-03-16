@@ -77,6 +77,8 @@ https://cses.fi/problemset/
 
 10) Love Story https://codeforces.com/problemset/problem/1829/A
 
+11) Teams Forming https://codeforces.com/contest/1092/problem/B
+
 ## References
 
 <ul>
