@@ -108,6 +108,9 @@ https://ideone.com/HftRzb
 
 ### Mountaineer Problem
 
+### Mouse
+https://ideone.com/1kPWvt
+
 ## Problem Set
 
 https://www.pbinfo.ro/probleme/categorii/27/backtracking
