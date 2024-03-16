@@ -1,0 +1,27 @@
+Pe o tabla dreptunghiulara cu n linii si m coloane
+(n,m<=10), exista zone libere marcate cu 0 si zone cu obstacole
+marcate cu 1. Stiind ca pe tabla se afla un soricel la pozitia (x, y)
+si o bucata de branza la pozitia (z,t), sa se gaseasca toate
+traseele pe care le poate strabate soricelul pana la branza. Acesta
+se poate muta pe tabla in oricare zona alaturata (pe linie sau coloana)
+pozitiei curente, unde nu se afla un obstacol si nu poate repeta o pozitie
+a tablei in cadrul unui traseu.
+
+Din fisierul mouse.in se va citi, in ordine, de pe prima linie
+numerele n,m,x,y,z,t, iar pe urmatoarele n linii codificarea tablei.
+
+Traseele determinate se vor afisa pe ecran, pe cate o linie, in formatul
+din exemplu:
+
+Input:
+4 6 3 1 1 6
+1 0 0 0 0 0
+0 0 1 1 0 1
+0 0 0 0 0 1
+1 1 1 1 1 1
+
+Output:
+(3,1)(2,1)(2,2)(1,2)(1,3)(1,4)(1,5)(1,6)
+(3,1)(2,1)(2,2)(3,2)(3,3)(3,4)(3,5)(2,5)(1,5)(1,6)
+(3,1)(3,2)(2,2)(1,2)(1,3)(1,4)(1,5)(1,6)
+(3,1)(3,2)(3,3)(3,4)(3,5)(2,5)(1,5)(1,6)
