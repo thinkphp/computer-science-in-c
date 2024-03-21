@@ -28,7 +28,7 @@ universe is in S. The vector can even represent a sequence of moves i
 9.  Payment Method.
 10. Photo Problem. https://ideone.com/UTuGBV
 11. Map Color
-12. Functions Surjective
+12. Functions Surjective https://ideone.com/s8qT61
 13. Functions Injective
 14. Labyrinth -> https://ideone.com/aLNCQg
 15. Knight's Tour -> https://ideone.com/KcnbXq
@@ -88,6 +88,7 @@ https://ideone.com/UTuGBV
 ###  Map Color
 
 ###  Functions Surjective
+https://ideone.com/s8qT61
 
 ###  Functions Injective
 
@@ -95,7 +96,8 @@ https://ideone.com/UTuGBV
 https://ideone.com/hALeCJ
 
 ### Knight's Tour
-https://ideone.com/O6UMvb https://ideone.com/1kaCoh
+* https://ideone.com/O6UMvb
+* https://ideone.com/1kaCoh
 
 ### Labyrinth
 https://ideone.com/aLNCQg
