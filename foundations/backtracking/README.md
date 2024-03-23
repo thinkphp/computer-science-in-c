@@ -91,6 +91,7 @@ https://ideone.com/UTuGBV
 https://ideone.com/s8qT61
 
 ###  Functions Injective
+https://ideone.com/gWGseA
 
 ### Queens    
 https://ideone.com/hALeCJ
