@@ -29,7 +29,7 @@ universe is in S. The vector can even represent a sequence of moves i
 10. Photo Problem. https://ideone.com/UTuGBV
 11. Map Color
 12. Functions Surjective https://ideone.com/s8qT61
-13. Functions Injective
+13. Functions Injective https://ideone.com/gWGseA
 14. Labyrinth -> https://ideone.com/aLNCQg
 15. Knight's Tour -> https://ideone.com/KcnbXq
 16. Eight Qeens Puzzle
