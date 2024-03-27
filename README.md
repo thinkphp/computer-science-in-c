@@ -28,7 +28,7 @@ all of the software used to prepare this course) are written in C.
 
 #### References
 
-[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/) Cormen
+[Introduction to Algorithms](https://canvas.projekti.info/ebooks/Introduction_to_algorithms_3rd_edition.pdf) Cormen
 
 [Computer Algorithms](https://www.amazon.com/Ellis-Horowitz/dp/0929306414?ref_=ast_author_dp) Ellis Horowitz
 
