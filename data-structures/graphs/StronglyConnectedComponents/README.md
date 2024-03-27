@@ -11,3 +11,7 @@ https://ideone.com/AhiTUU
 
 ## Ideone
 https://ideone.com/JwVnCp
+
+### References
+
+https://www.cs.cmu.edu/~15451-f20/LectureNotes/dfs-scc.pdf
