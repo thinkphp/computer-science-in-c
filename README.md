@@ -38,7 +38,7 @@ all of the software used to prepare this course) are written in C.
 
 [Books](https://cs.stanford.edu/people/eroberts/books/index.html) Eric Roberts
 
-[Books](__) GoodRich
+[Books](https://canvas.projekti.info/ebooks/Algorithm%20Design%20and%20Applications%5bA4%5d.pdf) GoodRich
 
 https://web.stanford.edu/class/cs97si/
 
