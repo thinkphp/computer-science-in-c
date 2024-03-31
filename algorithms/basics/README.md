@@ -84,6 +84,8 @@ https://cses.fi/problemset/
 
 13) Sum https://codeforces.com/contest/1742/problem/A
 
+14) Increasing https://codeforces.com/contest/1742/problem/B
+
 ## References
 
 <ul>
