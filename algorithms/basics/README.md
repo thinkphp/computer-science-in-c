@@ -72,13 +72,15 @@ https://cses.fi/problemset/
 
 7) Flip https://www.infoarena.ro/problema/flip
 
-8) Choose Laptop https://codeforces.com/contest/106/problem/B
+8) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/   
 
-9) Rook https://codeforces.com/contest/1907/problem/A
+9) Choose Laptop https://codeforces.com/contest/106/problem/B
 
-10) Love Story https://codeforces.com/problemset/problem/1829/A
+10) Rook https://codeforces.com/contest/1907/problem/A
 
-11) Teams Forming https://codeforces.com/contest/1092/problem/B
+11) Love Story https://codeforces.com/problemset/problem/1829/A
+
+12) Teams Forming https://codeforces.com/contest/1092/problem/B
 
 ## References
 
