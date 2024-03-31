@@ -82,6 +82,8 @@ https://cses.fi/problemset/
 
 12) Teams Forming https://codeforces.com/contest/1092/problem/B
 
+13) Sum https://codeforces.com/contest/1742/problem/A
+
 ## References
 
 <ul>
