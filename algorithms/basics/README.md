@@ -86,6 +86,9 @@ https://cses.fi/problemset/
 
 14) Increasing https://codeforces.com/contest/1742/problem/B
 
+15) https://csacademy.com/contest/archive/task/frequent-numbers
+
+
 ## References
 
 <ul>
