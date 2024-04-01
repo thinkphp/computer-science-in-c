@@ -72,8 +72,6 @@ https://cses.fi/problemset/
 
 7) Flip https://www.infoarena.ro/problema/flip
 
-8) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/   
-
 9) Choose Laptop https://codeforces.com/contest/106/problem/B
 
 10) Rook https://codeforces.com/contest/1907/problem/A
@@ -86,7 +84,9 @@ https://cses.fi/problemset/
 
 14) Increasing https://codeforces.com/contest/1742/problem/B
 
-15) https://csacademy.com/contest/archive/task/frequent-numbers
+15) Frequent Numbers https://csacademy.com/contest/archive/task/frequent-numbers
+
+16) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/   
 
 
 ## References
