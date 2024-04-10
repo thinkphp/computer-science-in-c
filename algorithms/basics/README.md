@@ -146,7 +146,11 @@ https://cses.fi/problemset/
 
 </ul>
 
-* https://brilliant.org/wiki/bezouts-identity/
+* https://brilliant.org/wiki/bezouts-identity
+
+* https://brilliant.org/wiki/extended-euclidean-algorithm/
+
+
 
 * https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm#Main_idea_and_Informal_Description
 
