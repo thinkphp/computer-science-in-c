@@ -9,7 +9,7 @@ In a priority queue, each element has a priority value associated with it. When 
 https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/
 
 ```
-// C++ program to demonstrate the use of priority_queue
+
 #include <iostream>
 #include <queue>
 using namespace std;
@@ -45,8 +45,6 @@ int main()
 ```
 
 ```
-// C++ program to demonstrate
-// min heap for priority queue
 #include <iostream>
 #include <queue>
 using namespace std;
