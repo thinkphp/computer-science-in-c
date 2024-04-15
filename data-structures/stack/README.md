@@ -34,11 +34,6 @@ int main(int argc, char const *argv[]) {
 }
 ```
 
-Problems:
-
-https://www.infoarena.ro/problema/nrpits
-
-https://www.pbinfo.ro/probleme/3533/oop-3 
-* Solutions: 
-* https://ideone.com/cMWjH0 
-* https://onlinegdb.com/aCDFiF1Q5z
+Problem Set:
+1. https://www.infoarena.ro/problema/nrpits
+2. https://www.pbinfo.ro/probleme/3533/oop-3 ---> https://ideone.com/cMWjH0 https://onlinegdb.com/aCDFiF1Q5z
