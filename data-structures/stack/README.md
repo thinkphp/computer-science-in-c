@@ -36,6 +36,8 @@ int main(int argc, char const *argv[]) {
 
 Problems:
 
+https://www.infoarena.ro/problema/nrpits
+
 https://www.pbinfo.ro/probleme/3533/oop-3 
 * Solutions: 
 * https://ideone.com/cMWjH0 
