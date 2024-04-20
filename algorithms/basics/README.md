@@ -86,7 +86,9 @@ https://cses.fi/problemset/
 
 15) Frequent Numbers https://csacademy.com/contest/archive/task/frequent-numbers
 
-16) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/   
+16) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/
+
+17)  https://codeforces.com/contest/45/problem/A
 
 
 ## References
