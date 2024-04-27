@@ -10,7 +10,7 @@ Graph Valid Tree
 * https://leetcode.ca/all/323.html 
 
 # graph.in
-5
+5 <br/>
 1 4 <br/>
 2 3  <br/>
 2 4 <br/>
