@@ -8,3 +8,10 @@ Connected Components for undirected graph using DFS:
 
 Graph Valid Tree
 * https://leetcode.ca/all/323.html 
+
+# graph.in
+5
+1 4
+2 3
+2 4
+4 5
