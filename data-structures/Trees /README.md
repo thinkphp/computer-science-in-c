@@ -12,6 +12,6 @@ Graph Valid Tree
 # graph.in
 5
 1 4 <br/>
-2 3
-2 4
-4 5
+2 3  <br/>
+2 4 <br/>
+4 5 <br/>
