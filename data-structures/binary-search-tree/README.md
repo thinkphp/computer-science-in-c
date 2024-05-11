@@ -4,7 +4,7 @@
 
 * https://en.wikipedia.org/wiki/Binary_search_tree
 
-## mplementations
+## Implementations
 
 * https://ideone.com/a7UJXh
 * https://ideone.com/tdjjGu
