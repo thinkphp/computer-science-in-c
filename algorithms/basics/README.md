@@ -39,6 +39,7 @@
   * Choosing Laptop https://ideone.com/q9GxzU
   * Rook https://ideone.com/BURjNk
   * Teams Forming https://ideone.com/AnML2e
+  * Make it beautiful
 
 ## Practice
 
@@ -91,6 +92,8 @@ https://cses.fi/problemset/
 17)  https://codeforces.com/contest/45/problem/A
 
 18)  https://codeforces.com/contest/17/problem/A
+
+19)  https://codeforces.com/contest/1783/problem/A
 
 
 ## References
