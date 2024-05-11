@@ -90,6 +90,8 @@ https://cses.fi/problemset/
 
 17)  https://codeforces.com/contest/45/problem/A
 
+18)  https://codeforces.com/contest/17/problem/A
+
 
 ## References
 
