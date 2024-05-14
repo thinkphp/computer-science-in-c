@@ -8,3 +8,4 @@ Binary Search
 * https://www.hackerrank.com/challenges/tree-postorder-traversal/problem
 * https://www.pbinfo.ro/probleme/761/inaltime1
 * https://www.pbinfo.ro/probleme/760/knivel1
+* https://www.pbinfo.ro/solutii/user/thinkphp/problema/3010/bst
