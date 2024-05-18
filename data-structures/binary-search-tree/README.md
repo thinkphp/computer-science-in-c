@@ -7,6 +7,7 @@
 ### Problem Set
 
 https://www.pbinfo.ro/probleme/3010/bst
+https://www.pbinfo.ro/probleme/4088/bstq
 
 ## Ideone
 
