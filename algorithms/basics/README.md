@@ -89,7 +89,7 @@ https://cses.fi/problemset/
 
 16) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/
 
-17)  https://codeforces.com/contest/45/problem/A
+17)  Codecraft III https://codeforces.com/contest/45/problem/A
 
 18)  Noldbach problem https://codeforces.com/contest/17/problem/A
 
