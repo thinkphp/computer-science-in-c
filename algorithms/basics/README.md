@@ -97,7 +97,9 @@ https://cses.fi/problemset/
 
 20)  https://codeforces.com/contest/27/problem/A
 
-21)  Chess for three https://codeforces.com/contest/1973/problem/A 
+21)  Chess for three https://codeforces.com/contest/1973/problem/A
+
+22)  Line https://codeforces.com/contest/7/problem/C
 
 
 ## References
