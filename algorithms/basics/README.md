@@ -95,6 +95,10 @@ https://cses.fi/problemset/
 
 19)  https://codeforces.com/contest/1783/problem/A
 
+20)  https://codeforces.com/contest/27/problem/A
+
+21)  Chess for three https://codeforces.com/contest/1973/problem/A 
+
 
 ## References
 
