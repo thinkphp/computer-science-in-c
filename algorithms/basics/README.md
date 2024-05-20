@@ -93,9 +93,9 @@ https://cses.fi/problemset/
 
 18)  https://codeforces.com/contest/17/problem/A
 
-19)  https://codeforces.com/contest/1783/problem/A
+19)  Make it beautiful https://codeforces.com/contest/1783/problem/A
 
-20)  https://codeforces.com/contest/27/problem/A
+20)  Next Test https://codeforces.com/contest/27/problem/A
 
 21)  Chess for three https://codeforces.com/contest/1973/problem/A
 
