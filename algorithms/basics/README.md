@@ -91,7 +91,7 @@ https://cses.fi/problemset/
 
 17)  https://codeforces.com/contest/45/problem/A
 
-18)  https://codeforces.com/contest/17/problem/A
+18)  Noldbach problem https://codeforces.com/contest/17/problem/A
 
 19)  Make it beautiful https://codeforces.com/contest/1783/problem/A
 
