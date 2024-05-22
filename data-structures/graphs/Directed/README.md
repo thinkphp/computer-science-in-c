@@ -16,3 +16,5 @@ We will label the nodes from 1 to m edges connect some pairs of nodes
 ## Set Problems
 
 https://www.pbinfo.ro/probleme/575/cunoscuti
+
+https://www.pbinfo.ro/probleme/4027/longestpath
