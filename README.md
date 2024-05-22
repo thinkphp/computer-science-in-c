@@ -69,6 +69,10 @@ Codeforces Beta Round 82 (Div. 2) https://codeforces.com/contest/106
 
 Codeforces Round 486 (Div. 3) https://codeforces.com/contest/988
 
+Codeforces Round 479 (Div. 3) https://codeforces.com/contest/977
+
+Codeforces Round 481 (Div. 3) https://codeforces.com/contest/978
+
 Codeforces Round 907 (Div. 2) https://codeforces.com/contest/1891
 
 Codeforces Round 928 (Div. 4) https://codeforces.com/contest/1926
