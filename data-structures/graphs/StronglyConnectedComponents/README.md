@@ -13,8 +13,7 @@ https://ideone.com/AhiTUU
 https://ideone.com/JwVnCp
 
 ### Problem Set
-
-https://www.pbinfo.ro/solutii/user/thinkphp/problema/1500/nuclee
+https://www.pbinfo.ro/probleme/1500/nuclee
 
 
 ### References
