@@ -57,4 +57,4 @@ int main(int argc, char const *argv[]) {
 
 ### Problem Set
 
-https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=queue
+https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=queues
