@@ -34,7 +34,7 @@ int main(int argc, char const *argv[]) {
 }
 ```
 
-Problem Set:
-0. https://www.hackerrank.com/challenges/balanced-brackets/problem
-1. https://www.infoarena.ro/problema/nrpits
-2. https://www.pbinfo.ro/probleme/3533/oop-3 Sources: https://ideone.com/cMWjH0 | https://onlinegdb.com/aCDFiF1Q5z
+### Problem Set
+* https://www.hackerrank.com/challenges/balanced-brackets/problem
+* https://www.infoarena.ro/problema/nrpits
+* https://www.pbinfo.ro/probleme/3533/oop-3 Sources: https://ideone.com/cMWjH0 | https://onlinegdb.com/aCDFiF1Q5z
