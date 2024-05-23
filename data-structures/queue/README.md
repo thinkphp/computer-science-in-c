@@ -54,3 +54,7 @@ int main(int argc, char const *argv[]) {
 
 * https://ideone.com/IAhrkr
 * https://ideone.com/yjtvIG
+
+### Problem Set
+
+https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=queue
