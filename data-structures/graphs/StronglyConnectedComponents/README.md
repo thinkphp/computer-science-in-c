@@ -12,6 +12,11 @@ https://ideone.com/AhiTUU
 ## Ideone
 https://ideone.com/JwVnCp
 
+### Problem Set
+
+https://www.pbinfo.ro/solutii/user/thinkphp/problema/1500/nuclee
+
+
 ### References
 
 https://www.cs.cmu.edu/~15451-f20/LectureNotes/dfs-scc.pdf
