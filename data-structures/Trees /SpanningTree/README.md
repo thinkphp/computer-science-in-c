@@ -1,5 +1,5 @@
-/*
 Notiunea de arbore partial:
+--------------------------
 
 Practica. Unde folosim arbori partiali
 
@@ -45,7 +45,7 @@ Problema:
 Se da un graf neorientat, G = (V, E). Se cere un graf partial al sau care este arbore. O astfel de structura se numeste ARBORE PARTIAL.
 
 Arborele partial de cost minim: KRUSKAL si PRIM (Clasici)
-*/
+
 
 ```c++
 
