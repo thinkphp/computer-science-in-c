@@ -63,7 +63,7 @@ Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/con
 
 VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
 
-Codeforces Alpha Round 20 https://codeforces.com/contest/20 (B. Equation, C. Dijkstra?)
+Codeforces Alpha Round 20 https://codeforces.com/contest/20 (A. BerOS file system1, B. Equation, C. Dijkstra?)
 
 Codeforces Beta Round 82 (Div. 2) https://codeforces.com/contest/106
 
