@@ -47,6 +47,7 @@ Se da un graf neorientat, G = (V, E). Se cere un graf partial al sau care este a
 Arborele partial de cost minim: KRUSKAL si PRIM (Clasici)
 */
 
+```c++
 
 #include <iostream>
 #define FIN "graph.in"
@@ -91,3 +92,4 @@ int main(int argc, char const *argv[]) {
   DFS(1);
   return 0;
 }
+```
