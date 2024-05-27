@@ -73,6 +73,8 @@ Codeforces Round 907 (Div. 2) https://codeforces.com/contest/1891
 
 Codeforces Round 134 (Div. 2) https://codeforces.com/contest/218
 
+Codeforces Round 587 (Div. 3) https://codeforces.com/contest/1216
+
 Codeforces Round 486 (Div. 3) https://codeforces.com/contest/988
 
 Codeforces Round 479 (Div. 3) https://codeforces.com/contest/977
