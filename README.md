@@ -67,6 +67,8 @@ Codeforces Alpha Round 20 https://codeforces.com/contest/20 (A. BerOS file syste
 
 Educational Codeforces Round 161 (Rated for Div. 2) https://codeforces.com/contest/1922
 
+Codeforces Beta Round 91 (Div. 2) https://codeforces.com/contest/122
+
 Codeforces Round 948 (Div. 2) https://codeforces.com/contest/1977
 
 Codeforces Beta Round 82 (Div. 2) https://codeforces.com/contest/106
