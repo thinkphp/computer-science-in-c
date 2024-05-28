@@ -89,7 +89,7 @@ Codeforces Round 640 (Div. 4) https://codeforces.com/contest/1352
 
 Codeforces Round 784 (Div. 4) https://codeforces.com/contest/1669
 
-Good Bye 2020 https://codeforces.com/contest/1466
+Good Bye 2020 https://codeforces.com/contest/1466 Editorial: https://codeforces.com/blog/entry/86126
 
 ### EDU Codeforces
 https://codeforces.com/edu/courses
