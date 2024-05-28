@@ -91,9 +91,9 @@ Codeforces Round 784 (Div. 4) https://codeforces.com/contest/1669
 
 Good Bye 2014 https://codeforces.com/contest/500
 
-Good Bye 2015 https://codeforces.com/contest/611
+Good Bye 2015 https://codeforces.com/contest/611 Editorial: https://codeforces.com/blog/entry/22441
 
-Good Bye 2016 https://codeforces.com/contest/611
+Good Bye 2016 https://codeforces.com/contest/611 Editorial: https://codeforces.com/blog/entry/49412
 
 Good Bye 2017 https://codeforces.com/contest/908 Editorial: https://codeforces.com/blog/entry/56713 https://codeforces.com/blog/entry/56848
 
