@@ -89,7 +89,7 @@ Codeforces Round 640 (Div. 4) https://codeforces.com/contest/1352
 
 Codeforces Round 784 (Div. 4) https://codeforces.com/contest/1669
 
-Good Bye 2014 https://codeforces.com/contest/500
+Good Bye 2014 https://codeforces.com/contest/500 Editorial: https://codeforces.com/blog/entry/15513
 
 Good Bye 2015 https://codeforces.com/contest/611 Editorial: https://codeforces.com/blog/entry/22441
 
