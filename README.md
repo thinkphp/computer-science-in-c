@@ -103,9 +103,9 @@ Good Bye 2019 https://codeforces.com/contest/1270 Editorial: https://codeforces.
                                                   
 Good Bye 2020 https://codeforces.com/contest/1466 Editorial: https://codeforces.com/blog/entry/86126
 
-Good Bye 2021: 2022 is NEAR https://codeforces.com/contest/1616  Editorial: https://codeforces.com/blog/entry/98501
+Good Bye 2021 https://codeforces.com/contest/1616  Editorial: https://codeforces.com/blog/entry/98501
 
-Good Bye 2022: 2023 is NEAR https://codeforces.com/contest/1770 Editorial: https://codeforces.com/blog/entry/110754
+Good Bye 2022 https://codeforces.com/contest/1770 Editorial: https://codeforces.com/blog/entry/110754
 
 Good Bye 2023 https://codeforces.com/contest/1916 Editorial: https://codeforces.com/blog/entry/124138 
 
