@@ -70,6 +70,8 @@ Codeforces Alpha Round 20 https://codeforces.com/contest/20 (A. BerOS file syste
 
 #### Div. 2
 
+https://codeforces.com/contest/365
+
 Codeforces Round 726 (Div. 2) https://codeforces.com/contest/1537
 
 Codeforces Round 926 (Div. 2) https://codeforces.com/contest/1929
