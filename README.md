@@ -65,12 +65,16 @@ VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
 
 Codeforces Alpha Round 20 https://codeforces.com/contest/20 (A. BerOS file system1, B. Equation, C. Dijkstra?)
 
+April Fools Day Contest 2024 https://codeforces.com/contest/1952
+
 #### Div. 1
 
 
 #### Div. 2
 
 https://codeforces.com/contest/365
+
+https://codeforces.com/contest/1944
 
 Codeforces Round 726 (Div. 2) https://codeforces.com/contest/1537
 
