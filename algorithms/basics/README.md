@@ -106,6 +106,8 @@ https://cses.fi/problemset/
 
 23)  4Sum https://leetcode.com/problems/4sum/description/
 
+24)  Marathon https://codeforces.com/contest/1692/problem/A
+
 
 ## References
 
