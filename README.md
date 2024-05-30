@@ -120,6 +120,15 @@ Codeforces Round 835 (Div. 4) https://codeforces.com/contest/1760
 
 Codeforces Round 849 (Div. 4) https://codeforces.com/contest/1791
 
+Codeforces Round 859 (Div. 4) https://codeforces.com/contest/1807
+
+Codeforces Round 827 (Div. 4) https://codeforces.com/contest/1742
+
+Codeforces Round 817 (Div. 4) https://codeforces.com/contest/1722
+
+Codeforces Round 790 (Div. 4) https://codeforces.com/contest/1676
+
+
 
 ####  Happy New Year
 
