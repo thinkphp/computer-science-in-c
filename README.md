@@ -96,6 +96,8 @@ Codeforces Round 134 (Div. 2) https://codeforces.com/contest/218
 
 #### Div.3 
 
+Codeforces Round 920 (Div. 3) https://codeforces.com/contest/1921
+
 Codeforces Round 587 (Div. 3) https://codeforces.com/contest/1216
 
 Codeforces Round 486 (Div. 3) https://codeforces.com/contest/988
