@@ -1,5 +1,5 @@
 ## Basic algorithms
-  * Euclid's Algorithm ___
+  * Euclid's Algorithm ___ https://codeforces.com/contest/1933/problem/D
   * Extended Euclid's algorithm https://ideone.com/ysdfZW
   * First Degree Equation https://ideone.com/0V5gc1 https://ideone.com/CUUr4v 
   * Quadratic Equation Roots https://ideone.com/imJbsP 
