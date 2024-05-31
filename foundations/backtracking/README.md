@@ -46,6 +46,8 @@ universe is in S. The vector can even represent a sequence of moves i
 
 ## Practice
 
+https://leetcode.com/tag/backtracking/
+
 https://www.pbinfo.ro/probleme/categorii/51/backtracking-backtracking-in-plan
 
 https://www.pbinfo.ro/probleme/categorii/28/backtracking-elemente-de-combinatorica
