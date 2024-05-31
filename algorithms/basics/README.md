@@ -61,8 +61,7 @@ https://cses.fi/problemset/
 
 2) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
 
-3) Quadratic Equation: 
-* https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
+3) Quadratic Equation: https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
 * https://codeforces.com/contest/20/problem/B
 * https://codeforces.com/contest/630/problem/N
 * https://codeforces.com/problemset/problem/531/A
