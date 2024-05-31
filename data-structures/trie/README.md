@@ -1,4 +1,4 @@
-## Trie Data Structure
+### Trie Data Structure
 
 In computer science, a trie, also called digital tree and sometimes radis tree or prefix tree, is an ordered tree data
 structure that is used to store a dynamic set or associative array where the keys are usually strings.
