@@ -69,6 +69,7 @@ April Fools Day Contest 2024 https://codeforces.com/contest/1952
 
 #### Div. 1
 
+Codeforces Round 808 (Div. 1) https://codeforces.com/contest/1707
 
 #### Div. 2
 
