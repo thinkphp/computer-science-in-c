@@ -19,3 +19,5 @@ https://infoarena.ro/problema/cautbin
 https://www.pbinfo.ro/probleme/categorii/155/tablouri-unidimensionale-vectori-cautare-binara
 
 https://leetcode.com/problems/valid-triangle-number/
+
+https://leetcode.com/problems/valid-perfect-square/description/
