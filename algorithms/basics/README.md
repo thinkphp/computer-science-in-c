@@ -1,5 +1,5 @@
 ## Basic algorithms
-  * Euclid's Algorithm ___ https://codeforces.com/contest/1933/problem/D
+  * Euclid's Algorithm ___ 
   * Extended Euclid's algorithm https://ideone.com/ysdfZW
   * First Degree Equation https://ideone.com/0V5gc1 https://ideone.com/CUUr4v 
   * Quadratic Equation Roots https://ideone.com/imJbsP 
@@ -57,57 +57,59 @@ https://cses.fi/problemset/
 
 ### Codeforces | HackerRank | Leetcode | Infoarena
 
-1) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+1) GCD https://codeforces.com/contest/1933/problem/D
 
-2) Quadratic Equation: 
+2) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+
+3) Quadratic Equation: 
 * https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
 * https://codeforces.com/contest/20/problem/B
 * https://codeforces.com/contest/630/problem/N
 * https://codeforces.com/problemset/problem/531/A
 
-3) Exponentiation https://infoarena.ro/problema/lgput https://cses.fi/problemset/task/1095/
+4) Exponentiation https://infoarena.ro/problema/lgput https://cses.fi/problemset/task/1095/
 
-3) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+5) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
-4) Divisors of two integers https://codeforces.com/contest/1108/problem/B
+6) Divisors of two integers https://codeforces.com/contest/1108/problem/B
 
-5) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
+7) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
 
-6) Triangle https://codeforces.com/contest/6/problem/A
+8) Triangle https://codeforces.com/contest/6/problem/A
 
-7) Flip https://www.infoarena.ro/problema/flip
+9) Flip https://www.infoarena.ro/problema/flip
 
-9) Choose Laptop https://codeforces.com/contest/106/problem/B
+10) Choose Laptop https://codeforces.com/contest/106/problem/B
 
-10) Rook https://codeforces.com/contest/1907/problem/A
+11) Rook https://codeforces.com/contest/1907/problem/A
 
-11) Love Story https://codeforces.com/problemset/problem/1829/A
+12) Love Story https://codeforces.com/problemset/problem/1829/A
 
-12) Teams Forming https://codeforces.com/contest/1092/problem/B
+13) Teams Forming https://codeforces.com/contest/1092/problem/B
 
-13) Sum https://codeforces.com/contest/1742/problem/A
+14) Sum https://codeforces.com/contest/1742/problem/A
 
-14) Increasing https://codeforces.com/contest/1742/problem/B
+15) Increasing https://codeforces.com/contest/1742/problem/B
 
-15) Frequent Numbers https://csacademy.com/contest/archive/task/frequent-numbers
+16) Frequent Numbers https://csacademy.com/contest/archive/task/frequent-numbers
 
-16) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/
+17) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/
 
-17)  Codecraft III https://codeforces.com/contest/45/problem/A
+18)  Codecraft III https://codeforces.com/contest/45/problem/A
 
-18)  Noldbach problem https://codeforces.com/contest/17/problem/A
+19)  Noldbach problem https://codeforces.com/contest/17/problem/A
 
-19)  Make it beautiful https://codeforces.com/contest/1783/problem/A
+20)  Make it beautiful https://codeforces.com/contest/1783/problem/A
 
-20)  Next Test https://codeforces.com/contest/27/problem/A
+21)  Next Test https://codeforces.com/contest/27/problem/A
 
-21)  Chess for three https://codeforces.com/contest/1973/problem/A
+22)  Chess for three https://codeforces.com/contest/1973/problem/A
 
-22)  Line https://codeforces.com/contest/7/problem/C
+23)  Line https://codeforces.com/contest/7/problem/C
 
-23)  4Sum https://leetcode.com/problems/4sum/description/
+24)  4Sum https://leetcode.com/problems/4sum/description/
 
-24)  Marathon https://codeforces.com/contest/1692/problem/A
+25)  Marathon https://codeforces.com/contest/1692/problem/A
 
 
 ## References
