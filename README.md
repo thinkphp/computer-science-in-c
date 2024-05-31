@@ -107,6 +107,8 @@ Codeforces Round 479 (Div. 3) https://codeforces.com/contest/977
 
 Codeforces Round 481 (Div. 3) https://codeforces.com/contest/978
 
+Codeforces Round 929 (Div. 3) https://codeforces.com/contest/1933
+
 #### Div. 4
 
 Codeforces Round 799 (Div. 4) https://codeforces.com/contest/1692
