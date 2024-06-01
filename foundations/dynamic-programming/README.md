@@ -81,6 +81,8 @@ https://www.pbinfo.ro/probleme/1886/rucsac1
 
 https://www.pbinfo.ro/probleme/4439/limbajformal
 
+https://www.pbinfo.ro/probleme/4576/bilbob
+
 ## References
 
 https://www.cs.princeton.edu/courses/archive/spring21/cos226/lectures/DynamicProgramming.pdf
