@@ -165,7 +165,7 @@ Good Bye 2023 https://codeforces.com/contest/1916 Editorial: https://codeforces.
 ### EDU Codeforces
 https://codeforces.com/edu/courses
 
-Math References:
+### Math References:
 
 * https://brilliant.org/wiki/bezouts-identity/
 * https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
