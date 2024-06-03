@@ -62,6 +62,7 @@ The Definitive C++ Book Guide and List https://stackoverflow.com/questions/38824
 #### Educational Codeforces 
 
 Round  1 https://codeforces.com/contest/598
+
 Round 26 https://codeforces.com/contest/837
 
 Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/contest/630
