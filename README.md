@@ -59,10 +59,6 @@ The Definitive C++ Book Guide and List https://stackoverflow.com/questions/38824
 
 ### Programming Contests
 
-#### AtCoder
-
-https://atcoder.jp/contests/abc272/tasks
-
 #### Educational Codeforces 
 
 Round  1 https://codeforces.com/contest/598
@@ -168,6 +164,10 @@ Good Bye 2023 https://codeforces.com/contest/1916 Editorial: https://codeforces.
 
 ### EDU Codeforces
 https://codeforces.com/edu/courses
+
+#### AtCoder
+https://atcoder.jp/contests/abc272/tasks
+
 
 ### Math References:
 
