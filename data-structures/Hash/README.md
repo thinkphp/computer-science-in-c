@@ -11,6 +11,8 @@ https://infoarena.ro/problema/hashuri
 
 https://leetcode.com/tag/hash-table/
 
+https://leetcode.com/problems/two-sum/description/
+
 ### References
 
 https://algs4.cs.princeton.edu/34hash/
