@@ -9,6 +9,8 @@ Search algorithms that use hashing consist of two separate parts. The first step
 
 https://infoarena.ro/problema/hashuri
 
+https://leetcode.com/tag/hash-table/
+
 ### References
 
 https://algs4.cs.princeton.edu/34hash/
