@@ -165,6 +165,12 @@ Good Bye 2023 https://codeforces.com/contest/1916 Editorial: https://codeforces.
 ### EDU Codeforces
 https://codeforces.com/edu/courses
 
+
+### Baltic Olympiad in Informatics 2020
+Day 1: https://codeforces.com/contest/1386
+
+Day 2: https://codeforces.com/contest/1387
+
 ### AtCoder
 https://atcoder.jp/contests/abc272/tasks
 
