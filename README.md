@@ -26,37 +26,6 @@ all of the software used to prepare this course) are written in C.
 
 #### Variables and Arithmentic Expressions
 
-#### References
-
-[Introduction to Algorithms](https://canvas.projekti.info/ebooks/Introduction_to_algorithms_3rd_edition.pdf) Cormen
-
-[Computer Algorithms](https://www.amazon.com/Ellis-Horowitz/dp/0929306414?ref_=ast_author_dp) Ellis Horowitz
-
-[Fundamentals of Computer Algorithms](https://www.amazon.com/dp/B01FGIRFCG?ref_=ast_author_dp) Ellis Horowitz
-
-[Fundamentals of Data Structures in C++ ](https://www.amazon.com/dp/B01FIZZFU6?ref_=ast_author_dp) Ellis Horowitz
-
-[Books](https://cs.stanford.edu/people/eroberts/books/index.html) Eric Roberts
-
-[Books](https://canvas.projekti.info/ebooks/Algorithm%20Design%20and%20Applications%5bA4%5d.pdf) GoodRich
-
-https://web.stanford.edu/class/cs97si/
-
-https://www.cs.cmu.edu/~15451-f20/LectureNotes/
-
-https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm
-
-https://www.enjoyalgorithms.com/
-
-https://www.best-books.dev/list/best-programming-books
-
-https://conan.iwr.uni-heidelberg.de/data/people/oklein/pdf/klein_modern_cpp.pdf
-
-https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
-
-The Definitive C++ Book Guide and List https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
-
-
 ### Programming Contests
 
 #### Educational Codeforces 
@@ -192,3 +161,34 @@ https://atcoder.jp/contests/abc349/tasks
 * https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm
 * https://artofproblemsolving.com/wiki/index.php/Goldbach_Conjecture
 * https://artofproblemsolving.com/wiki/index.php/Math_books
+
+#### References
+
+[Introduction to Algorithms](https://canvas.projekti.info/ebooks/Introduction_to_algorithms_3rd_edition.pdf) Cormen
+
+[Computer Algorithms](https://www.amazon.com/Ellis-Horowitz/dp/0929306414?ref_=ast_author_dp) Ellis Horowitz
+
+[Fundamentals of Computer Algorithms](https://www.amazon.com/dp/B01FGIRFCG?ref_=ast_author_dp) Ellis Horowitz
+
+[Fundamentals of Data Structures in C++ ](https://www.amazon.com/dp/B01FIZZFU6?ref_=ast_author_dp) Ellis Horowitz
+
+[Books](https://cs.stanford.edu/people/eroberts/books/index.html) Eric Roberts
+
+[Books](https://canvas.projekti.info/ebooks/Algorithm%20Design%20and%20Applications%5bA4%5d.pdf) GoodRich
+
+https://web.stanford.edu/class/cs97si/
+
+https://www.cs.cmu.edu/~15451-f20/LectureNotes/
+
+https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm
+
+https://www.enjoyalgorithms.com/
+
+https://www.best-books.dev/list/best-programming-books
+
+https://conan.iwr.uni-heidelberg.de/data/people/oklein/pdf/klein_modern_cpp.pdf
+
+https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
+
+The Definitive C++ Book Guide and List https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+
