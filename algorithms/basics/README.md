@@ -4,6 +4,7 @@
   * First Degree Equation https://ideone.com/0V5gc1 https://ideone.com/CUUr4v 
   * Quadratic Equation Roots https://ideone.com/imJbsP 
   * Nature Roots Quadratic Equation https://ideone.com/ct57BL https://ideone.com/jHvYz5
+  * Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
   * Fundamental Theorem of Arithmetic https://ideone.com/J2gTCz
   * Sum of two fractions F1 and F2 Basic example using Euclid, struct, pointers https://ideone.com/UU3mPG
   * Atoi function synonim https://ideone.com/oWucrp
@@ -66,53 +67,55 @@ https://cses.fi/problemset/
 * https://codeforces.com/contest/630/problem/N
 * https://codeforces.com/problemset/problem/531/A
 
-4) Exponentiation https://infoarena.ro/problema/lgput https://cses.fi/problemset/task/1095/
+5) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
 
-5) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+6) Exponentiation https://infoarena.ro/problema/lgput https://cses.fi/problemset/task/1095/
 
-6) Divisors of two integers https://codeforces.com/contest/1108/problem/B
+7) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
-7) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
+8) Divisors of two integers https://codeforces.com/contest/1108/problem/B
 
-8) Triangle https://codeforces.com/contest/6/problem/A
+9) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
 
-9) Flip https://www.infoarena.ro/problema/flip
+10) Triangle https://codeforces.com/contest/6/problem/A
 
-10) Choose Laptop https://codeforces.com/contest/106/problem/B
+11) Flip https://www.infoarena.ro/problema/flip
 
-11) Rook https://codeforces.com/contest/1907/problem/A
+12) Choose Laptop https://codeforces.com/contest/106/problem/B
 
-12) Love Story https://codeforces.com/problemset/problem/1829/A
+13) Rook https://codeforces.com/contest/1907/problem/A
 
-13) Teams Forming https://codeforces.com/contest/1092/problem/B
+14) Love Story https://codeforces.com/problemset/problem/1829/A
 
-14) Sum https://codeforces.com/contest/1742/problem/A
+15) Teams Forming https://codeforces.com/contest/1092/problem/B
 
-15) Increasing https://codeforces.com/contest/1742/problem/B
+16) Sum https://codeforces.com/contest/1742/problem/A
 
-16) Frequent Numbers https://csacademy.com/contest/archive/task/frequent-numbers
+17) Increasing https://codeforces.com/contest/1742/problem/B
 
-17) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/
+18) Frequent Numbers https://csacademy.com/contest/archive/task/frequent-numbers
 
-18)  Codecraft III https://codeforces.com/contest/45/problem/A
+19) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/
 
-19)  Noldbach problem https://codeforces.com/contest/17/problem/A
+20)  Codecraft III https://codeforces.com/contest/45/problem/A
 
-20)  Make it beautiful https://codeforces.com/contest/1783/problem/A
+21)  Noldbach problem https://codeforces.com/contest/17/problem/A
 
-21)  Next Test https://codeforces.com/contest/27/problem/A
+22)  Make it beautiful https://codeforces.com/contest/1783/problem/A
 
-22)  Chess for three https://codeforces.com/contest/1973/problem/A
+22)  Next Test https://codeforces.com/contest/27/problem/A
 
-23)  Line https://codeforces.com/contest/7/problem/C
+23)  Chess for three https://codeforces.com/contest/1973/problem/A
 
-24)  4Sum https://leetcode.com/problems/4sum/description/
+24)  Line https://codeforces.com/contest/7/problem/C
 
-25)  Marathon https://codeforces.com/contest/1692/problem/A
+25)  4Sum https://leetcode.com/problems/4sum/description/
 
-26)  Text Volume https://codeforces.com/contest/837/problem/A
+26)  Marathon https://codeforces.com/contest/1692/problem/A
 
-27)  Zero Sum https://atcoder.jp/contests/abc349/tasks/abc349_a
+27)  Text Volume https://codeforces.com/contest/837/problem/A
+
+28)  Zero Sum https://atcoder.jp/contests/abc349/tasks/abc349_a
 
 
 #### References
