@@ -42,6 +42,7 @@
   * Teams Forming https://ideone.com/AnML2e
   * Make it beautiful
   * Marathon https://ideone.com/MlOgYr
+  * Arbori binari de cautare echilibrati https://www.infoarena.ro/problema/abce
 
 ## Practice
 
@@ -116,6 +117,8 @@ https://cses.fi/problemset/
 27)  Text Volume https://codeforces.com/contest/837/problem/A
 
 28)  Zero Sum https://atcoder.jp/contests/abc349/tasks/abc349_a
+
+29)  Arbori binari de cautare echilibrati https://www.infoarena.ro/problema/abce
 
 
 #### References
