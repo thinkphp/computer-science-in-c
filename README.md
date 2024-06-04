@@ -150,7 +150,7 @@ https://atcoder.jp/contests/abc354/tasks
 https://atcoder.jp/contests/abc349/tasks
 
 
-### Math References:
+### Math:
 
 * https://brilliant.org/wiki/bezouts-identity/
 * https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
