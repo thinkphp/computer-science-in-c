@@ -68,6 +68,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 ## Problem Set
 https://leetcode.com/tag/dynamic-programming/
 
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+
 https://www.pbinfo.ro/probleme/categorii/158/programare-dinamica-probleme-de-numarare
 
 https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
