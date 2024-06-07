@@ -118,7 +118,9 @@ https://cses.fi/problemset/
 
 28)  Zero Sum https://atcoder.jp/contests/abc349/tasks/abc349_a
 
-29)  Arbori binari de cautare echilibrati https://www.infoarena.ro/problema/abce
+29) Verify password https://codeforces.com/contest/1976/problem/A
+
+30)  Arbori binari de cautare echilibrati https://www.infoarena.ro/problema/abce
 
 
 #### References
