@@ -122,6 +122,8 @@ https://cses.fi/problemset/
 
 30)  Arbori binari de cautare echilibrati https://www.infoarena.ro/problema/abce
 
+31)  Job Interview https://codeforces.com/contest/1976/problem/C
+
 
 #### References
 
