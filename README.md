@@ -48,9 +48,9 @@ Codeforces Round 808 (Div. 1) https://codeforces.com/contest/1707
 
 #### Div. 2
 
-https://codeforces.com/contest/365
+Codeforces Round 213 (Div. 2) https://codeforces.com/contest/365
 
-https://codeforces.com/contest/1944
+Codeforces Round 934 (Div. 2) https://codeforces.com/contest/1944
 
 Codeforces Round 726 (Div. 2) https://codeforces.com/contest/1537
 
