@@ -87,6 +87,10 @@ Codeforces Round 929 (Div. 3) https://codeforces.com/contest/1933
 
 Codeforces Round 923 (Div. 3) https://codeforces.com/contest/1927
 
+Codeforces Round 535 (Div. 3) https://codeforces.com/contest/1108
+
+Codeforces Round 529 (Div. 3) https://codeforces.com/contest/1095
+
 #### Div. 4
 
 Codeforces Round 799 (Div. 4) https://codeforces.com/contest/1692
