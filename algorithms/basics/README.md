@@ -126,6 +126,8 @@ https://cses.fi/problemset/
 
 32)  String Task https://codeforces.com/contest/118/problem/A
 
+33)  Word https://codeforces.com/contest/59/problem/A
+
 
 #### References
 
