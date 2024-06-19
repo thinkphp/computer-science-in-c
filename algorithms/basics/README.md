@@ -124,6 +124,8 @@ https://cses.fi/problemset/
 
 31)  Job Interview https://codeforces.com/contest/1976/problem/C
 
+32)  String Task https://codeforces.com/contest/118/problem/A
+
 
 #### References
 
