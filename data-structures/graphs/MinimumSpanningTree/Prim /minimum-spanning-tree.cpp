@@ -1,18 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@thinkphp
-thinkphp/MinimumSpanningTree.cpp Secret
-Last active 1 minute ago
-Code
-Revisions
-13
-Clone this repository at &lt;script src=&quot;https://gist.github.com/thinkphp/e506e1187cb7c052b45dce838f1020c5.js&quot;&gt;&lt;/script&gt;
-<script src="https://gist.github.com/thinkphp/e506e1187cb7c052b45dce838f1020c5.js"></script>
-Arborele Partial de Cost Minim - Minimum Spanning Tree
-MinimumSpanningTree.cpp
 /*
 Fie G = (X, V) un graf neorientat si connex, unde X = multimea de noduri si V multimea de muchii. Graful este dat prin matricea ponderilor, adica fiecare muchie are asociata o anumita pondere, un cost. Prin eliminarea unor muchii din G se obtine un graf partial al lui G. Daca acesta este arbore, se va numi arbore partial. 
 Problema. Definim un arbore partial ca suma costurilor muchiilor sale. 
