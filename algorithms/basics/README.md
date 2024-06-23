@@ -128,6 +128,8 @@ https://cses.fi/problemset/
 
 33)  Word https://codeforces.com/contest/59/problem/A
 
+34)  Array Coloring https://codeforces.com/contest/1857/problem/A
+
 
 #### References
 
