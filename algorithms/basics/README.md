@@ -130,6 +130,8 @@ https://cses.fi/problemset/
 
 34)  Array Coloring https://codeforces.com/contest/1857/problem/A
 
+35)  Password check https://codeforces.com/contest/411/problem/A
+
 
 #### References
 
