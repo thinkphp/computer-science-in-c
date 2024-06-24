@@ -132,6 +132,8 @@ https://cses.fi/problemset/
 
 35)  Password check https://codeforces.com/contest/411/problem/A
 
+36)  Sum in Binary Tree https://codeforces.com/contest/1843/problem/C
+
 
 #### References
 
