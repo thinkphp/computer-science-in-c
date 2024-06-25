@@ -134,6 +134,8 @@ https://cses.fi/problemset/
 
 36)  Sum in Binary Tree https://codeforces.com/contest/1843/problem/C
 
+37)  Suffix Tree https://codeforces.com/contest/1281/problem/A
+
 
 #### References
 
