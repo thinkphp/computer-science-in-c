@@ -136,6 +136,8 @@ https://cses.fi/problemset/
 
 37)  Suffix Tree https://codeforces.com/contest/1281/problem/A
 
+38)  Face Detection https://codeforces.com/contest/549/problem/A
+
 
 #### References
 
