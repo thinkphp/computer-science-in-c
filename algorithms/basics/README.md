@@ -142,6 +142,8 @@ https://cses.fi/problemset/
 
 40)  a+b=? https://codeforces.com/contest/1772/problem/A
 
+41)  Matrix Rotation https://codeforces.com/contest/1772/problem/B
+
 
 #### References
 
