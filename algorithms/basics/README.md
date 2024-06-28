@@ -140,6 +140,8 @@ https://cses.fi/problemset/
 
 39)  Coder https://codeforces.com/contest/384/problem/A
 
+40)  a+b=? https://codeforces.com/contest/1772/problem/A
+
 
 #### References
 
