@@ -144,6 +144,10 @@ https://cses.fi/problemset/
 
 41)  Matrix Rotation https://codeforces.com/contest/1772/problem/B
 
+42)  Bar https://codeforces.com/contest/56/problem/A
+
+43)  Competitive Programmer https://codeforces.com/contest/1266/problem/A
+
 
 #### References
 
