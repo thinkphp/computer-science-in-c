@@ -148,6 +148,8 @@ https://cses.fi/problemset/
 
 43)  Competitive Programmer https://codeforces.com/contest/1266/problem/A
 
+44) Ambitious Kid https://codeforces.com/contest/1866/problem/A
+
 
 #### References
 
