@@ -12,6 +12,7 @@
 * https://www.hackerrank.com/challenges/is-binary-search-tree/problem
 * https://leetcode.com/tag/binary-search-tree/
 * https://leetcode.com/problems/validate-binary-search-tree/description/
+* https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
 
 ## Ideone
 
