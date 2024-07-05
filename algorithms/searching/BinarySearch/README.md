@@ -10,6 +10,8 @@ https://ideone.com/fR8nF8
 
 ## Problem Set:
 
+https://www.pbinfo.ro/probleme/4646/cb1
+
 https://leetcode.com/tag/binary-search/
 
 https://codeforces.com/problemset/problem/1945/E
