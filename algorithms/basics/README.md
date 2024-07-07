@@ -150,6 +150,8 @@ https://cses.fi/problemset/
 
 44) Ambitious Kid https://codeforces.com/contest/1866/problem/A
 
+45) Clock Conversion https://codeforces.com/contest/1950/problem/C
+
 
 #### References
 
