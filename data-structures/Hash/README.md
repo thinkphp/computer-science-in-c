@@ -7,9 +7,11 @@ Search algorithms that use hashing consist of two separate parts. The first step
 
 ## Practice
 
+https://leetcode.com/tag/hash-table/
+
 https://infoarena.ro/problema/hashuri
 
-https://leetcode.com/tag/hash-table/
+https://leetcode.com/problems/roman-to-integer/description/
 
 https://leetcode.com/problems/two-sum/description/
 
