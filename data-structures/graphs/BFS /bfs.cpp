@@ -78,7 +78,10 @@ void bfs( int node ) {
      memset(used, 0, sizeof(used));
 
      first_index = last_index = 1;
+  
      Queue[first_index] = node;
+
+     used[node] = 1;
 
      while(first_index<=last_index) {
        struct Node *c = List[Queue[first_index]];
@@ -109,6 +112,8 @@ void bfs_AdjMat( int node ) {
      first_index = last_index = 1;
 
      Queue[ first_index ] = node;
+
+     used[node] = 1;
 
      while( first_index <= last_index ) {
 
