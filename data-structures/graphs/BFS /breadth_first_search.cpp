@@ -59,12 +59,14 @@ void ReadGraph() {
 
 void BFS(int node) {
 
-     memset(used, 0, sizeof(used));
+    memset(used, 0, sizeof(used));
 
     first_index = last_index = 1;
 
     //add to the Queue
     Queue[ first_index ] = node;
+
+    used[ node ] = 1;
 
     //cat timp avem conditia adevarata
     while( first_index <= last_index ) {
@@ -129,6 +131,8 @@ void BFS_AdjMat( int node ) {
 
     Queue[ first_index ] = node;
 
+    used[ node ] = 1;
+
     while(first_index <= last_index) {
 
          for(int i = 1; i <= nodes; ++i) {
@@ -136,7 +140,9 @@ void BFS_AdjMat( int node ) {
               if(matrix[ Queue[first_index] ][ i ] == 1 && used[ i ] == 0) {
 
                       used[ i ] = 1;
+                 
                       last_index++;
+                 
                       Queue[last_index] = i;
               }
          }
