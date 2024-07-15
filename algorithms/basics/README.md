@@ -152,6 +152,9 @@ https://cses.fi/problemset/
 
 45) Clock Conversion https://codeforces.com/contest/1950/problem/C
 
+46) Secret Sport https://codeforces.com/problemset/problem/1894/A
+
+
 
 #### References
 
