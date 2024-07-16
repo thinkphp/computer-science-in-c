@@ -154,6 +154,8 @@ https://cses.fi/problemset/
 
 46) Secret Sport https://codeforces.com/problemset/problem/1894/A
 
+47) Reflection https://codeforces.com/contest/86/problem/A
+
 
 
 #### References
