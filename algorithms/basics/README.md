@@ -158,6 +158,8 @@ https://cses.fi/problemset/
 
 48) Shortest Path https://codeforces.com/contest/59/problem/E
 
+49) Pythagorean Triples https://codeforces.com/contest/707/problem/C
+
 
 
 #### References
