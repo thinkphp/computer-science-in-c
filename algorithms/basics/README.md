@@ -160,6 +160,8 @@ https://cses.fi/problemset/
 
 49) Pythagorean Triples https://codeforces.com/contest/707/problem/C
 
+50) Stair, Peak, or Neither? https://codeforces.com/contest/1950/problem/A
+
 
 
 #### References
