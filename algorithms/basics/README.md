@@ -162,6 +162,8 @@ https://cses.fi/problemset/
 
 50) Stair, Peak, or Neither? https://codeforces.com/contest/1950/problem/A
 
+51) Number of islands https://leetcode.com/problems/number-of-islands/description/
+
 
 
 #### References
