@@ -164,6 +164,8 @@ https://cses.fi/problemset/
 
 51) Number of islands https://leetcode.com/problems/number-of-islands/description/
 
+52) Superhero Transformation https://codeforces.com/contest/1111/problem/A
+
 
 
 #### References
