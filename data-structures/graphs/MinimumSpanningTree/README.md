@@ -1,4 +1,4 @@
-1## Minimum Spanning Tree
+### Minimum Spanning Tree
 
 ### Problem Set
 https://leetcode.com/tag/minimum-spanning-tree/
