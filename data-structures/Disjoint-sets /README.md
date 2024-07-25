@@ -98,6 +98,8 @@ Equivalence relations give rise to partitions.
 
 https://www.infoarena.ro/problema/disjoint
 
+https://www.infoarena.ro/problema/apm
+
 https://www.pbinfo.ro/probleme/3235/entries
 
 https://codeforces.com/contest/988/problem/A
