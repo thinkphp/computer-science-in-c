@@ -110,6 +110,8 @@ https://leetcode.com/problems/number-of-islands/description/
 
 #### References:
 
+* https://cp-algorithms.com/data_structures/disjoint_set_union.html
+
 * https://www.codingninjas.com/studio/library/disjoint-set-unions-union-find-algorithm
 
 * https://courses.cs.washington.edu/courses/cse373/14sp/lecture10.pdf
