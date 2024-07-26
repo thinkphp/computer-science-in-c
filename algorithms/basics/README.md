@@ -57,7 +57,7 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 https://cses.fi/problemset/
 
-### Codeforces | HackerRank | Leetcode | Infoarena | AtCoder | Spoj | UVa
+### Basic Algorithms Codeforces | HackerRank | Leetcode | Infoarena | AtCoder | Spoj | UVa
 
 1) GCD https://codeforces.com/contest/1933/problem/D
 
