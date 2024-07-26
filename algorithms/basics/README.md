@@ -44,7 +44,7 @@
   * Marathon https://ideone.com/MlOgYr
   * Arbori binari de cautare echilibrati https://www.infoarena.ro/problema/abce
 
-## Practice
+## Problem Set
 
 https://cses.fi/problemset/list/
 
