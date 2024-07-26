@@ -166,6 +166,12 @@ https://cses.fi/problemset/
 
 52) Superhero Transformation https://codeforces.com/contest/1111/problem/A
 
+53) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
+
+54) Is it a tree https://www.spoj.com/problems/PT07Y/
+
+55) Labyrinth https://www.spoj.com/problems/LABYR1/
+
 
 
 #### References
