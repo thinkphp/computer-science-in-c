@@ -212,18 +212,9 @@ https://cses.fi/problemset/
   </li>
   <li>
     <p><a href="https://cpbook.net/details">Competitive Programming: Steven Halim</a></p>
-  </li>
-  <li>
-    <p><a href="https://cses.fi/problemset/user/166019/">CSES Problem Set</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.spoj.com/">Sphere Online Judge (SPOJ)</a></p>
-  </li>
+  </li> 
   <li>
     <p><a href="https://train.usaco.org/">USACO Training Program Gateway</a></p>
-  </li>
-  <li>
-    <p><a href="https://codeforces.com/profile/thinkphp">Codeforce Programming Contests</a></p>
   </li>
   <li>
     <p><a href="https://medium.com/algorithms-and-leetcode/math-related-problems-on-leetcode-9537df481fbe">Math related problems on LeetCode </a></p>
