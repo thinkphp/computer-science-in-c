@@ -170,6 +170,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 55) Labyrinth https://www.spoj.com/problems/LABYR1/
 
+57) Dubstep https://codeforces.com/contest/208/problem/A
+
 
 
 #### References
