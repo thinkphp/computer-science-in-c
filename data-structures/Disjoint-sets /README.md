@@ -121,3 +121,5 @@ https://leetcode.com/problems/number-of-islands/description/
 * https://cseweb.ucsd.edu/classes/fa14/cse100/lectures/Lec19_annotated_pdf.pdf
 
 * https://www.pbinfo.ro/articole/6024/paduri-de-multimi-disjuncte
+
+* https://iordachebogdan.github.io/cppi/pmd_nivel_avansat.html
