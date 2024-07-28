@@ -14,3 +14,7 @@ https://www.spoj.com/problems/CHAIN/
 
 ### References 
 https://ocw.cs.pub.ro/courses/sd-ca/2014/laboratoare/laborator-12
+
+https://youtu.be/JZBQLXgSGfs?si=jNp2-htFNEKrLSOe
+
+https://youtu.be/Yldkh0aOEcg?si=X-tU4TRu5jL-Hv-q
