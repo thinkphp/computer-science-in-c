@@ -15,6 +15,8 @@ https://www.spoj.com/problems/CHAIN/
 ### References 
 https://ocw.cs.pub.ro/courses/sd-ca/2014/laboratoare/laborator-12
 
+https://iordachebogdan.github.io/cppi/pmd_nivel_avansat.html
+
 https://youtu.be/JZBQLXgSGfs?si=jNp2-htFNEKrLSOe
 
 https://youtu.be/Yldkh0aOEcg?si=X-tU4TRu5jL-Hv-q
