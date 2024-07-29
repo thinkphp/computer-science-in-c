@@ -7,6 +7,8 @@
 3. https://ideone.com/vc0dRN vector<int> V[ MAXN ]; vector<int> C[ MAXN ]; int distMin[ MAXN ]; queue<int> Queue; bitset<MAXN> inQueue(0);
 
 ### Problem Set
+https://www.infoarena.ro/problema/dijkstra
+
 https://www.spoj.com/problems/SHPATH/
 
 https://infoarena.ro/problema/catun
