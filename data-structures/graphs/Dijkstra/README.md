@@ -11,4 +11,6 @@ https://www.infoarena.ro/problema/dijkstra
 
 https://www.spoj.com/problems/SHPATH/
 
+https://www.spoj.com/problems/TRVCOST/
+
 https://infoarena.ro/problema/catun
