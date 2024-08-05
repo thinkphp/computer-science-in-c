@@ -174,6 +174,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 58) Strong Password https://codeforces.com/contest/1845/problem/C
 
+59) Strong Password https://codeforces.com/contest/1997/problem/A
+
 
 
 
