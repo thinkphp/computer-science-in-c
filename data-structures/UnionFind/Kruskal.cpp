@@ -4,7 +4,7 @@ Arborele partial de cost minim
 
 
 Fie G = (V, E) un graf neorientat , conex, ponderat.
-Fiecare muchie (i, j) are asociat un cost c(i,j) >=0. Se cere un arbore partial al lui G
+Fiecare muchie (i, j) are asociata un cost c(i,j) >=0. Se cere un arbore partial al lui G
 , astfel incat suma constului muchiilor sale sa fie minima.
 
 Un asemenea arbore se numeste arbore partial de cost minim.
