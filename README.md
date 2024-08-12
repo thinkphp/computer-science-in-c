@@ -192,6 +192,8 @@ https://codeforces.com/contest/600
 
 [Books](https://canvas.projekti.info/ebooks/Algorithm%20Design%20and%20Applications%5bA4%5d.pdf) GoodRich
 
+https://www.cs.princeton.edu/courses/archive/spr02/cs226/lectures.html (Robert Sedgewick)
+
 https://web.stanford.edu/class/cs97si/
 
 https://www.cs.cmu.edu/~15451-f20/LectureNotes/
