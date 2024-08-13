@@ -15,7 +15,7 @@ sudo apt-get install libgtkmm-3.0-dev
 Step 2: Save the Code to a File
 
 ```
-Save the provided code to a file named main.cpp.
+Save the provided code to a file named app.cpp.
 
 ```
 
@@ -25,5 +25,10 @@ Step 3: Compile the code
 g++ app.cpp -o app `pkg-config gtkmm-3.0 --cflags --libs`
 ```
 
+Step 4: Run the Application
 
+```
+./app
+
+```
 
