@@ -10,13 +10,13 @@ called vertices) and edges
 #### Why study Graphs?
 
 Lots of problems formulated and solved in terms of graphs
-– Shortest path problems
-– Network flow problems
-– Matching problems
-– 2-SAT problem
-– Graph coloring problem
-– Traveling Salesman Problem (TSP): still unsolved!
-– and many more...
+- Shortest path problems
+- Network flow problems
+- Matching problems
+- 2-SAT problem
+- Graph coloring problem
+- Traveling Salesman Problem (TSP): still unsolved!
+- and many more...
 
 ## References
 
