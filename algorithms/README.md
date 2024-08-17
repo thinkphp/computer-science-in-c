@@ -63,4 +63,5 @@
 * https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
 * https://nixdell.com/teaching.html
 * https://courses.cs.washington.edu/courses/cse373/
+* https://www.w3schools.com/dsa/index.php
 
