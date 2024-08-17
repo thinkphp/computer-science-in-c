@@ -210,3 +210,5 @@ https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 
 https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list The Definitive C++ Book Guide and List 
 
+https://www.w3schools.com/dsa/index.php
+
