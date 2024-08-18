@@ -5,7 +5,7 @@ using namespace std;
 
 void read_input(vector<vector<int>>& graph) {
     int n, m;
-    cout << "Numărul de triunghiuri: ";
+    cout << "Numărul de noduri: ";
     cin >> n;
     cout << "Numărul de relații: ";
     cin >> m;
