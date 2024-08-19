@@ -1,5 +1,14 @@
 # Network Flow
 
+- A type of network optimization problem
+- Arise in many different contexts (CS 261):
+- Networks: routing as many packets as possible on a given
+network
+- Transportation: sending as many trucks as possible, where
+roads have limits on the number of trucks per unit time
+- Bridges: destroying (?!) some bridges to disconnect s from t,
+while minimizing the cost of destroying the bridges
+
 ### References:
 
 https://web.stanford.edu/class/cs97si/08-network-flow-problems.pdf
