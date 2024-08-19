@@ -15,9 +15,10 @@ e is associated with its capacity c(e) > 0. Two special nodes
 source s and sink t are given (s != t)
 
  - Problem: Maximize the total amount of flow from s to t
-subject to two constraints
-– Flow on edge e doesn’t exceed c(e)
-– For every node v != s, t, incoming flow is equal to outgoing flow
+subject to two constraints:
+
+=> Flow on edge e doesn’t exceed c(e)
+=> For every node v != s, t, incoming flow is equal to outgoing flow
 
 ### References:
 
