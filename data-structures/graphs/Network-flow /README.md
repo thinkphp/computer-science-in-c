@@ -9,6 +9,11 @@ roads have limits on the number of trucks per unit time
 - Bridges: destroying (?!) some bridges to disconnect s from t,
 while minimizing the cost of destroying the bridges
 
+#### Settings: 
+Given a directed graph G = (V, E), where each edge
+e is associated with its capacity c(e) > 0. Two special nodes
+source s and sink t are given (s 6= t)
+
 ### References:
 
 https://web.stanford.edu/class/cs97si/08-network-flow-problems.pdf
