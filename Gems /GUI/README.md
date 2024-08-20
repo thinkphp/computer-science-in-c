@@ -5,10 +5,10 @@ develop cross-platform desktop applications, GTKmm is an excellent choice
 
 ### Key Features
 
-Object-Oriented: Leverages C++'s object-oriented paradigm for intuitive GUI development.
-Type Safety: Reduces potential errors by providing strong type checking.
-Rich Widget Set: Offers a wide range of pre-built widgets for various UI components.
-Extensibility: Allows you to create custom widgets by inheriting from existing ones.
-Signal/Slot Mechanism: Facilitates event handling and communication between UI elements.
-Integration with GNOME: Closely tied to the GNOME desktop environment, providing seamless integration.
+- Object-Oriented: Leverages C++'s object-oriented paradigm for intuitive GUI development.
+- Type Safety: Reduces potential errors by providing strong type checking.
+- Rich Widget Set: Offers a wide range of pre-built widgets for various UI components.
+- Extensibility: Allows you to create custom widgets by inheriting from existing ones.
+- Signal/Slot Mechanism: Facilitates event handling and communication between UI elements.
+- Integration with GNOME: Closely tied to the GNOME desktop environment, providing seamless integration.
 
