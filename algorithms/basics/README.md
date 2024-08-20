@@ -178,6 +178,10 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 60) Friendly Arrays https://codeforces.com/contest/1870/problem/B
 
+61) Honest Coach https://codeforces.com/contest/1360/problem/B
+
+62) Blanc Space https://codeforces.com/contest/1829/problem/B
+
 
 
 
