@@ -12,10 +12,10 @@ develop cross-platform desktop applications, GTKmm is an excellent choice
 - Signal/Slot Mechanism: Facilitates event handling and communication between UI elements.
 - Integration with GNOME: Closely tied to the GNOME desktop environment, providing seamless integration.
 
-  ```
+```
   #include <gtkmm.h>
 
-int main(int argc, char *argv[]) {
+  int main(int argc, char *argv[]) {
     Gtk::Application app("my.application.id");
 
     Gtk::Window window;
@@ -28,5 +28,4 @@ int main(int argc, char *argv[]) {
 
     return app.run(window);
 }
-  ```
-
+```
