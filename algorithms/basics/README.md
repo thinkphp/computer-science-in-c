@@ -182,6 +182,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 62) Blanc Space https://codeforces.com/contest/1829/problem/B
 
+63) Insert Digit https://codeforces.com/contest/1811/problem/A
+
 
 
 
