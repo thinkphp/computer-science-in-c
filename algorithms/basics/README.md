@@ -184,6 +184,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 63) Insert Digit https://codeforces.com/contest/1811/problem/A
 
+64) Password https://codeforces.com/contest/1743/problem/A
+
 
 
 
