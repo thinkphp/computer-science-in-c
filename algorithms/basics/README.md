@@ -186,9 +186,7 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 64) Password https://codeforces.com/contest/1743/problem/A
 
-
-
-
+65) Parkway walk https://codeforces.com/problemset/problem/1697/A
 
 #### References
 
