@@ -1,3 +1,4 @@
+//g++ menu.cpp -o menu `pkg-config --cflags --libs gtkmm-3.0`
 #include <gtkmm.h>
 #include <iostream>
 
