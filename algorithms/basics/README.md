@@ -188,6 +188,10 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 65) Parkway walk https://codeforces.com/problemset/problem/1697/A
 
+66) Greg's workout https://codeforces.com/contest/255/problem/A
+
+67) Shortest Path with Obstacle https://codeforces.com/contest/1547/problem/A
+
 #### References
 
 <ul>
