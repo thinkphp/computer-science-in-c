@@ -192,6 +192,10 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 67) Shortest Path with Obstacle https://codeforces.com/contest/1547/problem/A
 
+68) Design Tutorial: Learning From Math https://codeforces.com/contest/472/problem/A
+
+70) Design Tutorial: Make it nondeterministic https://codeforces.com/contest/472/problem/C
+
 #### References
 
 <ul>
