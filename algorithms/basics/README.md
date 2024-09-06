@@ -196,6 +196,12 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 70) Design Tutorial: Make it nondeterministic https://codeforces.com/contest/472/problem/C
 
+71) Three Brothers https://codeforces.com/problemset/problem/2010/B
+
+72) Message Transmission https://codeforces.com/problemset/problem/2010/C1
+
+73) Flip Flop Sum https://codeforces.com/problemset/problem/1778/A
+
 #### References
 
 <ul>
