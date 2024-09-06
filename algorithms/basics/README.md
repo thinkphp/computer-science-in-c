@@ -202,6 +202,22 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 73) Flip Flop Sum https://codeforces.com/problemset/problem/1778/A
 
+74) Weird Algorithm https://cses.fi/problemset/task/1068
+
+75) Missing Number https://cses.fi/problemset/task/1083
+
+76) Repetitions https://cses.fi/problemset/task/1069
+
+77) Increasing Array https://cses.fi/problemset/task/1094
+
+78) Permutations https://cses.fi/problemset/task/1070
+
+79) Number Spiral https://cses.fi/problemset/task/1071
+
+80) Two knights https://cses.fi/problemset/task/1072
+
+81) Two Sets https://cses.fi/problemset/task/1092
+
 #### References
 
 <ul>
