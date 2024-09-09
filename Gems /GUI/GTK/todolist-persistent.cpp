@@ -4,6 +4,8 @@
 #include <string>
 #include <iostream>
 
+////g++ -std=c++11 todo_list.cpp -o todo_list `pkg-config gtkmm-3.0 --cflags --libs`
+
 class Task {
 public:
     std::string description;
