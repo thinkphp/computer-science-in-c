@@ -218,6 +218,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 81) Two Sets https://cses.fi/problemset/task/1092
 
+82) Alternative Sum of Numbers https://codeforces.com/contest/2010/problem/A
+
 #### References
 
 <ul>
