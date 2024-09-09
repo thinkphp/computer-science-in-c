@@ -80,27 +80,45 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 11) Flip https://www.infoarena.ro/problema/flip
 
-12) Choose Laptop https://codeforces.com/contest/106/problem/B
+74) Weird Algorithm https://cses.fi/problemset/task/1068
 
-13) Rook https://codeforces.com/contest/1907/problem/A
+75) Missing Number https://cses.fi/problemset/task/1083
 
-14) Love Story https://codeforces.com/problemset/problem/1829/A
+76) Repetitions https://cses.fi/problemset/task/1069
 
-15) Teams Forming https://codeforces.com/contest/1092/problem/B
+77) Increasing Array https://cses.fi/problemset/task/1094
 
-16) Sum https://codeforces.com/contest/1742/problem/A
+78) Permutations https://cses.fi/problemset/task/1070
 
-17) Increasing https://codeforces.com/contest/1742/problem/B
+79) Number Spiral https://cses.fi/problemset/task/1071
 
-18) Frequent Numbers https://csacademy.com/contest/archive/task/frequent-numbers
+80) Two knights https://cses.fi/problemset/task/1072
 
-19) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/
+81) Two Sets https://cses.fi/problemset/task/1092
 
-20)  Codecraft III https://codeforces.com/contest/45/problem/A
 
-21)  Noldbach problem https://codeforces.com/contest/17/problem/A
 
-22)  Make it beautiful https://codeforces.com/contest/1783/problem/A
+13) Choose Laptop https://codeforces.com/contest/106/problem/B
+
+14) Rook https://codeforces.com/contest/1907/problem/A
+
+15) Love Story https://codeforces.com/problemset/problem/1829/A
+
+16) Teams Forming https://codeforces.com/contest/1092/problem/B
+
+17) Sum https://codeforces.com/contest/1742/problem/A
+
+18) Increasing https://codeforces.com/contest/1742/problem/B
+
+19) Frequent Numbers https://csacademy.com/contest/archive/task/frequent-numbers
+
+20) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/
+
+21)  Codecraft III https://codeforces.com/contest/45/problem/A
+
+22)  Noldbach problem https://codeforces.com/contest/17/problem/A
+
+23)  Make it beautiful https://codeforces.com/contest/1783/problem/A
 
 22)  Next Test https://codeforces.com/contest/27/problem/A
 
@@ -202,23 +220,9 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 73) Flip Flop Sum https://codeforces.com/problemset/problem/1778/A
 
-74) Weird Algorithm https://cses.fi/problemset/task/1068
-
-75) Missing Number https://cses.fi/problemset/task/1083
-
-76) Repetitions https://cses.fi/problemset/task/1069
-
-77) Increasing Array https://cses.fi/problemset/task/1094
-
-78) Permutations https://cses.fi/problemset/task/1070
-
-79) Number Spiral https://cses.fi/problemset/task/1071
-
-80) Two knights https://cses.fi/problemset/task/1072
-
-81) Two Sets https://cses.fi/problemset/task/1092
-
 82) Alternative Sum of Numbers https://codeforces.com/contest/2010/problem/A
+
+83) Guess the number https://codeforces.com/contest/416/problem/A
 
 #### References
 
