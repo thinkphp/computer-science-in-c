@@ -43,7 +43,7 @@
   * Make it beautiful
   * Marathon https://ideone.com/MlOgYr
   * Arbori binari de cautare echilibrati https://www.infoarena.ro/problema/abce
-  * Toy Cars https://replit.com/@thinkphp/Collatz#toy-cars.cpp https://ideone.com/nrcxVr
+  * Toy Cars https://replit.com/@thinkphp/CodeForces#toy-cars.cpp https://ideone.com/nrcxVr
 
 ## Problem Set
 
