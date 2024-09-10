@@ -5,14 +5,14 @@ GTK is a widget toolkit. Each user interface created by GTK consists of widgets.
 
 ### Simple Apps
 
-0. Intro GTKmm
-1. Menu
-2. Notepad
-3. Calculator
-4. ToDoList-persistent
-5. Login System
-6. Tic Tac Toe
-7. Url Shortner
+1. Intro GTKmm
+2. Menu
+3. Notepad
+4. Calculator
+5. ToDoList-persistent
+6. Login System
+7. Tic Tac Toe
+8. Url Shortner
 
 
 ### Usage
