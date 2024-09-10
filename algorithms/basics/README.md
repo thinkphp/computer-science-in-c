@@ -224,6 +224,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 83) Guess the number https://codeforces.com/contest/416/problem/A
 
+84) Toy Cars https://codeforces.com/contest/545/problem/A
+
 #### References
 
 <ul>
