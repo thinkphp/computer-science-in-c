@@ -227,6 +227,10 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 84) Toy Cars https://codeforces.com/contest/545/problem/A
 
+85) LCA in Binary Tree https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+
+86) LCA in Binary Search Tree https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+
 #### References
 
 <ul>
