@@ -235,6 +235,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 88) Game 23 https://codeforces.com/contest/1141/problem/A
 
+89) Petr and Book https://codeforces.com/contest/139/problem/A
+
 #### References
 
 <ul>
