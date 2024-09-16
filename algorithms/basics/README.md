@@ -233,6 +233,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 87) Pascal's Triangle https://leetcode.com/problems/pascals-triangle/description/
 
+88) Game 23 https://codeforces.com/contest/1141/problem/A
+
 #### References
 
 <ul>
