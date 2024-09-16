@@ -231,6 +231,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 86) LCA in Binary Search Tree https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
 
+87) Pascal's Triangle https://leetcode.com/problems/pascals-triangle/description/
+
 #### References
 
 <ul>
