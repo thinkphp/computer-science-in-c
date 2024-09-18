@@ -55,8 +55,6 @@ After compilation, run the program with:
 ./app
 ```
 
-This will launch your GTKmm-based notepad application with font-size adjustment functionality.
-
 ### References
 
 https://gnome.pages.gitlab.gnome.org/gtkmm-documentation/index.html
