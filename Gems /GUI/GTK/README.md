@@ -15,34 +15,47 @@ GTK is a widget toolkit. Each user interface created by GTK consists of widgets.
 8. Url Shortner
 
 
-### Usage
+To compile your `C++` program using `gtkmm`, you need to ensure you have the necessary development packages installed (such as `gtkmm-3.0`) and use the appropriate compiler flags.
 
-Step 1: Install GTKmm Development Libraries
-```
-sudo apt-get update
-sudo apt-get install libgtkmm-3.0-dev
+### Compilation Steps:
 
-```
+1. **Install `gtkmm-3.0` (if not installed)**:
+   - On **Ubuntu/Debian**:
+     ```bash
+     sudo apt-get install libgtkmm-3.0-dev
+     ```
 
-Step 2: Save the Code to a File
+   - On **Fedora**:
+     ```bash
+     sudo dnf install gtkmm30-devel
+     ```
 
-```
-Save the provided code to a file named app.cpp.
+   - On **Arch Linux**:
+     ```bash
+     sudo pacman -S gtkmm3
+     ```
 
-```
+2. **Compile the program** using `g++` with `pkg-config` to find the required compiler and linker flags for `gtkmm-3.0`:
 
-Step 3: Compile the code
+   ```bash
+   g++ -o app app.cpp `pkg-config --cflags --libs gtkmm-3.0`
+   ```
 
-```
-g++ app.cpp -o app `pkg-config gtkmm-3.0 --cflags --libs`
-```
+### Explanation:
+- `g++`: The GNU C++ compiler.
+- `-o app`: Specifies the output executable file name (`notepad`).
+- `app.cpp`: Your source file.
+- `` `pkg-config --cflags --libs gtkmm-3.0` ``: This part uses `pkg-config` to retrieve the necessary include paths (`--cflags`) and libraries (`--libs`) for compiling and linking against `gtkmm-3.0`.
 
-Step 4: Run the Application
+### Running the compiled program:
 
-```
+After compilation, run the program with:
+
+```bash
 ./app
-
 ```
+
+This will launch your GTKmm-based notepad application with font-size adjustment functionality.
 
 ### References
 
