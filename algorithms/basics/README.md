@@ -237,6 +237,11 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 89) Petr and Book https://codeforces.com/contest/139/problem/A
 
+90) Remove element https://leetcode.com/problems/remove-element/description/
+
+91) Valid Boomerang https://leetcode.com/problems/valid-boomerang/description/
+
+
 #### References
 
 <ul>
