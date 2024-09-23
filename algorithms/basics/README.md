@@ -241,6 +241,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 91) Valid Boomerang https://leetcode.com/problems/valid-boomerang/description/
 
+92) Soldier and banans https://codeforces.com/contest/546/problem/A
+
 
 #### References
 
