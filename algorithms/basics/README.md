@@ -243,6 +243,10 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 92) Soldier and banans https://codeforces.com/contest/546/problem/A
 
+93) Fibonacci Number https://leetcode.com/problems/fibonacci-number/description/
+
+94) N-th Tribonacci Number https://leetcode.com/problems/n-th-tribonacci-number/description/
+
 
 #### References
 
