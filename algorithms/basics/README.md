@@ -97,8 +97,6 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 81) Two Sets https://cses.fi/problemset/task/1092
 
-
-
 13) Choose Laptop https://codeforces.com/contest/106/problem/B
 
 14) Rook https://codeforces.com/contest/1907/problem/A
@@ -246,6 +244,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 93) Fibonacci Number https://leetcode.com/problems/fibonacci-number/description/
 
 94) N-th Tribonacci Number https://leetcode.com/problems/n-th-tribonacci-number/description/
+
+95) Climbing stars https://leetcode.com/problems/climbing-stairs/
 
 
 #### References
