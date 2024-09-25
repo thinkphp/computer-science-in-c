@@ -251,6 +251,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 96) Maximum Ice Cream Bar https://leetcode.com/problems/maximum-ice-cream-bars/description/
 
+97) The time in words https://www.hackerrank.com/challenges/the-time-in-words/problem
+
 
 
 
