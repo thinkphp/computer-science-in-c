@@ -253,6 +253,14 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 97) The time in words https://www.hackerrank.com/challenges/the-time-in-words/problem
 
+98) Erasing Zeros https://codeforces.com/contest/1303/problem/A
+
+99) Breadth First Search: Shortest Reach https://www.hackerrank.com/challenges/bfsshortreach/problem
+
+100) Dijkstra: Shortest Reack 2 https://www.hackerrank.com/challenges/dijkstrashortreach/problem
+
+101) Kruskal(MST) Really Special Subtree https://www.hackerrank.com/challenges/kruskalmstrsub/problem
+
 
 
 
