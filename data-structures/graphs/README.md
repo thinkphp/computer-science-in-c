@@ -23,3 +23,5 @@ Lots of problems formulated and solved in terms of graphs
 https://web.stanford.edu/class/cs97si/06-basic-graph-algorithms.pdf
 
 https://www.cs.cmu.edu/~15451-f20/LectureNotes/
+
+https://cs.lmu.edu/~ray/notes/graphalgorithms/
