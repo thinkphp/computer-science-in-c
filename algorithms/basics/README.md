@@ -247,6 +247,10 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 95) Climbing stars https://leetcode.com/problems/climbing-stairs/
 
+96) Maximum Ice Cream Bar https://leetcode.com/problems/maximum-ice-cream-bars/description/
+
+
+
 
 #### References
 
