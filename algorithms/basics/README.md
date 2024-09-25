@@ -69,7 +69,7 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 5) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
 
-6) Exponentiation https://infoarena.ro/problema/lgput https://cses.fi/problemset/task/1095/
+6) Exponentiation https://infoarena.ro/problema/lgput 
 
 7) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
@@ -96,6 +96,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 80) Two knights https://cses.fi/problemset/task/1072
 
 81) Two Sets https://cses.fi/problemset/task/1092
+
+82) Exponentiation https://cses.fi/problemset/task/1095/
 
 13) Choose Laptop https://codeforces.com/contest/106/problem/B
 
