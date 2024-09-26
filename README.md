@@ -1,6 +1,4 @@
-Here's a C++ course outline formatted in Markdown, introducing key concepts with a progressive learning approach:
 
-# C++ Course Outline
 
 ## 1. Introduction to C++
 - History and evolution of C++
