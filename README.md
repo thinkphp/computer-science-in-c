@@ -81,6 +81,7 @@ To get started with the course, please:
 3. Familiarize yourself with the course materials and resources.
 4. Join the course discussion forum to connect with instructors and peers.
 
+## _____________________
 
 Computer science is no more about
 computers than astronomy is about
