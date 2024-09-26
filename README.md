@@ -104,13 +104,7 @@ UNIX operating system on the DEC PDP-11, by Dennis Ritchie. The operating
 system, the C compiler, and essentially all UNIX applications program (including
 all of the software used to prepare this course) are written in C.
 
-#### Getting Started
-
-#### Variables and Arithmentic Expressions
-
-### Programming Contests
-
-#### Educational Codeforces 
+### Educational Codeforces 
 
 Round  1 https://codeforces.com/contest/598
 
