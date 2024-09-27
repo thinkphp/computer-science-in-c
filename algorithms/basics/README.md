@@ -261,6 +261,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 101) Kruskal(MST) Really Special Subtree https://www.hackerrank.com/challenges/kruskalmstrsub/problem
 
+102) Journey to the moon https://www.hackerrank.com/challenges/journey-to-the-moon/problem
+
 
 
 
