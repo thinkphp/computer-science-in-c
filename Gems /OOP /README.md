@@ -1,13 +1,16 @@
 # C++ Object-Oriented Programming Course Outline
 
 ## I. Introduction to OOP
-   A. Procedural vs. Object-Oriented Programming
-   B. Core OOP concepts: Encapsulation, Inheritance, Polymorphism, Abstraction
+   - Procedural vs. Object-Oriented Programming
+   - Core OOP concepts: Encapsulation, Inheritance, Polymorphism, Abstraction
 
 ## II. Classes and Objects
    A. Defining classes
+   
    B. Creating objects
+   
    C. Access specifiers: public, private, protected
+   
    D. Constructors and destructors
 
 ## III. Encapsulation
