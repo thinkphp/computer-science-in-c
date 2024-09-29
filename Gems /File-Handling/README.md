@@ -23,13 +23,17 @@
 
 ## III. Binary File Handling
    A. Differences between text and binary files
+   
    B. Opening binary files (ios::binary mode)
+   
    C. Reading from binary files
       1. read() function
       2. Reading structures and objects
+      
    D. Writing to binary files
       1. write() function
       2. Writing structures and objects
+      
    E. Random access in binary files
       1. seekg() and seekp() functions
       2. tellg() and tellp() functions
