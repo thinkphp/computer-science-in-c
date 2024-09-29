@@ -111,6 +111,204 @@ The typical workflow for ML in C++ follows these steps:
 ### 7. **Using TensorFlow C++ API (Advanced)**
 For more advanced models like deep learning, TensorFlow’s C++ API can be used to load pre-trained models or build custom models. However, this requires a more complex setup and understanding of TensorFlow’s architecture.
 
+
+Certainly! I'll provide you with three examples of using C++ for machine learning problems. These examples will demonstrate how C++ can be used to implement basic machine learning algorithms and data preprocessing techniques.
+
+
+
+```cpp
+#include <iostream>
+#include <vector>
+#include <cmath>
+#include <algorithm>
+#include <numeric>
+#include <random>
+
+// Example 1: Linear Regression
+class LinearRegression {
+private:
+    double slope;
+    double intercept;
+
+public:
+    void fit(const std::vector<double>& X, const std::vector<double>& y) {
+        double sum_X = std::accumulate(X.begin(), X.end(), 0.0);
+        double sum_Y = std::accumulate(y.begin(), y.end(), 0.0);
+        double sum_XY = std::inner_product(X.begin(), X.end(), y.begin(), 0.0);
+        double sum_XX = std::inner_product(X.begin(), X.end(), X.begin(), 0.0);
+        int n = X.size();
+
+        slope = (n * sum_XY - sum_X * sum_Y) / (n * sum_XX - sum_X * sum_X);
+        intercept = (sum_Y - slope * sum_X) / n;
+    }
+
+    double predict(double x) const {
+        return slope * x + intercept;
+    }
+};
+
+// Example 2: K-Means Clustering
+class KMeansClustering {
+private:
+    int k;
+    std::vector<std::vector<double>> centroids;
+
+public:
+    KMeansClustering(int num_clusters) : k(num_clusters) {}
+
+    void fit(std::vector<std::vector<double>>& data, int max_iterations = 100) {
+        // Initialize centroids randomly
+        std::random_device rd;
+        std::mt19937 gen(rd());
+        std::uniform_int_distribution<> dis(0, data.size() - 1);
+        centroids.resize(k);
+        for (int i = 0; i < k; ++i) {
+            centroids[i] = data[dis(gen)];
+        }
+
+        for (int iteration = 0; iteration < max_iterations; ++iteration) {
+            std::vector<std::vector<std::vector<double>>> clusters(k);
+            
+            // Assign points to nearest centroid
+            for (const auto& point : data) {
+                int nearest_centroid = 0;
+                double min_distance = std::numeric_limits<double>::max();
+                for (int i = 0; i < k; ++i) {
+                    double distance = euclidean_distance(point, centroids[i]);
+                    if (distance < min_distance) {
+                        min_distance = distance;
+                        nearest_centroid = i;
+                    }
+                }
+                clusters[nearest_centroid].push_back(point);
+            }
+
+            // Update centroids
+            for (int i = 0; i < k; ++i) {
+                if (!clusters[i].empty()) {
+                    centroids[i] = calculate_mean(clusters[i]);
+                }
+            }
+        }
+    }
+
+    int predict(const std::vector<double>& point) const {
+        int nearest_centroid = 0;
+        double min_distance = std::numeric_limits<double>::max();
+        for (int i = 0; i < k; ++i) {
+            double distance = euclidean_distance(point, centroids[i]);
+            if (distance < min_distance) {
+                min_distance = distance;
+                nearest_centroid = i;
+            }
+        }
+        return nearest_centroid;
+    }
+
+private:
+    double euclidean_distance(const std::vector<double>& a, const std::vector<double>& b) const {
+        double sum = 0.0;
+        for (size_t i = 0; i < a.size(); ++i) {
+            sum += (a[i] - b[i]) * (a[i] - b[i]);
+        }
+        return std::sqrt(sum);
+    }
+
+    std::vector<double> calculate_mean(const std::vector<std::vector<double>>& points) const {
+        std::vector<double> mean(points[0].size(), 0.0);
+        for (const auto& point : points) {
+            for (size_t i = 0; i < point.size(); ++i) {
+                mean[i] += point[i];
+            }
+        }
+        for (auto& m : mean) {
+            m /= points.size();
+        }
+        return mean;
+    }
+};
+
+// Example 3: Logistic Regression
+class LogisticRegression {
+private:
+    std::vector<double> weights;
+    double bias;
+    double learning_rate;
+
+public:
+    LogisticRegression(int features, double lr = 0.01) : learning_rate(lr) {
+        weights.resize(features, 0.0);
+        bias = 0.0;
+    }
+
+    void fit(const std::vector<std::vector<double>>& X, const std::vector<int>& y, int epochs = 100) {
+        for (int epoch = 0; epoch < epochs; ++epoch) {
+            for (size_t i = 0; i < X.size(); ++i) {
+                double y_pred = predict_proba(X[i]);
+                double error = y_pred - y[i];
+                
+                for (size_t j = 0; j < weights.size(); ++j) {
+                    weights[j] -= learning_rate * error * X[i][j];
+                }
+                bias -= learning_rate * error;
+            }
+        }
+    }
+
+    bool predict(const std::vector<double>& x) const {
+        return predict_proba(x) >= 0.5;
+    }
+
+private:
+    double predict_proba(const std::vector<double>& x) const {
+        double z = bias + std::inner_product(weights.begin(), weights.end(), x.begin(), 0.0);
+        return 1.0 / (1.0 + std::exp(-z));
+    }
+};
+
+int main() {
+    // Example 1: Linear Regression
+    std::vector<double> X = {1, 2, 3, 4, 5};
+    std::vector<double> y = {2, 4, 5, 4, 5};
+    LinearRegression lr;
+    lr.fit(X, y);
+    std::cout << "Linear Regression prediction for x=6: " << lr.predict(6) << std::endl;
+
+    // Example 2: K-Means Clustering
+    std::vector<std::vector<double>> data = {{1, 2}, {1.5, 1.8}, {5, 8}, {8, 8}, {1, 0.6}, {9, 11}};
+    KMeansClustering kmeans(2);
+    kmeans.fit(data);
+    std::cout << "K-Means Clustering prediction for point [2, 2]: " << kmeans.predict({2, 2}) << std::endl;
+
+    // Example 3: Logistic Regression
+    std::vector<std::vector<double>> X_log = {{1, 1}, {2, 2}, {2, 1}, {3, 4}};
+    std::vector<int> y_log = {0, 0, 1, 1};
+    LogisticRegression logreg(2);
+    logreg.fit(X_log, y_log);
+    std::cout << "Logistic Regression prediction for point [3, 3]: " << logreg.predict({3, 3}) << std::endl;
+
+    return 0;
+}
+
+```
+
+These examples demonstrate three basic machine learning algorithms implemented in C++:
+
+1. **Linear Regression**: This example shows a simple implementation of linear regression. It fits a line to a set of data points and can make predictions based on the fitted line.
+
+2. **K-Means Clustering**: This example implements the K-Means clustering algorithm. It groups a set of data points into K clusters based on their similarity.
+
+3. **Logistic Regression**: This example demonstrates a basic implementation of logistic regression for binary classification. It learns to classify data points into one of two categories.
+
+Key points about these implementations:
+
+1. They are basic versions of these algorithms and don't include advanced features like regularization or optimization techniques.
+2. They use standard C++ libraries and don't rely on external machine learning libraries.
+3. These examples are meant for educational purposes and to demonstrate how machine learning concepts can be implemented in C++. For production use, it's generally recommended to use well-established libraries like TensorFlow, PyTorch, or scikit-learn, which offer more optimized and feature-rich implementations.
+
+In practice, C++ is often used in machine learning for performance-critical parts of larger systems, often in conjunction with Python or other high-level languages for easier prototyping and experimentation.
+
+
 ### Conclusion
 Machine Learning in C++ requires more setup and manual optimization compared to higher-level languages like Python. However, it’s incredibly powerful when performance matters. Libraries like MLPack, Dlib, and Eigen provide essential tools to make ML development easier in C++. For production environments, C++ often provides the speed and efficiency necessary for real-time applications and large-scale systems.
 
