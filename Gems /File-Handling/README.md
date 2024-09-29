@@ -1,9 +1,9 @@
 # C++ File Handling Course Outline
 
 ## I. Introduction to File Handling
-   A. Importance of file I/O in programming
-   B. Types of files (text vs. binary)
-   C. File streams in C++
+- Importance of file I/O in programming
+- Types of files (text vs. binary)
+- File streams in C++
 
 ## II. Text File Handling
    A. Opening and closing files
