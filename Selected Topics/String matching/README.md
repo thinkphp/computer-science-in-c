@@ -82,5 +82,3 @@ This implementation:
 4. Finally, it returns all positions where the pattern was found.
 
 While naive string matching is not the most efficient for large texts or patterns, it's often sufficient for simple cases and serves as a good starting point for understanding more complex string matching algorithms.
-
-Would you like me to explain any part of this implementation in more detail or compare it with other string matching algorithms?
