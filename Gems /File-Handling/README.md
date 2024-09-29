@@ -13,12 +13,15 @@
    B. File modes (ios::in, ios::out, ios::app, etc.)
 
    C. Reading from text files
+   
    - Reading character by character
    - Reading line by line
    - Reading formatted data
+   - 
    D. Writing to text files
    - Writing strings
    - Formatting output
+   - 
    E. Error handling in file operations
 
 ## III. Binary File Handling
