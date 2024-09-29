@@ -11,11 +11,13 @@
    - ifstream for reading
    - fstream for both reading and writing   
    B. File modes (ios::in, ios::out, ios::app, etc.)
+
    C. Reading from text files
-      1. Reading character by character
-      2. Reading line by line
-      3. Reading formatted data
+   - Reading character by character
+   - Reading line by line
+   - Reading formatted data
    D. Writing to text files
+
       1. Writing strings
       2. Formatting output
    E. Error handling in file operations
