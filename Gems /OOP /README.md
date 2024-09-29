@@ -38,20 +38,26 @@
 
 ## VI. Abstraction
    A. Abstract classes
+   
    B. Interfaces (pure abstract classes)
 
 ## VII. Advanced OOP Concepts
    A. Templates and generic programming
+   
    B. Exception handling in OOP
+   
    C. Smart pointers and memory management
 
 ## VIII. Design Patterns
    A. Creational patterns
+   
    B. Structural patterns
+   
    C. Behavioral patterns
 
 ## IX. Best Practices and Modern C++ Features
    A. SOLID principles
+   
    B. C++11/14/17/20 OOP enhancements
 
 ## X. Case Studies and Projects
