@@ -15,18 +15,25 @@
 
 ## III. Encapsulation
    A. Data hiding
+   
    B. Getter and setter methods
+   
    C. Friend functions and classes
 
 ## IV. Inheritance
    A. Base and derived classes
+   
    B. Types of inheritance: single, multiple, multilevel
+   
    C. Virtual base classes
 
 ## V. Polymorphism
    A. Function overloading
+   
    B. Operator overloading
+   
    C. Virtual functions
+   
    D. Pure virtual functions and abstract classes
 
 ## VI. Abstraction
