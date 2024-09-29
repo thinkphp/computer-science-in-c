@@ -7,9 +7,9 @@
 
 ## II. Text File Handling
    A. Opening and closing files
-      1. ofstream for writing
-      2. ifstream for reading
-      3. fstream for both reading and writing
+   - ofstream for writing
+   - ifstream for reading
+   - fstream for both reading and writing   
    B. File modes (ios::in, ios::out, ios::app, etc.)
    C. Reading from text files
       1. Reading character by character
