@@ -17,9 +17,8 @@
    - Reading line by line
    - Reading formatted data
    D. Writing to text files
-
-      1. Writing strings
-      2. Formatting output
+   - Writing strings
+   - Formatting output
    E. Error handling in file operations
 
 ## III. Binary File Handling
