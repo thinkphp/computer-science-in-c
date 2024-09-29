@@ -62,7 +62,9 @@
 
 ## X. Case Studies and Projects
    A. Designing and implementing a class hierarchy
+   
    B. Applying OOP to solve real-world problems
+   
 ## Practice
 
 https://www.pbinfo.ro/?pagina=probleme-lista&tag=164
