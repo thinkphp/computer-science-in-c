@@ -263,6 +263,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 102) Journey to the moon https://www.hackerrank.com/challenges/journey-to-the-moon/problem
 
+103) Calculation Function https://codeforces.com/contest/486/problem/A
+
 
 
 
