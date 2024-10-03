@@ -265,6 +265,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 103) Calculation Function https://codeforces.com/contest/486/problem/A
 
+104) Frog Jumping https://codeforces.com/contest/1077/problem/A
+
 
 
 
