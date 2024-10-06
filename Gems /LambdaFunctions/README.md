@@ -58,3 +58,8 @@ int main() {
 
 ### Concluzie
 Lambda calculus este o teorie matematică dezvoltată de Alonzo Church pentru a formaliza funcțiile și calculul funcțional. În timp, a devenit un model esențial pentru teoria computației și a influențat multe limbaje de programare moderne, inclusiv **C++**, care folosește lambdas pentru a introduce elemente funcționale în cadrul său imperativ.
+
+
+### References:
+
+https://plato.stanford.edu/entries/lambda-calculus/
