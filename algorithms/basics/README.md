@@ -233,41 +233,43 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 87) Pascal's Triangle https://leetcode.com/problems/pascals-triangle/description/
 
-88) Game 23 https://codeforces.com/contest/1141/problem/A
+88) Pascal's Triangle2 https://leetcode.com/problems/pascals-triangle-ii/description/
 
-89) Petr and Book https://codeforces.com/contest/139/problem/A
+89) Game 23 https://codeforces.com/contest/1141/problem/A
 
-90) Remove element https://leetcode.com/problems/remove-element/description/
+90) Petr and Book https://codeforces.com/contest/139/problem/A
 
-91) Valid Boomerang https://leetcode.com/problems/valid-boomerang/description/
+91) Remove element https://leetcode.com/problems/remove-element/description/
 
-92) Soldier and banans https://codeforces.com/contest/546/problem/A
+92) Valid Boomerang https://leetcode.com/problems/valid-boomerang/description/
 
-93) Fibonacci Number https://leetcode.com/problems/fibonacci-number/description/
+93) Soldier and banans https://codeforces.com/contest/546/problem/A
 
-94) N-th Tribonacci Number https://leetcode.com/problems/n-th-tribonacci-number/description/
+94) Fibonacci Number https://leetcode.com/problems/fibonacci-number/description/
 
-95) Climbing stars https://leetcode.com/problems/climbing-stairs/
+95) N-th Tribonacci Number https://leetcode.com/problems/n-th-tribonacci-number/description/
 
-96) Maximum Ice Cream Bar https://leetcode.com/problems/maximum-ice-cream-bars/description/
+96) Climbing stars https://leetcode.com/problems/climbing-stairs/
 
-97) The time in words https://www.hackerrank.com/challenges/the-time-in-words/problem
+97) Maximum Ice Cream Bar https://leetcode.com/problems/maximum-ice-cream-bars/description/
 
-98) Erasing Zeros https://codeforces.com/contest/1303/problem/A
+98) The time in words https://www.hackerrank.com/challenges/the-time-in-words/problem
 
-99) Breadth First Search: Shortest Reach https://www.hackerrank.com/challenges/bfsshortreach/problem
+99) Erasing Zeros https://codeforces.com/contest/1303/problem/A
 
-100) Dijkstra: Shortest Reack 2 https://www.hackerrank.com/challenges/dijkstrashortreach/problem
+100) Breadth First Search: Shortest Reach https://www.hackerrank.com/challenges/bfsshortreach/problem
 
-101) Kruskal(MST) Really Special Subtree https://www.hackerrank.com/challenges/kruskalmstrsub/problem
+101) Dijkstra: Shortest Reack 2 https://www.hackerrank.com/challenges/dijkstrashortreach/problem
 
-102) Journey to the moon https://www.hackerrank.com/challenges/journey-to-the-moon/problem
+102) Kruskal(MST) Really Special Subtree https://www.hackerrank.com/challenges/kruskalmstrsub/problem
 
-103) Calculation Function https://codeforces.com/contest/486/problem/A
+103) Journey to the moon https://www.hackerrank.com/challenges/journey-to-the-moon/problem
 
-104) Frog Jumping https://codeforces.com/contest/1077/problem/A
+104) Calculation Function https://codeforces.com/contest/486/problem/A
 
-105) Triple operations https://codeforces.com/contest/1999/problem/E
+105) Frog Jumping https://codeforces.com/contest/1077/problem/A
+
+106) Triple operations https://codeforces.com/contest/1999/problem/E
 
 
 
