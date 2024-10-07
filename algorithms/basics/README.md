@@ -267,6 +267,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 104) Frog Jumping https://codeforces.com/contest/1077/problem/A
 
+105) Triple operations https://codeforces.com/contest/1999/problem/E
+
 
 
 
