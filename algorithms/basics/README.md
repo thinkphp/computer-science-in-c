@@ -271,6 +271,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 106) Triple operations https://codeforces.com/contest/1999/problem/E
 
+107) Breaking the records https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+
 
 
 
