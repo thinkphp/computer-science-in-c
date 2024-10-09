@@ -39,11 +39,7 @@
   </li>
   <li>
     <p><a href="https://cses.fi/problemset/user/166019/">CSES Problem Set</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.spoj.com/">Sphere Online Judge (SPOJ)</a></p>
-  </li>
-  
+  </li>  
 https://github.com/manjunath5496/Algorithm-Books
 </ul>
 
