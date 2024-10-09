@@ -315,9 +315,7 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
   <li>
     <p><a href="https://cpbook.net/details">Competitive Programming: Steven Halim</a></p>
   </li> 
-  <li>
-    <p><a href="https://train.usaco.org/">USACO Training Program Gateway</a></p>
-  </li>
+  
   <li>
     <p><a href="https://medium.com/algorithms-and-leetcode/math-related-problems-on-leetcode-9537df481fbe">Math related problems on LeetCode </a></p>
   </li>
