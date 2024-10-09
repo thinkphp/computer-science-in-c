@@ -43,16 +43,7 @@
   <li>
     <p><a href="https://www.spoj.com/">Sphere Online Judge (SPOJ)</a></p>
   </li>
-  <li>
-    <p><a href="https://train.usaco.org/">USACO Training Program Gateway</a></p>
-  </li>
-  <li>
-    <p><a href="https://codeforces.com/profile/thinkphp">Codeforce Programming Contests</a></p>
-  </li>
-  <li>
-    <p><a href="https://adventofcode.com/">Advent of code</a></p>
-  </li>
-
+  
 https://github.com/manjunath5496/Algorithm-Books
 </ul>
 
