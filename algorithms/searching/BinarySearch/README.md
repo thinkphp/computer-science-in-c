@@ -133,9 +133,7 @@ Replace the array and target values with your own inputs to test the algorithm.
 ## Conclusion
 
 Binary Search is an essential algorithm for efficient searching in sorted arrays. This repository demonstrates both the iterative and recursive implementations in C++. Feel free to explore the code and modify it for different use cases.
-```
 
-Acest fișier `README.md` este optimizat pentru implementările în C++ ale algoritmului de căutare binară și conține instrucțiuni pentru compilare și rulare.
 
 ## Examples:
 
