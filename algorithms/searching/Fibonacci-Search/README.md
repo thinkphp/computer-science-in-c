@@ -1,6 +1,3 @@
-Iată un exemplu de fișier `README.md` pentru algoritmul **Fibonacci Search** implementat în C++:
-
-```markdown
 # Fibonacci Search in C++
 
 ## Descriere
