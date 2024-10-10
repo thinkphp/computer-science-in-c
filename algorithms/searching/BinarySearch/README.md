@@ -89,10 +89,6 @@ Replace the array and target values with your own inputs to test the algorithm.
 
 Binary Search is an essential algorithm for efficient searching in sorted arrays. This repository demonstrates both the iterative and recursive implementations. Feel free to explore the code and modify it for different use cases.
 
----
-Acest fișier README.md este un exemplu simplu și poate fi ajustat în funcție de limbajul în care implementezi algoritmii sau alte cerințe specifice proiectului tău.
-
-
 
 ## Examples:
 
