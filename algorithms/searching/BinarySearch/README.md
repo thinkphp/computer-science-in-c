@@ -1,6 +1,6 @@
-# Binary Search Algorithm
+# Binary Search Algorithm in C++
 
-This repository contains implementations of the Binary Search Algorithm in both iterative and recursive approaches.
+This repository contains implementations of the Binary Search Algorithm in both iterative and recursive approaches using C++.
 
 ## Table of Contents
 
@@ -24,56 +24,101 @@ Both implementations assume the input array is sorted in ascending order.
 
 The iterative binary search uses a `while` loop to keep halving the search interval until the target element is found or the search space is exhausted.
 
-### Pseudocode
+### C++ Code
 
-```text
-binarySearch(arr, target):
-  start = 0
-  end = length(arr) - 1
-  
-  while start <= end:
-    mid = start + (end - start) / 2
-    if arr[mid] == target:
-      return mid
-    else if arr[mid] < target:
-      start = mid + 1
-    else:
-      end = mid - 1
+```cpp
+#include <iostream>
+#include <vector>
+
+int iterativeBinarySearch(const std::vector<int>& arr, int target) {
+    int start = 0;
+    int end = arr.size() - 1;
     
-  return -1  # Target not found
+    while (start <= end) {
+        int mid = start + (end - start) / 2;
+        
+        if (arr[mid] == target) {
+            return mid; // Target found
+        } else if (arr[mid] < target) {
+            start = mid + 1; // Search right half
+        } else {
+            end = mid - 1; // Search left half
+        }
+    }
+    return -1; // Target not found
+}
+
+int main() {
+    std::vector<int> arr = {2, 3, 4, 10, 40};
+    int target = 10;
+    
+    int result = iterativeBinarySearch(arr, target);
+    
+    if (result != -1) {
+        std::cout << "Element found at index " << result << std::endl;
+    } else {
+        std::cout << "Element not found" << std::endl;
+    }
+    
+    return 0;
+}
 ```
 
 ## Recursive Binary Search
 
 In the recursive version, the function calls itself with updated `start` and `end` bounds after comparing the middle element to the target.
 
-### Pseudocode
+### C++ Code
 
-```text
-binarySearch(arr, start, end, target):
-  if start > end:
-    return -1  # Target not found
-  
-  mid = start + (end - start) / 2
-  
-  if arr[mid] == target:
-    return mid
-  else if arr[mid] < target:
-    return binarySearch(arr, mid + 1, end, target)
-  else:
-    return binarySearch(arr, start, mid - 1, target)
+```cpp
+#include <iostream>
+#include <vector>
+
+int recursiveBinarySearch(const std::vector<int>& arr, int start, int end, int target) {
+    if (start > end) {
+        return -1; // Target not found
+    }
+    
+    int mid = start + (end - start) / 2;
+    
+    if (arr[mid] == target) {
+        return mid; // Target found
+    } else if (arr[mid] < target) {
+        return recursiveBinarySearch(arr, mid + 1, end, target); // Search right half
+    } else {
+        return recursiveBinarySearch(arr, start, mid - 1, target); // Search left half
+    }
+}
+
+int main() {
+    std::vector<int> arr = {2, 3, 4, 10, 40};
+    int target = 10;
+    
+    int result = recursiveBinarySearch(arr, 0, arr.size() - 1, target);
+    
+    if (result != -1) {
+        std::cout << "Element found at index " << result << std::endl;
+    } else {
+        std::cout << "Element not found" << std::endl;
+    }
+    
+    return 0;
+}
 ```
 
 ## How to Use
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/binary-search-algorithm.git
+    git clone https://github.com/your-username/binary-search-algorithm-cpp.git
     ```
-2. Run the code in your desired environment:
+2. Compile and run the code in your terminal:
     ```bash
-    python iterative_binary_search.py
-    python recursive_binary_search.py
+    g++ iterative_binary_search.cpp -o iterative
+    ./iterative
+    
+    g++ recursive_binary_search.cpp -o recursive
+    ./recursive
     ```
 
 Replace the array and target values with your own inputs to test the algorithm.
@@ -87,8 +132,10 @@ Replace the array and target values with your own inputs to test the algorithm.
 
 ## Conclusion
 
-Binary Search is an essential algorithm for efficient searching in sorted arrays. This repository demonstrates both the iterative and recursive implementations. Feel free to explore the code and modify it for different use cases.
+Binary Search is an essential algorithm for efficient searching in sorted arrays. This repository demonstrates both the iterative and recursive implementations in C++. Feel free to explore the code and modify it for different use cases.
+```
 
+Acest fișier `README.md` este optimizat pentru implementările în C++ ale algoritmului de căutare binară și conține instrucțiuni pentru compilare și rulare.
 
 ## Examples:
 
