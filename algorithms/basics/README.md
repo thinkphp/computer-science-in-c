@@ -273,6 +273,10 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 107) Breaking the records https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 
+108) Social Network https://codeforces.com/contest/1609/problem/D
+
+109) Divide and Multiply https://codeforces.com/contest/1609/problem/A
+
 
 
 
