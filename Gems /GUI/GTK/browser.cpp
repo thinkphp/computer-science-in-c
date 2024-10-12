@@ -103,3 +103,5 @@ int main(int argc, char* argv[]) {
 
     return app->run(browser);
 }
+
+//How to compile: ++ -o simple_browser browser.cpp `pkg-config --cflags --libs gtkmm-3.0 webkit2gtk-4.0`
