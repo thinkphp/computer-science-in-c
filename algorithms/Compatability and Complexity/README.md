@@ -196,6 +196,7 @@ Acest curs se concentrează pe teoria complexității algoritmilor, explorând m
 - "Algorithm Design" de Jon Kleinberg și Éva Tardos
 - "The Design and Analysis of Algorithms" de Dexter C. Kozen
 - "The Nature of Computation" de Cristopher Moore și Stephan Mertens
+- "Introduction to the theory of complexity" Daniel Pierre Bovet Pierluigi Crescenzi
 
 ### References:
 https://math.mit.edu/~sipser/
