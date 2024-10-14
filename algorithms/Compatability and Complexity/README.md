@@ -190,7 +190,12 @@ Acest curs se concentrează pe teoria complexității algoritmilor, explorând m
 6. Website-ul Complexity Zoo pentru explorarea claselor de complexitate
 
 ### Books
-______________
+"Introduction to Algorithms" de Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest și Clifford Stein
+
+"Introduction to the Theory of Computation" de Michael Sipser
+"Algorithm Design" de Jon Kleinberg și Éva Tardos
+"The Design and Analysis of Algorithms" de Dexter C. Kozen
+"The Nature of Computation" de Cristopher Moore și Stephan Mertens
 
 ### References:
 https://math.mit.edu/~sipser/
