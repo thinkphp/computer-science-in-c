@@ -277,6 +277,15 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 109) Divide and Multiply https://codeforces.com/contest/1609/problem/A
 
+110) Staircase https://www.hackerrank.com/challenges/staircase/problem
+
+111) Bill Divistion https://www.hackerrank.com/challenges/bon-appetit/problem
+
+112) Time Conversion https://www.hackerrank.com/challenges/time-conversion/problem
+
+113) Plus-minus https://www.hackerrank.com/challenges/plus-minus/problem
+
+
 
 
 
