@@ -189,4 +189,5 @@ Acest curs se concentrează pe teoria complexității algoritmilor, explorând m
 5. Cursuri online de pe platforme precum Coursera și MIT OpenCourseWare
 6. Website-ul Complexity Zoo pentru explorarea claselor de complexitate
 ### References:
+https://math.mit.edu/~sipser/
 https://plato.stanford.edu/entries/computability/
