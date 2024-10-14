@@ -52,4 +52,4 @@ https://github.com/manjunath5496/Algorithm-Books
 * https://nixdell.com/teaching.html
 * https://courses.cs.washington.edu/courses/cse373/
 * https://www.w3schools.com/dsa/index.php
-
+https://plato.stanford.edu/entries/computability/
