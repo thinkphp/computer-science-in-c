@@ -1,7 +1,5 @@
 # Theory of Computability and Complexity Course Outline
 
-# Theory of Computability and Complexity Course Outline
-
 ## Course Introduction
 
 Welcome to the Theory of Computability and Complexity course at Oxford University. I'm [Your Name], your instructor for this term. As a [Your Position] with expertise in [Your Specific Areas of Research/Interest], I'm excited to guide you through this fascinating exploration of the fundamental limits and capabilities of computation.
