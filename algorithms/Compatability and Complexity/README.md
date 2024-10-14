@@ -14,8 +14,6 @@ Before we delve into the course content, let's establish two core concepts that 
 
 Throughout this course, we'll explore these concepts in depth, seeing how they interrelate and inform our understanding of computation at its most fundamental level.
 
-[The rest of the content remains the same, starting from "Course Description"]
-
 ## Course Description
 This course introduces the fundamental concepts of computability theory and computational complexity, exploring the limits of what can be computed, the nature of computation itself, and the efficiency of computational processes. Suitable for advanced undergraduate or postgraduate students at Oxford University.
 
