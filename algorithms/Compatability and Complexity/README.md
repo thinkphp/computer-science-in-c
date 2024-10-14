@@ -1,3 +1,129 @@
+# Theory of Computability and Complexity Course Outline
+
+# Theory of Computability and Complexity Course Outline
+
+## Course Introduction
+
+Welcome to the Theory of Computability and Complexity course at Oxford University. I'm [Your Name], your instructor for this term. As a [Your Position] with expertise in [Your Specific Areas of Research/Interest], I'm excited to guide you through this fascinating exploration of the fundamental limits and capabilities of computation.
+
+## Key Definitions
+
+Before we delve into the course content, let's establish two core concepts that will frame our studies:
+
+1. **Computability**: Computability theory deals with the question of what can be computed. It explores the fundamental capabilities and limitations of abstract computing devices, regardless of practical constraints like time or memory. A problem is considered computable if there exists an algorithm that can solve it in a finite number of steps.
+
+2. **Complexity**: Computational complexity theory focuses on the question of how efficiently a problem can be solved. It classifies computational problems based on their inherent difficulty and the resources (primarily time and space) required to solve them. Complexity theory helps us understand not just what is computable, but what is feasibly computable with realistic constraints.
+
+Throughout this course, we'll explore these concepts in depth, seeing how they interrelate and inform our understanding of computation at its most fundamental level.
+
+[The rest of the content remains the same, starting from "Course Description"]
+
+## Course Description
+This course introduces the fundamental concepts of computability theory and computational complexity, exploring the limits of what can be computed, the nature of computation itself, and the efficiency of computational processes. Suitable for advanced undergraduate or postgraduate students at Oxford University.
+
+## Course Objectives
+By the end of this course, students will be able to:
+1. Understand and apply key concepts in computability theory and computational complexity
+2. Analyze and construct formal models of computation
+3. Prove fundamental theorems in computability and complexity theory
+4. Recognize and describe the limitations of computational models
+5. Classify problems according to their computational complexity
+6. Understand the relationships between different complexity classes
+
+## Prerequisites
+- Discrete Mathematics
+- Introduction to Algorithms
+- Basic knowledge of formal logic
+
+## Weekly Topics
+
+### Week 1: Introduction to Computability Theory
+- Historical context and motivation
+- Informal notion of algorithms
+- Introduction to formal models of computation
+
+### Week 2-3: Turing Machines
+- Definition and examples
+- Programming techniques for Turing machines
+- Variants of Turing machines
+- The Church-Turing thesis
+
+### Week 4: Decidability
+- Decidable languages
+- The halting problem
+- Reduction technique
+
+### Week 5: Turing Reducibility and Computability
+- Oracle Turing machines
+- Turing reducibility
+- Computable functions
+
+### Week 6: Recursively Enumerable Languages
+- Definition and properties
+- Relationship to decidable languages
+- Rice's theorem
+
+### Week 7: Introduction to Computational Complexity
+- Motivation and importance of efficiency in computation
+- Time complexity
+  - Big O notation
+  - Time complexity classes (P, NP, EXP)
+- Space complexity
+  - Space complexity classes (L, PSPACE)
+
+### Week 8: Complexity Classes and Problem Types
+- Detailed exploration of complexity classes:
+  - P: Problems solvable in polynomial time
+  - NP: Problems verifiable in polynomial time
+  - NP-hard: Problems at least as hard as NP problems
+  - NP-complete: Problems that are both NP and NP-hard
+  - PSPACE: Problems solvable using polynomial space
+  - EXP: Problems solvable in exponential time
+- Relationships between classes (e.g., P ⊆ NP ⊆ PSPACE ⊆ EXP)
+- Examples of problems in each class
+- Introduction to the P vs NP problem
+
+### Week 9: NP-Completeness and Reductions
+- Formal definition of NP-completeness
+- Cook-Levin theorem and the significance of SAT
+- Reduction techniques for proving NP-completeness
+- Examples of NP-complete problems:
+  - Boolean Satisfiability (SAT)
+  - Traveling Salesman Problem
+  - Graph Coloring
+  - Subset Sum
+- Coping with NP-hardness: approximation algorithms and heuristics
+
+### Week 10: Advanced Topics in Complexity and Computability
+- Beyond NP: Introduction to the polynomial hierarchy
+- Probabilistic complexity classes (e.g., BPP, RP, ZPP)
+- Brief introduction to quantum complexity classes (e.g., BQP)
+- Average-case complexity
+- Parameterized complexity
+- Recursion theorem
+- Undecidability in logic (Gödel's incompleteness theorems)
+- Connections between computability and complexity theory
+- Open problems in the field
+
+## Assessment
+- Weekly problem sets (25%)
+- Midterm exam (25%)
+- Final project (20%)
+- Final exam (30%)
+
+## Recommended Textbooks
+1. Sipser, M. (2012). Introduction to the Theory of Computation. Cengage Learning.
+2. Arora, S., & Barak, B. (2009). Computational Complexity: A Modern Approach. Cambridge University Press.
+3. Hopcroft, J. E., Motwani, R., & Ullman, J. D. (2006). Introduction to Automata Theory, Languages, and Computation. Pearson.
+4. Cooper, S. B. (2003). Computability Theory. Chapman and Hall/CRC.
+
+## Additional Resources
+- Complexity Zoo: An online wiki cataloging complexity classes
+- Research papers from leading conferences (STOC, FOCS, ICALP)
+- Online lectures from Coursera, edX, or MIT OpenCourseWare on advanced topics
+- Garey, M. R., & Johnson, D. S. (1979). Computers and Intractability: A Guide to the Theory of NP-Completeness. W. H. Freeman.
+# ___________________-
+
 # Teoria Complexității
 
 ## Descrierea cursului
