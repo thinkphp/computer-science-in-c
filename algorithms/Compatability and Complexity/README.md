@@ -1,6 +1,6 @@
-# Teoria Complexității în Algoritmi
+# Teoria Complexității
 
-## Descrierea Cursului
+## Descrierea cursului
 Acest curs se concentrează pe teoria complexității algoritmilor, explorând modul în care sunt evaluați și clasificați algoritmii în funcție de utilizarea resurselor, cum ar fi timpul și spațiul. Studenții vor învăța concepte fundamentale în analiza algoritmilor și vor explora aplicații practice ale teoriei complexității.
 
 ## Obiectivele Cursului
