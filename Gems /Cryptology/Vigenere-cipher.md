@@ -1,6 +1,6 @@
-Certainly! I'll provide you with an implementation of the Vigenère cipher in C++. The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt plaintext.
+# VigenereCipher
 
-
+The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt plaintext.
 
 ```cpp
 #include <iostream>
