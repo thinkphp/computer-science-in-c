@@ -1,5 +1,11 @@
 # VigenereCipher
 
+Blaise de Vigenère (1523–1596) was a French diplomat and cryptographer, primarily known for creating the Vigenère cipher, a polyalphabetic encryption algorithm. Although he did not fully invent the method, he developed and refined the ideas of his predecessors, and the cipher bears his name, becoming one of the most famous encryption systems in history.
+
+The Vigenère cipher uses a key made up of a word or phrase to alter the letters of the plaintext, making the message more difficult to break than monoalphabetic ciphers. In the 19th century, the cipher was considered "unbreakable" until Charles Babbage and Friedrich Kasiski discovered methods to attack it.
+
+Apart from his work in cryptography, Vigenère worked as a diplomat and wrote works on various subjects, including alchemy and history.
+
 The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt plaintext.
 
 ```cpp
