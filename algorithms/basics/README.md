@@ -285,6 +285,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 113) Plus-minus https://www.hackerrank.com/challenges/plus-minus/problem
 
+114) Stones on the table https://codeforces.com/contest/266/problem/A
+
 
 
 
