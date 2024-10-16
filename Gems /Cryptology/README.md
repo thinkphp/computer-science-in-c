@@ -28,6 +28,17 @@ Criptologia joacă un rol esențial în asigurarea securității informațiilor 
 
 3. **Hashing**: Transformă datele într-un format fix de lungime, care nu poate fi inversat. Funcțiile hash sunt utilizate pentru a verifica integritatea datelor. Exemple includ SHA-256 (Secure Hash Algorithm).
 
+
+# __________________
+
+1. **Algoritmii de criptare simetrici** sunt cei în care aceeași cheie este utilizată atât pentru criptare, cât și pentru decriptare. Exemple:
+   - **Cifrul Caesar**: Este un algoritm de substituție simplă în care fiecare literă din text este înlocuită cu o altă literă aflată la o distanță fixă în alfabet.
+   - **Cifrul de substituție**: Fiecare literă din textul clar este înlocuită cu o literă diferită conform unui anumit tabel de corespondență.
+   - **Cifrul Vigenère**: Este un cifru polialfabetic, ceea ce înseamnă că folosește mai multe substituții pe baza unei chei care se repetă. Dar, la fel ca la algoritmii simetrici, aceeași cheie este folosită pentru a cripta și a decripta mesajul.
+
+2. **Algoritmii de criptare asimetrici** folosesc o pereche de chei: o cheie publică pentru criptare și o cheie privată pentru decriptare. **RSA** este un exemplu de algoritm asimetric. Aici, criptarea se face cu cheie publică, iar decriptarea cu cheie privată, deci cheile sunt diferite.
+
+
 ## Concluzie
 
 Criptologia este o disciplină esențială în era digitală, protejând informațiile și comunicările într-o lume în care securitatea datelor este crucială. Înțelegerea principiilor de bază ale criptologiei poate ajuta indivizii și organizațiile să își protejeze informațiile sensibile și să se apere împotriva amenințărilor cibernetice.
