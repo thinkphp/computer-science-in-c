@@ -28,6 +28,7 @@ Criptologia joacă un rol esențial în asigurarea securității informațiilor 
 
 3. **Hashing**: Transformă datele într-un format fix de lungime, care nu poate fi inversat. Funcțiile hash sunt utilizate pentru a verifica integritatea datelor. Exemple includ SHA-256 (Secure Hash Algorithm).
 
+# 
 
 1. **Algoritmii de criptare simetrici** sunt cei în care aceeași cheie este utilizată atât pentru criptare, cât și pentru decriptare. Exemple:
    - **Cifrul Caesar**: Este un algoritm de substituție simplă în care fiecare literă din text este înlocuită cu o altă literă aflată la o distanță fixă în alfabet.
