@@ -287,6 +287,12 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 114) Stones on the table https://codeforces.com/contest/266/problem/A
 
+115) Find Point https://www.hackerrank.com/challenges/find-point/problem
+
+116) Triangle Numbers https://www.hackerrank.com/challenges/triangle-numbers/problem
+
+117) Combo Meal https://www.hackerrank.com/challenges/combo-meal/problem
+
 
 
 
