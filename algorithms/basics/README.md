@@ -293,6 +293,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 117) Combo Meal https://www.hackerrank.com/challenges/combo-meal/problem
 
+118) Connecting Towns https://www.hackerrank.com/challenges/connecting-towns/problem?isFullScreen=true
+
 
 
 
