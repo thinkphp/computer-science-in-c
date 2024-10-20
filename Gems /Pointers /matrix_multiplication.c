@@ -8,7 +8,7 @@ typedef struct {
 
 int multiply(Matrix A, Matrix B, Matrix *C) {
 
-    if(A.n - B.m) return 0;
+    if(A.n != B.m) return 0;
 
      for(int i = 0; i < A.n; ++i) {
 
@@ -25,7 +25,7 @@ int multiply(Matrix A, Matrix B, Matrix *C) {
 
        for(int j = 0; j < B.m; ++j) {
 
-         for(int k = 0; k < A.n; ++k) {
+         for(int k = 0; k < A.m; ++k) {
 
            C->M[i][j] += A.M[i][k] * B.M[k][j];
          }
