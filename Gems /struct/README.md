@@ -1,4 +1,4 @@
-# C++ Structures (struct)
+# Understanding C++ struct
 
 #### References
 
