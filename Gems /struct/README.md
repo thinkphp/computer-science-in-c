@@ -1,4 +1,4 @@
-# Understanding C++ struct
+# Understanding C/C++ struct
 
 În C, structurile (struct) sunt tipuri de date compuse care permit gruparea mai multor variabile de tipuri diferite într-o singură unitate, dar NU sunt un concept al programării orientate pe obiecte, deoarece C este un limbaj procedural, nu orientat pe obiecte.
 
