@@ -301,7 +301,7 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 121) Squares and Cubes https://codeforces.com/contest/1619/problem/B
 
-
+122) Stalin Sort https://codeforces.com/contest/2027/problem/B
 
 
 
