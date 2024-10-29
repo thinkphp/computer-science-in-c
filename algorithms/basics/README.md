@@ -295,6 +295,12 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 118) Connecting Towns https://www.hackerrank.com/challenges/connecting-towns/problem?isFullScreen=true
 
+119) Sakurako and Kosuke https://codeforces.com/contest/2033/problem/A
+
+120) Square String? https://codeforces.com/contest/1619/problem/A
+
+121) Squares and Cubes https://codeforces.com/contest/1619/problem/B
+
 
 
 
