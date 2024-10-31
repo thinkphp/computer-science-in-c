@@ -303,6 +303,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 122) Stalin Sort https://codeforces.com/contest/2027/problem/B
 
+123) In Search of an Easy Problem https://codeforces.com/contest/1030/problem/A
+
 
 
 #### References
