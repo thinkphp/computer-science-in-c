@@ -305,6 +305,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 123) In Search of an Easy Problem https://codeforces.com/contest/1030/problem/A
 
+124) Word Capitalization https://codeforces.com/contest/281/problem/A
+
 
 
 #### References
