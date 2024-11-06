@@ -307,6 +307,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 124) Word Capitalization https://codeforces.com/contest/281/problem/A
 
+125) Minority https://codeforces.com/contest/1633/problem/B
+
 
 
 #### References
