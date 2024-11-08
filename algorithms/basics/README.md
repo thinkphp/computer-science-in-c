@@ -309,6 +309,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 125) Minority https://codeforces.com/contest/1633/problem/B
 
+126) Drinks https://codeforces.com/contest/200/problem/B
+
 
 
 #### References
