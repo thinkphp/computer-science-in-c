@@ -311,6 +311,11 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 126) Drinks https://codeforces.com/contest/200/problem/B
 
+127) To my critics https://codeforces.com/contest/1850/problem/A
+
+128) Choosing teams https://codeforces.com/contest/432/problem/A
+
+
 
 
 #### References
