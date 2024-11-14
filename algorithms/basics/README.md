@@ -315,6 +315,10 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 128) Choosing teams https://codeforces.com/contest/432/problem/A
 
+129) Minimise Oneness https://codeforces.com/contest/2030/problem/B
+
+130) A Gift From Orangutan https://codeforces.com/contest/2030/problem/A
+
 
 
 
