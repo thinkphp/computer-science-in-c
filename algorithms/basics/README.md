@@ -319,6 +319,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 130) A Gift From Orangutan https://codeforces.com/contest/2030/problem/A
 
+131) https://codeforces.com/contest/2036/problem/A
+
 
 
 
