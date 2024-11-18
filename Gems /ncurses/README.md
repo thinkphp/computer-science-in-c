@@ -11,7 +11,7 @@ Key features of `ncurses` include:
 
 It’s commonly used for creating terminal-based applications, such as text editors, system monitors, games, and more, where graphical user interfaces (GUIs) are impractical or unnecessary.
 
-Would you like more details or examples on using `ncurses` in a programming language like C or Python?
+
 ```
 sudo apt-get install libncurses5-dev
 ```
