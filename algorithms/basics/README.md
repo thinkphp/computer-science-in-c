@@ -321,6 +321,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 131) Quintomania https://codeforces.com/contest/2036/problem/A
 
+132) https://codeforces.com/contest/2009/problem/B
+
 
 
 
