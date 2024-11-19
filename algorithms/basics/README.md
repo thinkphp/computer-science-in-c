@@ -329,6 +329,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 135) Make Them Equals https://codeforces.com/contest/1633/problem/D
 
+136) Kousuke's Assignment https://codeforces.com/contest/2033/problem/D
+
 
 
 
