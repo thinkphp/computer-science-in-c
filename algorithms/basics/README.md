@@ -331,6 +331,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 136) Kousuke's Assignment https://codeforces.com/contest/2033/problem/D
 
+137) PolandBall and Hypothesis https://codeforces.com/contest/755/problem/A
+
 
 
 
