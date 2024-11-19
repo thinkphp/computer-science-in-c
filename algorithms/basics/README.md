@@ -321,7 +321,13 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 131) Quintomania https://codeforces.com/contest/2036/problem/A
 
-132) https://codeforces.com/contest/2009/problem/B
+132) osu!mania https://codeforces.com/contest/2009/problem/B
+
+133) Startup https://codeforces.com/contest/2036/problem/B
+
+134) A TRUE Battle https://codeforces.com/contest/2030/problem/C
+
+135) Make Them Equals https://codeforces.com/contest/1633/problem/D
 
 
 
