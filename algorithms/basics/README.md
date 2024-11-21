@@ -333,6 +333,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 137) PolandBall and Hypothesis https://codeforces.com/contest/755/problem/A
 
+138) Is it rated? https://codeforces.com/contest/807/problem/A
+
 
 
 
