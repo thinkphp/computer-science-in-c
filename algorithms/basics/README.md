@@ -335,6 +335,12 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 138) Is it rated? https://codeforces.com/contest/807/problem/A
 
+139) Fast Food Restaurant https://codeforces.com/contest/1313/problem/A
+
+140) Frog Jumps https://codeforces.com/contest/1324/problem/C
+
+141) CopyCopyCopyCopyCopy  https://codeforces.com/contest/1325/problem/B
+
 
 
 
