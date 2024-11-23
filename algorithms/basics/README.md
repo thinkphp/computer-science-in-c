@@ -62,10 +62,11 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 2) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
 
-3) Quadratic Equation: https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
-* https://codeforces.com/contest/20/problem/B
-* https://codeforces.com/contest/630/problem/N
-* https://codeforces.com/problemset/problem/531/A
+3) Quadratic Equation:
+   - https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
+   - https://codeforces.com/contest/20/problem/B
+   - https://codeforces.com/contest/630/problem/N
+   - https://codeforces.com/problemset/problem/531/A
 
 5) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
 
