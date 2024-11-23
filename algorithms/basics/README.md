@@ -355,6 +355,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 148) Sumsec https://www.pbinfo.ro/probleme/298/sumsec
 
+149) The Max lines https://www.spoj.com/problems/MAXLN/
+
 
 
 
