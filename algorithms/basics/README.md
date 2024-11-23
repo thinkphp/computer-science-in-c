@@ -341,6 +341,20 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 141) CopyCopyCopyCopyCopy  https://codeforces.com/contest/1325/problem/B
 
+142) Sume2 https://www.pbinfo.ro/probleme/1933/sume2
+
+143) SecvZero https://www.pbinfo.ro/probleme/518/secvzero
+
+144) Ordonare https://www.pbinfo.ro/probleme/509/ordonare
+
+145) Secv10 https://www.pbinfo.ro/probleme/4148/secv10
+
+146) Oglindiri https://www.pbinfo.ro/probleme/190/oglindiri
+
+147) Secvcresc https://www.pbinfo.ro/probleme/181/secvcresc
+
+148) Sumsec https://www.pbinfo.ro/probleme/298/sumsec
+
 
 
 
