@@ -358,6 +358,14 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 149) The Max lines https://www.spoj.com/problems/MAXLN/
 
+150) Businessmen Problems https://codeforces.com/contest/981/problem/B
+
+151) System Administrator https://codeforces.com/contest/245/problem/A
+
+152) Internet Address https://codeforces.com/contest/245/problem/B
+
+153) Suggested Friends https://codeforces.com/contest/245/problem/G
+
 
 
 
