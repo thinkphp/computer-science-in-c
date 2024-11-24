@@ -53,6 +53,8 @@ https://infoarena.ro/arhiva-educationala
 
 https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 
+https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving
+
 https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 
