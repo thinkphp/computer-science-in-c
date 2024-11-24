@@ -56,7 +56,7 @@ https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 
-### Codeforces - HackerRank - Leetcode - Infoarena - AtCoder - Spoj - UVa - CSES
+### Codeforces // HackerRank // Leetcode // Infoarena // AtCoder // Spoj // UVa // CSES
 
 1) GCD https://codeforces.com/contest/1933/problem/D
 
