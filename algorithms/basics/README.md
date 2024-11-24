@@ -47,21 +47,21 @@
 
 ## Problem Set
 
-https://cses.fi/problemset/list/
+ * https://cses.fi/problemset/list/
 
-https://infoarena.ro/arhiva-educationala
+ * https://infoarena.ro/arhiva-educationala
 
-https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
+ * https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 
-https://codeforces.com/problemset
+ * https://codeforces.com/problemset
 
-https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving
+ * https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving
 
-https://www.spoj.com/problems/classical/
+ * https://www.spoj.com/problems/classical/
 
-https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
+ * https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
 
-https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
+ * https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 
 ### Codeforces // HackerRank // Leetcode // Infoarena // AtCoder // Spoj // UVa // CSES
