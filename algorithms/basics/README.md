@@ -55,6 +55,10 @@ https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 
 https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving
 
+https://www.spoj.com/problems/classical/
+
+https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
+
 https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 
