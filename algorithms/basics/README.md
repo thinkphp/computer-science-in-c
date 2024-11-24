@@ -431,8 +431,8 @@ https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 #### Math References:
 
-https://brilliant.org/wiki/bezouts-identity/
+- https://brilliant.org/wiki/bezouts-identity/
 
-https://brilliant.org/wiki/extended-euclidean-algorithm/
+- https://brilliant.org/wiki/extended-euclidean-algorithm/
 
-https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
+- https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
