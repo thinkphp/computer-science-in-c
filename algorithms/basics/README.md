@@ -376,6 +376,8 @@
 
 154) Suggested Friends https://codeforces.com/contest/245/problem/G
 
+155) Li Hua and Maze https://codeforces.com/contest/1797/problem/A
+
 
 
 
