@@ -5,7 +5,7 @@
   * Quadratic Equation Roots https://ideone.com/imJbsP 
   * Nature Roots Quadratic Equation https://ideone.com/ct57BL https://ideone.com/jHvYz5
   * Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
-  * Fundamental Theorem of Arithmetic https://ideone.com/J2gTCz
+  * Fundamental Theorem of Arithmetic https://ideone.com/HrZeYo https://ideone.com/J2gTCz
   * Sum of two fractions F1 and F2 Basic example using Euclid, struct, pointers https://ideone.com/UU3mPG
   * Atoi function synonim https://ideone.com/oWucrp
   * Game Card https://ideone.com/sqysel
