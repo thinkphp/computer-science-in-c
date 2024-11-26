@@ -390,6 +390,8 @@
 
 161) Word Search https://leetcode.com/problems/word-search/description/
 
+162) Sherlock adn moving tiles https://www.hackerrank.com/challenges/sherlock-and-moving-tiles/problem
+
 
 
 
