@@ -364,29 +364,31 @@
 
 148) Sumsec https://www.pbinfo.ro/probleme/298/sumsec
 
-149) The Max lines https://www.spoj.com/problems/MAXLN/
+149) SecvdesumaS https://www.pbinfo.ro/probleme/4233/secvdesumas
 
-150) Party https://codeforces.com/contest/1711/problem/B
+150) The Max lines https://www.spoj.com/problems/MAXLN/
 
-151) Businessmen Problems https://codeforces.com/contest/981/problem/B
+151) Party https://codeforces.com/contest/1711/problem/B
 
-152) System Administrator https://codeforces.com/contest/245/problem/A
+152) Businessmen Problems https://codeforces.com/contest/981/problem/B
 
-153) Internet Address https://codeforces.com/contest/245/problem/B
+153) System Administrator https://codeforces.com/contest/245/problem/A
 
-154) Suggested Friends https://codeforces.com/contest/245/problem/G
+154) Internet Address https://codeforces.com/contest/245/problem/B
 
-155) Li Hua and Maze https://codeforces.com/contest/1797/problem/A
+155) Suggested Friends https://codeforces.com/contest/245/problem/G
 
-156) Young Photographer https://codeforces.com/contest/14/problem/B
+156) Li Hua and Maze https://codeforces.com/contest/1797/problem/A
 
-157) Meaning Mean https://codeforces.com/contest/2021/problem/A
+157) Young Photographer https://codeforces.com/contest/14/problem/B
 
-158) BerOS file system https://codeforces.com/contest/20/problem/A
+158) Meaning Mean https://codeforces.com/contest/2021/problem/A
 
-159) IQ test https://codeforces.com/contest/25/problem/A
+159) BerOS file system https://codeforces.com/contest/20/problem/A
 
-160) Word Search https://leetcode.com/problems/word-search/description/
+160) IQ test https://codeforces.com/contest/25/problem/A
+
+161) Word Search https://leetcode.com/problems/word-search/description/
 
 
 
