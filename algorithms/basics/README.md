@@ -382,6 +382,8 @@
 
 157) Meaning Mean https://codeforces.com/contest/2021/problem/A
 
+158) BerOS file system https://codeforces.com/contest/20/problem/A
+
 
 
 
