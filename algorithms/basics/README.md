@@ -384,6 +384,8 @@
 
 158) BerOS file system https://codeforces.com/contest/20/problem/A
 
+159) IQ test https://codeforces.com/contest/25/problem/A
+
 
 
 
