@@ -378,6 +378,10 @@
 
 155) Li Hua and Maze https://codeforces.com/contest/1797/problem/A
 
+156) Young Photographer https://codeforces.com/contest/14/problem/B
+
+157) Meaning Mean https://codeforces.com/contest/2021/problem/A
+
 
 
 
