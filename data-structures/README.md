@@ -28,7 +28,7 @@ This foundational knowledge is not only essential for computer science students 
 
 # Data Structures + Algorithm = Program
 
-## References:
+#### References:
 
 * https://en.cppreference.com/w/c/io/fprintf
 * https://aa.bbs.tr/lab/cen215-data-structures/Data-Structures-Using-C-2nd-edition.pdf
@@ -38,7 +38,7 @@ This foundational knowledge is not only essential for computer science students 
 * https://aa.bbs.tr/lab/cen215-data-structures/
 
 
-CS Open CourseWare
+#### CS Open CourseWare
 
 * https://www2.cs.uh.edu/~panruowu/2023f_cosc3320/course.html
 * https://learncs.me/curriculum/
@@ -46,3 +46,5 @@ CS Open CourseWare
 * https://nixdell.com/teaching.html
 * https://courses.cs.washington.edu/courses/cse373/
 
+#### Problem Set
+- https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/
