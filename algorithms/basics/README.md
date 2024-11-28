@@ -394,6 +394,8 @@
 
 162) Sherlock adn moving tiles https://www.hackerrank.com/challenges/sherlock-and-moving-tiles/problem
 
+163) Magnets https://codeforces.com/contest/344/problem/A
+
 
 
 
