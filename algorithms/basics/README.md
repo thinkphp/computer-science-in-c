@@ -408,6 +408,10 @@
 
 169) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
 
+170) Sum https://acm.timus.ru/problem.aspx?space=1&num=1068
+
+
+
 
 
 
