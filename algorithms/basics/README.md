@@ -66,7 +66,7 @@
  * https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 
-### Codeforces // HackerRank // Leetcode // Infoarena // AtCoder // Spoj // UVa // CSES
+### Codeforces // HackerRank // Hackerearth // Leetcode // Infoarena // AtCoder // Spoj // UVa // CSES
 
 1) GCD https://codeforces.com/contest/1933/problem/D
 
@@ -395,6 +395,15 @@
 162) Sherlock adn moving tiles https://www.hackerrank.com/challenges/sherlock-and-moving-tiles/problem
 
 163) Magnets https://codeforces.com/contest/344/problem/A
+
+164) Borze https://codeforces.com/contest/32/problem/B
+
+165) Two Screens https://codeforces.com/contest/2025/problem/A
+
+166) Reconnaissance https://codeforces.com/contest/32/problem/A
+
+167) Organizing SWERC https://codeforces.com/contest/1662/problem/A
+
 
 
 
