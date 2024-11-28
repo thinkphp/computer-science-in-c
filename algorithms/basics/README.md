@@ -404,6 +404,8 @@
 
 167) Organizing SWERC https://codeforces.com/contest/1662/problem/A
 
+168) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
+
 
 
 
