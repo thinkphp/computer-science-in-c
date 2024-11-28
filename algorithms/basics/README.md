@@ -406,6 +406,8 @@
 
 168) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
 
+169) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
+
 
 
 
