@@ -144,8 +144,6 @@
 
 27)  Text Volume https://codeforces.com/contest/837/problem/A
 
-28)  Zero Sum https://atcoder.jp/contests/abc349/tasks/abc349_a
-
 29) Verify password https://codeforces.com/contest/1976/problem/A
 
 30)  Arbori binari de cautare echilibrati https://www.infoarena.ro/problema/abce
@@ -410,7 +408,12 @@
 
 170) Sum https://acm.timus.ru/problem.aspx?space=1&num=1068
 
+171) Zero Sum https://atcoder.jp/contests/abc349/tasks/abc349_a
 
+172) 123233 https://atcoder.jp/contests/abc380/tasks/abc380_a
+
+173) Weird Function https://atcoder.jp/contests/abc234/tasks/abc234_a
+  
 
 
 
