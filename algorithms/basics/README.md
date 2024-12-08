@@ -417,6 +417,12 @@
 174) Micro-World https://codeforces.com/contest/990/problem/B
 
 175) Fibonacci Words https://codeforces.com/contest/1505/problem/C
+
+176) Queue at the School https://codeforces.com/contest/266/problem/B
+
+177) Multiply by 2, divide by 6 https://codeforces.com/contest/1374/problem/B
+
+178) Required reminder https://codeforces.com/contest/1374/problem/A
   
 
 
