@@ -427,6 +427,12 @@
 178) Required reminder https://codeforces.com/contest/1374/problem/A
 
 179) Holiday of Equality https://codeforces.com/contest/758/problem/A
+
+180) Telephone https://codeforces.com/contest/1167/problem/A
+
+181) Lost Numbers https://codeforces.com/contest/1167/problem/B
+
+
   
 
 
