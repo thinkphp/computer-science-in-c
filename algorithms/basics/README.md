@@ -423,6 +423,8 @@
 177) Multiply by 2, divide by 6 https://codeforces.com/contest/1374/problem/B
 
 178) Required reminder https://codeforces.com/contest/1374/problem/A
+
+179) Holiday of Equality https://codeforces.com/contest/758/problem/A
   
 
 
