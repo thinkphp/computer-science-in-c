@@ -432,6 +432,8 @@
 
 181) Lost Numbers https://codeforces.com/contest/1167/problem/B
 
+182) Sherlock and Array https://www.hackerrank.com/challenges/sherlock-and-array/problem
+
 
   
 
