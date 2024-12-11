@@ -68,7 +68,7 @@
  * https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 
-### Codeforces // HackerRank // Hackerearth // Leetcode // Infoarena // AtCoder // Spoj // UVa // CSES // Timus
+### Codeforces // HackerRank // Hacker // Leetcode // Infoarena // AtCoder // Spoj // UVa // CSES // Timus
 
 1) GCD https://codeforces.com/contest/1933/problem/D
 
@@ -408,31 +408,33 @@
 
 169) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
 
-170) Sum https://acm.timus.ru/problem.aspx?space=1&num=1068
+170) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/
 
-171) Zero Sum https://atcoder.jp/contests/abc349/tasks/abc349_a
+171) Sum https://acm.timus.ru/problem.aspx?space=1&num=1068
 
-172) 123233 https://atcoder.jp/contests/abc380/tasks/abc380_a
+172) Zero Sum https://atcoder.jp/contests/abc349/tasks/abc349_a
 
-173) Weird Function https://atcoder.jp/contests/abc234/tasks/abc234_a
+173) 123233 https://atcoder.jp/contests/abc380/tasks/abc380_a
 
-174) Micro-World https://codeforces.com/contest/990/problem/B
+174) Weird Function https://atcoder.jp/contests/abc234/tasks/abc234_a
 
-175) Fibonacci Words https://codeforces.com/contest/1505/problem/C
+175) Micro-World https://codeforces.com/contest/990/problem/B
 
-176) Queue at the School https://codeforces.com/contest/266/problem/B
+176) Fibonacci Words https://codeforces.com/contest/1505/problem/C
 
-177) Multiply by 2, divide by 6 https://codeforces.com/contest/1374/problem/B
+177) Queue at the School https://codeforces.com/contest/266/problem/B
 
-178) Required reminder https://codeforces.com/contest/1374/problem/A
+178) Multiply by 2, divide by 6 https://codeforces.com/contest/1374/problem/B
 
-179) Holiday of Equality https://codeforces.com/contest/758/problem/A
+179) Required reminder https://codeforces.com/contest/1374/problem/A
 
-180) Telephone https://codeforces.com/contest/1167/problem/A
+180) Holiday of Equality https://codeforces.com/contest/758/problem/A
 
-181) Lost Numbers https://codeforces.com/contest/1167/problem/B
+181) Telephone https://codeforces.com/contest/1167/problem/A
 
-182) Sherlock and Array https://www.hackerrank.com/challenges/sherlock-and-array/problem
+182) Lost Numbers https://codeforces.com/contest/1167/problem/B
+
+183) Sherlock and Array https://www.hackerrank.com/challenges/sherlock-and-array/problem
 
 
   
