@@ -418,23 +418,25 @@
 
 174) Weird Function https://atcoder.jp/contests/abc234/tasks/abc234_a
 
-175) Micro-World https://codeforces.com/contest/990/problem/B
+175)  Daily Cookie https://atcoder.jp/contests/abc382/tasks/abc382_a
 
-176) Fibonacci Words https://codeforces.com/contest/1505/problem/C
+176) Micro-World https://codeforces.com/contest/990/problem/B
 
-177) Queue at the School https://codeforces.com/contest/266/problem/B
+177) Fibonacci Words https://codeforces.com/contest/1505/problem/C
 
-178) Multiply by 2, divide by 6 https://codeforces.com/contest/1374/problem/B
+178) Queue at the School https://codeforces.com/contest/266/problem/B
 
-179) Required reminder https://codeforces.com/contest/1374/problem/A
+179) Multiply by 2, divide by 6 https://codeforces.com/contest/1374/problem/B
 
-180) Holiday of Equality https://codeforces.com/contest/758/problem/A
+180) Required reminder https://codeforces.com/contest/1374/problem/A
 
-181) Telephone https://codeforces.com/contest/1167/problem/A
+181) Holiday of Equality https://codeforces.com/contest/758/problem/A
 
-182) Lost Numbers https://codeforces.com/contest/1167/problem/B
+182) Telephone https://codeforces.com/contest/1167/problem/A
 
-183) Sherlock and Array https://www.hackerrank.com/challenges/sherlock-and-array/problem
+183) Lost Numbers https://codeforces.com/contest/1167/problem/B
+
+184) Sherlock and Array https://www.hackerrank.com/challenges/sherlock-and-array/problem
 
 
   
