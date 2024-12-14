@@ -440,6 +440,8 @@
 
 185) Tic Tac Toe https://codeforces.com/contest/3/problem/C
 
+186) Intercepted input https://codeforces.com/contest/2037/problem/B
+
 
   
 
