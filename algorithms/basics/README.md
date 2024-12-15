@@ -442,6 +442,10 @@
 
 186) Intercepted input https://codeforces.com/contest/2037/problem/B
 
+187) A. XORinacci https://codeforces.com/contest/1208/problem/A
+
+188) B. Maximum Sum of Digits https://codeforces.com/contest/1060/problem/B
+
 
   
 
