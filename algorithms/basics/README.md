@@ -446,6 +446,8 @@
 
 188) B. Maximum Sum of Digits https://codeforces.com/contest/1060/problem/B
 
+189) Alice's Adventures in "Chess" https://codeforces.com/problemset/problem/2028/A
+
 
   
 
