@@ -448,6 +448,8 @@
 
 189) Alice's Adventures in "Chess" https://codeforces.com/problemset/problem/2028/A
 
+190) Autocomplete https://codeforces.com/contest/2041/problem/I
+
 
   
 
