@@ -457,6 +457,9 @@
 
 193) Birthday https://codeforces.com/contest/1068/problem/A
 
+194) Rudolf and Tic Tac Toe https://codeforces.com/contest/1846/problem/B
+
+
 
   
 
