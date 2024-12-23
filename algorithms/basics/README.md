@@ -443,9 +443,9 @@
 
 186) Intercepted input https://codeforces.com/contest/2037/problem/B
 
-187) A. XORinacci https://codeforces.com/contest/1208/problem/A
+187) XORinacci https://codeforces.com/contest/1208/problem/A
 
-188) B. Maximum Sum of Digits https://codeforces.com/contest/1060/problem/B
+188) Maximum Sum of Digits https://codeforces.com/contest/1060/problem/B
 
 189) Alice's Adventures in "Chess" https://codeforces.com/problemset/problem/2028/A
 
