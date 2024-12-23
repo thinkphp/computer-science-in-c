@@ -453,6 +453,10 @@
 
 191) Forever winter https://codeforces.com/contest/1829/problem/F
 
+192) Disturbed People https://codeforces.com/contest/1077/problem/B
+
+193) Birthday https://codeforces.com/contest/1068/problem/A
+
 
   
 
