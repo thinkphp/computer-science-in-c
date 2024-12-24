@@ -463,6 +463,8 @@
 
 196) Jabber Id https://codeforces.com/contest/21/problem/A
 
+197) Intersection https://codeforces.com/contest/21/problem/B
+
 
 
   
