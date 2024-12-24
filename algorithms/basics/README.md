@@ -459,6 +459,8 @@
 
 194) Rudolf and Tic Tac Toe https://codeforces.com/contest/1846/problem/B
 
+195) Minutes Before the New Year https://codeforces.com/contest/1283/problem/A
+
 
 
   
