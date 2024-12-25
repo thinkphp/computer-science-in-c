@@ -465,6 +465,10 @@
 
 197) Intersection https://codeforces.com/contest/21/problem/B
 
+198) Build the contest https://codeforces.com/contest/1100/problem/B
+
+199) Roman and Browser https://codeforces.com/contest/1100/problem/A
+
 
 
   
