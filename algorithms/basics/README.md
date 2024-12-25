@@ -73,35 +73,37 @@
 
 1) GCD https://codeforces.com/contest/1933/problem/D
 
-2) Algoritmul lui Euclid extins https://www.infoarena.ro/problema/euclid3
+2) Algoritmul lui Euclid https://www.infoarena.ro/problema/euclid2
 
-3) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+3) Algoritmul lui Euclid extins https://www.infoarena.ro/problema/euclid3
 
-4) Quadratic Equation:
+4) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+
+5) Quadratic Equation:
    - https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
    - https://codeforces.com/contest/20/problem/B
    - https://codeforces.com/contest/630/problem/N
    - https://codeforces.com/problemset/problem/531/A
 
-5) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
+6) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
 
-6) Exponentiation https://infoarena.ro/problema/lgput
+7) Exponentiation https://infoarena.ro/problema/lgput
 
-7) Ciurul lui Eratosthenes https://www.infoarena.ro/problema/ciur
+8) Ciurul lui Eratosthenes https://www.infoarena.ro/problema/ciur
 
-8) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+9) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
-9) Divisors of two integers https://codeforces.com/contest/1108/problem/B
+10) Divisors of two integers https://codeforces.com/contest/1108/problem/B
 
-10) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
+11) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
 
-11) Triangle https://codeforces.com/contest/6/problem/A
+12) Triangle https://codeforces.com/contest/6/problem/A
 
-12) Flip https://www.infoarena.ro/problema/flip
+13) Flip https://www.infoarena.ro/problema/flip
 
-13) Fractii https://www.infoarena.ro/problema/fractii
+14) Fractii https://www.infoarena.ro/problema/fractii
 
-14) Secventa Farey https://www.infoarena.ro/problema/farey
+15) Secventa Farey https://www.infoarena.ro/problema/farey
 
 74) Weird Algorithm https://cses.fi/problemset/task/1068
 
