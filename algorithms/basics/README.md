@@ -95,6 +95,10 @@
 
 11) Flip https://www.infoarena.ro/problema/flip
 
+12) Fractii https://www.infoarena.ro/problema/fractii
+
+13) Secventa Farey https://www.infoarena.ro/problema/farey
+
 74) Weird Algorithm https://cses.fi/problemset/task/1068
 
 75) Missing Number https://cses.fi/problemset/task/1083
