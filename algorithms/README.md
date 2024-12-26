@@ -6,6 +6,8 @@
 - Factorial
 - Collatz
 - Pascal's Triangle
+- Goldbach's conjecture
+- Primes (isPrime, Fundamental Theorem of Arithmetic, display N primes and till N)
 - Eq degree 1
 - Eq degree 2
 
