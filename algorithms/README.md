@@ -7,7 +7,7 @@
 - Collatz
 - Pascal's Triangle
 - Goldbach's conjecture
-- Primes (isPrime, Fundamental Theorem of Arithmetic, display N primes and till N)
+- Primes (test isPrime, Fundamental Theorem of Arithmetic, display N primes and till N, sieve of Eratosthenes)
 - Eq degree 1
 - Eq degree 2
 
