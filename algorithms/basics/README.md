@@ -479,6 +479,14 @@
 
 199) Roman and Browser https://codeforces.com/contest/1100/problem/A
 
+200) Maximaze the Root https://codeforces.com/contest/1997/problem/D
+
+201) Even Positions https://codeforces.com/contest/1997/problem/C
+
+202) Make Three Regions https://codeforces.com/contest/1997/problem/B
+
+203) Strong Password https://codeforces.com/contest/1997/problem/A
+
 
 
   
