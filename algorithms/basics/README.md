@@ -485,8 +485,6 @@
 
 202) Make Three Regions https://codeforces.com/contest/1997/problem/B
 
-203) Strong Password https://codeforces.com/contest/1997/problem/A
-
 
 
   
