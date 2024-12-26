@@ -485,6 +485,12 @@
 
 202) Make Three Regions https://codeforces.com/contest/1997/problem/B
 
+203) Seating in a Bus https://codeforces.com/contest/2000/problem/B
+
+204) Primary Task https://codeforces.com/contest/2000/problem/A
+
+205) Numeric String Template https://codeforces.com/problemset/problem/2000/C
+
 
 
   
