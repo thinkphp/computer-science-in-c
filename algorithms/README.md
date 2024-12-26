@@ -1,3 +1,13 @@
+# Fundamental Algorithms
+
+- Euclid's algorithm
+- Extended Euclid's algorithm
+- Fibonacci Sequence
+- Factorial
+- Collatz
+- Pascal's Triangle
+- Eq degree 1
+- Eq degree 2
 
 The distinction between the design and analysis of algorithms is a fundamental concept in computer science, encompassing how algorithms are created and evaluated. Let's explore these differences:
 
