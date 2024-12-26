@@ -491,6 +491,8 @@
 
 205) Numeric String Template https://codeforces.com/problemset/problem/2000/C
 
+206) Swords https://codeforces.com/contest/1216/problem/D
+
 
 
   
