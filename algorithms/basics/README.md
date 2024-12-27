@@ -497,6 +497,10 @@
 
 208) Prefiquence https://codeforces.com/contest/1968/problem/B
 
+209) Valid Sudoku https://leetcode.com/problems/valid-sudoku/description/
+
+210) Sudoku Solver https://leetcode.com/problems/sudoku-solver/description/
+
 
 
   
