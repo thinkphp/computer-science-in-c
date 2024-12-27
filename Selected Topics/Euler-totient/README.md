@@ -1,4 +1,4 @@
-# Indicatorul lui Euler
+# Euler's totient
 
 ### Problem set
 - https://www.infoarena.ro/problema/fractii
