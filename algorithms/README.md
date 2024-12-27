@@ -10,6 +10,7 @@
 - Primes (test isPrime, Fundamental Theorem of Arithmetic, display N primes and till N, sieve of Eratosthenes)
 - Eq degree 1
 - Eq degree 2
+- Towers of Hanoi
 - Babylonian Square Root
 - PI
 - Euler's number
