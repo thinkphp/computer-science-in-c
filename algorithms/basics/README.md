@@ -503,6 +503,8 @@
 
 211) Sherlock and gcd https://www.hackerrank.com/challenges/sherlock-and-gcd/problem
 
+212) Favorite Sequence https://codeforces.com/contest/1462/problem/A
+
 
 
   
