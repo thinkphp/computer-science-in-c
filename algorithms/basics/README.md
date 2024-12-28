@@ -505,6 +505,8 @@
 
 212) Favorite Sequence https://codeforces.com/contest/1462/problem/A
 
+213) Find Square https://codeforces.com/contest/1028/problem/A
+
 
 
   
