@@ -1,6 +1,7 @@
 ## Basic algorithms
   * Euclid's Algorithm ___ 
   * Extended Euclid's algorithm https://ideone.com/ysdfZW
+  * Fractii Euler's Totient https://ideone.com/00ezCv
   * First Degree Equation https://ideone.com/0V5gc1 https://ideone.com/CUUr4v 
   * Quadratic Equation Roots https://ideone.com/imJbsP 
   * Nature Roots Quadratic Equation https://ideone.com/ct57BL https://ideone.com/jHvYz5
