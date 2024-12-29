@@ -1,4 +1,4 @@
-Desigur! Poți inițializa un șir de caractere direct la momentul alocării memoriei folosind funcția `malloc` și funcția `memcpy` pentru a copia datele. Alternativ, poți folosi și inițializarea directă în momentul alocării. Iată câteva metode alternative:
+Poți inițializa un șir de caractere direct la momentul alocării memoriei folosind funcția `malloc` și funcția `memcpy` pentru a copia datele. Alternativ, poți folosi și inițializarea directă în momentul alocării. Iată câteva metode alternative:
 
 ### Metoda 1: Utilizarea `memcpy`
 ```c
