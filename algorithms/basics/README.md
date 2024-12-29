@@ -1,7 +1,8 @@
 ## Basic algorithms
   * Euclid's Algorithm ___ 
   * Extended Euclid's algorithm https://ideone.com/ysdfZW
-  * Fractii Euler's Totient https://ideone.com/00ezCv
+  * Fractii - Euler's Totient - https://ideone.com/00ezCv
+  * Flip - submultimi - https://ideone.com/q3N4Aw
   * First Degree Equation https://ideone.com/0V5gc1 https://ideone.com/CUUr4v 
   * Quadratic Equation Roots https://ideone.com/imJbsP 
   * Nature Roots Quadratic Equation https://ideone.com/ct57BL https://ideone.com/jHvYz5
@@ -36,8 +37,7 @@
   * Primes converted to Binary format https://ideone.com/zu9hoV
   * PI Approximation rely on Leibniz (1 - 1/3 + 1/5 - 1/7 + 1/9 -...) and Monte Carlo Methods https://ideone.com/GY5wFH
   * Euler's Number (1 + 1/1! + 1/2! + 1/3! + 1/4! + 1/5! ....) https://ideone.com/DLCUbH 
-  * Conjecture of Goldbach https://onlinegdb.com/VVlI37cNf https://ideone.com/kQnmXW
-  * Flip https://ideone.com/q3N4Aw
+  * Conjecture of Goldbach https://onlinegdb.com/VVlI37cNf https://ideone.com/kQnmXW  
   * Minimalist Password Generator https://replit.com/@thinkphp/minimalist-password-generator#main.c
   * Choosing Laptop https://ideone.com/q9GxzU
   * Rook https://ideone.com/BURjNk
