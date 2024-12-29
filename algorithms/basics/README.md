@@ -507,6 +507,8 @@
 
 213) Find Square https://codeforces.com/contest/1028/problem/A
 
+214) Red-Blue Shuffle https://codeforces.com/contest/1459/problem/A
+
 
 
   
