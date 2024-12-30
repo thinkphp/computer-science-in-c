@@ -4,10 +4,8 @@ Computer Science is the theory and practice of computation, algorithms, software
 
 Computer science is no more about computers than astronomy is about telescopes, biology is about microscopes or chemistry is about beakers and test tubes. Science is not about tools, it is about how we use them and what we find out when we do. (Michael Fellows and Ian Parberry, “SIGACT trying to get children excited about CS”)
 
-# Computer Science Comprehensive Courseware
-*A rigorous academic program designed to develop profound understanding of computational thinking and problem-solving across theoretical and practical domains.*
-
 ## Academic Level: University (Oxford Standard)
+*A rigorous academic program designed to develop profound understanding of computational thinking and problem-solving across theoretical and practical domains.*
 This courseware meets the exacting standards of Oxford University, emphasizing deep theoretical understanding alongside practical application and research excellence.
 
 ### Course Overview
