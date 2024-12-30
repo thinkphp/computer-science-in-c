@@ -1,5 +1,5 @@
 ## Basic algorithms
-  * Euclid's Algorithm ___ 
+  * Euclid's Algorithm https://ideone.com/Nz26Ag https://ideone.com/myrecent
   * Extended Euclid's algorithm https://ideone.com/ysdfZW
   * Flip - submultimi - https://ideone.com/q3N4Aw
   * Fractii - Euler's Totient - https://ideone.com/00ezCv 
