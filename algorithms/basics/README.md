@@ -524,6 +524,8 @@
 
 221) Ultra-Fast Mathematician https://codeforces.com/contest/61/problem/A
 
+222) Maximum subarray https://leetcode.com/problems/maximum-subarray/description/  - Kadane's algorithm 
+
 
 
 
