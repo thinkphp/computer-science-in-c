@@ -5,6 +5,8 @@ Computer Science is the theory and practice of computation, algorithms, software
 Computer science is no more about computers than astronomy is about telescopes, biology is about microscopes or chemistry is about beakers and test tubes. Science is not about tools, it is about how we use them and what we find out when we do. (Michael Fellows and Ian Parberry, “SIGACT trying to get children excited about CS”)
 
 
+
+---
 ## 1. Introduction to C++
 - History and evolution of C++
 - Setting up the development environment
