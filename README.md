@@ -236,16 +236,6 @@ To get started with the course, please:
 
 ## _____________________
 
-Computer science is no more about
-computers than astronomy is about
-telescopes, biology is about microscopes or
-chemistry is about beakers and test tubes.
-Science is not about tools, it is about
-how we use them and what we find out
-when we do. (Michael Fellows and Ian Parberry,
-“SIGACT trying to get children excited about CS”)
-
-
 ### Preface
 
 C is a general-purpose programming language which features economy 
