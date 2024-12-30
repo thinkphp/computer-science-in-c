@@ -15,6 +15,8 @@
 - PI
 - Euler's number
 - Ln
+- Euler's totient
+- Seriea Farey
 
 The distinction between the design and analysis of algorithms is a fundamental concept in computer science, encompassing how algorithms are created and evaluated. Let's explore these differences:
 
