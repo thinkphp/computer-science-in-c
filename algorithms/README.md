@@ -7,16 +7,17 @@
 - Collatz
 - Pascal's Triangle
 - Goldbach's conjecture
-- Primes (test isPrime, Fundamental Theorem of Arithmetic, display N primes and till N, sieve of Eratosthenes)
+- Primes (test isPrime, Fundamental Theorem of Arithmetic, display N primes and till N, Sieve of Eratosthenes)
 - Eq degree 1
 - Eq degree 2
+- Natures x1,x2 quadratic eq
 - Towers of Hanoi
 - Babylonian Square Root
 - PI
 - Euler's number
 - Ln
 - Euler's totient
-- Seriea Farey
+- Series Farey
 
 The distinction between the design and analysis of algorithms is a fundamental concept in computer science, encompassing how algorithms are created and evaluated. Let's explore these differences:
 
