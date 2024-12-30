@@ -1,4 +1,6 @@
+# Computer Science
 
+Computer Science is the theory and practice of computation, algorithms, software systems, data organization, knowledge representation, language, intelligence, learning, and consciousness.
 
 ## 1. Introduction to C++
 - History and evolution of C++
@@ -301,3 +303,5 @@ https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list 
 https://www.w3schools.com/dsa/index.php
 
 https://cs.lmu.edu/~ray/notes/cpp/
+
+https://cs.lmu.edu/~ray/notes/computerscience/
