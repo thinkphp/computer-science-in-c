@@ -20,6 +20,7 @@
 - Series Farey
 - Gen Permutations
 - Subsets
+- Kadane's algoritm -Maximum Subarray Sum
 
 The distinction between the design and analysis of algorithms is a fundamental concept in computer science, encompassing how algorithms are created and evaluated. Let's explore these differences:
 
