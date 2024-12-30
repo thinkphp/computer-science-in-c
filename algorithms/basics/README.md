@@ -509,7 +509,21 @@
 213) Find Square https://codeforces.com/contest/1028/problem/A
 
 214) Red-Blue Shuffle https://codeforces.com/contest/1459/problem/A
+
 215) Williams the Vigileant https://codeforces.com/contest/1609/problem/B
+
+216) Parallelepiped https://codeforces.com/problemset/problem/224/A
+
+217) cAPS Lock https://codeforces.com/contest/131/problem/A
+
+218) Cover Points https://codeforces.com/problemset/problem/1047/B
+
+219) Free Cash https://codeforces.com/problemset/problem/237/A
+
+220) Chess Tourney https://codeforces.com/contest/845/problem/A
+
+221) Ultra-Fast Mathematician https://codeforces.com/contest/61/problem/A
+
 
 
 
