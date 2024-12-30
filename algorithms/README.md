@@ -10,7 +10,7 @@
 - Primes (test isPrime, Fundamental Theorem of Arithmetic, display N primes and till N, Sieve of Eratosthenes)
 - Eq degree 1
 - Eq degree 2
-- Natures x1,x2 quadratic eq
+- Nature roots x1,x2 quadratic equations 
 - Towers of Hanoi
 - Babylonian Square Root
 - PI
@@ -18,6 +18,8 @@
 - Ln
 - Euler's totient
 - Series Farey
+- Gen Permutations
+- Subsets
 
 The distinction between the design and analysis of algorithms is a fundamental concept in computer science, encompassing how algorithms are created and evaluated. Let's explore these differences:
 
