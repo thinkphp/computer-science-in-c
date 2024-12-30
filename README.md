@@ -234,19 +234,6 @@ To get started with the course, please:
 3. Familiarize yourself with the course materials and resources.
 4. Join the course discussion forum to connect with instructors and peers.
 
-## _____________________
-
-### Preface
-
-C is a general-purpose programming language which features economy 
-of expression, modern control flow, and a rich set of operators. C is 
-not a very high level language, nor a big one, and is not specialized to any 
-particular area of application. But its absence of restrictions and its
-generality make it more convenient and effective for many tasks than
-supposedly more power languages. C was designed for and implemented on the
-UNIX operating system on the DEC PDP-11, by Dennis Ritchie. The operating
-system, the C compiler, and essentially all UNIX applications program (including
-all of the software used to prepare this course) are written in C.
 
 ### Educational Codeforces 
 
