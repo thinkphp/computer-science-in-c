@@ -524,7 +524,13 @@
 
 221) Ultra-Fast Mathematician https://codeforces.com/contest/61/problem/A
 
-222) Maximum subarray https://leetcode.com/problems/maximum-subarray/description/  - Kadane's algorithm 
+222) Maximum subarray https://leetcode.com/problems/maximum-subarray/description/  - Kadane's algorithm
+
+223) Remove two letters https://codeforces.com/contest/1800/problem/D
+
+224) Vitalie and Pie https://codeforces.com/contest/525/problem/A
+
+225) The same differences https://codeforces.com/contest/1520/problem/D
 
 
 
