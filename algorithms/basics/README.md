@@ -562,6 +562,22 @@
 
 242) Dice Combinations https://cses.fi/problemset/task/1633
 
+243) Minimizing Coins https://cses.fi/problemset/task/1634
+
+244) Coin Combinations 1 https://cses.fi/problemset/task/1635
+
+245) Coin Combinations 2 https://cses.fi/problemset/task/1636
+
+246) Removing digits https://cses.fi/problemset/task/1637
+
+247) Grid Paths https://cses.fi/problemset/task/1638
+
+248) Book shop https://cses.fi/problemset/task/1158248)
+
+249) Array desciption https://cses.fi/problemset/task/1746
+
+250) Counting towers https://cses.fi/problemset/task/2413
+
 
 
 
