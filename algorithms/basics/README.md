@@ -532,6 +532,25 @@
 
 225) The same differences https://codeforces.com/contest/1520/problem/D
 
+226) Strings: Making anagrams https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
+
+227) Is This a Binary Search Tree? https://www.hackerrank.com/challenges/is-binary-search-tree/problem
+
+228) Binary Search Tree : Lowest Common Ancestor https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem
+
+229) Tree : Top View https://www.hackerrank.com/challenges/tree-top-view/problem
+
+230) Tree: Level Order Traversal https://www.hackerrank.com/challenges/tree-level-order-traversal/problem
+
+231) Tree: Height of a Binary Tree https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem
+
+232) Tree: Preorder Traversal https://www.hackerrank.com/challenges/tree-preorder-traversal/problem
+
+233) Tree: Postorder Traversal https://www.hackerrank.com/challenges/tree-postorder-traversal/problem
+
+234) Tree: Inororder Traversal https://www.hackerrank.com/challenges/tree-inorder-traversal/problem
+
+235) Binary Search Tree: inserion https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem
 
 
 
