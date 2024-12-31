@@ -556,6 +556,12 @@
 
 239) Binary Search Tree: inserion https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem
 
+240) Reachable Nodes https://cses.fi/problemset/task/2138/
+
+241) Reachability Queries https://cses.fi/problemset/task/2143/
+
+242) Dice Combinations https://cses.fi/problemset/task/1633
+
 
 
 
