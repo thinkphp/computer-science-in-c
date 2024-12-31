@@ -526,9 +526,9 @@
 
 222) Maximum subarray https://leetcode.com/problems/maximum-subarray/description/  - Kadane's algorithm
 
-223) Maximum Subarray Sum https://cses.fi/problemset/task/1643
+223) Maximum Subarray Sum https://cses.fi/problemset/task/1643 - Kadane's algorithm
 
-224) Maximum Subarray Sum 2 https://cses.fi/problemset/task/1644     
+224) Maximum Subarray Sum 2 https://cses.fi/problemset/task/1644 - Kadane's algorithm    
 
 227) Remove two letters https://codeforces.com/contest/1800/problem/D
 
