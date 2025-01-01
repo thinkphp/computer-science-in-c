@@ -580,6 +580,14 @@
 
 251) Edit distance https://cses.fi/problemset/task/1639
 
+252) Watermelon https://codeforces.com/contest/4/problem/A
+
+253) Before an exam https://codeforces.com/contest/4/problem/B
+
+254) Registration System https://codeforces.com/contest/4/problem/C
+
+255) Mysterious Present https://codeforces.com/contest/4/problem/D
+
 
 
 
