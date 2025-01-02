@@ -8,7 +8,7 @@
   * Nature Roots Quadratic Equation https://ideone.com/ct57BL https://ideone.com/jHvYz5
   * Babylonian Square Root https://ideone.com/3kWoY7
   * Derivative of Polynomial https://ideone.com/8laBGu in C
-  * Derivative of Polynomial https://ideone.com/Zu1Xp4 in C  
+  * Derivative of Polynomial using malloc https://ideone.com/Zu1Xp4 in C  
   * Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
   * Fundamental Theorem of Arithmetic https://ideone.com/HrZeYo https://ideone.com/J2gTCz
   * Sum of two fractions F1 and F2 Basic example using Euclid, struct, pointers https://ideone.com/UU3mPG
