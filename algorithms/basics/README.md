@@ -590,6 +590,17 @@
 
 256) Путь Робота - The Way of the Robot - https://codeforces.com/contest/648/problem/C
 
+257) Changing Volume https://codeforces.com/contest/1255/problem/A
+
+258) Fridge Lockers https://codeforces.com/contest/1255/problem/B
+
+259) Long Jumps https://codeforces.com/contest/1472/problem/C
+
+260) Longest Good Array https://codeforces.com/contest/2008/problem/C
+
+261) Square or not https://codeforces.com/contest/2008/problem/B
+
+
 
 
 
