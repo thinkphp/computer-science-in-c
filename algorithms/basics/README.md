@@ -7,6 +7,8 @@
   * Quadratic Equation Roots https://ideone.com/imJbsP 
   * Nature Roots Quadratic Equation https://ideone.com/ct57BL https://ideone.com/jHvYz5
   * Babylonian Square Root https://ideone.com/3kWoY7
+  * Derivative of Polynomial https://ideone.com/8laBGu in C
+  * Derivative of Polynomial https://ideone.com/Zu1Xp4 in C  
   * Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
   * Fundamental Theorem of Arithmetic https://ideone.com/HrZeYo https://ideone.com/J2gTCz
   * Sum of two fractions F1 and F2 Basic example using Euclid, struct, pointers https://ideone.com/UU3mPG
@@ -18,8 +20,6 @@
   * Pow in logN Complexity time and O(1) space https://ideone.com/Mygt0h
   * Factorial with Tail Recursion https://ideone.com/gvuZfa 
   * Sorting Without Comparison https://ideone.com/KZ08vi
-  * Derivates of Polynomial https://ideone.com/8laBGu in C
-  * Derivates of Polynomial https://ideone.com/dDO9F8 in Python 3
   * Check Order Array (4 variants: strict ascending, strict descending, constant, unordered) https://ideone.com/AHg7gj
   * Find Kth Permutation https://ideone.com/yUjSng
   * Isosceles Triangle - https://replit.com/@thinkphp/IsoscelTriangle
