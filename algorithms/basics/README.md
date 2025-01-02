@@ -588,6 +588,8 @@
 
 255) Mysterious Present https://codeforces.com/contest/4/problem/D
 
+256) Путь Робота - The Way of the Robot - https://codeforces.com/contest/648/problem/C
+
 
 
 
