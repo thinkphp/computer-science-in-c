@@ -11,7 +11,8 @@
 - Modular Exponentiation
 - Eq degree 1
 - Eq degree 2
-- Nature roots x1,x2 quadratic equations 
+- Nature roots x1,x2 quadratic equations
+- Derivative Polynomial
 - Towers of Hanoi
 - Babylonian Square Root
 - PI
