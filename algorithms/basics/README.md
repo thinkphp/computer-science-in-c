@@ -602,6 +602,8 @@
 
 262) Diameter of Graph https://codeforces.com/contest/1581/problem/B
 
+263) Belted rooms https://codeforces.com/contest/1428/problem/B
+
 
 
 
