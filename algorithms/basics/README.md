@@ -600,6 +600,8 @@
 
 261) Square or not https://codeforces.com/contest/2008/problem/B
 
+262) Diameter of Graph https://codeforces.com/contest/1581/problem/B
+
 
 
 
