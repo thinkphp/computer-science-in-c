@@ -45,7 +45,7 @@ Acest șir de numere poate fi generat folosind formula recurentă sau formula di
  - https://www.pbinfo.ro/probleme/2917/catalan
  - https://cses.fi/problemset/task/2064/
  - https://cses.fi/problemset/task/2187/
-https://www.pbinfo.ro/probleme/eticheta/219/numarul-lui-catalan
+ - https://www.pbinfo.ro/probleme/eticheta/219/numarul-lui-catalan
 
 ### Reference 
 https://www.geeksforgeeks.org/program-nth-catalan-number/
