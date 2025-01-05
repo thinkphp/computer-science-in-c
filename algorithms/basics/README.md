@@ -610,6 +610,8 @@
 
 266) The rank https://codeforces.com/problemset/problem/1017/A
 
+267) Another exersize on Graphs https://codeforces.com/contest/2057/problem/E1
+
 
 
 
