@@ -4,4 +4,4 @@
 - https://infoarena.ro/problema/stirling
 
 ### References
-https://infogenius.ro/numerele-stirling-bell/
+- https://infogenius.ro/numerele-stirling-bell/
