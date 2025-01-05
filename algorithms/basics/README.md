@@ -604,6 +604,10 @@
 
 263) Belted rooms https://codeforces.com/contest/1428/problem/B
 
+264) Bmail Computer Network https://codeforces.com/contest/1057/problem/A (graph)
+
+265) Reposts https://codeforces.com/contest/522/problem/A (graphs)
+
 
 
 
