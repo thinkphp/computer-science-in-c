@@ -1,6 +1,4 @@
-# catalan number
-
-# Numerele Catalan
+# Catalan Numbers
 
 ## Definiție
 Numerele Catalan reprezintă o secvență de numere naturale care apar în diverse probleme combinatorice. Ele sunt numite după matematicianul belgian Eugène Charles Catalan (1814-1894).
