@@ -48,6 +48,7 @@ Acest șir de numere poate fi generat folosind formula recurentă sau formula di
  - https://www.pbinfo.ro/probleme/eticheta/219/numarul-lui-catalan
 
 ### Reference 
+- https://codeforces.com/blog/entry/87585
 - https://www.geeksforgeeks.org/program-nth-catalan-number/
 - https://www.pbinfo.ro/articole/28535/numerele-catalane
 
