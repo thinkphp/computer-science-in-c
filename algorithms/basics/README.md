@@ -608,6 +608,8 @@
 
 265) Reposts https://codeforces.com/contest/522/problem/A (graphs)
 
+266) The rank https://codeforces.com/problemset/problem/1017/A
+
 
 
 
