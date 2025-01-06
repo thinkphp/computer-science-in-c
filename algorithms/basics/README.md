@@ -612,6 +612,12 @@
 
 267) Another exersise on Graphs https://codeforces.com/contest/2057/problem/E1
 
+268) Silent Classroom https://codeforces.com/contest/1166/problem/A
+
+269) String Task https://codeforces.com/contest/118/problem/A
+
+270) Keanu Reeves https://codeforces.com/contest/1189/problem/A
+
 
 
 
