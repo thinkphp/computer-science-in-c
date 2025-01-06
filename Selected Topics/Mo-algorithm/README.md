@@ -6,5 +6,6 @@
 
 ### References
 - https://www.hackerearth.com/practice/notes/mos-algorithm/
+- https://www.hackerrank.com/topics/mos-algorithm
 
 
