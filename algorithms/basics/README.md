@@ -618,6 +618,8 @@
 
 270) Keanu Reeves https://codeforces.com/contest/1189/problem/A
 
+271)  King Keykhosrow's Mystery https://codeforces.com/contest/2034/problem/A
+
 
 
 
