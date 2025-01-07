@@ -5,6 +5,7 @@
 - https://www.pbinfo.ro/probleme/eticheta/354/algoritmul-lui-mo
 
 ### References
+- https://codeforces.com/blog/entry/81716
 - https://www.hackerearth.com/practice/notes/mos-algorithm/
 - https://www.hackerrank.com/topics/mos-algorithm
 
