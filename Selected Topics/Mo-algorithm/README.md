@@ -164,10 +164,6 @@ Output-ul va fi:
 3
 3
 ```
-
-Dorești să îți explic mai detaliat vreo parte specifică a implementării?
-
-
 ### Practice
 - https://www.infoarena.ro/problema/suma6
 - https://www.pbinfo.ro/probleme/eticheta/354/algoritmul-lui-mo
