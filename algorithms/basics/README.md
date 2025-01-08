@@ -626,6 +626,8 @@
 
 274)  String Similary https://codeforces.com/contest/1400/problem/A
 
+275)  Password https://codeforces.com/contest/126/problem/B (compute Prefix KMP)
+
 
 
 
