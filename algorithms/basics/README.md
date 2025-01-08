@@ -620,6 +620,12 @@
 
 271)  King Keykhosrow's Mystery https://codeforces.com/contest/2034/problem/A
 
+272)  ZigZags https://codeforces.com/contest/1400/problem/D
+
+273)  Binary String Reconstruction https://codeforces.com/contest/1400/problem/C
+
+274)  String Similary https://codeforces.com/contest/1400/problem/A
+
 
 
 
