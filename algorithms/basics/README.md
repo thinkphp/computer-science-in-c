@@ -628,6 +628,18 @@
 
 275)  Password https://codeforces.com/contest/126/problem/B (compute Prefix KMP)
 
+276)  Easy Problem https://codeforces.com/contest/2044/problem/A
+
+277)  Normal Problem https://codeforces.com/contest/2044/problem/B
+
+278)  Hard Problem https://codeforces.com/contest/2044/problem/C
+
+279)  Harder Problem https://codeforces.com/contest/2044/problem/D
+
+280)  Insane Problem https://codeforces.com/contest/2044/problem/E
+
+281)  Medium Demon Problem https://codeforces.com/contest/2044/problem/G1
+
 
 
 
