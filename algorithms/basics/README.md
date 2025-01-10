@@ -640,6 +640,12 @@
 
 281)  Medium Demon Problem https://codeforces.com/contest/2044/problem/G1
 
+282)  Minimal Square https://codeforces.com/contest/1360/problem/A
+
+283)  Similar Pairs https://codeforces.com/contest/1360/problem/C
+
+284)  Polygon https://codeforces.com/contest/1360/problem/E
+
 
 
 
