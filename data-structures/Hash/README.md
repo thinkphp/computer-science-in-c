@@ -17,6 +17,8 @@ https://leetcode.com/problems/two-sum/description/
 
 https://codeforces.com/gym/102961/problem/G
 
+https://cses.fi/problemset/task/1640
+
 
 ### References
 
