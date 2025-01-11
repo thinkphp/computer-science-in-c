@@ -15,6 +15,9 @@ https://leetcode.com/problems/roman-to-integer/description/
 
 https://leetcode.com/problems/two-sum/description/
 
+https://codeforces.com/gym/102961/problem/G
+
+
 ### References
 
 https://algs4.cs.princeton.edu/34hash/
