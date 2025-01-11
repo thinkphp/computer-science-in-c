@@ -646,7 +646,9 @@
 
 284)  Polygon https://codeforces.com/contest/1360/problem/E
 
-285) Problem of two values https://codeforces.com/gym/102961/problem/G
+285) Sum of two values https://codeforces.com/gym/102961/problem/G
+
+286) sum of two values https://cses.fi/problemset/task/1640
 
 
 
