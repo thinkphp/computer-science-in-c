@@ -652,7 +652,7 @@
 
 287) Number Circle https://codeforces.com/contest/1189/problem/B
 
-288) https://codeforces.com/gym/102961/problem/H (Kadane)
+288) Maximum Subarray Sum https://codeforces.com/gym/102961/problem/H (Kadane's algorithm)
 
 
 
