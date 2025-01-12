@@ -650,6 +650,8 @@
 
 286) sum of two values https://cses.fi/problemset/task/1640
 
+287) Number Circle https://codeforces.com/contest/1189/problem/B
+
 
 
 
