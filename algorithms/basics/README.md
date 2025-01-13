@@ -657,7 +657,7 @@
 
 289) Reading Books https://codeforces.com/gym/102961/problem/ZI
 
-290) Maximum Sum Array II https://codeforces.com/gym/102961/problem/ZI
+290) Maximum SubArray Sum II https://codeforces.com/gym/102961/problem/ZI
 
 
 
