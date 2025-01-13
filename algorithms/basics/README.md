@@ -655,6 +655,10 @@
 
 288) Maximum Subarray Sum https://codeforces.com/gym/102961/problem/H (Kadane's algorithm)
 
+289) Reading Books https://codeforces.com/gym/102961/problem/ZI
+
+290) Maximum Sum Array II https://codeforces.com/gym/102961/problem/ZI
+
 
 
 
