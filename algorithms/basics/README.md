@@ -659,6 +659,12 @@
 
 290) Maximum SubArray Sum II https://codeforces.com/gym/102961/problem/ZI
 
+291) Journey https://codeforces.com/contest/2051/problem/B
+
+292) Preparing for the exams https://codeforces.com/contest/2051/problem/C
+
+293) Preparing for the olympiad https://codeforces.com/contest/2051/problem/A
+
 
 
 
