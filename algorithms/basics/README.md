@@ -665,6 +665,10 @@
 
 293) Preparing for the olympiad https://codeforces.com/contest/2051/problem/A
 
+294) Transfusion https://codeforces.com/contest/2050/problem/B
+
+295) Three Strings https://codeforces.com/contest/2050/problem/E
+
 
 
 
