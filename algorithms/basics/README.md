@@ -669,6 +669,8 @@
 
 295) Three Strings https://codeforces.com/contest/2050/problem/E
 
+296) A tender Carpenter https://codeforces.com/contest/2053/problem/A
+
 
 
 
