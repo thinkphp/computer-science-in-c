@@ -671,6 +671,14 @@
 
 296) A tender Carpenter https://codeforces.com/contest/2053/problem/A
 
+297) Index and Maximum Value https://codeforces.com/contest/2007/problem/B
+
+298) Rakhsh's Revival https://codeforces.com/contest/2034/problem/B
+
+299) King Keykhosrow's Mystery https://codeforces.com/contest/2034/problem/A
+
+300) Dora and c++ https://codeforces.com/contest/2007/problem/C
+
 
 
 
