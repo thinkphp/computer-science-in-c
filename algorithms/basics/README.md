@@ -680,6 +680,12 @@
 
 300) Dora and c++ https://codeforces.com/contest/2007/problem/C
 
+301) Trapped in the Witch's Labyrinth https://codeforces.com/contest/2034/problem/C
+
+302) Dora's Set https://codeforces.com/contest/2007/problem/A
+
+303) Irish's Full Binary Tree https://codeforces.com/contest/2006/problem/E
+
 
 
 
