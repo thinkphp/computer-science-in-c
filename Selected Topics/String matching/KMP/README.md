@@ -1,6 +1,6 @@
 # Knuth Morris Pratt Algorithm
 
-#### Problem Set
+### Problem Set
 
 https://www.infoarena.ro/problema/strmatch
 
