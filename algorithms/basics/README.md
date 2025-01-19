@@ -686,6 +686,10 @@
 
 303) Irish's Full Binary Tree https://codeforces.com/contest/2006/problem/E
 
+304) Sakurako's Hobby https://codeforces.com/contest/2008/problem/D
+
+305) Sakurako's Exam https://codeforces.com/contest/2008/problem/A
+
 
 
 
