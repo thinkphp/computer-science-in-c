@@ -690,6 +690,9 @@
 
 305) Sakurako's Exam https://codeforces.com/contest/2008/problem/A
 
+306) https://codeforces.com/contest/898/problem/B
+
+307) https://codeforces.com/contest/898/problem/F
 
 
 
