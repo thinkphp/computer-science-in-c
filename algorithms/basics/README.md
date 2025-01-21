@@ -694,6 +694,10 @@
 
 307) https://codeforces.com/contest/898/problem/F
 
+308) Fibonacciness https://codeforces.com/contest/2060/problem/A
+
+309) Graph Composition https://codeforces.com/contest/2060/problem/E
+
 
 
 
