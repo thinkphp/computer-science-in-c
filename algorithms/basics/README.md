@@ -690,9 +690,9 @@
 
 305) Sakurako's Exam https://codeforces.com/contest/2008/problem/A
 
-306) https://codeforces.com/contest/898/problem/B
+306) Proper Nutrition https://codeforces.com/contest/898/problem/B
 
-307) https://codeforces.com/contest/898/problem/F
+307) Restoring the Expression https://codeforces.com/contest/898/problem/F
 
 308) Fibonacciness https://codeforces.com/contest/2060/problem/A
 
