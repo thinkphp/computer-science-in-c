@@ -1,7 +1,7 @@
 ## Basic algorithms
   * Euclid's Algorithm https://ideone.com/Nz26Ag https://ideone.com/myrecent
   * Extended Euclid's algorithm https://ideone.com/ysdfZW
-  * suma si numarul divizorilor https://www.infoarena.ro/problema/ssnd
+  * Suma si numarul divizorilor https://www.infoarena.ro/problema/ssnd
   * Al k-lea termen Fibonacci https://www.infoarena.ro/problema/kfib
   * Flip - submultimi - https://ideone.com/q3N4Aw
   * Fractii - Euler's Totient - https://ideone.com/00ezCv 
