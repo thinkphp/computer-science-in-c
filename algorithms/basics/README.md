@@ -1,6 +1,8 @@
 ## Basic algorithms
   * Euclid's Algorithm https://ideone.com/Nz26Ag https://ideone.com/myrecent
   * Extended Euclid's algorithm https://ideone.com/ysdfZW
+  * https://www.infoarena.ro/problema/ssnd
+  * https://www.infoarena.ro/problema/kfib
   * Flip - submultimi - https://ideone.com/q3N4Aw
   * Fractii - Euler's Totient - https://ideone.com/00ezCv 
   * First Degree Equation https://ideone.com/0V5gc1 https://ideone.com/CUUr4v 
