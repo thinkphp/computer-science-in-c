@@ -105,7 +105,7 @@ https://github.com/manjunath5496/Algorithm-Books
 * Algorithms and Data Structures: Fall 2023 https://www2.cs.uh.edu/~panruowu/2023f_cosc3320/course.html
 * MIT Introduction to Algorithms, Fall 2011 https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 * https://learncs.me/curriculum/
-* https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
+* Fall 2010 Algorithm Design and Analysis https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
 * https://nixdell.com/teaching.html
 * https://courses.cs.washington.edu/courses/cse373/
 * https://www.w3schools.com/dsa/index.php
