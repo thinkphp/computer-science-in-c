@@ -700,6 +700,8 @@
 
 309) Graph Composition https://codeforces.com/contest/2060/problem/E
 
+310) Shape Perimeter https://codeforces.com/contest/2056/problem/A
+
 
 
 
