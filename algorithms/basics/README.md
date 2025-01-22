@@ -702,6 +702,10 @@
 
 310) Shape Perimeter https://codeforces.com/contest/2056/problem/A
 
+311) Typical Interview Problem
+https://codeforces.com/contest/1796/problem/A
+
+
 
 
 
