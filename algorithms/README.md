@@ -102,7 +102,7 @@ https://github.com/manjunath5496/Algorithm-Books
 
 #### CS Open CourseWare
 
-* https://www2.cs.uh.edu/~panruowu/2023f_cosc3320/course.html
+* Algorithms and Data Structures: Fall 2023 https://www2.cs.uh.edu/~panruowu/2023f_cosc3320/course.html
 * MIT Introduction to Algorithms, Fall 2011 https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 * https://learncs.me/curriculum/
 * https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
