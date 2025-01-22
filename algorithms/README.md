@@ -108,5 +108,5 @@ https://github.com/manjunath5496/Algorithm-Books
 * Fall 2010 Algorithm Design and Analysis https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
 * https://nixdell.com/teaching.html
 * https://courses.cs.washington.edu/courses/cse373/
-* https://www.w3schools.com/dsa/index.php
+* DSA w3 https://www.w3schools.com/dsa/index.php
 * Computability and Complexity https://plato.stanford.edu/entries/computability/
