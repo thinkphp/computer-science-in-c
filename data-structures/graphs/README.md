@@ -33,3 +33,7 @@ Lots of problems formulated and solved in terms of graphs
 - https://www.algopedia.ro/wiki/index.php/Clasele_11-12_lec%C8%9Bia_12_-_3_dec_2014 - partea 3
 
 - https://www.algopedia.ro/wiki/index.php/Clasa_a_XI-a_lec%C8%9Bia_13
+
+- https://www.algopedia.ro/wiki/index.php/Note_de_curs,_clasele_11-12,_23_ianuarie_2014
+
+- https://www.algopedia.ro/wiki/index.php/Clasele_11-12_lec%C8%9Bia_20_-_25_feb_2015
