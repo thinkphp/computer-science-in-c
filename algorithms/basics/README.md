@@ -705,6 +705,8 @@
 311) Typical Interview Problem
 https://codeforces.com/contest/1796/problem/A
 
+312) Monster https://codeforces.com/contest/917/problem/A
+
 
 
 
