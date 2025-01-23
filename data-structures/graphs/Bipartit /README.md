@@ -14,4 +14,6 @@ In computer science, the Hopcroft–Karp algorithm (sometimes more accurately ca
 
 ### References
 
-https://en.wikipedia.org/wiki/Hopcroft%E2%80%93Karp_algorithm
+- https://en.wikipedia.org/wiki/Hopcroft%E2%80%93Karp_algorithm
+- https://www.algopedia.ro/wiki/index.php/Clasa_a_XI-a_lec%C8%9Bia_17#Graf_Bipartit
+
