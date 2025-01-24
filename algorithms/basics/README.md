@@ -707,6 +707,18 @@ https://codeforces.com/contest/1796/problem/A
 
 312) Monster https://codeforces.com/contest/917/problem/A
 
+313) Coin Transformation https://codeforces.com/contest/2043/problem/A
+
+314) Sums on Segments https://codeforces.com/contest/2043/problem/C
+
+315) Digits https://codeforces.com/contest/2043/problem/B
+
+316) Madmax https://codeforces.com/contest/917/problem/B
+
+317) Matrix Transformation https://codeforces.com/contest/2043/problem/E
+
+318) Problem about GCD https://codeforces.com/contest/2043/problem/D
+
 
 
 
