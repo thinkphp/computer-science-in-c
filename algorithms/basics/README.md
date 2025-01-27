@@ -719,6 +719,22 @@ https://codeforces.com/contest/1796/problem/A
 
 318) Problem about GCD https://codeforces.com/contest/2043/problem/D
 
+319) Upside Down https://codeforces.com/contest/917/problem/E
+
+320) Funny or Scarry https://codeforces.com/contest/1949/problem/D
+
+321) Pollywog https://codeforces.com/contest/917/problem/C
+
+322) Game of Mathletes https://codeforces.com/contest/2060/problem/C
+
+323) Perpendicular Segments https://codeforces.com/contest/2026/problem/A
+
+324) Profitable Interest Rate https://codeforces.com/contest/2024/problem/A
+
+325) Buying Lemonade https://codeforces.com/contest/2024/problem/B
+
+326) Swap Columns and Find a Path https://codeforces.com/contest/2046/problem/A
+
 
 
 
