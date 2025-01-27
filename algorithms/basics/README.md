@@ -735,6 +735,12 @@ https://codeforces.com/contest/1796/problem/A
 
 326) Swap Columns and Find a Path https://codeforces.com/contest/2046/problem/A
 
+327) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
+
+328) Valid Parenthesis String https://leetcode.com/problems/valid-parenthesis-string/description/
+
+329) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
+
 
 
 
