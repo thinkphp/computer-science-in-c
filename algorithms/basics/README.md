@@ -741,6 +741,12 @@ https://codeforces.com/contest/1796/problem/A
 
 329) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
 
+330) Ping-Pong https://codeforces.com/contest/320/problem/B
+
+331) Magic Numbers https://codeforces.com/contest/320/problem/A
+
+332) Game of Mathletes https://codeforces.com/contest/2060/problem/C
+
 
 
 
