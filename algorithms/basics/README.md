@@ -747,6 +747,17 @@ https://codeforces.com/contest/1796/problem/A
 
 332) Game of Mathletes https://codeforces.com/contest/2060/problem/C
 
+333) Kevin and Arithmetic https://codeforces.com/contest/2061/problem/A
+
+334) Kevin and Geometry https://codeforces.com/contest/2061/problem/B
+
+335) Kevin and Puzzle https://codeforces.com/contest/2061/problem/C
+
+336) Ping-Pong https://codeforces.com/contest/320/problem/B
+
+337) Magic Numbers https://codeforces.com/contest/320/problem/A
+
+
 
 
 
