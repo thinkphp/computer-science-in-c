@@ -753,11 +753,6 @@ https://codeforces.com/contest/1796/problem/A
 
 335) Kevin and Puzzle https://codeforces.com/contest/2061/problem/C
 
-336) Ping-Pong https://codeforces.com/contest/320/problem/B
-
-337) Magic Numbers https://codeforces.com/contest/320/problem/A
-
-
 
 
 
