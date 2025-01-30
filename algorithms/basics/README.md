@@ -753,6 +753,10 @@ https://codeforces.com/contest/1796/problem/A
 
 335) Kevin and Puzzle https://codeforces.com/contest/2061/problem/C
 
+336) Odd One Out https://codeforces.com/contest/1915/problem/A
+
+337) Greetings https://codeforces.com/contest/1915/problem/F
+
 
 
 
