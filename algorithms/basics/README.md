@@ -757,6 +757,16 @@ https://codeforces.com/contest/1796/problem/A
 
 337) Greetings https://codeforces.com/contest/1915/problem/F
 
+338) Not Quite Latin Square https://codeforces.com/contest/1915/problem/B
+
+339) Can I Square? https://codeforces.com/contest/1915/problem/C
+
+340) Unnatural Language Processing https://codeforces.com/contest/1915/problem/D
+
+341) Romantic Glasses https://codeforces.com/contest/1915/problem/E
+
+342) Bicycles https://codeforces.com/contest/1915/problem/G
+
 
 
 
