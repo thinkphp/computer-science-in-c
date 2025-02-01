@@ -767,6 +767,8 @@ https://codeforces.com/contest/1796/problem/A
 
 342) Bicycles https://codeforces.com/contest/1915/problem/G
 
+343) Is It a Cat? https://codeforces.com/contest/1800/problem/A
+
 
 
 
