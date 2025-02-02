@@ -127,13 +127,6 @@ Principala diferență este că a doua expresie:
 Prima expresie este mai permisivă cu poziționarea punctelor în partea de domeniu, în timp ce a doua este mai structurată dar poate fi mai restrictivă.
 
 
-
-### Problem Set
-
-Jabber ID https://codeforces.com/contest/21/problem/A 
-
-* https://ideone.com/ct6Dky
-
 ```
 // C++ program to demonstrate working of regex_match()
 #include <iostream>
@@ -161,3 +154,7 @@ int main()
 }
  
 ```
+
+### Problem Set
+
+ - Jabber ID https://codeforces.com/contest/21/problem/A  https://ideone.com/ct6Dky
