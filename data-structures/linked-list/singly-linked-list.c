@@ -1,5 +1,5 @@
 /**
- *  Adrian Statescu <http://adrianstatescu.com> - <mergesortv@gmail.com> - <http://thinkphp.ro>
+ *  Adrian Statescu <http://adrianstatescu.com> - <mergesortv@gmail.com> - <http://thinkphp.it>
  *
  *  Demystifying the Singly Linked List for C Developers.
  *
