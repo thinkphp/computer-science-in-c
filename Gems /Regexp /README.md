@@ -1,5 +1,80 @@
 # Regular Expressions:
 
+Expresiile regulate în C++ sunt disponibile începând cu C++11 prin biblioteca `<regex>`. Iată elementele fundamentale:
+
+```cpp
+#include <regex>
+#include <string>
+#include <iostream>
+
+int main() {
+    // Declararea unui regex
+    std::regex pattern("text|pattern");
+    
+    // Verificarea potrivirii unui string
+    std::string text = "Acesta este un text de test";
+    if(std::regex_search(text, pattern)) {
+        std::cout << "Pattern-ul a fost găsit!\n";
+    }
+}
+```
+
+Operatori de bază în regex:
+1. `.` - potrivește orice caracter individual
+2. `^` - începutul stringului 
+3. `$` - sfârșitul stringului
+4. `*` - 0 sau mai multe apariții
+5. `+` - 1 sau mai multe apariții
+6. `?` - 0 sau 1 apariție
+7. `[abc]` - potrivește oricare dintre caracterele din paranteze
+8. `[^abc]` - potrivește orice caracter în afară de cele din paranteze
+
+Iată un exemplu mai complex:
+
+```cpp
+#include <regex>
+#include <string>
+#include <iostream>
+
+int main() {
+    // Pattern pentru email
+    std::regex email_pattern(R"([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})");
+    
+    std::string email = "test@example.com";
+    
+    if(std::regex_match(email, email_pattern)) {
+        std::cout << "Email valid!\n";
+    }
+    
+    // Găsirea și înlocuirea textului
+    std::string text = "Contactați-mă la email@example.com sau alt.email@domain.ro";
+    std::string result = std::regex_replace(text, email_pattern, "[EMAIL]");
+    
+    std::cout << "Text modificat: " << result << "\n";
+    
+    // Iterarea prin toate potrivirile
+    std::sregex_iterator it(text.begin(), text.end(), email_pattern);
+    std::sregex_iterator end;
+    
+    while(it != end) {
+        std::cout << "Email găsit: " << it->str() << "\n";
+        ++it;
+    }
+}
+```
+
+Funcții importante pentru lucrul cu regex:
+- `regex_match()` - verifică dacă întregul string se potrivește cu pattern-ul
+- `regex_search()` - caută o potrivire în string
+- `regex_replace()` - înlocuiește potrivirile găsite
+- `sregex_iterator` - iterează prin toate potrivirile
+
+Sfaturi pentru utilizare:
+1. Folosiți raw string literals (R"()") pentru pattern-uri complexe pentru a evita escape-ul caracterelor
+2. Tratați excepțiile `regex_error` care pot apărea la compilarea pattern-urilor invalide
+3. Testați pattern-urile pe cazuri limită
+4. Aveți grijă la performanță - operațiile regex pot fi costisitoare pentru pattern-uri complexe
+
 Prima expresie: `[A-Za-z0-9_]{1,16}@[A-Za-z0-9_.]{1,32}(/[A-Za-z0-9_]{1,16})?`
 
 Aceasta se împarte în:
