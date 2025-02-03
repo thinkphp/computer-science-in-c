@@ -771,6 +771,10 @@ https://codeforces.com/contest/1796/problem/A
 
 344) Two Frogs https://codeforces.com/contest/2055/problem/A
 
+345) Milya and Two Arrays https://codeforces.com/contest/2059/problem/A
+
+346) Jorney https://codeforces.com/contest/2051/problem/B
+
 
 
 
