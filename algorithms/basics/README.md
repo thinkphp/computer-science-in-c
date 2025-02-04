@@ -775,6 +775,14 @@ https://codeforces.com/contest/1796/problem/A
 
 346) Jorney https://codeforces.com/contest/2051/problem/B
 
+347) Playing with Paper https://codeforces.com/problemset/problem/527/A
+
+348) Road Construction https://codeforces.com/problemset/problem/330/B
+
+349) Puzzles https://codeforces.com/problemset/problem/337/A
+
+350) Worms https://codeforces.com/problemset/problem/474/B
+
 
 
 
