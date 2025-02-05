@@ -783,6 +783,10 @@ https://codeforces.com/contest/1796/problem/A
 
 350) Worms https://codeforces.com/problemset/problem/474/B
 
+351) MIT Time https://codeforces.com/gym/105668/problem/A
+
+352) M(IT)+ https://codeforces.com/gym/105668/problem/B
+
 
 
 
