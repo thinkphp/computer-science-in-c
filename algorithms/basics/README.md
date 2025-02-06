@@ -344,8 +344,6 @@
 
 129) Minimise Oneness https://codeforces.com/contest/2030/problem/B
 
-130) A Gift From Orangutan https://codeforces.com/contest/2030/problem/A
-
 131) Quintomania https://codeforces.com/contest/2036/problem/A
 
 132) osu!mania https://codeforces.com/contest/2009/problem/B
@@ -798,6 +796,12 @@ https://codeforces.com/contest/1796/problem/A
 357) Winner https://codeforces.com/contest/2/problem/A
 
 358) Counter Attack https://codeforces.com/contest/190/problem/E
+
+359) A Gift From Orangutan https://codeforces.com/contest/2030/problem/A
+
+360) 2D Traveling https://codeforces.com/contest/1869/problem/B
+
+361) Max Plus Size https://codeforces.com/contest/2019/problem/A
 
 
 
