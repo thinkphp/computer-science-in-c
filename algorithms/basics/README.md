@@ -787,6 +787,18 @@ https://codeforces.com/contest/1796/problem/A
 
 352) M(IT)+ https://codeforces.com/gym/105668/problem/B
 
+353) Surrounded https://codeforces.com/contest/190/problem/B
+
+354) STL https://codeforces.com/contest/190/problem/C
+
+355) Non-Secret Cypher https://codeforces.com/contest/190/problem/D
+
+356) Vasya and the Bus https://codeforces.com/contest/190/problem/A
+
+357) Winner https://codeforces.com/contest/2/problem/A
+
+358) Counter Attack https://codeforces.com/contest/190/problem/E
+
 
 
 
