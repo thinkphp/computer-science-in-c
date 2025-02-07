@@ -416,8 +416,6 @@
 
 166) Reconnaissance https://codeforces.com/contest/32/problem/A
 
-167) Organizing SWERC https://codeforces.com/contest/1662/problem/A
-
 168) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
 
 169) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
@@ -802,6 +800,16 @@ https://codeforces.com/contest/1796/problem/A
 360) 2D Traveling https://codeforces.com/contest/1869/problem/B
 
 361) Max Plus Size https://codeforces.com/contest/2019/problem/A
+
+362) Organizing SWERC https://codeforces.com/contest/1662/problem/A
+
+363) Toys https://codeforces.com/contest/1662/problem/B
+
+364) European Trip https://codeforces.com/contest/1662/problem/C
+
+365) Antennas https://codeforces.com/contest/1662/problem/F
+
+366) Drone Photo https://codeforces.com/contest/1662/problem/N
 
 
 
