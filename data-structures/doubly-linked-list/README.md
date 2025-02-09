@@ -22,8 +22,6 @@ This simulates a music player with these operations:
 - Move song up/down in playlist (node swapping)
 - Repeat single song or entire playlist (circular list functionality)
 
-Would you like me to implement either of these problems? I can show you how to adapt our doubly linked list to solve them.
-
 The doubly linked list is particularly good for these problems because:
 1. They require bidirectional navigation (back/forward, prev/next song)
 2. Need to track current position (current page/song)
