@@ -1,4 +1,4 @@
-# pow(b,e)
+# pow(b,e) runs log time
 
 https://www.pbinfo.ro/articole/18954/exponentiere-rapida
 
