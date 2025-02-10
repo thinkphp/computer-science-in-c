@@ -811,6 +811,8 @@ https://codeforces.com/contest/1796/problem/A
 
 366) Drone Photo https://codeforces.com/contest/1662/problem/N
 
+367) Check if Numbers Are Ascending in a Sentence https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/
+
 
 
 
