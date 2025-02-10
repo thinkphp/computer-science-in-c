@@ -813,6 +813,15 @@ https://codeforces.com/contest/1796/problem/A
 
 367) Check if Numbers Are Ascending in a Sentence https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/
 
+368) Mathematial Addition https://codeforces.com/contest/1584/problem/A
+
+369) Tree cutting https://codeforces.com/contest/1946/problem/C
+
+370) XOR Sequences https://codeforces.com/contest/1979/problem/B
+
+371) Guess the maximum https://codeforces.com/contest/1979/problem/A
+
+
 
 
 
