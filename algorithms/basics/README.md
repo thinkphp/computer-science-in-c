@@ -821,6 +821,8 @@ https://codeforces.com/contest/1796/problem/A
 
 372) Guess the number https://codeforces.com/contest/416/problem/A
 
+373) Military Problem https://codeforces.com/contest/1006/problem/E
+
 
 
 
