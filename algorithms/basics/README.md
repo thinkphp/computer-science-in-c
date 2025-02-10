@@ -250,8 +250,6 @@
 
 82) Alternative Sum of Numbers https://codeforces.com/contest/2010/problem/A
 
-83) Guess the number https://codeforces.com/contest/416/problem/A
-
 84) Toy Cars https://codeforces.com/contest/545/problem/A
 
 85) LCA in Binary Tree https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
@@ -820,6 +818,8 @@ https://codeforces.com/contest/1796/problem/A
 370) XOR Sequences https://codeforces.com/contest/1979/problem/B
 
 371) Guess the maximum https://codeforces.com/contest/1979/problem/A
+
+372) Guess the number https://codeforces.com/contest/416/problem/A
 
 
 
