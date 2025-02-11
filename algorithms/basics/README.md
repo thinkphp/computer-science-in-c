@@ -826,6 +826,10 @@ https://codeforces.com/contest/1796/problem/A
 
 373) Military Problem https://codeforces.com/contest/1006/problem/E
 
+374) Colored Rectangles https://codeforces.com/contest/1398/problem/D
+
+375) Bad Triangle https://codeforces.com/contest/1398/problem/A
+
 
 
 
