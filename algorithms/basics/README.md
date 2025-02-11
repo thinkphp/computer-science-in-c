@@ -1,6 +1,7 @@
 ## Basic algorithms
   * Euclid's Algorithm https://ideone.com/Nz26Ag https://ideone.com/myrecent
   * Extended Euclid's algorithm https://ideone.com/ysdfZW
+  * Invers Modular https://ideone.com/IDFTYn
   * Suma si numarul divizorilor https://www.infoarena.ro/problema/ssnd
   * Al k-lea termen Fibonacci https://www.infoarena.ro/problema/kfib
   * Flip - submultimi - https://ideone.com/q3N4Aw
@@ -80,35 +81,37 @@
 
 2) Algoritmul lui Euclid https://www.infoarena.ro/problema/euclid2
 
-3) Algoritmul lui Euclid extins https://www.infoarena.ro/problema/euclid3
+3) Algoritmul lui Euclid Extins https://www.infoarena.ro/problema/euclid3
 
-4) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+4) Invers modular https://www.infoarena.ro/problema/inversmodular
 
-5) Quadratic Equation:
+5) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+
+6) Quadratic Equation:
    - https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
    - https://codeforces.com/contest/20/problem/B
    - https://codeforces.com/contest/630/problem/N
    - https://codeforces.com/problemset/problem/531/A
 
-6) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
+7) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
 
-7) Exponentiation https://infoarena.ro/problema/lgput
+8) Exponentiation https://infoarena.ro/problema/lgput
 
-8) Ciurul lui Eratosthenes https://www.infoarena.ro/problema/ciur
+9) Ciurul lui Eratosthenes https://www.infoarena.ro/problema/ciur
 
-9) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+10) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
-10) Divisors of two integers https://codeforces.com/contest/1108/problem/B
+11) Divisors of two integers https://codeforces.com/contest/1108/problem/B
 
-11) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
+12) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
 
-12) Triangle https://codeforces.com/contest/6/problem/A
+13) Triangle https://codeforces.com/contest/6/problem/A
 
-13) Flip https://www.infoarena.ro/problema/flip
+14) Flip https://www.infoarena.ro/problema/flip
 
-14) Fractii https://www.infoarena.ro/problema/fractii
+15) Fractii https://www.infoarena.ro/problema/fractii
 
-15) Secventa Farey https://www.infoarena.ro/problema/farey
+16) Secventa Farey https://www.infoarena.ro/problema/farey
 
 74) Weird Algorithm https://cses.fi/problemset/task/1068
 
