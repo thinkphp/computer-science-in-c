@@ -85,17 +85,17 @@
 
 4) Invers modular https://www.infoarena.ro/problema/inversmodular
 
-5) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+5) Exponentiation https://infoarena.ro/problema/lgput
 
-6) Quadratic Equation:
+6) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+
+7) Quadratic Equation:
    - https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
    - https://codeforces.com/contest/20/problem/B
    - https://codeforces.com/contest/630/problem/N
    - https://codeforces.com/problemset/problem/531/A
 
-7) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
-
-8) Exponentiation https://infoarena.ro/problema/lgput
+8) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
 
 9) Ciurul lui Eratosthenes https://www.infoarena.ro/problema/ciur
 
