@@ -87,31 +87,35 @@
 
 5) Exponentiation https://infoarena.ro/problema/lgput
 
-6) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+6) Suma si numarul divizorilor https://www.infoarena.ro/problema/ssnd
 
-7) Quadratic Equation:
+7) Al k-lea termen Fibonacci https://www.infoarena.ro/problema/kfib
+
+8) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+
+9) Quadratic Equation:
    - https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
    - https://codeforces.com/contest/20/problem/B
    - https://codeforces.com/contest/630/problem/N
    - https://codeforces.com/problemset/problem/531/A
 
-8) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
+10) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
 
-9) Ciurul lui Eratosthenes https://www.infoarena.ro/problema/ciur
+11) Ciurul lui Eratosthenes https://www.infoarena.ro/problema/ciur
 
-10) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+12) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
-11) Divisors of two integers https://codeforces.com/contest/1108/problem/B
+13) Divisors of two integers https://codeforces.com/contest/1108/problem/B
 
-12) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
+14) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
 
-13) Triangle https://codeforces.com/contest/6/problem/A
+15) Triangle https://codeforces.com/contest/6/problem/A
 
-14) Flip https://www.infoarena.ro/problema/flip
+16) Flip https://www.infoarena.ro/problema/flip
 
-15) Fractii https://www.infoarena.ro/problema/fractii
+17) Fractii https://www.infoarena.ro/problema/fractii
 
-16) Secventa Farey https://www.infoarena.ro/problema/farey
+18) Secventa Farey https://www.infoarena.ro/problema/farey
 
 74) Weird Algorithm https://cses.fi/problemset/task/1068
 
