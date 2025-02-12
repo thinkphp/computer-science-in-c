@@ -830,6 +830,14 @@ https://codeforces.com/contest/1796/problem/A
 
 375) Bad Triangle https://codeforces.com/contest/1398/problem/A
 
+376) Zhan's Blender https://codeforces.com/contest/2013/problem/A
+
+377) Robin Helps https://codeforces.com/contest/2014/problem/A
+
+378) Robin Hood and the Major Oak https://codeforces.com/contest/2014/problem/B
+
+379) Battle for Survive https://codeforces.com/contest/2013/problem/B
+
 
 
 
