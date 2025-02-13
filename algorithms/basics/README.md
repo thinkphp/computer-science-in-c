@@ -842,6 +842,8 @@ https://codeforces.com/contest/1796/problem/A
 
 379) Battle for Survive https://codeforces.com/contest/2013/problem/B
 
+380) Password Cracking https://codeforces.com/contest/2013/problem/C
+
 
 
 
