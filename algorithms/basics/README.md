@@ -844,8 +844,9 @@ https://codeforces.com/contest/1796/problem/A
 
 380) Password Cracking https://codeforces.com/contest/2013/problem/C
 
+381) Planets https://codeforces.com/contest/1730/problem/A
 
-
+382) Lucky Ticket https://codeforces.com/contest/146/problem/A
 
 
 
