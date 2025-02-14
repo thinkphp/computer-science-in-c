@@ -848,6 +848,8 @@ https://codeforces.com/contest/1796/problem/A
 
 382) Lucky Ticket https://codeforces.com/contest/146/problem/A
 
+383) Business Trip https://codeforces.com/problemset/problem/149/A
+
 
 
 #### References
