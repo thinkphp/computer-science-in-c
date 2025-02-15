@@ -850,6 +850,10 @@ https://codeforces.com/contest/1796/problem/A
 
 383) Business Trip https://codeforces.com/problemset/problem/149/A
 
+384) Robin Hood in Town https://codeforces.com/contest/2014/problem/C
+
+385) Robert Hood and Mrs Hood https://codeforces.com/contest/2014/problem/D
+
 
 
 #### References
