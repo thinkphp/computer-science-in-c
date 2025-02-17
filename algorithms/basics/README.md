@@ -651,10 +651,6 @@
 
 284)  Polygon https://codeforces.com/contest/1360/problem/E
 
-285) Sum of two values https://codeforces.com/gym/102961/problem/G
-
-286) sum of two values https://cses.fi/problemset/task/1640
-
 287) Number Circle https://codeforces.com/contest/1189/problem/B
 
 288) Maximum Subarray Sum https://codeforces.com/gym/102961/problem/H (Kadane's algorithm)
@@ -854,9 +850,13 @@ https://codeforces.com/contest/1796/problem/A
 
 385) Robert Hood and Mrs Hood https://codeforces.com/contest/2014/problem/D
 
-386) Sum Of Three Values https://codeforces.com/gym/102961/problem/X
+386) Sum of two values https://codeforces.com/gym/102961/problem/G
 
-387) Sum of Of Four Values https://codeforces.com/gym/102961/problem/Y
+286) sum of two values https://cses.fi/problemset/task/1640
+
+387) Sum Of Three Values https://codeforces.com/gym/102961/problem/X
+
+388) Sum of Of Four Values https://codeforces.com/gym/102961/problem/Y
 
 
 
