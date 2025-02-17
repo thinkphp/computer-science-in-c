@@ -858,6 +858,16 @@ https://codeforces.com/contest/1796/problem/A
 
 388) Sum of Of Four Values https://codeforces.com/gym/102961/problem/Y
 
+389) The Legend of Freya the Frog https://codeforces.com/contest/2009/problem/C
+
+390) Satyam and Counting https://codeforces.com/contest/2009/problem/D
+
+391) Klee's SUPER DUPER LARGE Array!!! https://codeforces.com/contest/2009/problem/E
+
+392) Yunli's Subarray Queries (easy version) https://codeforces.com/contest/2009/problem/G1
+
+393) Yunli's Subarray Queries (hard version) https://codeforces.com/contest/2009/problem/G2
+
 
 
 #### References
