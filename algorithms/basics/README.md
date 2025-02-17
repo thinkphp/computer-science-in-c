@@ -854,7 +854,9 @@ https://codeforces.com/contest/1796/problem/A
 
 385) Robert Hood and Mrs Hood https://codeforces.com/contest/2014/problem/D
 
-386) Sum of Of Four Values https://codeforces.com/gym/102961/problem/Y
+386) Sum Of Three Values https://codeforces.com/gym/102961/problem/X
+
+387) Sum of Of Four Values https://codeforces.com/gym/102961/problem/Y
 
 
 
