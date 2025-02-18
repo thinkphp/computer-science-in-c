@@ -868,6 +868,10 @@ https://codeforces.com/contest/1796/problem/A
 
 393) Yunli's Subarray Queries (hard version) https://codeforces.com/contest/2009/problem/G2
 
+394) The New Year: Meeting Friends  https://codeforces.com/contest/723/problem/A
+
+395) Text Document Analysis https://codeforces.com/contest/723/problem/B
+
 
 
 #### References
