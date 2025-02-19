@@ -878,6 +878,10 @@ https://codeforces.com/contest/1796/problem/A
 
 398) I wanna be the guy https://codeforces.com/contest/469/problem/A
 
+399) Button Pressing https://codeforces.com/contest/1906/problem/B
+
+400) Line Trip https://codeforces.com/contest/1901/problem/A
+
 
 
 #### References
