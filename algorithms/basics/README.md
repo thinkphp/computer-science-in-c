@@ -872,6 +872,12 @@ https://codeforces.com/contest/1796/problem/A
 
 395) Text Document Analysis https://codeforces.com/contest/723/problem/B
 
+396) Theatre Square https://codeforces.com/contest/1/problem/A
+
+397) Chat Online https://codeforces.com/contest/469/problem/B
+
+398) I wanna be the guy https://codeforces.com/contest/469/problem/A
+
 
 
 #### References
