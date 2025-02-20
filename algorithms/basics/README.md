@@ -882,6 +882,8 @@ https://codeforces.com/contest/1796/problem/A
 
 400) Line Trip https://codeforces.com/contest/1901/problem/A
 
+401) https://codeforces.com/contest/1842/problem/B
+
 
 
 #### References
