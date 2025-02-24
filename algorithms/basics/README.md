@@ -884,6 +884,11 @@ https://codeforces.com/contest/1796/problem/A
 
 401) Tenzing and Books https://codeforces.com/contest/1842/problem/B
 
+402) AND Sequences https://codeforces.com/contest/1513/problem/B
+
+403) Nearly Lucky Number https://codeforces.com/problemset/problem/110/A
+
+
 
 
 #### References
