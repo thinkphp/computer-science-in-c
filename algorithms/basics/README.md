@@ -888,6 +888,12 @@ https://codeforces.com/contest/1796/problem/A
 
 403) Nearly Lucky Number https://codeforces.com/problemset/problem/110/A
 
+404) Flower City Fence https://codeforces.com/contest/1862/problem/C
+
+405) Gift Carpet https://codeforces.com/contest/1862/problem/A
+
+
+
 
 
 
