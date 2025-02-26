@@ -893,6 +893,9 @@ https://codeforces.com/contest/1796/problem/A
 
 405) Gift Carpet https://codeforces.com/contest/1862/problem/A
 
+406) Angry Monk https://codeforces.com/contest/1992/problem/B
+
+
 
 
 
