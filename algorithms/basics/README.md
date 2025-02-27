@@ -895,6 +895,8 @@ https://codeforces.com/contest/1796/problem/A
 
 406) Angry Monk https://codeforces.com/contest/1992/problem/B
 
+407) Skibidus and Amog'u https://codeforces.com/contest/2065/problem/A
+
 
 
 
