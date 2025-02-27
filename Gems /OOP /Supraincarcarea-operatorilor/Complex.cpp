@@ -75,9 +75,9 @@ Complex Complex::operator/(Complex z) {
 
       float m = z.modul();
 
-      t.real = (real*z.real + imag*z.imag) / (m^2);
+      t.real = (real*z.real + imag*z.imag) / (m*m);
 
-      t.imag = (z.real*img - real*z.imag) / (m^2);
+      t.imag = (z.real*img - real*z.imag) / (m*m);
 
 
   }    return t;
@@ -106,6 +106,8 @@ int main(int argc, char const *argv[]) {
 
        z4 = z4 * z3;
   }
+
+      cout<<z4.real + " i "<<z4.imag;
 
    //x1 = partea reala
    //y1 = partea imaginara
