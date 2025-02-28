@@ -897,6 +897,8 @@ https://codeforces.com/contest/1796/problem/A
 
 407) Skibidus and Amog'u https://codeforces.com/contest/2065/problem/A
 
+408) Three Parts of the Array https://codeforces.com/problemset/problem/1006/C
+
 
 
 
