@@ -899,6 +899,9 @@ https://codeforces.com/contest/1796/problem/A
 
 408) Three Parts of the Array https://codeforces.com/problemset/problem/1006/C
 
+409) Adjecent https://codeforces.com/contest/1006/problem/A
+
+
 
 
 
