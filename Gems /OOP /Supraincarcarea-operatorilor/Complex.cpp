@@ -16,6 +16,7 @@ class Complex {
       Complex operator-(Complex z);
       Complex operator*(Complex z);
       Complex operator/(Complex z);
+      friend ostream& operator<<(ostream&out, const Complex&ob);
 };
 
 Complex::Complex() {
@@ -77,13 +78,18 @@ Complex Complex::operator/(Complex z) {
 
       t.real = (real*z.real + imag*z.imag) / (m*m);
 
-      t.imag = (z.real*img - real*z.imag) / (m*m);
+      t.imag = (z.real*imag - real*z.imag) / (m*m);
 
 
-  }    return t;
+      return t;
+};
+
+ostream& operator<<(ostream&out, const Complex&ob) {
+
+    out<<ob.real<<" i"<<ob.imag;
+    
+    return out;
 }
-
-
 
 int main(int argc, char const *argv[]) {
   int n;
@@ -107,7 +113,7 @@ int main(int argc, char const *argv[]) {
        z4 = z4 * z3;
   }
 
-      cout<<z4.real + " i "<<z4.imag;
+      cout<<z4.real<< " i "<<z4.imag;
 
    //x1 = partea reala
    //y1 = partea imaginara
