@@ -899,7 +899,11 @@ https://codeforces.com/contest/1796/problem/A
 
 408) Three Parts of the Array https://codeforces.com/problemset/problem/1006/C
 
-409) Adjecent https://codeforces.com/contest/1006/problem/A
+409) Adjacent https://codeforces.com/contest/1006/problem/A
+
+410) Polycarp's Practice https://codeforces.com/contest/1006/problem/B
+
+411) Two Strings Swaps https://codeforces.com/contest/1006/problem/D
 
 
 
