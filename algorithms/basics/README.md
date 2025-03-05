@@ -905,6 +905,14 @@ https://codeforces.com/contest/1796/problem/A
 
 411) Two Strings Swaps https://codeforces.com/contest/1006/problem/D
 
+412) A Good Contest https://codeforces.com/contest/681/problem/A
+
+413) Amr and Music https://codeforces.com/problemset/problem/507/A
+
+414) A and B and Chess https://codeforces.com/contest/519/problem/A
+
+415) Xor-Paths https://codeforces.com/contest/1006/problem/F
+
 
 
 
