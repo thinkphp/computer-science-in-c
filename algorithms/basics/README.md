@@ -913,6 +913,18 @@ https://codeforces.com/contest/1796/problem/A
 
 415) Xor-Paths https://codeforces.com/contest/1006/problem/F
 
+416) Games with Integers https://codeforces.com/contest/1899/problem/A
+
+417) Thousand Tons of TNT https://codeforces.com/contest/1899/problem/B
+
+418) Yarik and Array https://codeforces.com/contest/1899/problem/C
+
+419) Yarik and Musical Notes https://codeforces.com/contest/1899/problem/D
+
+420) Queue Sort https://codeforces.com/contest/1899/problem/E
+
+421) Alex's Whims https://codeforces.com/contest/1899/problem/F
+
 
 
 
