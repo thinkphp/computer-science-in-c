@@ -925,6 +925,8 @@ https://codeforces.com/contest/1796/problem/A
 
 421) Alex's Whims https://codeforces.com/contest/1899/problem/F
 
+422) Landscaping https://codeforces.com/contest/1901/problem/F
+
 
 
 
