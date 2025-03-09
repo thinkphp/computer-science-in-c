@@ -18,3 +18,6 @@
 
 - Codeforces:
   - https://codeforces.com/contest/1037/problem/D
+
+### Ideone
+https://ideone.com/NVEuN0
