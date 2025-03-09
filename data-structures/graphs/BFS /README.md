@@ -6,10 +6,10 @@ https://ideone.com/NVEuN0
 
 #### Problem Set
 
-- infoarena:
- -https://infoarena.ro/problema/bfs
- -https://infoarena.ro/problema/alee
- -https://www.infoarena.ro/problema/fof
+- Infoarena:
+ - https://infoarena.ro/problema/bfs
+ - https://infoarena.ro/problema/alee
+ - https://www.infoarena.ro/problema/fof
 
 - Pbinfo:
   -https://www.pbinfo.ro/probleme/19/bfs
