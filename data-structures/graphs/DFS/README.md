@@ -10,6 +10,7 @@ Infoarena:
 Codeforce:
 
 * https://codeforces.com/contest/1722/problem/F
+* Military Problem https://codeforces.com/contest/1006/problem/E
 
 PBInfo:
 
