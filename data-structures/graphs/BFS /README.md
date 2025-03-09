@@ -1,9 +1,9 @@
 ## Breadth First Search
 
 - Infoarena:
-  - https://infoarena.ro/problema/bfs
-  - https://infoarena.ro/problema/alee
-  - https://www.infoarena.ro/problema/fof
+  - BFS - Parcurgere in latime https://infoarena.ro/problema/bfs
+  - Alee https://infoarena.ro/problema/alee
+  - Friend of Friend https://www.infoarena.ro/problema/fof
 
 - Pbinfo:
   -https://www.pbinfo.ro/probleme/19/bfs
