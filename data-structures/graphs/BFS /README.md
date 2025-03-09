@@ -6,7 +6,7 @@ https://ideone.com/NVEuN0
 
 #### Problem Set
 
--nfoarena:
+-ifoarena:
  -https://infoarena.ro/problema/bfs
  -https://infoarena.ro/problema/alee
  -https://www.infoarena.ro/problema/fof
