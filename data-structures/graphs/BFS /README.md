@@ -6,25 +6,21 @@ https://ideone.com/NVEuN0
 
 #### Problem Set
 
-Infoarena:
+-nfoarena:
+ -https://infoarena.ro/problema/bfs
+ -https://infoarena.ro/problema/alee
+ -https://www.infoarena.ro/problema/fof
 
-https://infoarena.ro/problema/bfs
-
-https://infoarena.ro/problema/alee
-
-https://www.infoarena.ro/problema/fof
-
-Pbinfo:
-
-https://www.pbinfo.ro/probleme/19/bfs
-
-https://www.pbinfo.ro/probleme/4676/elicopter
+- Pbinfo:
+  -https://www.pbinfo.ro/probleme/19/bfs
+  -https://www.pbinfo.ro/probleme/4676/elicopter
 
 
-LeetCode:
+- LeetCode:
+  - https://leetcode.com/tag/breadth-first-search/
+  - https://leetcode.com/problems/number-of-provinces/description/
+  - https://leetcode.com/problems/number-of-islands/description/
 
-https://leetcode.com/tag/breadth-first-search/
 
-https://leetcode.com/problems/number-of-provinces/description/
-
-https://leetcode.com/problems/number-of-islands/description/
+- Codeforces:
+  - https://codeforces.com/contest/1037/problem/D
