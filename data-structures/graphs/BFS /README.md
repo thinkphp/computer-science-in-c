@@ -17,7 +17,7 @@
 
 
 - Codeforces:
-  - https://codeforces.com/contest/1037/problem/D
+  - Valid BFS? https://codeforces.com/contest/1037/problem/D
 
 ### Ideone
 https://ideone.com/NVEuN0
