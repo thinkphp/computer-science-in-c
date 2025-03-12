@@ -929,15 +929,15 @@ https://codeforces.com/contest/1796/problem/A
 
 423) Shape Perimeter https://codeforces.com/contest/2056/problem/A
 
-424) Find the Permutation https://codeforces.com/contest/2056/problem/B
+424) Unique Median https://codeforces.com/contest/2056/problem/D
 
-425) Unique Median https://codeforces.com/contest/2056/problem/D
+425) Palindromic Subsequences https://codeforces.com/contest/2056/problem/C
 
-426) Palindromic Subsequences https://codeforces.com/contest/2056/problem/C
+426) Adjacent Replacement https://codeforces.com/contest/1006/problem/A
 
-427) Adjacent Replacement https://codeforces.com/contest/1006/problem/A
+427) Domino https://www.infoarena.ro/problema/domino
 
-428) Donino https://www.infoarena.ro/problema/domino
+428) Find the Permutation https://codeforces.com/contest/2056/problem/B
 
 
 
