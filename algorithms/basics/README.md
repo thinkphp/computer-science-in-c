@@ -939,6 +939,8 @@ https://codeforces.com/contest/1796/problem/A
 
 428) Find the Permutation https://codeforces.com/contest/2056/problem/B
 
+429) Scrambled Scrabble https://codeforces.com/contest/2045/problem/A
+
 
 
 
