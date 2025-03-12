@@ -937,6 +937,8 @@ https://codeforces.com/contest/1796/problem/A
 
 427) Adjacent Replacement https://codeforces.com/contest/1006/problem/A
 
+428) Donino https://www.infoarena.ro/problema/domino
+
 
 
 
