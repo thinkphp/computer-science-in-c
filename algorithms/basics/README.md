@@ -52,6 +52,7 @@
   * Toy Cars https://replit.com/@thinkphp/CodeForces#toy-cars.cpp https://ideone.com/nrcxVr
   * Check Palindrom https://ideone.com/bglYvU
   * Vernam Cipher https://ideone.com/ynFwyU
+  * Relatie de ordine ghidusa https://ideone.com/iqwqCN
 
 ## Problem Set
 
