@@ -1,0 +1,24 @@
+Se considera un Tringhi de numere naturale formate din n linii. Prima linie contine un numar, a doua doua numere, ..., ultima n numere naturale. Cu ajutorul acestui triunghi
+se pot forma sume de numere naturale in feluil urmator: 
+
+    - se porneste cu numarul din linia 1
+    - succesorul unui numar se afla pe linia urmatoare plasat sub el (aceeasi coloana) sau pe diagonala la dreapta (coloana creste cu 1)
+
+  Care este cea mai mare suma care se poate forma astfel si care sunt numerele care o alcatuiesc?
+
+  n = 4 
+
+  2
+  3 5
+  6 3 4
+  5 6 1 4 
+
+  se pot forma mai multe sume
+
+  s1 = 2 + 3 + 6 + 5 = 16
+  s2 = 2 + 5 + 4 + 1 = 12
+  s3 = 2 + 3 + 6 + 6 = 17 (care este si suma maxima)
+
+  se observa ca se pot forma 2^n-1 sume de acest fel . A le lua in considerare nu este eficient
+
+  
