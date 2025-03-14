@@ -942,6 +942,8 @@ https://codeforces.com/contest/1796/problem/A
 
 429) Scrambled Scrabble https://codeforces.com/contest/2045/problem/A
 
+430) Divine Array https://codeforces.com/problemset/problem/1602/B
+
 
 
 
