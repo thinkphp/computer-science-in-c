@@ -1,5 +1,9 @@
 ## Deque (Double Ended Queue) Data Structure
 
+### practice
+- https://www.infoarena.ro/problema/deque
+- https://ideone.com/UdlWHd
+
 
 ### Reference
 
@@ -9,6 +13,3 @@ https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/lectures/2-Function
 
 https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/lectures/
 
-### Example:
-
-https://ideone.com/UdlWHd
