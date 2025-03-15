@@ -1,6 +1,6 @@
-## Deque (Double Ended Queue) Data Structure
+# Deque (Double Ended Queue) Data Structure
 
-### practice
+### Practice
 - https://www.infoarena.ro/problema/deque
 - https://ideone.com/UdlWHd
 
