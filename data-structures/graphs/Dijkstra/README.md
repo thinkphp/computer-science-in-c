@@ -14,3 +14,5 @@ https://www.spoj.com/problems/SHPATH/
 https://www.spoj.com/problems/TRVCOST/
 
 https://infoarena.ro/problema/catun
+
+https://kilonova.ro/problems/2411
