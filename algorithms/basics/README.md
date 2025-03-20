@@ -946,6 +946,13 @@ https://codeforces.com/contest/1796/problem/A
 
 431) Email Address https://codeforces.com/contest/41/problem/C
 
+432)  3-cycles https://codeforces.com/contest/41/problem/E
+
+433)  Martial Dollar https://codeforces.com/contest/41/problem/B
+
+434)  Translation https://codeforces.com/contest/41/problem/A
+
+
 
 
 
