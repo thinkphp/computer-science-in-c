@@ -952,6 +952,15 @@ https://codeforces.com/contest/1796/problem/A
 
 434)  Translation https://codeforces.com/contest/41/problem/A
 
+435)  Balancing https://codeforces.com/contest/2082/problem/D
+
+436)  Math Division https://codeforces.com/contest/2082/problem/C
+
+437)  Floor and Ceil https://codeforces.com/contest/2082/problem/B
+
+438)  Binary Matrix https://codeforces.com/contest/2082/problem/A
+
+
 
 
 
