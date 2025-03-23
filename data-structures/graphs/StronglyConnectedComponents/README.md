@@ -18,6 +18,8 @@ https://www.infoarena.ro/problema/ctc
 
 https://www.pbinfo.ro/probleme/1500/nuclee
 
+https://kilonova.ro/problems/62
+
 
 ### References
 
