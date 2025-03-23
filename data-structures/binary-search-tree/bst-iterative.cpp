@@ -178,96 +178,100 @@ int search(int val) {
 
     return found;
 }
-
 void remove(int val) {
-
-
-     struct Node *curr = root, *parent, *next;
-
-     int found = 0;
-
-     while(!found && curr) {
-
-            if(curr->data == val) {
-
-               found = 1;
-
-            }  else {
-
-               if(val < curr->data) {
-                  parent = curr;
-                  curr = curr->left;
-               }  else {
-                  parent = curr;
-                  curr = curr->right;
-               }
+    struct Node *curr = root, *parent = NULL, *next;
+    int found = 0;
+    
+    // Search for the node to be removed
+    while(!found && curr) {
+        if(curr->data == val) {
+            found = 1;
+        } else {
+            parent = curr;
+            if(val < curr->data) {
+                curr = curr->left;
+            } else {
+                curr = curr->right;
             }
-     }
-
-    if( found )  {
-
-
-          if(curr->left == NULL && curr->right == NULL) {
-
-                 if(parent->data < curr->data) parent->right = NULL;
-                            else
-                                               parent->left = NULL;
-                 free(curr);
-
-          } else if(curr->left == NULL && curr->right != NULL) {
-
-                 next = curr->right;
-
-                 if(parent->data < curr->data) parent->right = next;
-                              else
-                                               parent->left = next;
-                 free(curr);
-
-          } else if(curr->left != NULL && curr->right == NULL) {
-
-                 next = curr->left;
-
-                 if(parent->data < curr->data) parent->right = next;
-                                    else
-                                               parent->left = next;
-                  free(curr);
-
-          } else if(curr->left != NULL && curr->right != NULL) {
-
-                 struct Node *p, *c;
-
-                 c = curr->left;
-
-                while(c->right) {
-
-                    p = c;
-
-                    c = c->right;
-                }
-
-                curr->data = c->data;
-
-                next = c->left;
-
-                if(p->data < c->data) p->right = next;
-                             else
-                                      p->left = next;
-
-                free(c);
-
-          }
-
-
-          printf("The node is removed!");
-
-    } else {
-
-
-         printf("The Node not found!");
+        }
     }
-
-
-
+    
+    if(found) {
+        // Case 1: Node has no children
+        if(curr->left == NULL && curr->right == NULL) {
+            // Special case: removing root node
+            if(parent == NULL) {
+                free(root);
+                root = NULL;
+            } else {
+                if(parent->data > curr->data) {
+                    parent->left = NULL;
+                } else {
+                    parent->right = NULL;
+                }
+                free(curr);
+            }
+        } 
+        // Case 2: Node has only right child
+        else if(curr->left == NULL && curr->right != NULL) {
+            next = curr->right;
+            // Special case: removing root node
+            if(parent == NULL) {
+                root = next;
+            } else {
+                if(parent->data > curr->data) {
+                    parent->left = next;
+                } else {
+                    parent->right = next;
+                }
+            }
+            free(curr);
+        } 
+        // Case 3: Node has only left child
+        else if(curr->left != NULL && curr->right == NULL) {
+            next = curr->left;
+            // Special case: removing root node
+            if(parent == NULL) {
+                root = next;
+            } else {
+                if(parent->data > curr->data) {
+                    parent->left = next;
+                } else {
+                    parent->right = next;
+                }
+            }
+            free(curr);
+        } 
+        // Case 4: Node has two children
+        else if(curr->left != NULL && curr->right != NULL) {
+            // Find the in-order successor (minimum value in right subtree)
+            // Or alternatively, the in-order predecessor (maximum value in left subtree)
+            // We're using the in-order predecessor approach (max of left subtree)
+            struct Node *p = curr, *c = curr->left;
+            
+            // Find the rightmost node in the left subtree
+            while(c->right) {
+                p = c;
+                c = c->right;
+            }
+            
+            // Copy the data
+            curr->data = c->data;
+            
+            // Handle the special case where c is directly curr->left
+            if(p == curr) {
+                p->left = c->left;
+            } else {
+                p->right = c->left;
+            }
+            
+            free(c);
+        }
+        
+        printf("The node is removed!\n");
+    } else {
+        printf("The Node not found!\n");
+    }
 }
 
 int main(int argc, char const *argv[]) {
