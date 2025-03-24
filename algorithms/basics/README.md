@@ -960,6 +960,12 @@ https://codeforces.com/contest/1796/problem/A
 
 438)  Binary Matrix https://codeforces.com/contest/2082/problem/A
 
+439)  Polycarp's Pockets https://codeforces.com/contest/1003/problem/A
+
+440)  Book Queries https://codeforces.com/problemset/problem/1066/C
+
+441)  Phone Numbers https://codeforces.com/contest/1060/problem/A
+
 
 
 
