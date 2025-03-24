@@ -16,6 +16,6 @@
 
  - SHPATH - The Shortest Path https://www.spoj.com/problems/SHPATH/
 
- - https://www.spoj.com/problems/TRVCOST/
+ - TRVCOST - Travelling cost https://www.spoj.com/problems/TRVCOST/
 
- - https://infoarena.ro/problema/catun
+ - Catun https://infoarena.ro/problema/catun
