@@ -10,11 +10,11 @@
 
  - San Francisco https://kilonova.ro/problems/2411
 
- - ateleport https://kilonova.ro/problems/17/
+ - Ateleport https://kilonova.ro/problems/17/
 
- - https://www.infoarena.ro/problema/dijkstra
+ - Algoritmul lui Dijkstra https://www.infoarena.ro/problema/dijkstra
 
- - https://www.spoj.com/problems/SHPATH/
+ - SHPATH - The Shortest Path https://www.spoj.com/problems/SHPATH/
 
  - https://www.spoj.com/problems/TRVCOST/
 
