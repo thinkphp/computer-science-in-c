@@ -1,6 +1,6 @@
 ## Topological Sort
 
-##### Problem Set
-https://www.infoarena.ro/problema/sortaret
+### Problem Set
 
-https://www.pbinfo.ro/probleme/4027/longestpath
+ - Sortare topologica https://www.infoarena.ro/problema/sortaret
+ - LongestPath https://www.pbinfo.ro/probleme/4027/longestpath
