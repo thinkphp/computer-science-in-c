@@ -77,7 +77,7 @@
  * https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
 
-### Codeforces // HackerRank // HackerEARTH // Leetcode // Infoarena // AtCoder // Spoj // UVa // CSES // Timus
+### Codeforces // HackerRank // HackerEARTH // Leetcode // Infoarena // AtCoder // Spoj // UVa // CSES // Timus // Kilonova
 
 1) GCD https://codeforces.com/contest/1933/problem/D
 
@@ -965,6 +965,8 @@ https://codeforces.com/contest/1796/problem/A
 440)  Book Queries https://codeforces.com/problemset/problem/1066/C
 
 441)  Phone Numbers https://codeforces.com/contest/1060/problem/A
+
+442)  Maximize Grandi's Function https://kilonova.ro/problems/3657
 
 
 
