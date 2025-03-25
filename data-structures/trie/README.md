@@ -4,7 +4,7 @@ In computer science, a trie, also called digital tree and sometimes radis tree o
 structure that is used to store a dynamic set or associative array where the keys are usually strings.
 
 #### Problem Set
- - https://www.infoarena.ro/problema/trie
+ - Trie https://www.infoarena.ro/problema/trie 
  - https://leetcode.com/tag/trie/
  - Cuvinte https://kilonova.ro/problems/65/ ONI 2021 XI-XII: Problema 3
 
