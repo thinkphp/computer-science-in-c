@@ -968,6 +968,10 @@ https://codeforces.com/contest/1796/problem/A
 
 442)  Maximize Grandi's Function https://kilonova.ro/problems/3657
 
+443)  Valid Anagrame https://leetcode.com/problems/valid-anagram/description/
+
+444)  Two Tables https://codeforces.com/contest/1555/problem/B
+
 
 
 
