@@ -5,19 +5,19 @@ If keys are small integers, we can use an array to implement a symbol table, by 
 crux of hashing
 Search algorithms that use hashing consist of two separate parts. The first step is to compute a hash function that transforms the search key into an array index. Ideally, different keys would map to different indices. This ideal is generally beyond our reach, so we have to face the possibility that two or more different keys may hash to the same array index. Thus, the second part of a hashing search is a collision-resolution process that deals with this situation.
 
-## Practice
+## Problem Set
 
-https://leetcode.com/tag/hash-table/
+- https://leetcode.com/tag/hash-table/
 
-https://infoarena.ro/problema/hashuri
+- https://infoarena.ro/problema/hashuri
 
-https://leetcode.com/problems/roman-to-integer/description/
+- https://leetcode.com/problems/roman-to-integer/description/
 
-https://leetcode.com/problems/two-sum/description/
+- https://leetcode.com/problems/two-sum/description/
 
-https://codeforces.com/gym/102961/problem/G
+- https://codeforces.com/gym/102961/problem/G
 
-https://cses.fi/problemset/task/1640
+- https://cses.fi/problemset/task/1640
 
 
 ### References
