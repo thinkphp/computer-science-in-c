@@ -972,6 +972,8 @@ https://codeforces.com/contest/1796/problem/A
 
 444)  Two Tables https://codeforces.com/contest/1555/problem/B
 
+445)  Sum https://kilonova.ro/problems/1 (while(b) carry = a&b; a = a ^ b; )
+
 
 
 
