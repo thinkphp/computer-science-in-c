@@ -974,6 +974,12 @@ https://codeforces.com/contest/1796/problem/A
 
 445)  Sum https://kilonova.ro/problems/1 (while(b) carry = a&b; a = a ^ b; )
 
+446)  Choose Two Numbers https://codeforces.com/contest/1206/problem/A
+
+447)  Olympiad Date https://codeforces.com/contest/2091/problem/A
+
+448)  Team Training https://codeforces.com/contest/2091/problem/B
+
 
 
 
