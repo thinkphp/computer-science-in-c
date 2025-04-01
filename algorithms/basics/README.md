@@ -982,6 +982,12 @@ https://codeforces.com/contest/1796/problem/A
 
 449)  Combination Lock https://codeforces.com/contest/2091/problem/C
 
+450)  Igor and Mountain https://codeforces.com/contest/2091/problem/F
+
+451)  Interesting Ratio https://codeforces.com/contest/2091/problem/E
+
+452)  Place of the Olympiad https://codeforces.com/contest/2091/problem/D
+
 
 
 
