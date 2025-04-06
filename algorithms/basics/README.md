@@ -988,6 +988,8 @@ https://codeforces.com/contest/1796/problem/A
 
 452)  Place of the Olympiad https://codeforces.com/contest/2091/problem/D
 
+453)  Kamilka and the Sheep https://codeforces.com/contest/2092/problem/A
+
 
 
 
