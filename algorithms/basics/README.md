@@ -990,6 +990,15 @@ https://codeforces.com/contest/1796/problem/A
 
 453)  Kamilka and the Sheep https://codeforces.com/contest/2092/problem/A
 
+454)  Piecing It Together https://codeforces.com/contest/2095/problem/A
+
+455)  Plinko https://codeforces.com/contest/2095/problem/B
+
+456)  Would it be unrated? https://codeforces.com/contest/2095/problem/C
+
+457)  Where Am I? https://codeforces.com/contest/2095/problem/D
+
+
 
 
 
