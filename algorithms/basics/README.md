@@ -998,6 +998,10 @@ https://codeforces.com/contest/1796/problem/A
 
 457)  Where Am I? https://codeforces.com/contest/2095/problem/D
 
+458)  Simple Permutation https://codeforces.com/contest/2089/problem/A
+
+459)  Treasure Hunt https://codeforces.com/contest/2090/problem/A
+
 
 
 
