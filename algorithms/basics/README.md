@@ -1002,6 +1002,8 @@ https://codeforces.com/contest/1796/problem/A
 
 459)  Treasure Hunt https://codeforces.com/contest/2090/problem/A
 
+460)  Wolf https://codeforces.com/problemset/problem/2106/E
+
 
 
 
