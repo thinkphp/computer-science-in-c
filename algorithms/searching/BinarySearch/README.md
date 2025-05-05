@@ -154,6 +154,9 @@ https://ideone.com/fR8nF8
   - https://www.pbinfo.ro/probleme/4469/cerculete
 - LeetCode
   - https://leetcode.com/tag/binary-search/
+  - https://leetcode.com/problems/valid-triangle-number/
+  - https://leetcode.com/problems/valid-perfect-square/description/
+
 
 - Codeforces
   - https://codeforces.com/problemset/problem/1945/E
@@ -162,6 +165,3 @@ https://ideone.com/fR8nF8
 
 
 
-https://leetcode.com/problems/valid-triangle-number/
-
-https://leetcode.com/problems/valid-perfect-square/description/
