@@ -1018,6 +1018,8 @@ https://codeforces.com/contest/1796/problem/A
 
 467)  Plinko https://codeforces.com/problemset/problem/2095/B
 
+468)  ⅓ оf а Рrоblеm https://codeforces.com/contest/2095/problem/F
+
 
 
 
