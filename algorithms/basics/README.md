@@ -1014,6 +1014,11 @@ https://codeforces.com/contest/1796/problem/A
 
 465)  Array and GCD https://codeforces.com/problemset/problem/2104/D
 
+466)  Piecing It Together https://codeforces.com/problemset/problem/2095/A
+
+467)  Plinko https://codeforces.com/problemset/problem/2095/B
+
+
 
 
 
