@@ -152,8 +152,10 @@ https://ideone.com/fR8nF8
   - https://www.pbinfo.ro/probleme/categorii/155/tablouri-unidimensionale-vectori-cautare-binara
   - https://www.pbinfo.ro/probleme/4646/cb1
   - https://www.pbinfo.ro/probleme/4469/cerculete
+
 - LeetCode
   - https://leetcode.com/tag/binary-search/
+  - https://leetcode.com/problems/find-the-duplicate-number/description/
   - https://leetcode.com/problems/valid-triangle-number/
   - https://leetcode.com/problems/valid-perfect-square/description/
 
