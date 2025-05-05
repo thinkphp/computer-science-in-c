@@ -1004,6 +1004,16 @@ https://codeforces.com/contest/1796/problem/A
 
 460)  Wolf https://codeforces.com/problemset/problem/2106/E
 
+461)  St. Chroma https://codeforces.com/contest/2106/problem/B
+
+462)  Dr. TC https://codeforces.com/problemset/problem/2106/A
+
+463)  Wolf https://codeforces.com/problemset/problem/2106/E
+
+464)  Unpleasant Strings https://codeforces.com/problemset/problem/2104/E
+
+465)  Array and GCD https://codeforces.com/problemset/problem/2104/D
+
 
 
 
