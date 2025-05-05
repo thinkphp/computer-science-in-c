@@ -145,15 +145,22 @@ https://ideone.com/fR8nF8
 
 ## Problem Set:
 
-https://www.pbinfo.ro/probleme/4646/cb1
+- Infoarena
+  - https://infoarena.ro/problema/cautbin
 
-https://leetcode.com/tag/binary-search/
+- PBInfo
+  - https://www.pbinfo.ro/probleme/categorii/155/tablouri-unidimensionale-vectori-cautare-binara
+  - https://www.pbinfo.ro/probleme/4646/cb1
+  - https://www.pbinfo.ro/probleme/4469/cerculete
+- LeetCode
+  - https://leetcode.com/tag/binary-search/
 
-https://codeforces.com/problemset/problem/1945/E
+- Codeforces
+  - https://codeforces.com/problemset/problem/1945/E
 
-https://infoarena.ro/problema/cautbin
 
-https://www.pbinfo.ro/probleme/categorii/155/tablouri-unidimensionale-vectori-cautare-binara
+
+
 
 https://leetcode.com/problems/valid-triangle-number/
 
