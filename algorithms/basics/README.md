@@ -1020,6 +1020,12 @@ https://codeforces.com/contest/1796/problem/A
 
 468)  ⅓ оf а Рrоblеm https://codeforces.com/contest/2095/problem/F
 
+469)  Permutation Warm-Up https://codeforces.com/contest/2108/problem/A
+
+470)  SUMdamental Decomposition https://codeforces.com/contest/2108/problem/B
+
+471)  Neo's Escape https://codeforces.com/contest/2108/problem/C
+
 
 
 
