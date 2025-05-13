@@ -1032,13 +1032,11 @@ https://codeforces.com/contest/1796/problem/A
 
 474) Valid Anagram https://leetcode.com/problems/valid-anagram/description/
 
-475) Check if numbers are ascending https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/
+475) Sport Betting https://codeforces.com/contest/2097/problem/A
 
-476) Sport Betting https://codeforces.com/contest/2097/problem/A
+476) Baggage Claim https://codeforces.com/contest/2097/problem/B
 
-477) Baggage Claim https://codeforces.com/contest/2097/problem/B
-
-478) Bermuda Triangle https://codeforces.com/contest/2097/problem/C
+477) Bermuda Triangle https://codeforces.com/contest/2097/problem/C
 
 
 
