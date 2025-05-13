@@ -1038,6 +1038,18 @@ https://codeforces.com/contest/1796/problem/A
 
 477) Bermuda Triangle https://codeforces.com/contest/2097/problem/C
 
+478) Combine Two Tables https://leetcode.com/problems/combine-two-tables/description/
+
+479) The Dining Philosophers https://leetcode.com/problems/the-dining-philosophers/description/
+
+480) Building H2O https://leetcode.com/problems/building-h2o/description/
+
+481) Print foobar alternatively https://leetcode.com/problems/print-foobar-alternately/description/
+
+482) Print in Order https://leetcode.com/problems/print-in-order/description/
+
+483) Print Zero Even Odd https://leetcode.com/problems/print-zero-even-odd/description/
+
 
 
 
