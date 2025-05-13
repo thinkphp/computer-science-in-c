@@ -1026,6 +1026,20 @@ https://codeforces.com/contest/1796/problem/A
 
 471)  Neo's Escape https://codeforces.com/contest/2108/problem/C
 
+472)  Find the Duplicate Number https://leetcode.com/problems/find-the-duplicate-number/description/
+
+473)  Longest Increasing Subsequence https://leetcode.com/problems/longest-increasing-subsequence/description/
+
+474) Valid Anagram https://leetcode.com/problems/valid-anagram/description/
+
+475) Check if numbers are ascending https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/
+
+476) Sport Betting https://codeforces.com/contest/2097/problem/A
+
+477) Baggage Claim https://codeforces.com/contest/2097/problem/B
+
+478) Bermuda Triangle https://codeforces.com/contest/2097/problem/C
+
 
 
 
