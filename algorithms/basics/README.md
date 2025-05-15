@@ -1050,6 +1050,15 @@ https://codeforces.com/contest/1796/problem/A
 
 483) Print Zero Even Odd https://leetcode.com/problems/print-zero-even-odd/description/
 
+484) Cycling (Easy Version) https://codeforces.com/contest/2107/problem/F1
+
+485) Apple Tree Traversing https://codeforces.com/contest/2107/problem/D
+
+486) Apples in Boxes https://codeforces.com/contest/2107/problem/B
+
+487) LRC and VIP https://codeforces.com/contest/2107/problem/A
+
+
 
 
 
