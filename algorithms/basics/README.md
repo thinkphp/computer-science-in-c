@@ -1058,6 +1058,14 @@ https://codeforces.com/contest/1796/problem/A
 
 487) LRC and VIP https://codeforces.com/contest/2107/problem/A
 
+488) Hacking Numbers (Easy Version) https://codeforces.com/contest/2109/problem/C1
+
+489) It's Time To Duel https://codeforces.com/contest/2109/problem/A
+
+490) The Picky Cat https://codeforces.com/contest/2102/problem/B
+
+491) The Dinner Time https://codeforces.com/contest/2102/problem/A
+
 
 
 
