@@ -8,7 +8,7 @@ AVL trees are self-balancing, which means that the tree height is kept to a mini
 
 - A Binary Search Tree is in balance when the difference in height between left and right subtrees is less than 2.
 
-= By keeping balance, the AVL Tree ensures a minimum tree height, which means that search, insert, and delete operations can be done really fast.
+- By keeping balance, the AVL Tree ensures a minimum tree height, which means that search, insert, and delete operations can be done really fast.
 
 ### References
 
