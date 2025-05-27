@@ -1,4 +1,3 @@
-explica linie cu linie codul AVL data structure #include <stdio.h>
 #include <stdlib.h>
 // Structura nodului AVL
 typedef struct AVLNode {
