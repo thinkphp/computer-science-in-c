@@ -1,4 +1,3 @@
-```markdown
 # Student Hash Table in C
 
 This is a simple implementation of a hash table in C for storing and retrieving student records by their names.  
