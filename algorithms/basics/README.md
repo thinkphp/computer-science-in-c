@@ -1066,6 +1066,18 @@ https://codeforces.com/contest/1796/problem/A
 
 491) The Dinner Time https://codeforces.com/contest/2102/problem/A
 
+492) Small Operations https://codeforces.com/contest/2114/problem/F
+
+493) Kirei Attacks The Estate https://codeforces.com/contest/2114/problem/E
+
+494) Square Year https://codeforces.com/contest/2114/problem/A
+
+495) Where is the Bishop https://codeforces.com/contest/1692/problem/C
+
+496) Marathon https://codeforces.com/contest/1692/problem/A
+
+497) All Distinct https://codeforces.com/contest/1692/problem/B
+
 
 
 
