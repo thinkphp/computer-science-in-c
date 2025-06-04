@@ -1078,6 +1078,12 @@ https://codeforces.com/contest/1796/problem/A
 
 497) All Distinct https://codeforces.com/contest/1692/problem/B
 
+498) Gellyfish and Tricolor Pansy https://codeforces.com/contest/2116/problem/A
+
+499)  Gellyfish and Baby's Breath https://codeforces.com/contest/2116/problem/B
+
+500)  Down with Brackets https://codeforces.com/contest/2110/problem/B
+
 
 
 
