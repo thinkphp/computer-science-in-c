@@ -1084,6 +1084,28 @@ https://codeforces.com/contest/1796/problem/A
 
 500)  Down with Brackets https://codeforces.com/contest/2110/problem/B
 
+501)  Binary Typewriter https://codeforces.com/contest/2103/problem/B
+
+502) Commong Multiple https://codeforces.com/contest/2103/problem/A
+
+503) Cherry Bomb https://codeforces.com/contest/2106/problem/C
+
+504) ⅓ оf а Рrоblеm https://codeforces.com/contest/2095/problem/F
+
+505) Fashionable Array https://codeforces.com/contest/2110/problem/A
+
+506) Square Year https://codeforces.com/contest/2114/problem/A
+
+507) Not Quite A Palindromic String https://codeforces.com/contest/2114/problem/B
+
+508) False Alarm https://codeforces.com/contest/2117/problem/A
+
+509) Shrink https://codeforces.com/contest/2117/problem/B
+
+510) Cool Partition https://codeforces.com/contest/2117/problem/C
+
+511) Omg Graph https://codeforces.com/contest/2117/problem/G
+
 
 
 
