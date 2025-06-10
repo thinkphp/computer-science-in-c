@@ -1106,6 +1106,10 @@ https://codeforces.com/contest/1796/problem/A
 
 511) Omg Graph https://codeforces.com/contest/2117/problem/G
 
+512) Vadim's Collection https://codeforces.com/contest/2098/problem/A
+
+513) Lost Soul https://codeforces.com/contest/2117/problem/E
+
 
 
 
