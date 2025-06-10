@@ -1110,6 +1110,16 @@ https://codeforces.com/contest/1796/problem/A
 
 513) Lost Soul https://codeforces.com/contest/2117/problem/E
 
+514) Sliding Window Sum https://cses.fi/problemset/task/3220
+
+515) Sliding Window Minimum https://cses.fi/problemset/task/3221
+
+516) Sliding Window Median https://cses.fi/problemset/task/1076
+
+517) Sliding Window Cost https://cses.fi/problemset/task/1077
+
+518) Hidden Integer https://cses.fi/problemset/task/3112
+
 
 
 
