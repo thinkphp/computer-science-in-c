@@ -1120,6 +1120,16 @@ https://codeforces.com/contest/1796/problem/A
 
 518) Hidden Integer https://cses.fi/problemset/task/3112
 
+519) Array Recovery https://codeforces.com/contest/1739/problem/B
+
+520) Working Week https://codeforces.com/contest/1735/problem/A
+
+521) Immobile Knight https://codeforces.com/contest/1739/problem/A
+
+522) Word Game https://codeforces.com/contest/1722/problem/C
+
+523) Spell Check https://codeforces.com/contest/1722/problem/A
+
 
 
 
