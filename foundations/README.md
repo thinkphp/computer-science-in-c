@@ -12,10 +12,6 @@ Computer programming is at the heart of computer science and is the implementati
 Basic computer programming involves analyzing a problem and developing a logical sequence of instructions to solve it. There can be numerous paths to a solution, but some are much faster than others. That is why the computer programmer seeks to design the most efficient code.
 
 
-
-# Tehnici de Programare - Curs Universitar Detaliat
-
-## Cuprins
 1. [Introducere în Tehnicile de Programare](#introducere)
 2. [Backtracking - Explorarea cu Revenire](#backtracking)
 3. [Divide et Impera - Divide și Stăpânește](#divide-et-impera)
