@@ -26,6 +26,7 @@
   * Sorting Without Comparison https://ideone.com/KZ08vi
   * Check Order Array (4 variants: strict ascending, strict descending, constant, unordered) https://ideone.com/AHg7gj
   * Find Kth Permutation https://ideone.com/yUjSng
+  * Generare de Permutari https://www.infoarena.ro/problema/permutari recursive: https://ideone.com/0QcYZR iterative: https://ideone.com/J5acy7
   * Isosceles Triangle - https://replit.com/@thinkphp/IsoscelTriangle
   * Search Max Consecutive Subsequence https://ideone.com/Olt3mO
   * Distance From Point to Line https://ideone.com/U8Yhvu
