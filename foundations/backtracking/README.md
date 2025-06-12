@@ -27,7 +27,7 @@ universe is in S. The vector can even represent a sequence of moves i
 8.  Salesman Travel. https://ideone.com/8zomIJ
 9.  Payment Method.
 10. Photo Problem. https://ideone.com/UTuGBV
-11. Map Color
+11. Map Color https://ideone.com/lMAw6N
 12. Functions Surjective https://ideone.com/s8qT61
 13. Functions Injective https://ideone.com/gWGseA
 14. Labyrinth -> https://ideone.com/aLNCQg
