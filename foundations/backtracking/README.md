@@ -88,7 +88,9 @@ https://ideone.com/8zomIJ
 
 https://ideone.com/UTuGBV
 
-###  Map Color
+###  Map Color 
+
+https://ideone.com/lMAw6N
 
 ###  Functions Surjective
 https://ideone.com/s8qT61
