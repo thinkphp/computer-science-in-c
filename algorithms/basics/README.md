@@ -106,19 +106,21 @@
 
 11) Ciurul lui Eratosthenes https://www.infoarena.ro/problema/ciur
 
-12) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+12) Generare de permutari https://www.infoarena.ro/problema/permutari
 
-13) Divisors of two integers https://codeforces.com/contest/1108/problem/B
+13) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
-14) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
+14) Divisors of two integers https://codeforces.com/contest/1108/problem/B
 
-15) Triangle https://codeforces.com/contest/6/problem/A
+15) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
 
-16) Flip https://www.infoarena.ro/problema/flip
+16) Triangle https://codeforces.com/contest/6/problem/A
 
-17) Fractii https://www.infoarena.ro/problema/fractii
+17) Flip https://www.infoarena.ro/problema/flip
 
-18) Secventa Farey https://www.infoarena.ro/problema/farey
+18) Fractii https://www.infoarena.ro/problema/fractii
+
+19) Secventa Farey https://www.infoarena.ro/problema/farey
 
 74) Weird Algorithm https://cses.fi/problemset/task/1068
 
