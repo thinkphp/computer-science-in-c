@@ -17,7 +17,7 @@ universe is in S. The vector can even represent a sequence of moves i
 
 ## Classical Problem Set
 
-1.  Permutations.
+1.  Permutations  iterative - https://ideone.com/J5acy7 recursive - https://ideone.com/J5acy7
 2.  Partitions (set) 
 3.  Partitions (integer)
 4.  Arrangements.
