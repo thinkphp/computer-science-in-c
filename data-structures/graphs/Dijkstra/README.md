@@ -1,4 +1,4 @@
-# Algoritmul lui Dijkstra - Drumul cel mai scurt
+# Algoritmul lui Dijkstra - Shortest Path
 
 ## Descriere
 
