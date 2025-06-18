@@ -1141,6 +1141,18 @@ https://codeforces.com/contest/1796/problem/A
 
 527) Fibonacci Cubes https://codeforces.com/contest/2111/problem/B
 
+528) Tree Jumps https://codeforces.com/contest/2070/problem/D
+
+529) FizzBuzz Remixed https://codeforces.com/contest/2070/problem/A
+
+530) Robot Program https://codeforces.com/contest/2070/problem/B
+
+531) A, B, AB, and BA https://codeforces.com/contest/2069/problem/E
+
+532) Beautiful Sequence https://codeforces.com/contest/2069/problem/C
+
+533) Palindrome Shuffle https://codeforces.com/contest/2069/problem/D 
+
 
 
 
