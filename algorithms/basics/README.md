@@ -1133,6 +1133,14 @@ https://codeforces.com/contest/1796/problem/A
 
 523) Spell Check https://codeforces.com/contest/1722/problem/A
 
+524) Energy Crystals https://codeforces.com/contest/2111/problem/A
+
+525) Equal Values https://codeforces.com/contest/2111/problem/C
+
+526) Creating a Schedule https://codeforces.com/contest/2111/problem/D
+
+527) Fibonacci Cubes https://codeforces.com/contest/2111/problem/B
+
 
 
 
