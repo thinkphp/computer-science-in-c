@@ -1151,7 +1151,9 @@ https://codeforces.com/contest/1796/problem/A
 
 532) Beautiful Sequence https://codeforces.com/contest/2069/problem/C
 
-533) Palindrome Shuffle https://codeforces.com/contest/2069/problem/D 
+533) Palindrome Shuffle https://codeforces.com/contest/2069/problem/D
+
+534) Equal Subsequences https://codeforces.com/problemset/problem/2118/A
 
 
 
