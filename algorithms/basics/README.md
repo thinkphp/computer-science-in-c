@@ -1155,6 +1155,8 @@ https://codeforces.com/contest/1796/problem/A
 
 534) Equal Subsequences https://codeforces.com/problemset/problem/2118/A
 
+535) Good Start https://codeforces.com/contest/2113/problem/B
+
 
 
 
