@@ -1157,6 +1157,8 @@ https://codeforces.com/contest/1796/problem/A
 
 535) Good Start https://codeforces.com/contest/2113/problem/B
 
+536) Division https://codeforces.com/contest/1669/problem/A
+
 
 
 
