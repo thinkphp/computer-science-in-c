@@ -1,0 +1,6 @@
+=== REZULTAT SHORTEST PATH ===
+
+Graf cu 5 noduri
+Calea cautata: de la nodul 0 la nodul 4
+
+REZULTAT: Cea mai scurta cale are lungimea: 2
