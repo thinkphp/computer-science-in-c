@@ -2,8 +2,6 @@
 
 Funcția `int shortest_path_bfs(int start_vertex, int end_vertex)` **algoritmul Breadth-First Search (BFS)** pentru a determina **cea mai scurtă cale** între două noduri într-un graf neponderat, reprezentat prin matrice de adiacență.
 
-Hai să-l explic **pas cu pas**, clar și simplu:
-
 ---
 
 ## 📘 Ce face BFS?
