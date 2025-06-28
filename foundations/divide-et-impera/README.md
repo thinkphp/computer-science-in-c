@@ -12,9 +12,9 @@
 
 ## Problem Set:
 
-https://www.pbinfo.ro/probleme/categorii/94/divide-et-impera
-
-https://leetcode.com/tag/divide-and-conquer/
+- Hidden Integer https://cses.fi/problemset/task/3112/
+- https://www.pbinfo.ro/probleme/categorii/94/divide-et-impera
+- https://leetcode.com/tag/divide-and-conquer/
 
 ## References
 
