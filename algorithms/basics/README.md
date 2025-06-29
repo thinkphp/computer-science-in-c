@@ -1165,6 +1165,16 @@ https://codeforces.com/contest/1796/problem/A
 
 539) Letter Home https://codeforces.com/contest/2121/problem/A
 
+540) Skibidus and Ohio https://codeforces.com/contest/2065/problem/B
+
+541) Skibidus and Sigma https://codeforces.com/contest/2065/problem/D
+
+542) Skibidus and Slay https://codeforces.com/contest/2065/problem/F
+
+543) Skibidus and Rizz https://codeforces.com/contest/2065/problem/E
+
+544) Skibidus and Amog'u https://codeforces.com/contest/2065/problem/A
+
 
 
 
