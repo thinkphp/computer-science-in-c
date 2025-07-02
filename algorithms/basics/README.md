@@ -1179,6 +1179,8 @@ https://codeforces.com/contest/1796/problem/A
 
 546) Trippi Troppi https://codeforces.com/contest/2094/problem/A
 
+547) Tung Tung Sajur https://codeforces.com/contest/2094/problem/D
+
 
 
 
