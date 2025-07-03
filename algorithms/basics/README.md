@@ -1189,6 +1189,10 @@ https://codeforces.com/contest/1796/problem/A
 
 551) Bobritto Bandito https://codeforces.com/contest/2094/problem/B
 
+552) Blackboard Game https://codeforces.com/contest/2123/problem/A
+
+553) Tournament https://codeforces.com/contest/2123/problem/B
+
 
 
 
