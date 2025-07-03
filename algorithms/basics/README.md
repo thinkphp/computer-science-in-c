@@ -1185,6 +1185,10 @@ https://codeforces.com/contest/1796/problem/A
 
 549) Square Pool https://codeforces.com/contest/2120/problem/B
 
+550) Hackers and Neural Networks https://codeforces.com/contest/2093/problem/F
+
+551) Bobritto Bandito https://codeforces.com/contest/2094/problem/B
+
 
 
 
