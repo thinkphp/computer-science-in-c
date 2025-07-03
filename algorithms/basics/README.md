@@ -1181,6 +1181,10 @@ https://codeforces.com/contest/1796/problem/A
 
 547) Tung Tung Sahur https://codeforces.com/contest/2094/problem/D
 
+548) Square of Rectangles https://codeforces.com/contest/2120/problem/A
+
+549) Square Pool https://codeforces.com/contest/2120/problem/B
+
 
 
 
