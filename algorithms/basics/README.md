@@ -1193,6 +1193,10 @@ https://codeforces.com/contest/1796/problem/A
 
 554) Square Pool https://codeforces.com/problemset/problem/2120/B
 
+555) Wildflower https://codeforces.com/contest/2117/problem/F
+
+556) Retaliation https://codeforces.com/contest/2117/problem/D
+
 
 
 
