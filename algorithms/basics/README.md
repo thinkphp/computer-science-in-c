@@ -1193,6 +1193,9 @@ https://codeforces.com/contest/1796/problem/A
 
 553) Tournament https://codeforces.com/contest/2123/problem/B
 
+554) Square Pool https://codeforces.com/problemset/problem/2120/B
+
+
 
 
 
