@@ -1197,6 +1197,10 @@ https://codeforces.com/contest/1796/problem/A
 
 556) Retaliation https://codeforces.com/contest/2117/problem/D
 
+557) Binary String Battle https://codeforces.com/contest/2123/problem/D
+
+558) Prefix Min Suffix Max https://codeforces.com/contest/2123/problem/C
+
 
 
 
