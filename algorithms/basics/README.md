@@ -1201,6 +1201,8 @@ https://codeforces.com/contest/1796/problem/A
 
 558) Prefix Min Suffix Max https://codeforces.com/contest/2123/problem/C
 
+559) Slightly Decreasing Permutations https://codeforces.com/contest/285/problem/A
+
 
 
 
