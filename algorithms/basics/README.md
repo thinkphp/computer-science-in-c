@@ -1203,6 +1203,12 @@ https://codeforces.com/contest/1796/problem/A
 
 559) Slightly Decreasing Permutations https://codeforces.com/contest/285/problem/A
 
+560) Golden System https://codeforces.com/contest/457/problem/A
+
+561) Distributed Join https://codeforces.com/contest/457/problem/B
+
+562) Elections https://codeforces.com/contest/457/problem/C
+
 
 
 
