@@ -53,9 +53,21 @@ The distinction between the design and analysis of algorithms is a fundamental c
   
 In summary, algorithm design is about creating efficient and correct solutions, while analysis is about understanding and evaluating those solutions in terms of performance and correctness. Both are essential for developing robust and efficient software.
 
+#### CS Open CourseWare
+
+* Algorithms and Data Structures: Fall 2023 https://www2.cs.uh.edu/~panruowu/2023f_cosc3320/course.html
+* MIT Introduction to Algorithms, Fall 2011 https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+* Curriculum of Top Universities in CS https://learncs.me/curriculum/
+* Fall 2010 Algorithm Design and Analysis https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
+* https://nixdell.com/teaching.html
+* CSE373: Data Structures and Algorithms https://courses.cs.washington.edu/courses/cse373/
+* DSA w3 https://www.w3schools.com/dsa/index.php
+* Computability and Complexity https://plato.stanford.edu/entries/computability/
+* Khan Academy – Algorithms https://www.khanacademy.org/computing/computer-science/algorithms
+* CS161: Design and Analysis of Algorithms Stanford University, Winter 2025 https://stanford-cs161.github.io/winter2025/
+
 
 #### Books
-
 <ul>
   <li>
     <p><a href="https://kremlin.cc/k&amp;r.pdf">C Programming Language: Dennis Ritchie, Brian Kernighan</a></p>
@@ -100,15 +112,3 @@ https://github.com/manjunath5496/Algorithm-Books
 </ul>
 
 
-#### CS Open CourseWare
-
-* Algorithms and Data Structures: Fall 2023 https://www2.cs.uh.edu/~panruowu/2023f_cosc3320/course.html
-* MIT Introduction to Algorithms, Fall 2011 https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
-* Curriculum of Top Universities in CS https://learncs.me/curriculum/
-* Fall 2010 Algorithm Design and Analysis https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
-* https://nixdell.com/teaching.html
-* CSE373: Data Structures and Algorithms https://courses.cs.washington.edu/courses/cse373/
-* DSA w3 https://www.w3schools.com/dsa/index.php
-* Computability and Complexity https://plato.stanford.edu/entries/computability/
-* Khan Academy – Algorithms https://www.khanacademy.org/computing/computer-science/algorithms
-* CS161: Design and Analysis of Algorithms Stanford University, Winter 2025 https://stanford-cs161.github.io/winter2025/
