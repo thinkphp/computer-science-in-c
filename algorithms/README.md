@@ -111,3 +111,4 @@ https://github.com/manjunath5496/Algorithm-Books
 * DSA w3 https://www.w3schools.com/dsa/index.php
 * Computability and Complexity https://plato.stanford.edu/entries/computability/
 * Khan Academy – Algorithms https://www.khanacademy.org/computing/computer-science/algorithms
+* CS161: Design and Analysis of Algorithms Stanford University, Winter 2025 https://stanford-cs161.github.io/winter2025/
