@@ -110,3 +110,4 @@ https://github.com/manjunath5496/Algorithm-Books
 * CSE373: Data Structures and Algorithms https://courses.cs.washington.edu/courses/cse373/
 * DSA w3 https://www.w3schools.com/dsa/index.php
 * Computability and Complexity https://plato.stanford.edu/entries/computability/
+* Khan Academy – Algorithms https://www.khanacademy.org/computing/computer-science/algorithms
