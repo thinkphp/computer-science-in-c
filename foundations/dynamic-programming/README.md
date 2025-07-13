@@ -90,6 +90,8 @@ https://www.pbinfo.ro/probleme/4576/bilbob
 
 https://www.cs.princeton.edu/courses/archive/spring21/cos226/lectures/DynamicProgramming.pdf
 
+https://www.cs.ox.ac.uk/files/13359/dynamic.pdf
+
 https://www.infoarena.ro/pd
 
 https://www.pbinfo.ro/articole/17951/programare-dinamica-introducere
