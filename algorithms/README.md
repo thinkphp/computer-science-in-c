@@ -74,6 +74,7 @@ In summary, algorithm design is about creating efficient and correct solutions, 
 * CS Oxford Student Space https://www.cs.ox.ac.uk/currentstudents/index.html
 * Algorithms and Data Structures 1 https://www.robots.ox.ac.uk/~vedaldi/teach.html
 * Algorithms and Data Structures: course materials https://www.cs.ox.ac.uk/people/paul.goldberg/index1.html
+* Imperial College London https://www.imperial.ac.uk/computing/current-students/courses/40008/
 
 
 #### Books
