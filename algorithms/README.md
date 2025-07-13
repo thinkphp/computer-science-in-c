@@ -66,6 +66,7 @@ In summary, algorithm design is about creating efficient and correct solutions, 
 * Khan Academy – Algorithms https://www.khanacademy.org/computing/computer-science/algorithms
 * CS161: Design and Analysis of Algorithms Stanford University, Winter 2025 https://stanford-cs161.github.io/winter2025/
 * Algorithm-Books https://github.com/manjunath5496/Algorithm-Books
+* CS 97SI: Introduction to Programming Contests https://web.stanford.edu/class/cs97si/
 
 
 #### Books
