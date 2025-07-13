@@ -90,9 +90,7 @@ In summary, algorithm design is about creating efficient and correct solutions, 
   <li>
     <p><a href="https://www.amazon.com/Computer-Science-Interdisciplinary-Robert-Sedgewick/dp/0134076427">Computer Science: An Interdisciplinary Approach</a></p>
   </li>
-  <li>
-    <p><a href="https://web.stanford.edu/class/cs97si/">Introduction to Programming Contests</a></p>
-  </li>
+  
   <li>
     <p><a href="https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list">The Definitive C++ Book Guide and List</a></p>
   </li>
