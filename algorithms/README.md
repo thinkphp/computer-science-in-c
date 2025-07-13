@@ -26,6 +26,7 @@
 - Prefix Sum
 - Sliding Window Algorithm
 - Z-Algorithm
+ <p><a href="https://cses.fi/problemset/user/166019/">CSES Problem Set</a></p>
 
 The distinction between the design and analysis of algorithms is a fundamental concept in computer science, encompassing how algorithms are created and evaluated. Let's explore these differences:
 
@@ -107,9 +108,6 @@ In summary, algorithm design is about creating efficient and correct solutions, 
   <li>
     <p><a href="https://cpbook.net/details">Competitive Programming: Steven Halim</a></p>
   </li>
-  <li>
-    <p><a href="https://cses.fi/problemset/user/166019/">CSES Problem Set</a></p>
-  </li>  
    
 </ul>
 
