@@ -56,13 +56,13 @@ In summary, algorithm design is about creating efficient and correct solutions, 
 
 #### CS Open CourseWare
 
-* Algorithms and Data Structures: Fall 2023 https://www2.cs.uh.edu/~panruowu/2023f_cosc3320/course.html
 * Algoritms Part 1 https://www.coursera.org/learn/algorithms-part1
 * Algoritms Part 2 https://www.coursera.org/learn/algorithms-part2
 * Algorithms, 4th Edition https://algs4.cs.princeton.edu/home/
 * MIT Introduction to Algorithms, Fall 2011 https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 * Curriculum of Top Universities in CS https://learncs.me/curriculum/
 * Fall 2010 Algorithm Design and Analysis https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
+* Algorithms and Data Structures: Fall 2023 https://www2.cs.uh.edu/~panruowu/2023f_cosc3320/course.html
 * https://nixdell.com/teaching.html
 * CSE373: Data Structures and Algorithms https://courses.cs.washington.edu/courses/cse373/
 * DSA w3 https://www.w3schools.com/dsa/index.php
