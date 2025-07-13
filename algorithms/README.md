@@ -72,6 +72,9 @@ In summary, algorithm design is about creating efficient and correct solutions, 
 
 #### Books
 <ul>
+   <li>
+    <p><a href="https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/">Introduction to Algorithms: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein</a></p>
+  </li>
   <li>
     <p><a href="https://kremlin.cc/k&amp;r.pdf">C Programming Language: Dennis Ritchie, Brian Kernighan</a></p>
   </li>
@@ -80,10 +83,7 @@ In summary, algorithm design is about creating efficient and correct solutions, 
   </li>
   <li>
     <p><a href="https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043">The art of computing programming: Donalt Knuth</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/">Introduction to Algorithms: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein</a></p>
-  </li>
+  </li>  
   <li>
     <p><a href="https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/">Algorithms: Robert Sedgewick, Kevin Wayne</a></p>
   </li>
