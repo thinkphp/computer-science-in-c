@@ -69,6 +69,7 @@ In summary, algorithm design is about creating efficient and correct solutions, 
 * Algorithm-Books https://github.com/manjunath5496/Algorithm-Books
 * CS 97SI: Introduction to Programming Contests https://web.stanford.edu/class/cs97si/
 * CS Oxford Student Space https://www.cs.ox.ac.uk/currentstudents/index.html
+* Algorithms and Data Structures 1 https://www.robots.ox.ac.uk/~vedaldi/teach.html
 
 
 #### Books
