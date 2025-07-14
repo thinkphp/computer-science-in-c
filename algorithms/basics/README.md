@@ -1211,6 +1211,10 @@ https://codeforces.com/contest/1796/problem/A
 
 563) Alternating Sum of Numbers https://codeforces.com/contest/2010/problem/A
 
+564) Permutation Value https://codeforces.com/contest/1743/problem/B
+
+565) Save the Magazines https://codeforces.com/contest/1743/problem/C
+
 
 
 
