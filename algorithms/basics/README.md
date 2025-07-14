@@ -1209,6 +1209,8 @@ https://codeforces.com/contest/1796/problem/A
 
 562) Elections https://codeforces.com/contest/457/problem/C
 
+563) https://codeforces.com/contest/2010/problem/C1 https://codeforces.com/contest/2010/problem/C1
+
 
 
 
