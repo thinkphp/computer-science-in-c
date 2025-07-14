@@ -1209,7 +1209,7 @@ https://codeforces.com/contest/1796/problem/A
 
 562) Elections https://codeforces.com/contest/457/problem/C
 
-563) Message Transmission Error (easy version) https://codeforces.com/contest/2010/problem/C1
+563) Alternating Sum of Numbers https://codeforces.com/contest/2010/problem/A
 
 
 
