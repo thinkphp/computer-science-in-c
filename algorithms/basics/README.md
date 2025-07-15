@@ -1231,6 +1231,13 @@ https://codeforces.com/contest/1796/problem/A
 
 573) Wonderful Lightbulbs https://codeforces.com/contest/2096/problem/D
 
+574) Digital Wallet https://codeforces.com/contest/1866/problem/D
+
+575) Robot Cleaner https://codeforces.com/contest/1623/problem/A
+
+576) A + B = C Problem https://codeforces.com/gym/105632/problem/A
+
+
 
 
 
