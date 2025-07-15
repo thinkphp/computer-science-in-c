@@ -1221,6 +1221,16 @@ https://codeforces.com/contest/1796/problem/A
 
 568) Cycle in Maze https://codeforces.com/contest/769/problem/C
 
+569) Ordered Permutations https://codeforces.com/contest/2040/problem/C
+
+570) Broken Keyboard https://codeforces.com/contest/1765/problem/B
+
+571) Exchange https://codeforces.com/contest/1765/problem/E
+
+572) Minimum LCM https://codeforces.com/contest/1765/problem/M
+
+573) Wonderful Lightbulbs https://codeforces.com/contest/2096/problem/D
+
 
 
 
