@@ -1215,6 +1215,12 @@ https://codeforces.com/contest/1796/problem/A
 
 565) Save the Magazines https://codeforces.com/contest/1743/problem/C
 
+566) Year of University Entrance https://codeforces.com/contest/769/problem/A
+
+567) News About Credit https://codeforces.com/contest/769/problem/B
+
+568) Cycle in Maze https://codeforces.com/contest/769/problem/C
+
 
 
 
