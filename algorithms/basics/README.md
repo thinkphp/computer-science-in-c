@@ -1247,6 +1247,8 @@ https://codeforces.com/contest/1796/problem/A
 
 581) G-C-D, Unlucky! https://codeforces.com/contest/2126/problem/E
 
+582) 1-1-1, Free Tree https://codeforces.com/contest/2126/problem/F
+
 
 
 
