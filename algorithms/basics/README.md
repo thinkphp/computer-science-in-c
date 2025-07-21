@@ -1237,6 +1237,16 @@ https://codeforces.com/contest/1796/problem/A
 
 576) A + B = C Problem https://codeforces.com/gym/105632/problem/A
 
+577) Only One Digit https://codeforces.com/contest/2126/problem/A
+
+578) No Casino in the Mountains https://codeforces.com/contest/2126/problem/B
+
+579) I Will Definitely Make It https://codeforces.com/contest/2126/problem/C
+
+580) THis is the Last Time https://codeforces.com/contest/2126/problem/D
+
+581) G-C-D, Unlucky! https://codeforces.com/contest/2126/problem/E
+
 
 
 
