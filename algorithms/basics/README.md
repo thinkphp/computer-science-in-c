@@ -1249,6 +1249,10 @@ https://codeforces.com/contest/1796/problem/A
 
 582) 1-1-1, Free Tree https://codeforces.com/contest/2126/problem/F
 
+583) Difficult Contest https://codeforces.com/contest/2125/problem/A
+
+584) Left and Down https://codeforces.com/contest/2125/problem/B
+
 
 
 
