@@ -1253,6 +1253,13 @@ https://codeforces.com/contest/1796/problem/A
 
 584) Left and Down https://codeforces.com/contest/2125/problem/B
 
+585) Nene's Game https://codeforces.com/contest/1956/problem/A
+
+586) Nene's Magical Matrix https://codeforces.com/contest/1956/problem/C
+
+587) Left and Down https://codeforces.com/contest/2125/problem/B
+
+
 
 
 
