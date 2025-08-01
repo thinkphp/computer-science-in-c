@@ -1259,6 +1259,8 @@ https://codeforces.com/contest/1796/problem/A
 
 587) Left and Down https://codeforces.com/contest/2125/problem/B
 
+588) Treasure Hunt https://codeforces.com/contest/2090/problem/A
+
 
 
 
