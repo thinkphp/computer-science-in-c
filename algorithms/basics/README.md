@@ -1261,6 +1261,12 @@ https://codeforces.com/contest/1796/problem/A
 
 588) Treasure Hunt https://codeforces.com/contest/2090/problem/A
 
+589) Short Sort https://codeforces.com/contest/1873/problem/A
+
+590) Greedy Grid https://codeforces.com/contest/2122/problem/A
+
+591) Traffic Lights https://codeforces.com/contest/2122/problem/D
+
 
 
 
