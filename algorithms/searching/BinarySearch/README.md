@@ -162,7 +162,8 @@ https://ideone.com/fR8nF8
 
 
 - Codeforces
-  - https://codeforces.com/problemset/problem/1945/E
+  - Binary Search https://codeforces.com/problemset/problem/1945/E
+
 
 
 
