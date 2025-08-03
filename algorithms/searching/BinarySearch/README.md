@@ -147,6 +147,7 @@ https://ideone.com/fR8nF8
 
 - Infoarena
   - https://infoarena.ro/problema/cautbin
+  - https://infoarena.ro/problema/scmax
 
 - PBInfo
   - https://www.pbinfo.ro/probleme/categorii/155/tablouri-unidimensionale-vectori-cautare-binara
@@ -162,6 +163,7 @@ https://ideone.com/fR8nF8
 
 - Codeforces
   - https://codeforces.com/problemset/problem/1945/E
+
 
 
 
