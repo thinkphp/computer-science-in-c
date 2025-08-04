@@ -1271,6 +1271,20 @@ https://codeforces.com/contest/1796/problem/A
 
 593) Having Been a Treasurer in the Past, I Help Goblins Deceive https://codeforces.com/contest/2072/problem/B
 
+594) Hacking Numbers (Easy Version) https://codeforces.com/contest/2109/problem/C1
+
+595) Hacking Numbers (Medium Version) https://codeforces.com/contest/2109/problem/C2
+
+596) This is the Last Time https://codeforces.com/contest/2126/problem/D
+
+597) Only One Digit https://codeforces.com/contest/2126/problem/A
+
+598) No Casino in the Mountains https://codeforces.com/contest/2126/problem/B
+
+599) I will difinitely Make it https://codeforces.com/contest/2126/problem/C
+
+600) Joey Takes Money https://codeforces.com/contest/1731/problem/A
+
 
 
 
