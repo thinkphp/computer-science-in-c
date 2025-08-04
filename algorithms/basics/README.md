@@ -1267,6 +1267,10 @@ https://codeforces.com/contest/1796/problem/A
 
 591) Traffic Lights https://codeforces.com/contest/2122/problem/D
 
+592)  New World, New Me, New Array https://codeforces.com/contest/2072/problem/A
+
+593) Having Been a Treasurer in the Past, I Help Goblins Deceive https://codeforces.com/contest/2072/problem/B
+
 
 
 
