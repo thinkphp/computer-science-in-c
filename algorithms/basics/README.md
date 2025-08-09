@@ -1285,6 +1285,10 @@ https://codeforces.com/contest/1796/problem/A
 
 600) Joey Takes Money https://codeforces.com/contest/1731/problem/A
 
+601) Adjacent Digit Sums https://codeforces.com/contest/2067/problem/A
+
+602) Submedians https://codeforces.com/contest/2128/problem/E1
+
 
 
 
