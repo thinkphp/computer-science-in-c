@@ -35,7 +35,8 @@ int main(int argc, char const *argv[]) {
 ```
 
 ### Problem Set
-* https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks
-* https://www.hackerrank.com/challenges/balanced-brackets/problem
-* https://www.infoarena.ro/problema/nrpits
-* https://www.pbinfo.ro/probleme/3533/oop-3 Sources: https://ideone.com/cMWjH0 | https://onlinegdb.com/aCDFiF1Q5z
+- https://leetcode.com/problems/valid-parentheses/description/
+- https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks
+- https://www.hackerrank.com/challenges/balanced-brackets/problem
+- https://www.infoarena.ro/problema/nrpits
+- https://www.pbinfo.ro/probleme/3533/oop-3 Sources: https://ideone.com/cMWjH0 | https://onlinegdb.com/aCDFiF1Q5z
