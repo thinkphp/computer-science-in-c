@@ -37,6 +37,7 @@ int main(int argc, char const *argv[]) {
 ### Problem Set
 - Valid Parentheses https://leetcode.com/problems/valid-parentheses/description/
 - Evaluarea unei expresii https://infoarena.ro/problema/evaluare
+- Submultimi https://infoarena.ro/problema/submultimi
 - https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks
 - https://www.hackerrank.com/challenges/balanced-brackets/problem
 - https://www.infoarena.ro/problema/nrpits
