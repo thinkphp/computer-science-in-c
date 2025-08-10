@@ -1291,6 +1291,8 @@ https://codeforces.com/contest/1796/problem/A
 
 604) Valid Parentheses https://leetcode.com/problems/valid-parentheses/description/
 
+605) Sum of Two Values https://cses.fi/problemset/task/1640/
+
 
 
 
