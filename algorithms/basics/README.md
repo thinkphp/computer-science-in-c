@@ -739,8 +739,6 @@ https://codeforces.com/contest/1796/problem/A
 
 327) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
 
-328) Valid Parenthesis String https://leetcode.com/problems/valid-parenthesis-string/description/
-
 329) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
 
 330) Ping-Pong https://codeforces.com/contest/320/problem/B
@@ -1288,6 +1286,10 @@ https://codeforces.com/contest/1796/problem/A
 601) Adjacent Digit Sums https://codeforces.com/contest/2067/problem/A
 
 602) Submedians https://codeforces.com/contest/2128/problem/E1
+
+603) Valid Parenthesis String https://leetcode.com/problems/valid-parenthesis-string/description/
+
+604) Valid Parentheses https://leetcode.com/problems/valid-parentheses/description/
 
 
 
