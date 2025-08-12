@@ -1291,6 +1291,12 @@ https://codeforces.com/contest/1796/problem/A
 
 604) Valid Parentheses https://leetcode.com/problems/valid-parentheses/description/
 
+605) Primes or Palindromes https://codeforces.com/contest/568/problem/A
+
+606) Music https://codeforces.com/contest/569/problem/A
+
+607) Symmetric and Transitive https://codeforces.com/contest/568/problem/B
+
 
 
 
