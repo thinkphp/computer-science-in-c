@@ -1,1 +1,1 @@
-# Detect Cycle Linked List - Tortoise and Hare Algorithm 
+# Floyd Cycle Detection - Tortoise and Hare Algorithm 
