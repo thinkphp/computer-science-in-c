@@ -1297,6 +1297,13 @@ https://codeforces.com/contest/1796/problem/A
 
 607) Symmetric and Transitive https://codeforces.com/contest/568/problem/B
 
+608) Plus One on the Subset https://codeforces.com/contest/1624/problem/A
+
+609) Make AP https://codeforces.com/contest/1624/problem/B
+
+610) Division by Two and Permutation https://codeforces.com/contest/1624/problem/C
+
+
 
 
 
