@@ -1303,6 +1303,8 @@ https://codeforces.com/contest/1796/problem/A
 
 610) Division by Two and Permutation https://codeforces.com/contest/1624/problem/C
 
+611) a-Good String https://codeforces.com/contest/1385/problem/D
+
 
 
 
