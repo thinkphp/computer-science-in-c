@@ -4,7 +4,7 @@
 
 - Infoarena
   - 2SAT https://infoarena.ro/problema/2sat
-  - https://www.infoarena.ro/problema/party
+  - Party https://www.infoarena.ro/problema/party
 
 ### References
 
