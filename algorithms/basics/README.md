@@ -1305,6 +1305,16 @@ https://codeforces.com/contest/1796/problem/A
 
 611) a-Good String https://codeforces.com/contest/1385/problem/D
 
+612) Kayaking https://codeforces.com/contest/863/problem/B
+
+613) Yet Another Array Queries Problem https://codeforces.com/contest/863/problem/D
+
+614) Quasi-Palindrome https://codeforces.com/contest/863/problem/A
+
+615) 1-2-3 https://codeforces.com/contest/863/problem/C
+
+616) Turn-Off the TV https://codeforces.com/contest/863/problem/E  
+
 
 
 
