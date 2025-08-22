@@ -1313,7 +1313,9 @@ https://codeforces.com/contest/1796/problem/A
 
 615) 1-2-3 https://codeforces.com/contest/863/problem/C
 
-616) Turn-Off the TV https://codeforces.com/contest/863/problem/E  
+616) Turn-Off the TV https://codeforces.com/contest/863/problem/E
+
+617) Lever https://codeforces.com/contest/2131/problem/A
 
 
 
