@@ -1317,6 +1317,8 @@ https://codeforces.com/contest/1796/problem/A
 
 617) Lever https://codeforces.com/contest/2131/problem/A
 
+618) Homework https://codeforces.com/contest/2132/problem/A
+
 
 
 
