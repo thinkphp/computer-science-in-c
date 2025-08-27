@@ -1319,6 +1319,9 @@ https://codeforces.com/contest/1796/problem/A
 
 618) Homework https://codeforces.com/contest/2132/problem/A
 
+619) Painting With Two Colors https://codeforces.com/contest/2134/problem/A
+
+
 
 
 
