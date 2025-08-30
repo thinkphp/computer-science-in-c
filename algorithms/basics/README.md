@@ -1321,6 +1321,8 @@ https://codeforces.com/contest/1796/problem/A
 
 619) Painting With Two Colors https://codeforces.com/contest/2134/problem/A
 
+620) The play never ends https://codeforces.com/problemset/problem/2071/A
+
 
 
 
