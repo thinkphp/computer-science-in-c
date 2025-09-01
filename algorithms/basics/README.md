@@ -1323,6 +1323,8 @@ https://codeforces.com/contest/1796/problem/A
 
 620) The play never ends https://codeforces.com/problemset/problem/2071/A
 
+621) Make it equal https://codeforces.com/contest/2131/problem/C
+
 
 
 
