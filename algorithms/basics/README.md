@@ -1325,6 +1325,8 @@ https://codeforces.com/contest/1796/problem/A
 
 621) Make it equal https://codeforces.com/contest/2131/problem/C
 
+622) Villagers https://codeforces.com/problemset/problem/2133/B
+
 
 
 
