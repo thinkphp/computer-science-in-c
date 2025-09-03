@@ -1327,6 +1327,8 @@ https://codeforces.com/contest/1796/problem/A
 
 622) Villagers https://codeforces.com/problemset/problem/2133/B
 
+623) Redstones? https://codeforces.com/contest/2133/problem/A
+
 
 
 
