@@ -1329,6 +1329,9 @@ https://codeforces.com/contest/1796/problem/A
 
 623) Redstones? https://codeforces.com/contest/2133/problem/A
 
+624) In the dream https://codeforces.com/contest/2136/problem/A
+
+
 
 
 
