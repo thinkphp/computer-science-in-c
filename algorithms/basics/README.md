@@ -1331,6 +1331,10 @@ https://codeforces.com/contest/1796/problem/A
 
 624) In the dream https://codeforces.com/contest/2136/problem/A
 
+625) The cunning seller https://codeforces.com/contest/2132/problem/C1
+
+626) Arithmentics Competitions https://codeforces.com/contest/2132/problem/E
+
 
 
 
