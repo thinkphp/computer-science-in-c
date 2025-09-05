@@ -1327,13 +1327,13 @@ https://codeforces.com/contest/1796/problem/A
 
 622) Villagers https://codeforces.com/problemset/problem/2133/B
 
-623) Redstones? https://codeforces.com/contest/2133/problem/A
+623) Redstone? https://codeforces.com/contest/2133/problem/A
 
 624) In the dream https://codeforces.com/contest/2136/problem/A
 
 625) The cunning seller https://codeforces.com/contest/2132/problem/C1
 
-626) Arithmentics Competitions https://codeforces.com/contest/2132/problem/E
+626) Arithmentics Competition https://codeforces.com/contest/2132/problem/E
 
 
 
