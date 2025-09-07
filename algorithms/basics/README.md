@@ -1335,6 +1335,9 @@ https://codeforces.com/contest/1796/problem/A
 
 626) Arithmentics Competition https://codeforces.com/contest/2132/problem/E
 
+627) Leftmost Below https://codeforces.com/contest/2128/problem/C
+
+
 
 
 
