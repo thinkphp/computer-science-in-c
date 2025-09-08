@@ -1337,6 +1337,10 @@ https://codeforces.com/contest/1796/problem/A
 
 627) Leftmost Below https://codeforces.com/contest/2128/problem/C
 
+628) Against the Difference https://codeforces.com/contest/2135/problem/A
+
+629) For the Champion https://codeforces.com/contest/2135/problem/B
+
 
 
 
