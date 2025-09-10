@@ -1341,6 +1341,8 @@ https://codeforces.com/contest/1796/problem/A
 
 629) For the Champion https://codeforces.com/contest/2135/problem/B
 
+630) Cake Collection https://codeforces.com/contest/2139/problem/B
+
 
 
 
