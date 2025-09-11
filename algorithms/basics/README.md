@@ -1343,6 +1343,11 @@ https://codeforces.com/contest/1796/problem/A
 
 630) Cake Collection https://codeforces.com/contest/2139/problem/B
 
+631) Maximum Even Sum https://codeforces.com/contest/2137/problem/C
+
+632) Collatz https://codeforces.com/contest/2137/problem/A
+
+
 
 
 
