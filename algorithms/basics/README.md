@@ -1347,6 +1347,8 @@ https://codeforces.com/contest/1796/problem/A
 
 632) Collatz https://codeforces.com/contest/2137/problem/A
 
+633) Maple and Multiplication https://codeforces.com/contest/2139/problem/A
+
 
 
 
