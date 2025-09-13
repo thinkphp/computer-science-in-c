@@ -1349,6 +1349,8 @@ https://codeforces.com/contest/1796/problem/A
 
 633) Maple and Multiplication https://codeforces.com/contest/2139/problem/A
 
+634) Fun Permutation https://codeforces.com/contest/2137/problem/B
+
 
 
 
