@@ -1345,11 +1345,13 @@ https://codeforces.com/contest/1796/problem/A
 
 631) Maximum Even Sum https://codeforces.com/contest/2137/problem/C
 
-632) Collatz https://codeforces.com/contest/2137/problem/A
+632) Collatz Conjecture https://codeforces.com/contest/2137/problem/A
 
 633) Maple and Multiplication https://codeforces.com/contest/2139/problem/A
 
 634) Fun Permutation https://codeforces.com/contest/2137/problem/B
+
+635) Replace with Occurrences https://codeforces.com/contest/2137/problem/D
 
 
 
