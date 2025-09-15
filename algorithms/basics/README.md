@@ -1355,6 +1355,13 @@ https://codeforces.com/contest/1796/problem/A
 
 636) The Nether https://codeforces.com/contest/2133/problem/C
 
+637) Pacer https://codeforces.com/contest/2148/problem/C
+
+638) Lasers https://codeforces.com/contest/2148/problem/B
+
+639) Sublime Sequence https://codeforces.com/contest/2148/problem/A
+
+
       
 
 
