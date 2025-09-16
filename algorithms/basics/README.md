@@ -1361,6 +1361,8 @@ https://codeforces.com/contest/1796/problem/A
 
 639) Sublime Sequence https://codeforces.com/contest/2148/problem/A
 
+640) Furniture Store https://codeforces.com/contest/2141/problem/A
+
 
       
 
