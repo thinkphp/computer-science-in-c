@@ -1363,6 +1363,8 @@ https://codeforces.com/contest/1796/problem/A
 
 640) Furniture Store https://codeforces.com/contest/2141/problem/A
 
+641) Cut The Array https://codeforces.com/contest/2144/problem/A
+
 
       
 
