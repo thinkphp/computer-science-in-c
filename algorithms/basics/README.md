@@ -1365,6 +1365,8 @@ https://codeforces.com/contest/1796/problem/A
 
 641) Cut The Array https://codeforces.com/contest/2144/problem/A
 
+642) Darius' Wisdom https://codeforces.com/contest/2034/problem/D
+
 
       
 
