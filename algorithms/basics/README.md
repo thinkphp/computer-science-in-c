@@ -1367,6 +1367,10 @@ https://codeforces.com/contest/1796/problem/A
 
 642) Darius' Wisdom https://codeforces.com/contest/2034/problem/D
 
+643) Equal or Not Equal https://codeforces.com/contest/1620/problem/A
+
+644) Hemose Shopping https://codeforces.com/contest/1592/problem/B
+
 
       
 
