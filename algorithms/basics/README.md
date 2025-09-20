@@ -1371,6 +1371,8 @@ https://codeforces.com/contest/1796/problem/A
 
 644) Hemose Shopping https://codeforces.com/contest/1592/problem/B
 
+645) Misha and Changing Handles https://codeforces.com/contest/501/problem/B
+
 
       
 
