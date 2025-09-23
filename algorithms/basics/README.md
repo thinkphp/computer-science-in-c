@@ -1375,6 +1375,9 @@ https://codeforces.com/contest/1796/problem/A
 
 646) Split https://codeforces.com/contest/2148/problem/E
 
+647) Maximum Cost Permutation https://codeforces.com/contest/2144/problem/B
+
+
 
       
 
