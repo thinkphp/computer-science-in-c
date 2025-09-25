@@ -1379,6 +1379,8 @@ https://codeforces.com/contest/1796/problem/A
 
 648) Cloudberry Jam https://codeforces.com/contest/2086/problem/A
 
+649) Only One Digit https://codeforces.com/contest/2126/problem/A
+
 
 
 
