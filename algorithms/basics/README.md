@@ -1377,6 +1377,9 @@ https://codeforces.com/contest/1796/problem/A
 
 647) Maximum Cost Permutation https://codeforces.com/contest/2144/problem/B
 
+648) Cloudberry Jam https://codeforces.com/contest/2086/problem/A
+
+
 
 
       
