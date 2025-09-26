@@ -1381,6 +1381,9 @@ https://codeforces.com/contest/1796/problem/A
 
 649) Only One Digit https://codeforces.com/contest/2126/problem/A
 
+650) Destruction of the Dandelion Fields https://codeforces.com/contest/2148/problem/D
+
+
 
 
 
