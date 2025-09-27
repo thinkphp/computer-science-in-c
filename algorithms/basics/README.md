@@ -1383,6 +1383,8 @@ https://codeforces.com/contest/1796/problem/A
 
 650) Destruction of the Dandelion Fields https://codeforces.com/contest/2148/problem/D
 
+651) Farmer john's last wish https://codeforces.com/contest/2148/problem/G
+
 
 
 
