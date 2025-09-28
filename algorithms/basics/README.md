@@ -1385,6 +1385,10 @@ https://codeforces.com/contest/1796/problem/A
 
 651) Farmer john's last wish https://codeforces.com/contest/2148/problem/G
 
+652) Incremental Subarray https://codeforces.com/contest/2151/problem/A
+
+653) Incremental Path https://codeforces.com/contest/2150/problem/A
+
 
 
 
