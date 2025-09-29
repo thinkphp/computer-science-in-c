@@ -1389,6 +1389,9 @@ https://codeforces.com/contest/1796/problem/A
 
 653) Incremental Path https://codeforces.com/contest/2150/problem/A
 
+654) Incremental Stay https://codeforces.com/contest/2151/problem/C
+
+
 
 
 
