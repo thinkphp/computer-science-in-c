@@ -1391,6 +1391,12 @@ https://codeforces.com/contest/1796/problem/A
 
 654) Incremental Stay https://codeforces.com/contest/2151/problem/C
 
+655) El fucho https://codeforces.com/contest/2155/problem/A
+
+656) The Ancient Wizard's Capes https://codeforces.com/contest/2155/problem/C
+
+657) Abraham's Great Escape https://codeforces.com/contest/2155/problem/B
+
 
 
 
