@@ -1397,6 +1397,14 @@ https://codeforces.com/contest/1796/problem/A
 
 657) Abraham's Great Escape https://codeforces.com/contest/2155/problem/B
 
+658) Equal Occurrences https://codeforces.com/contest/2146/problem/A
+
+659) Mergings the Sets https://codeforces.com/contest/2146/problem/B
+
+660) MAX Sum Or https://codeforces.com/contest/2146/problem/D1
+
+661) Wrong Binary Search https://codeforces.com/contest/2146/problem/C
+
 
 
 
