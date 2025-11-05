@@ -1405,6 +1405,8 @@ https://codeforces.com/contest/1796/problem/A
 
 661) Wrong Binary Search https://codeforces.com/contest/2146/problem/C
 
+662) Marathon https://codeforces.com/contest/404/problem/B
+
 
 
 
