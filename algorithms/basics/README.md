@@ -1409,6 +1409,9 @@ https://codeforces.com/contest/1796/problem/A
 
 663) Round Trip https://codeforces.com/contest/2161/problem/A
 
+664) Pyramid of Glasses https://codeforces.com/contest/676/problem/B
+
+
 
 
 
