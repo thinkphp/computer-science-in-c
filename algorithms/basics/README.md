@@ -1415,6 +1415,8 @@ https://codeforces.com/contest/1796/problem/A
 
 666) Circle of Apple Trees https://codeforces.com/contest/2153/problem/A
 
+667) Increase of Smash https://codeforces.com/contest/2152/problem/A
+
 
 
 
