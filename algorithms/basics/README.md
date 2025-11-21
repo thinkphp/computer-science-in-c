@@ -1413,6 +1413,9 @@ https://codeforces.com/contest/1796/problem/A
 
 665) Tree, TREE https://codeforces.com/contest/2167/problem/F
 
+666) Circle of Apple Trees https://codeforces.com/contest/2153/problem/A
+
+
 
 
 
