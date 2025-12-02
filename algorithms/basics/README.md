@@ -1417,6 +1417,12 @@ https://codeforces.com/contest/1796/problem/A
 
 667) Increase or Smash https://codeforces.com/contest/2152/problem/A
 
+668) Shizuku Hoshikawa and Farm Legs https://codeforces.com/contest/2171/problem/A
+
+669) Yuu Koito and Minimum Absolute Sum https://codeforces.com/contest/2171/problem/B
+
+670)  Renako Amaori and XOR Game (easy version) https://codeforces.com/contest/2171/problem/C1
+
 
 
 
