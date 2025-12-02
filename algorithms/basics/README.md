@@ -1423,6 +1423,8 @@ https://codeforces.com/contest/1796/problem/A
 
 670)  Renako Amaori and XOR Game (easy version) https://codeforces.com/contest/2171/problem/C1
 
+671)  Rae Taylor and Trees (easy version) https://codeforces.com/contest/2171/problem/D
+
 
 
 
