@@ -1425,6 +1425,8 @@ https://codeforces.com/contest/1796/problem/A
 
 671)  Rae Taylor and Trees (easy version) https://codeforces.com/contest/2171/problem/D
 
+672)  Aquatic Dragon https://codeforces.com/contest/2045/problem/D
+
 
 
 
