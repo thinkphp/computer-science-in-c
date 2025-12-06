@@ -1427,6 +1427,8 @@ https://codeforces.com/contest/1796/problem/A
 
 672)  Aquatic Dragon https://codeforces.com/contest/2045/problem/D
 
+673)  Make Good https://codeforces.com/contest/1270/problem/C
+
 
 
 
