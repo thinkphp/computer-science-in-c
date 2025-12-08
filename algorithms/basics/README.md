@@ -1429,6 +1429,8 @@ https://codeforces.com/contest/1796/problem/A
 
 673)  Make Good https://codeforces.com/contest/1270/problem/C
 
+674)  XOR Array https://codeforces.com/problemset/problem/2175/B
+
 
 
 
