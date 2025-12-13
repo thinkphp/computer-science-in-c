@@ -1431,6 +1431,8 @@ https://codeforces.com/contest/1796/problem/A
 
 674)  XOR Array https://codeforces.com/problemset/problem/2175/B
 
+675)  Operations With Inversions https://codeforces.com/contest/2176/problem/A
+
 
 
 
