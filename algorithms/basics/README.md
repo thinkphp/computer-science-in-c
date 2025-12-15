@@ -1433,6 +1433,10 @@ https://codeforces.com/contest/1796/problem/A
 
 675)  Operations With Inversions https://codeforces.com/contest/2176/problem/A
 
+676)  Fibonacci Paths https://codeforces.com/contest/2176/problem/D
+
+677)  Optimal Shifts https://codeforces.com/contest/2176/problem/B
+
 
 
 
