@@ -1437,6 +1437,8 @@ https://codeforces.com/contest/1796/problem/A
 
 677)  Optimal Shifts https://codeforces.com/contest/2176/problem/B
 
+678)  New Year String https://codeforces.com/problemset/problem/2182/A
+
 
 
 
