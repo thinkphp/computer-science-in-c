@@ -1439,6 +1439,8 @@ https://codeforces.com/contest/1796/problem/A
 
 678)  New Year String https://codeforces.com/problemset/problem/2182/A
 
+680)  Social Experiment https://codeforces.com/contest/2184/problem/A
+
 
 
 
