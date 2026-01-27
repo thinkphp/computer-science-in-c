@@ -1441,6 +1441,12 @@ https://codeforces.com/contest/1796/problem/A
 
 680)  Social Experiment https://codeforces.com/contest/2184/problem/A
 
+681)  Paths in Trees https://codeforces.com/contest/2193/problem/G
+
+682)  Pizza Delivery https://codeforces.com/contest/2193/problem/F
+
+
+
 
 
 
