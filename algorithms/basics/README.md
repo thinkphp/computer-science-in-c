@@ -1445,6 +1445,9 @@ https://codeforces.com/contest/1796/problem/A
 
 682)  Pizza Delivery https://codeforces.com/contest/2193/problem/F
 
+683)  Huge Pile https://codeforces.com/contest/2184/problem/C
+
+
 
 
 
