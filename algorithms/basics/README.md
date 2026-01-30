@@ -1447,6 +1447,8 @@ https://codeforces.com/contest/1796/problem/A
 
 683)  Huge Pile https://codeforces.com/contest/2184/problem/C
 
+684)  Binary Array Game https://codeforces.com/contest/2183/problem/A
+
 
 
 
