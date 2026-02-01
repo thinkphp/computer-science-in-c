@@ -1449,6 +1449,8 @@ https://codeforces.com/contest/1796/problem/A
 
 684)  Binary Array Game https://codeforces.com/contest/2183/problem/A
 
+685)  Tree Coloring (easy verion) https://codeforces.com/contest/2183/problem/D1
+
 
 
 
