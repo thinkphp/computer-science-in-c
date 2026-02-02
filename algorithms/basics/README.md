@@ -1451,6 +1451,8 @@ https://codeforces.com/contest/1796/problem/A
 
 685)  Tree Coloring (easy verion) https://codeforces.com/contest/2183/problem/D1
 
+686)  LCM Is Legendary Counting Master https://codeforces.com/contest/2183/problem/E
+
 
 
 
