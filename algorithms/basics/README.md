@@ -1453,6 +1453,8 @@ https://codeforces.com/contest/1796/problem/A
 
 686)  LCM Is Legendary Counting Master https://codeforces.com/contest/2183/problem/E
 
+687)  Snake Instructions https://codeforces.com/contest/2183/problem/G
+
 
 
 
