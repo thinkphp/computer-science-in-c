@@ -1455,6 +1455,8 @@ https://codeforces.com/contest/1796/problem/A
 
 687)  Snake Instructions https://codeforces.com/contest/2183/problem/G
 
+688)  Pairs Flipping https://codeforces.com/contest/2183/problem/I1
+
 
 
 
