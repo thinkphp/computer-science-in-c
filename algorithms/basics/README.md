@@ -1457,6 +1457,8 @@ https://codeforces.com/contest/1796/problem/A
 
 688)  Pairs Flipping https://codeforces.com/contest/2183/problem/I1
 
+689)  Divisible Permutation https://codeforces.com/contest/2188/problem/A
+
 
 
 
