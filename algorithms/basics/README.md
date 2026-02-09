@@ -1459,6 +1459,8 @@ https://codeforces.com/contest/1796/problem/A
 
 689)  Divisible Permutation https://codeforces.com/contest/2188/problem/A
 
+691)  Perfect Root https://codeforces.com/contest/2185/problem/A
+
 
 
 
