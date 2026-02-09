@@ -17,27 +17,28 @@ universe is in S. The vector can even represent a sequence of moves i
 
 ## Classical Problem Set
 
-1.  Permutations  iterative - https://ideone.com/J5acy7 recursive - https://ideone.com/J5acy7
-2.  Partitions (set) 
-3.  Partitions (integer)
-4.  Arrangements.
-5.  Combinations.
-6.  Subsets. https://ideone.com/XcDijE
-7.  Product Cartesian.
-8.  Salesman Travel. https://ideone.com/8zomIJ
-9.  Payment Method.
-10. Photo Problem. https://ideone.com/UTuGBV
-11. Map Color https://ideone.com/lMAw6N
-12. Functions Surjective https://ideone.com/s8qT61
-13. Functions Injective https://ideone.com/gWGseA
-14. Labyrinth -> https://ideone.com/aLNCQg
-15. Knight's Tour -> https://ideone.com/KcnbXq
-16. Eight Qeens Puzzle
-17. Ball Problem
-18. Mountaineer Problem
-19. Sudoku. https://ideone.com/HftRzb
-20. Mouse https://ideone.com/1kPWvt
-21. abc123 Problem Polytech Admission https://ideone.com/HGqAqV
+1.  Permutations  iterative - https://ideone.com/J5acy7
+                  recursive - https://ideone.com/r2D5KS
+3.  Partitions (set) 
+4.  Partitions (integer)
+5.  Arrangements.
+6.  Combinations.
+7.  Subsets. https://ideone.com/XcDijE
+8.  Product Cartesian.
+9.  Salesman Travel. https://ideone.com/8zomIJ
+10.  Payment Method.
+11. Photo Problem. https://ideone.com/UTuGBV
+12. Map Color https://ideone.com/lMAw6N
+13. Functions Surjective https://ideone.com/s8qT61
+14. Functions Injective https://ideone.com/gWGseA
+15. Labyrinth -> https://ideone.com/aLNCQg
+16. Knight's Tour -> https://ideone.com/KcnbXq
+17. Eight Qeens Puzzle
+18. Ball Problem
+19. Mountaineer Problem
+20. Sudoku. https://ideone.com/HftRzb
+21. Mouse https://ideone.com/1kPWvt
+22. abc123 Problem Polytech Admission https://ideone.com/HGqAqV
 
 ## Referecens
  
