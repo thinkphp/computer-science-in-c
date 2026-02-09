@@ -1,0 +1,4 @@
+# Permutations
+
+- Iteratively
+- Recursively
