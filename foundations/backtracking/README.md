@@ -59,6 +59,7 @@ https://www.pbinfo.ro/probleme/categorii/50/backtracking-probleme-diverse
 ## Applications    
     
 ###  Permutations.
+https://ideone.com/r2D5KS
 
 ###  Partitions (set) 
 
