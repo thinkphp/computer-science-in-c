@@ -1461,6 +1461,8 @@ https://codeforces.com/contest/1796/problem/A
 
 691)  Perfect Root https://codeforces.com/contest/2185/problem/A
 
+692)  Prefix Max https://codeforces.com/contest/2185/problem/B
+
 
 
 
