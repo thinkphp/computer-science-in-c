@@ -1463,6 +1463,29 @@ https://codeforces.com/contest/1796/problem/A
 
 692)  Prefix Max https://codeforces.com/contest/2185/problem/B
 
+693)  Min-Fund Prison (easy) https://codeforces.com/contest/1970/problem/G1
+
+694)  Playing Quiddich (easy) https://codeforces.com/contest/1970/problem/F1
+
+695)  Trails (easy) https://codeforces.com/contest/1970/problem/E1
+
+696)  Arithmancy (easy) https://codeforces.com/contest/1970/problem/D1
+
+697)  Cyclic Merging https://codeforces.com/contest/2166/problem/C
+
+698)  Tab Closing https://codeforces.com/contest/2166/problem/B
+
+699)  Same Difference https://codeforces.com/contest/2166/problem/A
+
+700)  Exact Neigbhours (Medium) https://codeforces.com/contest/1970/problem/B2
+
+701)  Binary Wine https://codeforces.com/contest/2166/problem/E
+
+702)  ALphabet City https://codeforces.com/contest/2181/problem/A
+
+703)  Marble Council https://codeforces.com/contest/2166/problem/D
+
+
 
 
 
