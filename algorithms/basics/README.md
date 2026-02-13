@@ -1485,6 +1485,16 @@ https://codeforces.com/contest/1796/problem/A
 
 703)  Marble Council https://codeforces.com/contest/2166/problem/D
 
+704)  Mathematical Problem https://codeforces.com/contest/1916/problem/D
+
+705)  Happy Life in University https://codeforces.com/contest/1916/problem/E
+
+706)  Number Transformation https://codeforces.com/contest/1674/problem/A
+
+707)  Matrix Rotation https://codeforces.com/problemset/problem/1772/B
+
+708)  Training Before The Olympiad https://codeforces.com/contest/1916/problem/C
+
 
 
 
