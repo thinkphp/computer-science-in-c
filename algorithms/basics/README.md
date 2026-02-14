@@ -1495,6 +1495,8 @@ https://codeforces.com/contest/1796/problem/A
 
 708)  Training Before The Olympiad https://codeforces.com/contest/1916/problem/C
 
+709)  Begginer's Zelda https://codeforces.com/contest/1905/problem/B
+
 
 
 
