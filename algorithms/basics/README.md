@@ -1507,7 +1507,7 @@ https://codeforces.com/contest/1796/problem/A
 
 714) Accidental Victory https://codeforces.com/contest/1490/problem/E
 
-715) Equalize Array https://codeforces.com/contest/1490/problem/F
+715) Equalize The Array https://codeforces.com/contest/1490/problem/F
 
 
 
