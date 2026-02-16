@@ -1497,6 +1497,18 @@ https://codeforces.com/contest/1796/problem/A
 
 709)  Begginer's Zelda https://codeforces.com/contest/1905/problem/B
 
+710)  Dense Array https://codeforces.com/contest/1490/problem/A
+
+711) Balanced Remainders https://codeforces.com/contest/1490/problem/B
+
+712) Sum of Cubes https://codeforces.com/contest/1490/problem/C
+
+713) Permutation Transformation https://codeforces.com/contest/1490/problem/D
+
+714) Accidental Victory https://codeforces.com/contest/1490/problem/E
+
+715) Equalize Array https://codeforces.com/contest/1490/problem/F
+
 
 
 
