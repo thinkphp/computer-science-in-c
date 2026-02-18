@@ -1509,6 +1509,10 @@ https://codeforces.com/contest/1796/problem/A
 
 715) Equalize The Array https://codeforces.com/contest/1490/problem/F
 
+716) Good Kid https://codeforces.com/contest/1873/problem/B
+
+717) Target Practice https://codeforces.com/contest/1873/problem/C
+
 
 
 
