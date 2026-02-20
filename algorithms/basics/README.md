@@ -1513,6 +1513,8 @@ https://codeforces.com/contest/1796/problem/A
 
 717) Target Practice https://codeforces.com/contest/1873/problem/C
 
+718) Table Cut https://codeforces.com/contest/2194/problem/D
+
 
 
 
