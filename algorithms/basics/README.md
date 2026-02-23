@@ -1515,6 +1515,13 @@ https://codeforces.com/contest/1796/problem/A
 
 718) Table Cut https://codeforces.com/contest/2194/problem/D
 
+719) Secret Message https://codeforces.com/contest/2194/problem/C
+
+720) Lawn Mower https://codeforces.com/contest/2194/problem/A
+
+721) OffShores https://codeforces.com/contest/2194/problem/B 
+
+
 
 
 
