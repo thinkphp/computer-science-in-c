@@ -1519,7 +1519,11 @@ https://codeforces.com/contest/1796/problem/A
 
 720) Lawn Mower https://codeforces.com/contest/2194/problem/A
 
-721) OffShores https://codeforces.com/contest/2194/problem/B 
+721) OffShores https://codeforces.com/contest/2194/problem/B
+
+722) Lost Civilization https://codeforces.com/contest/2201/problem/A1
+
+723) Recollect Numbers https://codeforces.com/contest/2201/problem/B
 
 
 
