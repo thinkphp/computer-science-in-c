@@ -1525,6 +1525,8 @@ https://codeforces.com/contest/1796/problem/A
 
 723) Recollect Numbers https://codeforces.com/contest/2201/problem/B
 
+724) Simons And Making It Beautiful https://codeforces.com/contest/2205/problem/A
+
 
 
 
