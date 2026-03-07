@@ -1527,6 +1527,8 @@ https://codeforces.com/contest/1796/problem/A
 
 724) Simons And Making It Beautiful https://codeforces.com/contest/2205/problem/A
 
+725) Ugly Number https://leetcode.com/problems/ugly-number/description/
+
 
 
 
