@@ -1529,6 +1529,20 @@ https://codeforces.com/contest/1796/problem/A
 
 725) Ugly Number https://leetcode.com/problems/ugly-number/description/
 
+726) Upside Down Dijkstra https://codeforces.com/contest/2206/problem/C
+
+727) Subtree Removal Game https://codeforces.com/contest/2206/problem/B
+
+728) Reflect Sort https://codeforces.com/contest/2206/problem/H
+
+729) 1-1 https://codeforces.com/contest/2207/problem/A
+
+730) where's my Water? https://codeforces.com/contest/2207/problem/C
+
+731) One Night at Fredie's https://codeforces.com/contest/2207/problem/B
+
+
+
 
 
 
