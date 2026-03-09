@@ -1539,7 +1539,7 @@ https://codeforces.com/contest/1796/problem/A
 
 730) where's my Water? https://codeforces.com/contest/2207/problem/C
 
-731) One Night at Fredie's https://codeforces.com/contest/2207/problem/B
+731) One Night at Fredyy's https://codeforces.com/contest/2207/problem/B
 
 
 
