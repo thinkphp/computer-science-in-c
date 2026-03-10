@@ -1551,6 +1551,14 @@ https://codeforces.com/contest/1796/problem/A
 
 736) Captain Flint and Long Voyage https://codeforces.com/contest/1388/problem/B
 
+737) Alien Invasion https://cses.fi/177/task/A
+
+738) Buy Low, Sell High https://cses.fi/177/task/B
+
+739) Inversions https://cses.fi/177/task/I
+
+740) Grid https://cses.fi/177/task/G/
+
 
 
 
