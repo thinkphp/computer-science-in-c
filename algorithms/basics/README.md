@@ -897,8 +897,6 @@ https://codeforces.com/contest/1796/problem/A
 
 406) Angry Monk https://codeforces.com/contest/1992/problem/B
 
-407) Skibidus and Amog'u https://codeforces.com/contest/2065/problem/A
-
 408) Three Parts of the Array https://codeforces.com/problemset/problem/1006/C
 
 409) Adjacent https://codeforces.com/contest/1006/problem/A
@@ -1163,23 +1161,25 @@ https://codeforces.com/contest/1796/problem/A
 
 539) Letter Home https://codeforces.com/contest/2121/problem/A
 
-540) Skibidus and Ohio https://codeforces.com/contest/2065/problem/B
+540) Skibidus and Amog'u https://codeforces.com/contest/2065/problem/A
 
-541) Skibidus and Sigma https://codeforces.com/contest/2065/problem/D
+541) Skibidus and Ohio https://codeforces.com/contest/2065/problem/B
 
-542) Skibidus and Slay https://codeforces.com/contest/2065/problem/F
+542) Skibidus and Sigma https://codeforces.com/contest/2065/problem/D
 
-543) Skibidus and Rizz https://codeforces.com/contest/2065/problem/E
+543) Skibidus and Slay https://codeforces.com/contest/2065/problem/F
 
-544) Skibidus and Amog'u https://codeforces.com/contest/2065/problem/A
+544) Skibidus and Rizz https://codeforces.com/contest/2065/problem/E
 
-545) Sponsor of Your Problem https://codeforces.com/contest/2121/problem/E
+545) Skibidus and Amog'u https://codeforces.com/contest/2065/problem/A
 
-546) Trippi Troppi https://codeforces.com/contest/2094/problem/A
+546) Sponsor of Your Problem https://codeforces.com/contest/2121/problem/E
 
-547) Tung Tung Sahur https://codeforces.com/contest/2094/problem/D
+547) Trippi Troppi https://codeforces.com/contest/2094/problem/A
 
-548) Square of Rectangles https://codeforces.com/contest/2120/problem/A
+548) Tung Tung Sahur https://codeforces.com/contest/2094/problem/D
+
+549) Square of Rectangles https://codeforces.com/contest/2120/problem/A
 
 550) Hackers and Neural Networks https://codeforces.com/contest/2093/problem/F
 
@@ -1540,6 +1540,16 @@ https://codeforces.com/contest/1796/problem/A
 730) where's my Water? https://codeforces.com/contest/2207/problem/C
 
 731) One Night at Fredyy's https://codeforces.com/contest/2207/problem/B
+
+732) Skibitus and Fanum Tax (easy version) https://codeforces.com/contest/2065/problem/C1
+
+733) Skibitus and Fanum Tax (hard version) https://codeforces.com/contest/2065/problem/C2
+
+734) Skibitus and Capping https://codeforces.com/contest/2065/problem/G
+
+735) Captain Flint and Crew Recruitment https://codeforces.com/contest/1388/problem/A
+
+736) Captain Flint and Long Voyage https://codeforces.com/contest/1388/problem/B
 
 
 
