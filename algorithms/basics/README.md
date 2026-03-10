@@ -1559,30 +1559,9 @@ https://codeforces.com/contest/1796/problem/A
 
 740) Grid https://cses.fi/177/task/G/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+741) Greater Integers https://cses.fi/359/task/A/
 
       
-
-
-
-
-
-
-
-
-
 
 
 
