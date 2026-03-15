@@ -1561,6 +1561,10 @@ https://codeforces.com/contest/1796/problem/A
 
 741) Greater Integers https://cses.fi/359/task/A/
 
+742) Bingo Candies https://codeforces.com/contest/2208/problem/A
+
+743) Cyclists https://codeforces.com/contest/2208/problem/B
+
       
 
 
