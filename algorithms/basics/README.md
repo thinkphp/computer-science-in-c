@@ -1565,6 +1565,12 @@ https://codeforces.com/contest/1796/problem/A
 
 743) Cyclists https://codeforces.com/contest/2208/problem/B
 
+744) Tree Orientation (Easy Version) https://codeforces.com/contest/2208/problem/D1
+
+745) Tree Orientation (Hard Version) https://codeforces.com/contest/2208/problem/D2
+
+746) Counting Cute Arrays https://codeforces.com/contest/2208/problem/E
+
       
 
 
