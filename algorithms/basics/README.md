@@ -1581,6 +1581,24 @@ https://codeforces.com/contest/1796/problem/A
 
 751) Boxed Like a Fish https://codeforces.com/contest/2207/problem/D
 
+752) Counting Cute Arrays https://codeforces.com/contest/2208/problem/E
+
+753) Tree Orientation (Hard Version) https://codeforces.com/contest/2208/problem/D2
+
+754) Tree Orientation (Easy Version) https://codeforces.com/contest/2208/problem/D1
+
+755) Stamina and Tasks https://codeforces.com/contest/2208/problem/C
+
+756) Niko's Tactical Cards https://codeforces.com/contest/2173/problem/B
+
+757) Sleeping Through Classes https://codeforces.com/contest/2173/problem/A
+
+758) Cyclists https://codeforces.com/contest/2208/problem/B
+
+759) Polycarp and Coins https://codeforces.com/contest/1551/problem/A
+
+760) Wonderful Coloring - 1 https://codeforces.com/contest/1551/problem/B1
+
 
       
 
