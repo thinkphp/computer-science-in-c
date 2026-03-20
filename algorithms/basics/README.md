@@ -1599,6 +1599,16 @@ https://codeforces.com/contest/1796/problem/A
 
 760) Wonderful Coloring - 1 https://codeforces.com/contest/1551/problem/B1
 
+761) Friendly Numbers https://codeforces.com/contest/2197/problem/A
+
+762) Array and Permutation https://codeforces.com/contest/2197/problem/B
+
+763) Game with a Fraction https://codeforces.com/contest/2197/problem/C
+
+764) Another Problem about Beautiful Pairs https://codeforces.com/contest/2197/problem/D
+
+765) Interactice Graph (Eash Version) https://codeforces.com/contest/2197/problem/E1
+
 
       
 
