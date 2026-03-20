@@ -1571,12 +1571,18 @@ https://codeforces.com/contest/1796/problem/A
 
 746) Counting Cute Arrays https://codeforces.com/contest/2208/problem/E
 
+747) Domino (Easy Version) https://codeforces.com/contest/1551/problem/D1
+
+748) Interesting Story https://codeforces.com/contest/1551/problem/C
+
+749) Hanabi https://codeforces.com/contest/2207/problem/F
+
+750) N-MEX (Constructive Version) https://codeforces.com/contest/2207/problem/E1
+
+751) Boxed Like a Fish https://codeforces.com/contest/2207/problem/D
+
+
       
-
-
-
-
-
 
 
 
