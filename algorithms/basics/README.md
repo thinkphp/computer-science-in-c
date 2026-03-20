@@ -1607,7 +1607,7 @@ https://codeforces.com/contest/1796/problem/A
 
 764) Another Problem about Beautiful Pairs https://codeforces.com/contest/2197/problem/D
 
-765) Interactice Graph (Eash Version) https://codeforces.com/contest/2197/problem/E1
+765) Interactive Graph (Simple Version) https://codeforces.com/contest/2197/problem/E1
 
 
       
