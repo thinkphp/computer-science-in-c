@@ -1609,9 +1609,24 @@ https://codeforces.com/contest/1796/problem/A
 
 765) Interactive Graph (Simple Version) https://codeforces.com/contest/2197/problem/E1
 
+766) Treasure Island https://codeforces.com/contest/1214/problem/D
 
-      
+767) Bad Sequence https://codeforces.com/contest/1214/problem/C
 
+768) Badges https://codeforces.com/contest/1214/problem/B
+
+769) Optimal Currency Exchange https://codeforces.com/contest/1214/problem/A
+
+770) Magical Array https://codeforces.com/contest/1704/problem/D
+
+771) Luke is a Foodie https://codeforces.com/contest/1704/problem/B
+
+772) Two 0-1 Sequences https://codeforces.com/contest/1704/problem/A
+
+773) Virus https://codeforces.com/contest/1704/problem/C
+
+
+     
 
 
 
