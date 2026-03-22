@@ -1625,6 +1625,12 @@ https://codeforces.com/contest/1796/problem/A
 
 773) Virus https://codeforces.com/contest/1704/problem/C
 
+774) Flip Flops https://codeforces.com/contest/2209/problem/A
+
+775) Array https://codeforces.com/contest/2209/problem/B
+
+776) Find the Zero https://codeforces.com/contest/2209/problem/C
+
 
      
 
