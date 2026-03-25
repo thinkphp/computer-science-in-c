@@ -1631,6 +1631,16 @@ https://codeforces.com/contest/1796/problem/A
 
 776) Find the Zero https://codeforces.com/contest/2209/problem/C
 
+777) Display the Number https://codeforces.com/contest/1295/problem/A
+
+778) FADI and LCM https://codeforces.com/contest/1285/problem/C
+
+779) Buying Water https://codeforces.com/contest/1118/problem/A
+
+780) String Rotation Game https://codeforces.com/contest/2192/problem/A
+
+781) Flipping Binary String https://codeforces.com/contest/2192/problem/B
+
 
      
 
