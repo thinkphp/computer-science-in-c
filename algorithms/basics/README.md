@@ -1641,6 +1641,12 @@ https://codeforces.com/contest/1796/problem/A
 
 781) Flipping Binary String https://codeforces.com/contest/2192/problem/B
 
+782) Next Permutation https://leetcode.com/problems/next-permutation/description/
+
+783) N-Queens https://leetcode.com/submissions/detail/1958072923/
+
+784) Happy Number https://leetcode.com/problems/happy-number/description/
+
 
      
 
