@@ -67,6 +67,9 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
     - https://leetcode.com/problems/minimum-path-sum/description/
 
 ## Problem Set
+
+Removing digits https://cses.fi/problemset/task/1637/
+
 https://leetcode.com/tag/dynamic-programming/
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
