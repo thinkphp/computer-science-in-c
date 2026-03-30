@@ -70,6 +70,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 Removing digits https://cses.fi/problemset/task/1637/
 
+Frog https://atcoder.jp/contests/dp/tasks/dp_a
+
 https://leetcode.com/tag/dynamic-programming/
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
