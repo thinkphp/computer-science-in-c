@@ -61,9 +61,10 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://ideone.com/cmwTX3
 
 10. Match Words.
+    - 
 
-11. Finding Comb(n,k)
-   * https://ideone.com/ZYjGlM
+12. Finding Comb(n,k)
+   - https://ideone.com/ZYjGlM
 
 12. Minimum Path Sum
     - https://leetcode.com/problems/minimum-path-sum/description/
