@@ -92,6 +92,8 @@ https://www.pbinfo.ro/probleme/4576/bilbob
 
 ## References
 
+https://www.hackerrank.com/topics/dynamic-programming
+
 https://www.cs.princeton.edu/courses/archive/spring21/cos226/lectures/DynamicProgramming.pdf
 
 https://www.cs.ox.ac.uk/files/13359/dynamic.pdf
