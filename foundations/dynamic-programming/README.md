@@ -38,7 +38,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://ideone.com/Cr2Kat for int arr1[], int arr2[]
    * https://ideone.com/tv5Ms7 for string word1, string word2
    
-5. TP - Triangle Problem
+4. Triangle Problem
    * https://ideone.com/PJBk00
    * https://www.pbinfo.ro/probleme/385/sumtri
    * https://www.pbinfo.ro/probleme/386/sumtri1
@@ -59,10 +59,9 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://cses.fi/problemset/task/1639/
    * https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
    * https://ideone.com/cmwTX3
-
 10. Match Words.
-    - 
-
+    -
+    
 12. Finding Comb(n,k)
    - https://ideone.com/ZYjGlM
 
