@@ -74,6 +74,8 @@ Frog https://atcoder.jp/contests/dp/tasks/dp_a
 
 https://leetcode.com/tag/dynamic-programming/
 
+https://atcoder.jp/contests/dp/tasks
+
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 https://www.pbinfo.ro/probleme/categorii/158/programare-dinamica-probleme-de-numarare
