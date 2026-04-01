@@ -68,12 +68,14 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 11. Climbing Stairs
     - https://leetcode.com/problems/climbing-stairs/
+    
+12. Removing digits
+    - https://cses.fi/problemset/task/1637/
 
-## Problem Set
+13. Frog
+    - https://atcoder.jp/contests/dp/tasks/dp_a     
 
-Removing digits https://cses.fi/problemset/task/1637/
-
-Frog https://atcoder.jp/contests/dp/tasks/dp_a
+## Problem Set 
 
 https://leetcode.com/tag/dynamic-programming/
 
