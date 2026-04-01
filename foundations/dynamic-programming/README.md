@@ -24,10 +24,11 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 1. LIS - Longest Increasing Subsequence
    * https://infoarena.ro/problema/scmax
-   * https://cses.fi/problemset/task/1145
+   * https://cses.fi/problemset/task/1145 Increasing Subsequence
    * https://www.pbinfo.ro/probleme/396/sclm
    * https://www.pbinfo.ro/probleme/1876/sclm2
    * https://www.pbinfo.ro/probleme/2086/sclmprime
+   
 
 3. LCS - Longest Common Subsequence
    * https://leetcode.com/problems/longest-common-subsequence/
@@ -48,17 +49,20 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://ideone.com/3jZMWP
    
 5. Knapsack Discret Problem.
-   * https://ideone.com/dTwyz6
+   - https://www.infoarena.ro/problema/rucsac
+   - https://www.pbinfo.ro/probleme/1886/rucsac1
+   - https://ideone.com/dTwyz6
 
-6. Matrix Chain Multiplication
+7. Matrix Chain Multiplication
    * https://ideone.com/GAFmpt
    * https://ideone.com/WMqdeW
 
 8. Levenshtein Distance
    * https://leetcode.com/problems/edit-distance/
-   * https://cses.fi/problemset/task/1639/
+   * Edit Distance https://cses.fi/problemset/task/1639/
    * https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
    * https://ideone.com/cmwTX3
+   
   
 9. Finding Comb(n,k)
    - https://ideone.com/ZYjGlM
@@ -73,7 +77,10 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
     - https://cses.fi/problemset/task/1637/
 
 13. Frog
-    - https://atcoder.jp/contests/dp/tasks/dp_a     
+    - https://atcoder.jp/contests/dp/tasks/dp_a
+   
+14. Best Time To Buy Stocks
+    - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/      
 
 ## Problem Set 
 
@@ -81,19 +88,9 @@ https://leetcode.com/tag/dynamic-programming/
 
 https://atcoder.jp/contests/dp/tasks
 
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
-
 https://www.pbinfo.ro/probleme/categorii/158/programare-dinamica-probleme-de-numarare
 
 https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
-
-https://cses.fi/problemset/task/1639/
-
-https://cses.fi/problemset/task/1145
-
-https://www.infoarena.ro/problema/rucsac
-
-https://www.pbinfo.ro/probleme/1886/rucsac1
 
 https://www.pbinfo.ro/probleme/4439/limbajformal
 
