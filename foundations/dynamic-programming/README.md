@@ -66,6 +66,9 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 10. Minimum Path Sum
     - https://leetcode.com/problems/minimum-path-sum/description/
 
+11. Climbing Stairs
+    - https://leetcode.com/problems/climbing-stairs/
+
 ## Problem Set
 
 Removing digits https://cses.fi/problemset/task/1637/
