@@ -80,7 +80,10 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
     - https://atcoder.jp/contests/dp/tasks/dp_a
    
 14. Best Time To Buy Stocks
-    - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/      
+    - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+   
+15. Stone Tile
+    - https://acm.timus.ru/problem.aspx?space=1&num=1005         
 
 ## Problem Set 
 
