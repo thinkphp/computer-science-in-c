@@ -156,9 +156,13 @@ https://ideone.com/fR8nF8
 
 - LeetCode
   - https://leetcode.com/tag/binary-search/
+  - https://leetcode.com/problems/binary-search/description/
   - https://leetcode.com/problems/find-the-duplicate-number/description/
   - https://leetcode.com/problems/valid-triangle-number/
   - https://leetcode.com/problems/valid-perfect-square/description/
+  - https://leetcode.com/problems/sqrtx/description/
+  - https://leetcode.com/problems/find-peak-element/description/
+  - https://leetcode.com/problems/search-a-2d-matrix/description/
 
 
 - Codeforces
