@@ -31,6 +31,4 @@ Leetcode
 
 ## References
 
-## Ideone
-
-https://ideone.com/thinkphp/divideetimpera
+- https://ideone.com/thinkphp/divideetimpera
