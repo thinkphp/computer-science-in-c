@@ -12,8 +12,13 @@
 
 ## Problem Set:
 
+CSES
 - Hidden Integer https://cses.fi/problemset/task/3112/
+
+PBInfo
 - https://www.pbinfo.ro/probleme/categorii/94/divide-et-impera
+
+Leetcode
 - https://leetcode.com/tag/divide-and-conquer/
 
 ## References
