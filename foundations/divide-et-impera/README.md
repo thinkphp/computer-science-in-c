@@ -12,11 +12,13 @@
 
 ### Practice
 
-1. Quicksort
-2. Mergesort
-3. Towers Hanoi
-4. Max Element
-5. Merge Vectors
+1. Binary Search
+2. Quicksort
+3. Mergesort
+4. Towers Hanoi
+5. Max Element
+6. Merge Vectors
+7. Fast Exponentiation
 
 ## Problem Set:
 
