@@ -438,3 +438,5 @@ https://cs.lmu.edu/~ray/notes/cpp/
 https://cs.lmu.edu/~ray/notes/computerscience/
 
 https://cs.brown.edu/courses/
+
+https://cs.lmu.edu/~ray/classes/a/
