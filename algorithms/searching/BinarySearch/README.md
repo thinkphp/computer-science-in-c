@@ -167,7 +167,7 @@ https://ideone.com/fR8nF8
 
 - Codeforces  
   - Binary Search https://codeforces.com/problemset/problem/1945/E
-  - https://codeforces.com/contest/706/problem/B
+  - Interesting Drink https://codeforces.com/contest/706/problem/B
 
 
 
