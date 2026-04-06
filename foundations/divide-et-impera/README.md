@@ -10,6 +10,14 @@
   * https://ideone.com/thinkphp/divideetimpera
   * https://replit.com/@emilstates/findminmaxcpp#main.cpp Find Min Max Array Elements
 
+### Practice
+
+1. Quicksort
+2. Mergesort
+3. Towers Hanoi
+4. Max Element
+5. Merge Vectors
+
 ## Problem Set:
 
 CSES
