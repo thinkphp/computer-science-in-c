@@ -96,7 +96,10 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
     - https://leetcode.com/problems/word-break/description/
 
 19. Longest Palindromic Substring
-    - https://leetcode.com/problems/longest-palindromic-substring/description/     
+    - https://leetcode.com/problems/longest-palindromic-substring/description/
+
+20. First and Second
+    - https://codeforces.com/contest/2178/problem/C        
 
 ## Problem Set 
 
