@@ -165,8 +165,9 @@ https://ideone.com/fR8nF8
   - https://leetcode.com/problems/search-a-2d-matrix/description/
 
 
-- Codeforces
+- Codeforces  
   - Binary Search https://codeforces.com/problemset/problem/1945/E
+  - https://codeforces.com/contest/706/problem/B
 
 
 
