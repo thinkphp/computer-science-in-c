@@ -40,6 +40,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://ideone.com/tv5Ms7 for string word1, string word2
    
 4. Triangle Problem
+   * https://leetcode.com/problems/triangle/
    * https://ideone.com/PJBk00
    * https://www.pbinfo.ro/probleme/385/sumtri
    * https://www.pbinfo.ro/probleme/386/sumtri1
@@ -83,7 +84,19 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
     - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
    
 15. Stone Tile
-    - https://acm.timus.ru/problem.aspx?space=1&num=1005         
+    - https://acm.timus.ru/problem.aspx?space=1&num=1005
+
+16. Integer Break
+    - https://leetcode.com/problems/integer-break/description/
+
+17. House Robber
+    - https://leetcode.com/problems/house-robber/description/
+
+18. Word Break
+    - https://leetcode.com/problems/word-break/description/
+
+19. Longest Palindromic Substring
+    - https://leetcode.com/problems/longest-palindromic-substring/description/     
 
 ## Problem Set 
 
