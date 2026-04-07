@@ -52,7 +52,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 7. MSS - Maximum Subsequence Sum
    * https://ideone.com/3jZMWP
    
-8. Knapsack Discret Problem.
+8. Knapsack Discret Problem 0/1
    - https://www.infoarena.ro/problema/rucsac
    - https://www.pbinfo.ro/probleme/1886/rucsac1
    - https://ideone.com/dTwyz6
