@@ -41,9 +41,11 @@ END
 
 ## Problem Set
 - False Alarm https://codeforces.com/contest/2117/problem/A
+- Valid Palindrome 2 https://leetcode.com/problems/valid-palindrome-ii/description/
+- Remove Duplicate Letters https://leetcode.com/problems/remove-duplicate-letters/description
 - https://leetcode.com/tag/greedy/
 - https://www.pbinfo.ro/probleme/categorii/25/metoda-greedy
-
+- https://ideone.com/thinkphp/greedy
 
 
 
@@ -53,6 +55,6 @@ https://www.freecodecamp.org/news/greedy-algorithms/
 
 https://infoarena.ro/metoda-greedy-si-problema-fractionara-a-rucsacului
 
-## Ideone
 
-https://ideone.com/thinkphp/greedy
+
+
