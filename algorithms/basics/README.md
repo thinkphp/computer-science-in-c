@@ -1647,6 +1647,12 @@ https://codeforces.com/contest/1796/problem/A
 
 784) Happy Number https://leetcode.com/problems/happy-number/description/
 
+785) Hard Work https://codeforces.com/contest/61/problem/B
+
+786) Interesting Drink https://codeforces.com/contest/706/problem/B
+
+787) Ultra-fast Mathematician https://codeforces.com/contest/61/problem/A
+
 
      
 
