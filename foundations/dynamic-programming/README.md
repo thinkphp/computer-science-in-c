@@ -25,6 +25,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 1. LIS - Longest Increasing Subsequence
    * https://infoarena.ro/problema/scmax
    * https://cses.fi/problemset/task/1145 Increasing Subsequence
+   * https://www.hackerrank.com/challenges/longest-increasing-subsequent/problem
    * https://www.pbinfo.ro/probleme/396/sclm
    * https://www.pbinfo.ro/probleme/1876/sclm2
    * https://www.pbinfo.ro/probleme/2086/sclmprime
@@ -32,6 +33,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 3. LCS - Longest Common Subsequence
    * https://leetcode.com/problems/longest-common-subsequence/
+   * https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem
    * https://infoarena.ro/problema/cmlsc
    * https://ideone.com/6EcvVr
    * https://ideone.com/sfThv1
@@ -55,6 +57,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 8. Knapsack Discret Problem 0/1
    - https://www.infoarena.ro/problema/rucsac
    - https://www.pbinfo.ro/probleme/1886/rucsac1
+   - https://www.hackerrank.com/challenges/unbounded-knapsack/problem
    - https://ideone.com/dTwyz6
 
 9. Matrix Chain Multiplication
@@ -105,6 +108,12 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 22. The Coin Change
     - https://www.hackerrank.com/challenges/coin-change/problem
+
+23. Coin Combinations 1
+    - https://cses.fi/problemset/task/1635 
+
+24. Coin Combinations 2
+    - https://cses.fi/problemset/task/1636
 
 ## Problem Set 
 
