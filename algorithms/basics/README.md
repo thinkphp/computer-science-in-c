@@ -532,8 +532,6 @@
 
 220) Chess Tourney https://codeforces.com/contest/845/problem/A
 
-221) Ultra-Fast Mathematician https://codeforces.com/contest/61/problem/A
-
 222) Maximum subarray https://leetcode.com/problems/maximum-subarray/description/  - Kadane's algorithm
 
 223) Maximum Subarray Sum https://cses.fi/problemset/task/1643 - Kadane's algorithm
@@ -1653,6 +1651,7 @@ https://codeforces.com/contest/1796/problem/A
 
 787) Ultra-fast Mathematician https://codeforces.com/contest/61/problem/A
 
+788) Beru-taxi https://codeforces.com/contest/706/problem/A
 
      
 
