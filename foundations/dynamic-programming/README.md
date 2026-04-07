@@ -20,7 +20,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 4. Construct an optimal solution from computed information.
 
 
-### Practice
+### Classical Problems
 
 1. LIS - Longest Increasing Subsequence
    * https://infoarena.ro/problema/scmax
@@ -65,8 +65,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://leetcode.com/problems/edit-distance/
    * Edit Distance https://cses.fi/problemset/task/1639/
    * https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
-   * https://ideone.com/cmwTX3
-   
+   * https://ideone.com/cmwTX3   
   
 11. Finding Comb(n,k)
    - https://ideone.com/ZYjGlM
@@ -102,7 +101,10 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
     - https://leetcode.com/problems/longest-palindromic-substring/description/
 
 21. First and Second
-    - https://codeforces.com/contest/2178/problem/C        
+    - https://codeforces.com/contest/2178/problem/C
+
+22. The Coin Change
+    - https://www.hackerrank.com/challenges/coin-change/problem
 
 ## Problem Set 
 
