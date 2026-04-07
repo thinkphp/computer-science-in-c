@@ -46,7 +46,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://www.pbinfo.ro/probleme/386/sumtri1
    
 5. SubSet Sum Problem 
-   - https://leetcode.com/problems/partition-equal-subset-sum/description/
+   - Partition Equal Subset Sum https://leetcode.com/problems/partition-equal-subset-sum/description/
+   - Target Sum https://leetcode.com/problems/target-sum/description/
    
 7. MSS - Maximum Subsequence Sum
    * https://ideone.com/3jZMWP
