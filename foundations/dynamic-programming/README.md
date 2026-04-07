@@ -45,60 +45,61 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    * https://www.pbinfo.ro/probleme/385/sumtri
    * https://www.pbinfo.ro/probleme/386/sumtri1
    
+5. SubSet Sum Problem (1,3,4,5) S = 8 => Output: YES; 1 + 3 + 4;
    
-4. MSS - Maximum Subsequence Sum
+6. MSS - Maximum Subsequence Sum
    * https://ideone.com/3jZMWP
    
-5. Knapsack Discret Problem.
+7. Knapsack Discret Problem.
    - https://www.infoarena.ro/problema/rucsac
    - https://www.pbinfo.ro/probleme/1886/rucsac1
    - https://ideone.com/dTwyz6
 
-7. Matrix Chain Multiplication
+8. Matrix Chain Multiplication
    * https://ideone.com/GAFmpt
    * https://ideone.com/WMqdeW
 
-8. Levenshtein Distance
+9. Levenshtein Distance
    * https://leetcode.com/problems/edit-distance/
    * Edit Distance https://cses.fi/problemset/task/1639/
    * https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
    * https://ideone.com/cmwTX3
    
   
-9. Finding Comb(n,k)
+10. Finding Comb(n,k)
    - https://ideone.com/ZYjGlM
 
-10. Minimum Path Sum
+11. Minimum Path Sum
     - https://leetcode.com/problems/minimum-path-sum/description/
 
-11. Climbing Stairs
+12. Climbing Stairs
     - https://leetcode.com/problems/climbing-stairs/
     
-12. Removing digits
+13. Removing digits
     - https://cses.fi/problemset/task/1637/
 
-13. Frog
+14. Frog
     - https://atcoder.jp/contests/dp/tasks/dp_a
    
-14. Best Time To Buy Stocks
+15. Best Time To Buy Stocks
     - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
    
-15. Stone Tile
+16. Stone Tile
     - https://acm.timus.ru/problem.aspx?space=1&num=1005
 
-16. Integer Break
+17. Integer Break
     - https://leetcode.com/problems/integer-break/description/
 
-17. House Robber
+18. House Robber
     - https://leetcode.com/problems/house-robber/description/
 
-18. Word Break
+19. Word Break
     - https://leetcode.com/problems/word-break/description/
 
-19. Longest Palindromic Substring
+20. Longest Palindromic Substring
     - https://leetcode.com/problems/longest-palindromic-substring/description/
 
-20. First and Second
+21. First and Second
     - https://codeforces.com/contest/2178/problem/C        
 
 ## Problem Set 
