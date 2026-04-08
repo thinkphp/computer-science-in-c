@@ -48,7 +48,7 @@ Tehnicile de programare reprezintă paradigme fundamentale în informatică pent
 
 ---
 
-## 2. Backtracking - Explorarea cu Revenire {#backtracking}
+## 2. Backtracking - Explorarea cu Revenire
 
 ### 2.1 Fundamente Teoretice
 
