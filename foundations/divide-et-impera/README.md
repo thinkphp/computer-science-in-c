@@ -15,10 +15,13 @@
 1. Binary Search
 2. Quicksort
 3. Mergesort
-4. Towers Hanoi
-5. Max Element
-6. Merge Vectors
-7. Fast Exponentiation
+4. Suma Gauss
+5. Towers Hanoi
+6. Min/Max Element
+7. Merge Lists
+8. Inversions
+9. Fast Exponentiation
+10. Max Subarray
 
 ## Problem Set:
 
