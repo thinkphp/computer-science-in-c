@@ -19,7 +19,7 @@
 5. Towers Hanoi
 6. Min/Max Element
 7. Merge Lists
-8. Inversions
+8. Number of Inversions
 9. Fast Exponentiation
 10. Max Subarray
 
