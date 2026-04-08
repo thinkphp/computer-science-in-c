@@ -6,11 +6,8 @@
   
   Examples:
 
-  * https://ideone.com/Yd0kPv (quicksort and select K min)
-  * https://ideone.com/thinkphp/divideetimpera
-  * https://replit.com/@emilstates/findminmaxcpp#main.cpp Find Min Max Array Elements
-
-### Practice
+  
+### Problem Set
 
 1. Binary Search
 2. Quicksort
@@ -39,3 +36,7 @@ Leetcode
 ## References
 
 - https://ideone.com/thinkphp/divideetimpera
+- https://ideone.com/Yd0kPv (quicksort and select K min)
+- https://ideone.com/thinkphp/divideetimpera
+- https://replit.com/@emilstates/findminmaxcpp#main.cpp Find Min Max Array Elements
+
