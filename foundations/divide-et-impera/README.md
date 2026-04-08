@@ -16,12 +16,13 @@
 2. Quicksort
 3. Mergesort
 4. Suma Gauss
-5. Towers Hanoi
+5. Towers of Hanoi
 6. Min/Max Element
 7. Merge Lists
 8. Number of Inversions
-9. Fast Exponentiation
-10. Max Subarray
+9. Closest Pairs of Points
+10. Fast Exponentiation
+11. Max Sum Subarray
 
 ## Problem Set:
 
