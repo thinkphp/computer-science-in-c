@@ -1,4 +1,4 @@
-### Minimum Spanning Tree
+## Minimum Spanning Tree
 
 ### Problem Set
 
