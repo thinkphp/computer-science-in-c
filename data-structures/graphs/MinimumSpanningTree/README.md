@@ -1,11 +1,14 @@
 ### Minimum Spanning Tree
 
 ### Problem Set
-https://www.infoarena.ro/problema/apm
 
-https://leetcode.com/tag/minimum-spanning-tree/
+- Arbore partial de cost minim https://www.infoarena.ro/problema/apm
 
-https://www.pbinfo.ro/probleme/590/prim
+- Cablaj https://www.infoarena.ro/problema/cablaj
+
+- https://leetcode.com/tag/minimum-spanning-tree/
+
+- https://www.pbinfo.ro/probleme/590/prim
 
 ### References
 
