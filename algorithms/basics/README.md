@@ -1653,6 +1653,12 @@ https://codeforces.com/contest/1796/problem/A
 
 788) Beru-taxi https://codeforces.com/contest/706/problem/A
 
+789) Tigri https://www.infoarena.ro/problema/tigri
+
+790) Simpla https://www.infoarena.ro/problema/simpla
+
+791) Cablaj https://www.infoarena.ro/problema/cablaj (Arborele Partial de Cost Minim Prime)
+
      
 
 
