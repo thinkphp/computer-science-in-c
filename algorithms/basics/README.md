@@ -1657,7 +1657,7 @@ https://codeforces.com/contest/1796/problem/A
 
 790) Simpla https://www.infoarena.ro/problema/simpla
 
-791) Cablaj https://www.infoarena.ro/problema/cablaj (Arborele Partial de Cost Minim Prime)
+791) Cablaj https://www.infoarena.ro/problema/cablaj (Arborele Partial de Cost Minim * Prim's Algorithm)
 
      
 
