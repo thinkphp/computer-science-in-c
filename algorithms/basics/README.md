@@ -1659,6 +1659,10 @@ https://codeforces.com/contest/1796/problem/A
 
 791) Cablaj https://www.infoarena.ro/problema/cablaj (Arborele Partial de Cost Minim * Prim's Algorithm)
 
+792) Easy Number Chalange https://codeforces.com/contest/236/problem/B
+
+793) Boy or Girl https://codeforces.com/contest/236/problem/A
+
      
 
 
