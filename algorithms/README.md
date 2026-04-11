@@ -1,4 +1,4 @@
-# Fundamental Algorithms
+# Fundamental Algorithms P = NP
 
 - Euclid's algorithm
 - Extended Euclid's algorithm
