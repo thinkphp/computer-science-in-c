@@ -30,6 +30,7 @@ PBInfo
 Leetcode
 - https://leetcode.com/tag/divide-and-conquer/
 - Count of smaller numbers after self https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/
+- Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/description/
 
 ## References
 
