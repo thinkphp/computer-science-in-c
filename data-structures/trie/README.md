@@ -4,9 +4,10 @@ In computer science, a trie, also called digital tree and sometimes radis tree o
 structure that is used to store a dynamic set or associative array where the keys are usually strings.
 
 #### Problem Set
- - Trie https://www.infoarena.ro/problema/trie 
  - https://leetcode.com/tag/trie/
+ - https://www.infoarena.ro/problema/trie  
  - Cuvinte https://kilonova.ro/problems/65/ ONI 2021 XI-XII: Problema 3
+ - Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/description/
 
 ![Screenshot](http://www.codeproject.com/KB/recipes/PhoneDirectory/Trie.jpg)
 ![Screenshot](http://www.danvk.org/wp/wp-content/uploads/2007/02/bubbles-lines.png)
