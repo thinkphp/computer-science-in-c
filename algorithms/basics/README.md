@@ -1663,6 +1663,8 @@ https://codeforces.com/contest/1796/problem/A
 
 793) Boy or Girl https://codeforces.com/contest/236/problem/A
 
+794) NP-Hard https://codeforces.com/contest/687/problem/A
+
      
 
 
