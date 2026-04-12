@@ -39,22 +39,6 @@ universe is in S. The vector can even represent a sequence of moves i
 20. Sudoku. https://ideone.com/HftRzb
 21. Mouse https://ideone.com/1kPWvt
 22. abc123 Problem Polytech Admission https://ideone.com/HGqAqV
-
-## Referecens
- 
-    * https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming 
-    
-    * https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1188/lectures/Lecture11/Lecture11.pdf
-
-## Practice
-
-https://leetcode.com/tag/backtracking/
-
-https://www.pbinfo.ro/probleme/categorii/51/backtracking-backtracking-in-plan
-
-https://www.pbinfo.ro/probleme/categorii/28/backtracking-elemente-de-combinatorica
-
-https://www.pbinfo.ro/probleme/categorii/50/backtracking-probleme-diverse
     
 ## Applications    
     
@@ -124,10 +108,19 @@ https://ideone.com/1kPWvt
 ### abc123
 https://ideone.com/HGqAqV
 
-## Problem Set
 
-https://www.pbinfo.ro/probleme/categorii/27/backtracking
 
-### Ideone
+### Problem Set
+- https://leetcode.com/tag/backtracking/
+- Restore IP Addresses https://leetcode.com/problems/restore-ip-addresses/description/
+- https://www.pbinfo.ro/probleme/categorii/51/backtracking-backtracking-in-plan
+- https://www.pbinfo.ro/probleme/categorii/28/backtracking-elemente-de-combinatorica
+- https://www.pbinfo.ro/probleme/categorii/50/backtracking-probleme-diverse
+- https://www.pbinfo.ro/probleme/categorii/27/backtracking
 
-https://ideone.com/thinkphp/backtracking
+
+## Referecens
+ 
+    * https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming 
+    * https://ideone.com/thinkphp/backtracking    
+    * https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1188/lectures/Lecture11/Lecture11.pdf
