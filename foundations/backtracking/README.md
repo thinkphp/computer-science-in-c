@@ -40,7 +40,6 @@ universe is in S. The vector can even represent a sequence of moves i
 21. Mouse https://ideone.com/1kPWvt
 22. abc123 Problem Polytech Admission https://ideone.com/HGqAqV
     
-## Applications    
     
 ###  Permutations.
 https://ideone.com/r2D5KS
