@@ -119,7 +119,6 @@ https://ideone.com/HGqAqV
 
 
 ## Referecens
- 
-    - https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming 
-    - https://ideone.com/thinkphp/backtracking    
-    - https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1188/lectures/Lecture11/Lecture11.pdf
+- https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming 
+- https://ideone.com/thinkphp/backtracking    
+- https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1188/lectures/Lecture11/Lecture11.pdf
