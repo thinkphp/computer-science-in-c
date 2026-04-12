@@ -1665,6 +1665,26 @@ https://codeforces.com/contest/1796/problem/A
 
 794) NP-Hard https://codeforces.com/contest/687/problem/A
 
+795) Reverse Root https://acm.timus.ru/problem.aspx?space=1&num=1001
+
+796) Phone Numbers https://acm.timus.ru/problem.aspx?space=1&num=1002
+
+797) Parity https://acm.timus.ru/problem.aspx?space=1&num=1003
+
+798) Stone Pile https://acm.timus.ru/problem.aspx?space=1&num=1005
+
+799) Product of Digits https://acm.timus.ru/problem.aspx?space=1&num=1014
+
+800) Factorials!!! https://acm.timus.ru/problem.aspx?space=1&num=1083
+
+801) Workdays https://acm.timus.ru/problem.aspx?space=1&num=1264
+
+802) Enyia https://acm.timus.ru/problem.aspx?space=1&num=1293
+
+803) Two Gangsters https://acm.timus.ru/problem.aspx?space=1&num=1409
+
+804) Simple Expression https://acm.timus.ru/problem.aspx?space=1&num=2066
+
      
 
 
