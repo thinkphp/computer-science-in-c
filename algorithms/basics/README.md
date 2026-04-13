@@ -1685,6 +1685,32 @@ https://codeforces.com/contest/1796/problem/A
 
 804) Simple Expression https://acm.timus.ru/problem.aspx?space=1&num=2066
 
+805) Make Even https://codeforces.com/contest/1611/problem/A
+
+806) Team Composition:  Programmers and Mathematicians https://codeforces.com/contest/1611/problem/B
+
+807) Polycarp Recovers the Permutations https://codeforces.com/contest/1611/problem/C
+
+808) Weights Assignments For Tree Edges https://codeforces.com/contest/1611/problem/D
+
+809) Escape the Maze (Easy version) https://codeforces.com/contest/1611/problem/E1
+
+810) Escape the Maze (hard version) https://codeforces.com/contest/1611/problem/E2
+
+811) Ecuatii https://kilonova.ro/problems/2918?list_id=1142
+
+812) Esentiale https://kilonova.ro/problems/4180?list_id=1551
+
+813) Gems https://kilonova.ro/problems/4181?list_id=1551
+
+814) Collatz https://kilonova.ro/problems/4225
+
+815) Canonic https://kilonova.ro/problems/4271
+
+816) Fractii2 https://kilonova.ro/problems/34
+
+817) cifPrim https://kilonova.ro/problems/75
+
      
 
 
