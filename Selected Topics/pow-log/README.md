@@ -5,6 +5,7 @@
 
 - https://www.nerdarena.ro/problema/abc1
 - https://www.infoarena.ro/problema/lgput
+- The last digit https://www.spoj.com/problems/LASTDIG/
 
 ### Referecens
 - https://www.pbinfo.ro/articole/18954/exponentiere-rapida
