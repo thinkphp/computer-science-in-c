@@ -26,6 +26,8 @@ CSES
 
 PBInfo
 - https://www.pbinfo.ro/probleme/categorii/94/divide-et-impera
+- https://www.pbinfo.ro/probleme/2527/hanoi
+- https://cses.fi/problemset/task/2165
 
 Leetcode
 - https://leetcode.com/tag/divide-and-conquer/
