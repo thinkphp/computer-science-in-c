@@ -69,13 +69,15 @@
  
  * https://atcoder.jp/contests/archive
  
+ * https://acm.timus.ru/problemset.aspx
+ 
  * https://leetcode.com/problemset/
 
  * https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving
 
  * https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/ 
 
- * https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
+ * UVa https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
 
  * https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
