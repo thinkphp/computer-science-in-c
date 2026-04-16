@@ -126,6 +126,8 @@ https://leetcode.com/tag/dynamic-programming/
 
 https://atcoder.jp/contests/dp/tasks
 
+https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=dynamic-programming
+
 https://www.pbinfo.ro/probleme/categorii/158/programare-dinamica-probleme-de-numarare
 
 https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
