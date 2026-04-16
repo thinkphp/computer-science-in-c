@@ -3,8 +3,8 @@
 
 ### Problem Set
 
-- https://www.nerdarena.ro/problema/abc1
-- https://www.infoarena.ro/problema/lgput
+- Abc 1 (clasa a 9-a) https://www.nerdarena.ro/problema/abc1
+- Ridicare la putere in timp logaritmic https://www.infoarena.ro/problema/lgput
 - The last digit https://www.spoj.com/problems/LASTDIG/
 
 ### Referecens
