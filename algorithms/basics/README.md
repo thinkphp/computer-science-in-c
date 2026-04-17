@@ -1715,6 +1715,8 @@ https://codeforces.com/contest/1796/problem/A
 
 817) cifPrim https://kilonova.ro/problems/75
 
+818) Maximum Neighborshood https://codeforces.com/contest/2170/problem/A
+
      
 
 
