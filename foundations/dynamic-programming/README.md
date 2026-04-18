@@ -62,10 +62,12 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    - https://ideone.com/dTwyz6
 
 9. Matrix Chain Multiplication
-   * https://ideone.com/GAFmpt
-   * https://ideone.com/WMqdeW
+   - https://infoarena.ro/problema/podm
+   - https://infoarena.ro/problema/redu 
+   - https://ideone.com/GAFmpt
+   - https://ideone.com/WMqdeW
 
-10. Levenshtein Distance
+11. Levenshtein Distance
    * https://leetcode.com/problems/edit-distance/
    * Edit Distance https://cses.fi/problemset/task/1639/
    * https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
