@@ -58,6 +58,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    - https://www.infoarena.ro/problema/rucsac
    - https://www.pbinfo.ro/probleme/1886/rucsac1
    - https://www.hackerrank.com/challenges/unbounded-knapsack/problem
+   - https://leetcode.com/problems/painting-the-walls/
    - https://ideone.com/dTwyz6
 
 9. Matrix Chain Multiplication
