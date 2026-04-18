@@ -155,7 +155,4 @@ https://usaco.guide/gold/intro-dp?lang=cpp
 
 https://usaco.guide/gold/lis?lang=cpp
 
-
-## Ideone
-
 https://ideone.com/thinkphp/dynamicprogramming
