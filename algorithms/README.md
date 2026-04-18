@@ -78,6 +78,7 @@ In summary, algorithm design is about creating efficient and correct solutions, 
 * Imperial College London Graphs and Algorithms https://www.imperial.ac.uk/computing/current-students/courses/40008/
 * Imperial College London Algorithms https://www.imperial.ac.uk/computing/current-students/courses/70087/
 * ETH Zurich Algorithmen und Datenstrukturen https://cadmo.ethz.ch/education/lectures/HS21/DA/index.html#Lectures
+* https://sites.google.com/site/centrulinfo1/materiale-video/algoritmi-video?authuser=0
 
 
 #### Books
