@@ -157,6 +157,7 @@ https://ideone.com/fR8nF8
 - LeetCode
   - https://leetcode.com/tag/binary-search/
   - https://leetcode.com/problems/koko-eating-bananas/description/
+  - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
   - https://leetcode.com/problems/binary-search/description/
   - https://leetcode.com/problems/find-the-duplicate-number/description/
   - https://leetcode.com/problems/valid-triangle-number/
@@ -169,6 +170,7 @@ https://ideone.com/fR8nF8
 - Codeforces  
   - Binary Search https://codeforces.com/problemset/problem/1945/E
   - Interesting Drink https://codeforces.com/contest/706/problem/B
+  - Number of Pairs https://codeforces.com/contest/1538/problem/C
 
 
 
