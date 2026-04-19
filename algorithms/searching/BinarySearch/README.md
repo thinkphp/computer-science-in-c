@@ -156,6 +156,7 @@ https://ideone.com/fR8nF8
 
 - LeetCode
   - https://leetcode.com/tag/binary-search/
+  - https://leetcode.com/problems/koko-eating-bananas/description/
   - https://leetcode.com/problems/binary-search/description/
   - https://leetcode.com/problems/find-the-duplicate-number/description/
   - https://leetcode.com/problems/valid-triangle-number/
