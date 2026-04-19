@@ -1,5 +1,8 @@
 # Bisection Method — Theory & Implementation
 
+## Practice
+- https://ideone.com/1sJhUF
+
 ## Overview
 
 The bisection method is a numerical analysis technique for finding roots of continuous functions. It belongs to the **divide and conquer** family of algorithms (alongside binary search, merge sort, etc.) and is the first method taught in numerical analysis courses due to its simplicity and guaranteed convergence.
