@@ -287,3 +287,13 @@ Bisection is preferred when **reliability matters more than speed**.
 ```
 
 The bisection method will always find the root — provided you start from a valid interval.
+
+
+### References 
+
+- https://web.mit.edu/10.001/Web/Course_Notes/NLAE/node2.html
+- https://www.geeksforgeeks.org/dsa/program-for-bisection-method/
+- https://en.wikipedia.org/wiki/Bisection_method
+- https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/chapter19.03-Bisection-Method.html
+- https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/10RootFinding/bisection/complete.html
+- https://people.clas.ufl.edu/kees/files/Bisection.pdf
