@@ -1719,6 +1719,10 @@ https://codeforces.com/contest/1796/problem/A
 
 819) Rotate Image https://leetcode.com/problems/rotate-image/description/
 
+820) Chat Server's Outgoing Traffic https://codeforces.com/contest/5/problem/A
+
+821) Center Alignment https://codeforces.com/contest/5/problem/B
+
      
 
 
