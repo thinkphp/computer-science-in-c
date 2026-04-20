@@ -6,14 +6,16 @@ A bipartite graph, also called a bigraph, is a set of graph vertices decomposed 
 In computer science, the Hopcroft–Karp algorithm (sometimes more accurately called the Hopcroft–Karp–Karzanov Algorithm) is an algorithm that takes a bipartite graph as input and produces a maximum-cardinality matching as output — a set of as many edges as possible with the property that no two edges share an endpoint. 
 
 
-### Ideone
+### Problem Set
+- https://leetcode.com/problems/is-graph-bipartite/description/
 
-* https://ideone.com/Diby1I ()
 
-* https://ideone.com/gJFC7M ()
 
 ### References
 
 - https://en.wikipedia.org/wiki/Hopcroft%E2%80%93Karp_algorithm
 - https://www.algopedia.ro/wiki/index.php/Clasa_a_XI-a_lec%C8%9Bia_17#Graf_Bipartit
+- https://ideone.com/Diby1I 
+- https://ideone.com/gJFC7M
+
 
