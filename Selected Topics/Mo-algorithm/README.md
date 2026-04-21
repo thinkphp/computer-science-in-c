@@ -167,6 +167,7 @@ Output-ul va fi:
 ### Practice
 - https://www.infoarena.ro/problema/suma6
 - https://www.pbinfo.ro/probleme/eticheta/354/algoritmul-lui-mo
+- https://codeforces.com/blog/entry/83630
 
 ### References
 - https://codeforces.com/blog/entry/81716
