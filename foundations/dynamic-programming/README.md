@@ -74,7 +74,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
     - https://ideone.com/cmwTX3   
   
 11. Finding Comb(n,k)
-   - https://ideone.com/ZYjGlM
+    - https://ideone.com/ZYjGlM
 
 11. Minimum Path Sum
     - https://leetcode.com/problems/minimum-path-sum/description/
