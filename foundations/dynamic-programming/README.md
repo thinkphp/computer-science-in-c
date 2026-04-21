@@ -79,8 +79,14 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 11. Minimum Path Sum
     - https://leetcode.com/problems/minimum-path-sum/description/
 
+12. Unique Paths
+    - https://leetcode.com/problems/unique-paths/description/
+
+13. Unique Path 2
+    - https://leetcode.com/problems/unique-paths-ii/description/
+
 12. Climbing Stairs
-    - https://leetcode.com/problems/climbing-stairs/
+    - https://leetcode.com/problems/climbing-stairs/      
     
 13. Removing digits
     - https://cses.fi/problemset/task/1637/
