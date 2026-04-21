@@ -24,7 +24,13 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 1. Climbing Stairs
     - https://leetcode.com/problems/climbing-stairs/
-      
+
+2. Triangle Problem
+   - https://leetcode.com/problems/triangle/
+   - https://ideone.com/PJBk00
+   - https://www.pbinfo.ro/probleme/385/sumtri
+   - https://www.pbinfo.ro/probleme/386/sumtri1
+
 2. LIS - Longest Increasing Subsequence
    - https://infoarena.ro/problema/scmax
    - https://cses.fi/problemset/task/1145 Increasing Subsequence
@@ -33,6 +39,19 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    - https://www.pbinfo.ro/probleme/1876/sclm2
    - https://www.pbinfo.ro/probleme/2086/sclmprime
    
+3. Knapsack Problem (Discreat 0/1)
+   - https://www.infoarena.ro/problema/rucsac
+   - https://www.pbinfo.ro/probleme/1886/rucsac1
+   - https://www.hackerrank.com/challenges/unbounded-knapsack/problem
+   - https://leetcode.com/problems/painting-the-walls/
+   - https://ideone.com/dTwyz6
+
+4. Levenshtein Distance
+    - https://leetcode.com/problems/edit-distance/
+    - Edit Distance https://cses.fi/problemset/task/1639/
+    - https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
+    - https://ideone.com/cmwTX3   
+  
 
 3. LCS - Longest Common Subsequence
    - https://leetcode.com/problems/longest-common-subsequence/
@@ -43,13 +62,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    - https://ideone.com/kf02K5
    - https://ideone.com/Cr2Kat for int arr1[], int arr2[]
    - https://ideone.com/tv5Ms7 for string word1, string word2
-   
-4. Triangle Problem
-   - https://leetcode.com/problems/triangle/
-   - https://ideone.com/PJBk00
-   - https://www.pbinfo.ro/probleme/385/sumtri
-   - https://www.pbinfo.ro/probleme/386/sumtri1
-   
+      
 5. SubSet Sum Problem 
    - Partition Equal Subset Sum https://leetcode.com/problems/partition-equal-subset-sum/description/
    - Target Sum https://leetcode.com/problems/target-sum/description/
@@ -57,25 +70,12 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 7. MSS - Maximum Subsequence Sum
    * https://ideone.com/3jZMWP
    
-8. Knapsack Discret Problem 0/1
-   - https://www.infoarena.ro/problema/rucsac
-   - https://www.pbinfo.ro/probleme/1886/rucsac1
-   - https://www.hackerrank.com/challenges/unbounded-knapsack/problem
-   - https://leetcode.com/problems/painting-the-walls/
-   - https://ideone.com/dTwyz6
-
 9. Matrix Chain Multiplication
    - https://infoarena.ro/problema/podm
    - https://infoarena.ro/problema/redu 
    - https://ideone.com/GAFmpt
    - https://ideone.com/WMqdeW
 
-11. Levenshtein Distance
-    - https://leetcode.com/problems/edit-distance/
-    - Edit Distance https://cses.fi/problemset/task/1639/
-    - https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
-    - https://ideone.com/cmwTX3   
-  
 11. Finding Comb(n,k)
     - https://ideone.com/ZYjGlM
 
