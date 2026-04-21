@@ -68,10 +68,10 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    - https://ideone.com/WMqdeW
 
 11. Levenshtein Distance
-   * https://leetcode.com/problems/edit-distance/
-   * Edit Distance https://cses.fi/problemset/task/1639/
-   * https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
-   * https://ideone.com/cmwTX3   
+    - https://leetcode.com/problems/edit-distance/
+    - Edit Distance https://cses.fi/problemset/task/1639/
+    - https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
+    - https://ideone.com/cmwTX3   
   
 11. Finding Comb(n,k)
    - https://ideone.com/ZYjGlM
