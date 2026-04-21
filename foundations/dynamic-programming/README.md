@@ -70,19 +70,20 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 7. MSS - Maximum Subsequence Sum
    * https://ideone.com/3jZMWP
    
-9. Matrix Chain Multiplication
+11. Finding Comb(n,k)
+    - https://ideone.com/ZYjGlM
+
+12. Matrix Chain Multiplication
    - https://infoarena.ro/problema/podm
    - https://infoarena.ro/problema/redu 
    - https://ideone.com/GAFmpt
    - https://ideone.com/WMqdeW
 
-11. Finding Comb(n,k)
-    - https://ideone.com/ZYjGlM
 
-11. Minimum Path Sum
+13. Minimum Path Sum
     - https://leetcode.com/problems/minimum-path-sum/description/
 
-12. Unique Paths
+14. Unique Paths
     - https://leetcode.com/problems/unique-paths/description/
 
 13. Unique Path 2
