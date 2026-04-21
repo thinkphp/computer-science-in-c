@@ -20,7 +20,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 4. Construct an optimal solution from computed information.
 
 
-### Classical Problems
+### Classical Problem Set
 
 1. Climbing Stairs
     - https://leetcode.com/problems/climbing-stairs/
@@ -134,7 +134,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
     - https://www.pbinfo.ro/solutii/user/thinkphp/problema/4918/treptepd
      
 
-## Problem Set 
+## Practice
 
 https://leetcode.com/tag/dynamic-programming/
 
