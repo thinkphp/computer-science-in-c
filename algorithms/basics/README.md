@@ -1723,6 +1723,8 @@ https://codeforces.com/contest/1796/problem/A
 
 821) Center Alignment https://codeforces.com/contest/5/problem/B
 
+822) Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+
      
 
 
