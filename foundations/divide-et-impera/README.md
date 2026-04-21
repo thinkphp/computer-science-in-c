@@ -4,7 +4,7 @@
   A divide and conquer algorithm works by recursively breaking down a problem into two or more sub-problems of the same type (divide),
   until these become simple enough to be solved directly (conquer).
       
-### Problem Set
+### Classical Problem Set
 
 1. Binary Search
 2. Quicksort
@@ -19,8 +19,9 @@
 11. Fast Exponentiation
 12. Max Sum Subarray
 13. Natural logarithm
-## Problem Set:
 
+
+## Practice
 CSES
 - Hidden Integer https://cses.fi/problemset/task/3112/
 
