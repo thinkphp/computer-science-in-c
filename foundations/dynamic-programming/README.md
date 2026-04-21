@@ -79,6 +79,8 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    - https://ideone.com/GAFmpt
    - https://ideone.com/WMqdeW
 
+13. Dollars
+    - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
 
 13. Minimum Path Sum
     - https://leetcode.com/problems/minimum-path-sum/description/
