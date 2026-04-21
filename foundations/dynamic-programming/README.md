@@ -22,30 +22,33 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 ### Classical Problems
 
-1. LIS - Longest Increasing Subsequence
-   * https://infoarena.ro/problema/scmax
-   * https://cses.fi/problemset/task/1145 Increasing Subsequence
-   * https://www.hackerrank.com/challenges/longest-increasing-subsequent/problem
-   * https://www.pbinfo.ro/probleme/396/sclm
-   * https://www.pbinfo.ro/probleme/1876/sclm2
-   * https://www.pbinfo.ro/probleme/2086/sclmprime
+1. Climbing Stairs
+    - https://leetcode.com/problems/climbing-stairs/
+      
+2. LIS - Longest Increasing Subsequence
+   - https://infoarena.ro/problema/scmax
+   - https://cses.fi/problemset/task/1145 Increasing Subsequence
+   - https://www.hackerrank.com/challenges/longest-increasing-subsequent/problem
+   - https://www.pbinfo.ro/probleme/396/sclm
+   - https://www.pbinfo.ro/probleme/1876/sclm2
+   - https://www.pbinfo.ro/probleme/2086/sclmprime
    
 
 3. LCS - Longest Common Subsequence
-   * https://leetcode.com/problems/longest-common-subsequence/
-   * https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem
-   * https://infoarena.ro/problema/cmlsc
-   * https://ideone.com/6EcvVr
-   * https://ideone.com/sfThv1
-   * https://ideone.com/kf02K5
-   * https://ideone.com/Cr2Kat for int arr1[], int arr2[]
-   * https://ideone.com/tv5Ms7 for string word1, string word2
+   - https://leetcode.com/problems/longest-common-subsequence/
+   - https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem
+   - https://infoarena.ro/problema/cmlsc
+   - https://ideone.com/6EcvVr
+   - https://ideone.com/sfThv1
+   - https://ideone.com/kf02K5
+   - https://ideone.com/Cr2Kat for int arr1[], int arr2[]
+   - https://ideone.com/tv5Ms7 for string word1, string word2
    
 4. Triangle Problem
-   * https://leetcode.com/problems/triangle/
-   * https://ideone.com/PJBk00
-   * https://www.pbinfo.ro/probleme/385/sumtri
-   * https://www.pbinfo.ro/probleme/386/sumtri1
+   - https://leetcode.com/problems/triangle/
+   - https://ideone.com/PJBk00
+   - https://www.pbinfo.ro/probleme/385/sumtri
+   - https://www.pbinfo.ro/probleme/386/sumtri1
    
 5. SubSet Sum Problem 
    - Partition Equal Subset Sum https://leetcode.com/problems/partition-equal-subset-sum/description/
@@ -84,9 +87,6 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 13. Unique Path 2
     - https://leetcode.com/problems/unique-paths-ii/description/
-
-12. Climbing Stairs
-    - https://leetcode.com/problems/climbing-stairs/      
     
 13. Removing digits
     - https://cses.fi/problemset/task/1637/
