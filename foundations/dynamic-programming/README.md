@@ -124,9 +124,14 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 24. Coin Combinations 2
     - https://cses.fi/problemset/task/1636
 
-25. https://www.pbinfo.ro/probleme/4439/limbajformal
-26. https://www.pbinfo.ro/probleme/4576/bilbob
-27. https://www.pbinfo.ro/solutii/user/thinkphp/problema/4918/treptepd
+25. LimbajFormal
+    - https://www.pbinfo.ro/probleme/4439/limbajformal
+
+27. BilboB
+    - https://www.pbinfo.ro/probleme/4576/bilbob
+
+28. DreptePD
+    - https://www.pbinfo.ro/solutii/user/thinkphp/problema/4918/treptepd
      
 
 ## Problem Set 
