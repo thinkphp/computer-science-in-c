@@ -89,7 +89,7 @@ In summary, algorithm design is about creating efficient and correct solutions, 
   </li>
 
    <li>
-    <p><a href="https://www.cs.princeton.edu/~wayne/teaching/">Wayne</a></p>
+    <p><a href="https://www.cs.princeton.edu/~wayne/teaching/">Wayne and Eva tardos</a></p>
   </li>
   
   <li>
