@@ -419,6 +419,8 @@ https://web.stanford.edu/class/cs97si/
 
 https://www.cs.cmu.edu/~15451-f20/LectureNotes/
 
+https://timroughgarden.org/ Tim Roughgarden
+
 https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm
 
 https://www.enjoyalgorithms.com/
