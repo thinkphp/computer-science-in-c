@@ -91,6 +91,10 @@ In summary, algorithm design is about creating efficient and correct solutions, 
    <li>
     <p><a href="https://www.cs.princeton.edu/~wayne/teaching/">Wayne and Eva tardos</a></p>
   </li>
+
+  <li>
+    <p><a href="https://www.algorithmsilluminated.org/">Tim Roughgarden</a></p>
+  </li>
   
   <li>
     <p><a href="https://kremlin.cc/k&amp;r.pdf">C Programming Language: Dennis Ritchie, Brian Kernighan</a></p>
