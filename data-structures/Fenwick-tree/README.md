@@ -31,9 +31,6 @@ Fenwick Tree stochează sume parțiale astfel încât:
   i & (-i)
 ````
 
-pentru a naviga în structură
-
----
 
 ## 📦 Implementare C++
 
@@ -64,8 +61,6 @@ int range_sum(int l, int r) {
     return query(r) - query(l - 1);
 }
 ```
-
----
 
 ## 🔢 Exemplu
 
