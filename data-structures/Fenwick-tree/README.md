@@ -117,7 +117,7 @@ Exemple:
 * nu suportă ușor operații complexe (min, max fără modificări)
 * mai puțin flexibil decât Segment Tree
 
----
+
 
 ## 🧩 Extensii
 
@@ -125,7 +125,6 @@ Exemple:
 * Range Update + Range Query (folosind 2 Fenwick Trees)
 * Order statistics (k-th element)
 
----
 
 ## 🎯 Când îl folosești?
 
