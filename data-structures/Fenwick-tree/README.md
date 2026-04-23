@@ -9,7 +9,6 @@ Fenwick Tree (sau **Binary Indexed Tree - BIT**) este o structură de date efici
 
 Toate operațiile se fac în **O(log n)**.
 
----
 
 ## 🚀 Operații suportate
 
@@ -19,7 +18,6 @@ Toate operațiile se fac în **O(log n)**.
 | Query (sumă prefix)  | O(log n)    |
 | Sumă pe interval     | O(log n)    |
 
----
 
 ## 🧠 Ideea de bază
 
@@ -131,7 +129,6 @@ Folosește Fenwick Tree când:
 * ai multe **update-uri**
 * ai multe **query-uri de sumă**
 * datele sunt dinamice
-
 
 
 ## 📚 Concluzie
