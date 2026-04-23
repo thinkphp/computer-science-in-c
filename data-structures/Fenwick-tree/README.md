@@ -75,7 +75,7 @@ for(int i = 1; i <= n; i++) {
 cout << range_sum(2, 7); // 27
 ```
 
----
+
 
 ## 📐 Formule importante
 
@@ -91,8 +91,6 @@ cout << range_sum(2, 7); // 27
   sum(l, r) = query(r) - query(l - 1)
   ```
 
----
-
 ## ⚙️ Cum funcționează `i & (-i)`
 
 Extrage **cel mai mic bit setat** (LSB - Least Significant Bit).
@@ -105,7 +103,6 @@ Exemple:
 | 8 (1000)  | 8      |
 | 10 (1010) | 2      |
 
----
 
 ## 📈 Avantaje
 
@@ -138,7 +135,7 @@ Folosește Fenwick Tree când:
 * ai multe **query-uri de sumă**
 * datele sunt dinamice
 
----
+
 
 ## 📚 Concluzie
 
