@@ -27,7 +27,7 @@ Fenwick Tree stochează sume parțiale astfel încât:
 - folosim operația:  
   ```cpp
   i & (-i)
-````
+``
 
 
 ## 📦 Implementare C++
