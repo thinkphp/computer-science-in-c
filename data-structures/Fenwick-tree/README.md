@@ -140,7 +140,7 @@ Fenwick Tree este una dintre cele mai importante structuri de date pentru proble
 
 Este mai simplu decât Segment Tree și foarte eficient în practică.
 
-#### Problem Set
+### Problem Set
 
 - https://www.infoarena.ro/problema/aib
 
@@ -149,3 +149,17 @@ Este mai simplu decât Segment Tree și foarte eficient în practică.
 - https://www.pbinfo.ro/probleme/eticheta/125/arbori-indexati-binar
 
 - https://leetcode.com/tag/binary-indexed-tree/
+
+
+### References:
+https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/
+
+https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/
+
+https://cp-algorithms.com/data_structures/fenwick.html
+
+https://sites.google.com/site/centrulinfo1/materiale-video/algoritmi-video/arbori-indexati-binar
+
+https://www.enjoyalgorithms.com/blog/binary-indexed-tree
+
+https://ideone.com/5Rlvmp
