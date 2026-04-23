@@ -110,13 +110,11 @@ Exemple:
 * memorie eficientă O(n)
 * rapid pentru update + query
 
----
 
 ## ⚠️ Limitări
 
 * nu suportă ușor operații complexe (min, max fără modificări)
 * mai puțin flexibil decât Segment Tree
-
 
 
 ## 🧩 Extensii
@@ -144,7 +142,6 @@ Fenwick Tree este una dintre cele mai importante structuri de date pentru proble
 * optimizare în O(log n)
 
 Este mai simplu decât Segment Tree și foarte eficient în practică.
-
 
 #### Problem Set
 
