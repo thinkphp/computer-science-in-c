@@ -26,6 +26,8 @@ Lots of problems formulated and solved in terms of graphs
 
 - https://cs.lmu.edu/~ray/notes/graphalgorithms/
 
+- https://www.cip.ifi.lmu.de/~grinberg/t/22s/graphs.pdf
+
 - https://www.algopedia.ro/wiki/index.php/Clasele_11-12_lec%C8%9Bia_10_-_19_nov_2014#Grafuri - partea 1
 
 - https://www.algopedia.ro/wiki/index.php/Clasele_11-12_lec%C8%9Bia_11_-_26_nov_2014 - partea 2
