@@ -19,6 +19,8 @@ Search algorithms that use hashing consist of two separate parts. The first step
 
 - https://cses.fi/problemset/task/1640
 
+- LRU Cache https://leetcode.com/problems/lru-cache/description/
+
 
 ### References
 
