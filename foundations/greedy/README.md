@@ -30,10 +30,10 @@ END
 ```
 ## Classic Problems:
 
+1. Activity Selection Schedule. https://ideone.com/6324Jv
 1. Sum Problem https://ideone.com/pKkBga
-2. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
-3. Spectacles Problem. https://ideone.com/6324Jv
-4. Saleman Problem. https://ideone.com/5lfvSq
+3. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
+4. TSP https://ideone.com/5lfvSq
 5. Map 4 Colors https://ideone.com/IJ88Fb
 6. Payment Method https://ideone.com/P8qo5M
 7. Max Problem https://ideone.com/X1vShx
