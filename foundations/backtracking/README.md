@@ -64,7 +64,7 @@ https://ideone.com/UGLx3Z
 
 ###  Product Cartesian.
 
-###  Salesman Travel.
+###  Hamiltonian Cycles.
 https://ideone.com/8zomIJ
 
 ###  Payment Method.
