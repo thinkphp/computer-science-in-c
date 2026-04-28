@@ -25,7 +25,7 @@ universe is in S. The vector can even represent a sequence of moves i
 6.  Combinations.
 7.  Subsets. https://ideone.com/XcDijE
 8.  Product Cartesian.
-9.  Salesman Travel. https://ideone.com/8zomIJ
+9.  Hamiltonian Cycles. https://ideone.com/8zomIJ
 10.  Payment Method.
 11. Photo Problem. https://ideone.com/UTuGBV
 12. Map Color https://ideone.com/lMAw6N
