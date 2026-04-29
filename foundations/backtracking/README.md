@@ -28,7 +28,7 @@ universe is in S. The vector can even represent a sequence of moves i
 9.  Hamiltonian Cycles. https://ideone.com/8zomIJ
 10.  Payment Method.
 11. Photo Problem. https://ideone.com/UTuGBV
-12. Map Color https://ideone.com/lMAw6N
+12. Graph Coloring Problem https://ideone.com/lMAw6N
 13. Functions Surjective https://ideone.com/s8qT61
 14. Functions Injective https://ideone.com/gWGseA
 15. Labyrinth -> https://ideone.com/aLNCQg
@@ -73,7 +73,7 @@ https://ideone.com/8zomIJ
 
 https://ideone.com/UTuGBV
 
-###  Map Color 
+###  Graph Coloring Problem 
 
 https://ideone.com/lMAw6N
 
