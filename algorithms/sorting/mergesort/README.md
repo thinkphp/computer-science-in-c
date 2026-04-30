@@ -1,4 +1,4 @@
-# ideone
+# Merge Sort
 
 ### Practice
 - https://leetcode.com/problems/sort-an-array/description/?envType=problem-list-v2&envId=counting-sort
