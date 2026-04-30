@@ -25,20 +25,21 @@ universe is in S. The vector can even represent a sequence of moves i
 6.  Combinations.
 7.  Subsets. https://ideone.com/XcDijE
 8.  Product Cartesian.
-9.  Hamiltonian Cycles. https://ideone.com/8zomIJ
-10.  Payment Method.
-11. Photo Problem. https://ideone.com/UTuGBV
-12. Graph Coloring Problem https://ideone.com/lMAw6N
-13. Functions Surjective https://ideone.com/s8qT61
-14. Functions Injective https://ideone.com/gWGseA
-15. Labyrinth -> https://ideone.com/aLNCQg
-16. Knight's Tour -> https://ideone.com/KcnbXq
-17. Eight Qeens Puzzle
-18. Ball Problem
-19. Mountaineer Problem
-20. Sudoku. https://ideone.com/HftRzb
-21. Mouse https://ideone.com/1kPWvt
-22. abc123 Problem Polytech Admission https://ideone.com/HGqAqV
+9.  Hamiltonian Cycles https://ideone.com/8zomIJ
+10.  TSP
+11.  Payment Method.
+12. Photo Problem. https://ideone.com/UTuGBV
+13. Graph Coloring Problem https://ideone.com/lMAw6N
+14. Functions Surjective https://ideone.com/s8qT61
+15. Functions Injective https://ideone.com/gWGseA
+16. Labyrinth -> https://ideone.com/aLNCQg
+17. Knight's Tour -> https://ideone.com/KcnbXq
+18. Eight Qeens Puzzle
+19. Ball Problem
+20. Mountaineer Problem
+21. Sudoku. https://ideone.com/HftRzb
+22. Mouse https://ideone.com/1kPWvt
+23. abc123 Problem Polytech Admission https://ideone.com/HGqAqV
     
     
 ###  Permutations.
@@ -56,16 +57,18 @@ https://ideone.com/HIWObq
 
 ###  Combinations.
 
-###  Subsets.
+###  Genersting Subsets of a set.
 https://ideone.com/XcDijE
 
-### Subsets - Sum 
+### Subsets Sum 
 https://ideone.com/UGLx3Z
 
 ###  Product Cartesian.
 
 ###  Hamiltonian Cycles.
 https://ideone.com/8zomIJ
+
+###' Traveling Salesman Problem
 
 ###  Payment Method.
 
