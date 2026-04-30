@@ -2,6 +2,8 @@
 
 Mica teoremă a lui Fermat este un rezultat fundamental din teoria numerelor care stabilește o proprietate importantă a numerelor prime în aritmetica modulară.
 
+https://en.wikipedia.org/wiki/Fermat%27s_little_theorem
+
 ## 🔷 Enunțul teoremei
 
 Dacă ( p ) este un număr prim și ( a ) este un număr întreg care nu este divizibil cu ( p ), atunci:
