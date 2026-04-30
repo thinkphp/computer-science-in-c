@@ -1,7 +1,6 @@
-# Range Sum Query
+# Range Sum Query Time/Space Complexity
 
-### Segment Tree Time/Space Complexity
-
+### Segment Tree 
 ```
 | -------- | ------------ |
 | Build    | O(n)         |
