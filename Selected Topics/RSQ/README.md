@@ -1,5 +1,15 @@
 # Range Sum Query Time/Space Complexity
 
+### Brute Force 
+
+```
+| -------- | ------------ |
+| Query    | O(n)         |
+| Update   | O(1)         |
+| Space    | O(n)         |
+| -------- | ------------ |
+```
+
 ### Segment Tree 
 ```
 | -------- | ------------ |
