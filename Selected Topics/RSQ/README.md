@@ -21,6 +21,16 @@
 | -------- | ------------ |
 ```
 
+### Binary Indexed Tree 
+
+```
+| -------- | ------------------- |
+| Build    | O(n) sau O(n log n) |
+| Update   | O(log n)            |
+| Query    | O(log n)            |
+| Space    | O(n)                |
+| -------- | ------------------- |
+```
 
 ### Problem Set
 
