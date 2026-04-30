@@ -1,5 +1,14 @@
 # Range Sum Query
 
+### SQRT Decomposition
+```
+| Operație | Complexitate |
+| -------- | ------------ |
+| Build    | O(n)         |
+| Update   | O(1)         |
+| Query    | O(√n)        |
+| Space    | O(n)         |
+```
 
 
 ### Problem Set
