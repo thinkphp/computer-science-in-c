@@ -4,6 +4,7 @@ In Computer Science, a sorting algorithm is a method that puts elements of a lis
 ### Practice
 
 - https://infoarena.ro/problema/algsort
+- https://leetcode.com/problems/sort-an-array/description/?envType=problem-list-v2&envId=counting-sort
 - https://cses.fi/problemset/
 - https://www.pbinfo.ro/probleme/categorii/3/tablouri-unidimensionale-vectori-sortarea-vectorilor
 - https://infoarena.ro/problema/sortaret
