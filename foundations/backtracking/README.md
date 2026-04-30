@@ -68,7 +68,7 @@ https://ideone.com/UGLx3Z
 ###  Hamiltonian Cycles.
 https://ideone.com/8zomIJ
 
-###' Traveling Salesman Problem
+### Traveling Salesman Problem
 
 ###  Payment Method.
 
