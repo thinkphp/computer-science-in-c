@@ -2,7 +2,7 @@
 
 ### SQRT Decomposition
 ```
-| Operație | Complexitate |
+| Operation | Complexity |
 | -------- | ------------ |
 | Build    | O(n)         |
 | Update   | O(1)         |
