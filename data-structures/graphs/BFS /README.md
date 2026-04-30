@@ -6,8 +6,8 @@
   - Friend of Friend https://www.infoarena.ro/problema/fof
 
 - Pbinfo:
-  -https://www.pbinfo.ro/probleme/19/bfs
-  -https://www.pbinfo.ro/probleme/4676/elicopter
+  - https://www.pbinfo.ro/probleme/19/bfs
+  - https://www.pbinfo.ro/probleme/4676/elicopter
 
 
 - LeetCode:
