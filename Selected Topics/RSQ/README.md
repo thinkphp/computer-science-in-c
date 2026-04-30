@@ -41,6 +41,16 @@
 | -------- | ------------------- |
 ```
 
+```
+| Method       | Query    | Update   | Space |
+| ------------ | -------- | -------- | ----- |
+| Brute Force  | O(n)     | O(1)     | O(n)  |
+| SQRT         | O(√n)    | O(1)     | O(n)  |
+| Fenwick      | O(log n) | O(log n) | O(n)  |
+| Segment Tree | O(log n) | O(log n) | O(n)  |
+
+```
+
 ### Problem Set
 
 - Range Sum Query https://leetcode.com/problems/range-sum-query-immutable/description/
