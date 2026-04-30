@@ -1,8 +1,8 @@
 # Range Sum Query
 
-### SQRT Decomposition
+### SQRT Decomposition TIME/SPACE Complexity
 ```
-| Operation | Complexity |
+| Operation| Complexity |
 | -------- | ------------ |
 | Build    | O(n)         |
 | Update   | O(1)         |
