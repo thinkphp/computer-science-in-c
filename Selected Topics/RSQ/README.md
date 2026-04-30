@@ -1,13 +1,24 @@
 # Range Sum Query
 
-### SQRT Decomposition TIME/SPACE Complexity
+### Segment Tree Time/Space Complexity
+
 ```
-| Operation| Complexity |
+| -------- | ------------ |
+| Build    | O(n)         |
+| Query    | O(log n)     |
+| Update   | O(log n)     |
+| Space    | O(n) (≈ 4n)  |
+| -------- | ------------ |
+```
+
+### SQRT Decomposition
+```
 | -------- | ------------ |
 | Build    | O(n)         |
 | Update   | O(1)         |
 | Query    | O(√n)        |
 | Space    | O(n)         |
+| -------- | ------------ |
 ```
 
 
