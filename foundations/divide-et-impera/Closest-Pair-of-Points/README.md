@@ -1,1 +1,1 @@
-# Closest Pair of Points
+# Closest Pair of Points Problem
