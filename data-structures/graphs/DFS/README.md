@@ -3,6 +3,8 @@
 
 ### Problem Set
 
+CSES
+- https://cses.fi/359/task/D
 Infoarena:
 
 * https://infoarena.ro/problema/dfs
