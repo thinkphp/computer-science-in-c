@@ -1725,6 +1725,10 @@ https://codeforces.com/contest/1796/problem/A
 
 822) Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
 
+823) Serval and String Theory https://codeforces.com/contest/2085/problem/A
+
+824) Koshary https://codeforces.com/contest/2227/problem/A
+
      
 
 
