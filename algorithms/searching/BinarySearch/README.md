@@ -148,6 +148,7 @@ https://ideone.com/fR8nF8
 - Infoarena
   - https://infoarena.ro/problema/cautbin
   - https://infoarena.ro/problema/scmax
+  - https://www.infoarena.ro/problema/transport
 
 - PBInfo
   - https://www.pbinfo.ro/probleme/categorii/155/tablouri-unidimensionale-vectori-cautare-binara
