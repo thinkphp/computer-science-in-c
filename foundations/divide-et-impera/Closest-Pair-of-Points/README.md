@@ -1,6 +1,7 @@
 # Closest Pair of Points Problem
 
 ### Practice 
+https://infoarena.ro/problema/cmap
 
 ### References 
 
