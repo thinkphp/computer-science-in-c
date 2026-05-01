@@ -11,7 +11,7 @@
 3. Mergesort
 4. Suma Gauss
 5. Factorial
-6. Towers of Hanoi
+6. Towers of Hanoi https://cses.fi/problemset/task/2165
 7. Min/Max Element
 8. Merge Lists
 9. Number of Inversions
