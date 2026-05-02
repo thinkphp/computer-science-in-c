@@ -109,31 +109,44 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 18. House Robber
     - https://leetcode.com/problems/house-robber/description/
 
-19. Word Break
+19. House Robber 2
+    - https://leetcode.com/problems/house-robber-ii/description      
+
+20. House Robber 3
+    - https://leetcode.com/problems/house-robber-iii/description/
+
+21. House Robber 4
+    - https://leetcode.com/problems/house-robber-iv/description/
+   
+22. House Robber 5
+    - https://leetcode.com/problems/house-robber-v/description/
+      
+
+23. Word Break
     - https://leetcode.com/problems/word-break/description/
 
-20. Longest Palindromic Substring
+24. Longest Palindromic Substring
     - https://leetcode.com/problems/longest-palindromic-substring/description/
 
-21. First and Second
+25. First and Second
     - https://codeforces.com/contest/2178/problem/C
 
-22. The Coin Change
+26. The Coin Change
     - https://www.hackerrank.com/challenges/coin-change/problem
 
-23. Coin Combinations 1
+27. Coin Combinations 1
     - https://cses.fi/problemset/task/1635 
 
-24. Coin Combinations 2
+28. Coin Combinations 2
     - https://cses.fi/problemset/task/1636
 
-25. LimbajFormal
+29. LimbajFormal
     - https://www.pbinfo.ro/probleme/4439/limbajformal
 
-27. BilboB
+30. BilboB
     - https://www.pbinfo.ro/probleme/4576/bilbob
 
-28. DreptePD
+21. DreptePD
     - https://www.pbinfo.ro/solutii/user/thinkphp/problema/4918/treptepd
      
 
