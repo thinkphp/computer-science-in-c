@@ -60,6 +60,7 @@ In summary, algorithm design is about creating efficient and correct solutions, 
 * Algoritms Part 1 https://www.coursera.org/learn/algorithms-part1
 * Algoritms Part 2 https://www.coursera.org/learn/algorithms-part2
 * Algorithms, 4th Edition https://algs4.cs.princeton.edu/home/
+* https://www3.cs.stonybrook.edu/~skiena/
 * MIT Introduction to Algorithms, Fall 2011 https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 * Curriculum of Top Universities in CS https://learncs.me/curriculum/
 * Fall 2010 Algorithm Design and Analysis https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
