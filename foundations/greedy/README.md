@@ -51,7 +51,6 @@ END
 - Knight's Tour → Warnsdorff
 - Coin Change (greedy can fail aici!)
 
-## Classic Problems:
 
 2. Activity Selection Schedule. https://ideone.com/6324Jv
 3. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
