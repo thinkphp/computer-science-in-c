@@ -28,7 +28,7 @@ while (not finished) execute
    SOL <-- Sol U {x}
 END
 ```
-🟢 Basic
+### 🟢 Basic
 - Sum Problem https://ideone.com/pKkBga
 - Max Problem https://ideone.com/X1vShx
 - Scheduling cu deadline Job Sequencing
@@ -36,19 +36,19 @@ END
 - Gas Station
 - Jump Game
 
-🟢 Greedy pe grafuri
+### 🟢 Greedy pe grafuri
 - Kruskal's Algorithm
 - Prim's Algorithm
 - Dijkstra's Algorithm
 
-🟢 Interval
+### 🟢 Interval
 - Spectacole Problem
 - Activity Selection https://ideone.com/6324Jv
 - Minimum number of platforms
 - Merge Intervals (parte greedy în unele variante)
 - Fractional Knapsack.
 
-🟢 Greedy Heuristic
+### 🟢 Greedy Heuristic
 - Travelling Salesman Problem → Nearest Neighbor.
 - Knight's Tour → Warnsdorff.
 - Coin Change.
