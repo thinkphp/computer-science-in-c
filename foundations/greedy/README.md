@@ -30,29 +30,28 @@ END
 ```
 ## Classic Problems:
 
-1. Activity Selection Schedule. https://ideone.com/6324Jv
-1. Sum Problem https://ideone.com/pKkBga
-3. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
+1. Sum Problem
+2. Activity Selection Schedule. https://ideone.com/6324Jv
+3. Sum Problem https://ideone.com/pKkBga
+4. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
 5. Map 4 Colors https://ideone.com/IJ88Fb
 6. Payment Method https://ideone.com/P8qo5M
 7. Max Problem https://ideone.com/X1vShx
+8. Heuristic: Coin, Jump Knight, Traveling Salesman Problem
 
 
 ## Problem Set
 - https://leetcode.com/tag/greedy/
+- https://www.pbinfo.ro/probleme/categorii/25/metoda-greedy
 - Non Overlapping https://leetcode.com/problems/non-overlapping-intervals/description/
 - False Alarm https://codeforces.com/contest/2117/problem/A
 - Valid Palindrome 2 https://leetcode.com/problems/valid-palindrome-ii/description/
 - Remove Duplicate Letters https://leetcode.com/problems/remove-duplicate-letters/description
-- https://www.pbinfo.ro/probleme/categorii/25/metoda-greedy
-- https://ideone.com/thinkphp/greedy
-
-
 
 ## References 
 
 https://www.freecodecamp.org/news/greedy-algorithms/
-
+https://ideone.com/thinkphp/greedy
 https://infoarena.ro/metoda-greedy-si-problema-fractionara-a-rucsacului
 
 
