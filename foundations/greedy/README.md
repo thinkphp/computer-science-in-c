@@ -31,27 +31,27 @@ END
 🟢 Basic
 - Sum Problem https://ideone.com/pKkBga
 - Max Problem https://ideone.com/X1vShx
-- Map 4 Colors https://ideone.com/IJ88Fb
-- Huffman Coding.
 - Scheduling cu deadline Job Sequencing
-- Gas Station / Jump Game
+- Huffman Coding.
+- Gas Station
+- Jump Game
 
 🟢 Greedy pe grafuri
 - Kruskal's Algorithm
 - Prim's Algorithm
 - Dijkstra's Algorithm
 
-🟢 Interval / scheduling
+🟢 Interval
 - Activity Selection https://ideone.com/6324Jv
 - Minimum number of platforms
 - Merge Intervals (parte greedy în unele variante)
-- Fractional Knapsack
+- Fractional Knapsack.
 
-🟢 Heuristic
-- Travelling Salesman Problem → Nearest Neighbor
-- Knight's Tour → Warnsdorff
-- Coin Change
-
+🟢 Greedy Heuristic
+- Travelling Salesman Problem → Nearest Neighbor.
+- Knight's Tour → Warnsdorff.
+- Coin Change.
+- Graph Coloring.
 
 
 ## Problem Set
