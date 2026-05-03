@@ -12,8 +12,8 @@
 
 - LeetCode:
   - https://leetcode.com/tag/breadth-first-search/
-  - https://leetcode.com/problems/number-of-provinces/description/
-  - https://leetcode.com/problems/number-of-islands/description/
+  - Number of Provinces https://leetcode.com/problems/number-of-provinces/description/
+  - Number of Islands https://leetcode.com/problems/number-of-islands/description/
   - Word Ladder https://leetcode.com/problems/word-ladder/
   - 01 Matrix https://leetcode.com/problems/01-matrix/description/
   - Flood Fill https://leetcode.com/problems/flood-fill/description/
