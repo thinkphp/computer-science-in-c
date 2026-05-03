@@ -28,22 +28,37 @@ while (not finished) execute
    SOL <-- Sol U {x}
 END
 ```
+🟢 Basic
+- Sum Problem https://ideone.com/pKkBga
+- Max Problem https://ideone.com/X1vShx
+- Map 4 Colors https://ideone.com/IJ88Fb
+🟢 Greedy pe grafuri
+- Kruskal's Algorithm
+- Prim's Algorithm
+- Dijkstra's Algorithm
+🟢 Interval / scheduling
+- Activity Selection https://ideone.com/6324Jv
+- Minimum number of platforms
+- Merge Intervals (parte greedy în unele variante)
+- Fractional Knapsack
+- Scheduling profit / deadline
+- Job Sequencing with Deadlines
+🟢 Heuristic
+- Travelling Salesman Problem → Nearest Neighbor
+- Knight's Tour → Warnsdorff
+- Coin Change (greedy can fail aici!)
 ## Classic Problems:
 
-1. Sum Problem https://ideone.com/pKkBga
+
 2. Activity Selection Schedule. https://ideone.com/6324Jv
 3. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
 4. Huffman Coding.
-5. Kruskal's Algorithm
-6. Prim's Algorithm
-7. Dijkstra's Algorithm
 8. Scheduling cu deadline Job Sequencing
-9. Minimum number of platforms
+
 10. Gas Station / Jump Game
-11. Map 4 Colors https://ideone.com/IJ88Fb
+
 12. Payment Method https://ideone.com/P8qo5M
-13. Max Problem https://ideone.com/X1vShx
-14. Heuristic: Coin Change, Jump Knight, Traveling Salesman Problem   
+
 
 
 ## Problem Set
