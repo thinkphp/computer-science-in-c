@@ -148,8 +148,11 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 30. BilboB
     - https://www.pbinfo.ro/probleme/4576/bilbob
 
-21. DreptePD
+31. DreptePD
     - https://www.pbinfo.ro/solutii/user/thinkphp/problema/4918/treptepd
+
+32. Maximum Profit in job Scheduling
+    - https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/
      
 
 ## Practice
