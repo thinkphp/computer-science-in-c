@@ -31,7 +31,7 @@ END
 ### 🟢 Basic
 - Sum Problem https://ideone.com/pKkBga
 - Max Problem https://ideone.com/X1vShx
-- Scheduling cu deadline Job Sequencing
+- Scheduling with deadline Job Sequencing
 - Huffman Coding.
 - Gas Station
 - Jump Game
