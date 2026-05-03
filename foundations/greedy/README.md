@@ -33,6 +33,8 @@ END
 - Max Problem https://ideone.com/X1vShx
 - Map 4 Colors https://ideone.com/IJ88Fb
 - Huffman Coding.
+- Scheduling cu deadline Job Sequencing
+- Gas Station / Jump Game
 
 🟢 Greedy pe grafuri
 - Kruskal's Algorithm
@@ -44,17 +46,11 @@ END
 - Minimum number of platforms
 - Merge Intervals (parte greedy în unele variante)
 - Fractional Knapsack
-- Scheduling profit / deadline
-- Job Sequencing with Deadlines
 
 🟢 Heuristic
 - Travelling Salesman Problem → Nearest Neighbor
 - Knight's Tour → Warnsdorff
-- Coin Change (greedy can fail aici!)
-
-4. Huffman Coding.
-8. Scheduling cu deadline Job Sequencing
-10. Gas Station / Jump Game
+- Coin Change
 
 
 
