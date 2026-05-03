@@ -32,10 +32,12 @@ END
 - Sum Problem https://ideone.com/pKkBga
 - Max Problem https://ideone.com/X1vShx
 - Map 4 Colors https://ideone.com/IJ88Fb
+
 🟢 Greedy pe grafuri
 - Kruskal's Algorithm
 - Prim's Algorithm
 - Dijkstra's Algorithm
+
 🟢 Interval / scheduling
 - Activity Selection https://ideone.com/6324Jv
 - Minimum number of platforms
@@ -43,12 +45,13 @@ END
 - Fractional Knapsack
 - Scheduling profit / deadline
 - Job Sequencing with Deadlines
+
 🟢 Heuristic
 - Travelling Salesman Problem → Nearest Neighbor
 - Knight's Tour → Warnsdorff
 - Coin Change (greedy can fail aici!)
-## Classic Problems:
 
+## Classic Problems:
 
 2. Activity Selection Schedule. https://ideone.com/6324Jv
 3. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
