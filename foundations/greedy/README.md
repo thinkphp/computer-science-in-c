@@ -33,7 +33,6 @@ END
 1. Activity Selection Schedule. https://ideone.com/6324Jv
 1. Sum Problem https://ideone.com/pKkBga
 3. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
-4. TSP https://ideone.com/5lfvSq
 5. Map 4 Colors https://ideone.com/IJ88Fb
 6. Payment Method https://ideone.com/P8qo5M
 7. Max Problem https://ideone.com/X1vShx
