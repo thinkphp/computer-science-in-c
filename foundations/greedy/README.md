@@ -30,14 +30,20 @@ END
 ```
 ## Classic Problems:
 
-
 1. Sum Problem https://ideone.com/pKkBga
 2. Activity Selection Schedule. https://ideone.com/6324Jv
 3. Fractional Knapsack Problem.  https://ideone.com/oaoo2H
-4. Map 4 Colors https://ideone.com/IJ88Fb
-5. Payment Method https://ideone.com/P8qo5M
-6. Max Problem https://ideone.com/X1vShx
-7. Heuristic: Coin, Jump Knight, Traveling Salesman Problem
+4. Huffman Coding.
+5. Kruskal's Algorithm
+6. Prim's Algorithm
+7. Dijkstra's Algorithm
+8. Scheduling cu deadline Job Sequencing
+9. Minimum number of platforms
+10. Gas Station / Jump Game
+11. Map 4 Colors https://ideone.com/IJ88Fb
+12. Payment Method https://ideone.com/P8qo5M
+13. Max Problem https://ideone.com/X1vShx
+14. Heuristic: Coin Change, Jump Knight, Traveling Salesman Problem   
 
 
 ## Problem Set
