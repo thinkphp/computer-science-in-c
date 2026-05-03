@@ -51,7 +51,7 @@ END
 ### 🟢 Greedy Heuristic
 - Travelling Salesman Problem → Nearest Neighbor.
 - Knight's Tour → Warnsdorff.
-- Coin Change.
+- Payment Method.
 - Graph Coloring.
 
 
