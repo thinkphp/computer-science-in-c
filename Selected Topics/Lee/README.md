@@ -1,7 +1,7 @@
 # Lee
 
 
-### Practice 
+### Problem Set
 - Casino
   https://kilonova.ro/problems/2052
 - Pulsar
