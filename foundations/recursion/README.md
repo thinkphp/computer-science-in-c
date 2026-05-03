@@ -21,6 +21,12 @@ example, to construct the set of natural numbers, one basic element, 0 is single
         
 According to these rules, the set of natural numbers N consists of the following items: 0, 0 + 1, 0 + 1 + 1, etc 
 
+### Practice
+
+https://www.pbinfo.ro/probleme/categorii/82/recursivitate-subprograme-recursive
+
+https://www.pbinfo.ro/probleme/categorii/83/recursivitate-probleme-diverse
+
 
 ### References
 
@@ -31,10 +37,3 @@ https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1206/lectures/intro-to-r
 https://web.mit.edu/6.005/www/fa15/classes/10-recursion/
 
 https://www.cs.cmu.edu/~cburch/survey/text.pdf
-
-### Practice
-
-https://www.pbinfo.ro/probleme/categorii/82/recursivitate-subprograme-recursive
-
-https://www.pbinfo.ro/probleme/categorii/83/recursivitate-probleme-diverse
-
