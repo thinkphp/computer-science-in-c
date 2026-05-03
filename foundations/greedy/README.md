@@ -35,6 +35,7 @@ END
 - Huffman Coding.
 - Gas Station
 - Jump Game
+- Egyptean Fraction
 
 ### 🟢 Greedy pe grafuri
 - Kruskal's Algorithm
