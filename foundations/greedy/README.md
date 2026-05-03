@@ -56,13 +56,13 @@ END
 
 
 ## Problem Set
-- https://leetcode.com/tag/greedy/
-- https://www.pbinfo.ro/probleme/categorii/25/metoda-greedy
-- https://www.geeksforgeeks.org/category/dsa/algorithm/greedy/
 - Non Overlapping https://leetcode.com/problems/non-overlapping-intervals/description/
 - False Alarm https://codeforces.com/contest/2117/problem/A
 - Valid Palindrome 2 https://leetcode.com/problems/valid-palindrome-ii/description/
 - Remove Duplicate Letters https://leetcode.com/problems/remove-duplicate-letters/description
+- https://leetcode.com/tag/greedy/
+- https://www.pbinfo.ro/probleme/categorii/25/metoda-greedy
+- https://www.geeksforgeeks.org/category/dsa/algorithm/greedy/
 
 ## References 
 
