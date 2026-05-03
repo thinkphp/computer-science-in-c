@@ -42,6 +42,7 @@ END
 - Dijkstra's Algorithm
 
 🟢 Interval
+- Spectacole Problem
 - Activity Selection https://ideone.com/6324Jv
 - Minimum number of platforms
 - Merge Intervals (parte greedy în unele variante)
