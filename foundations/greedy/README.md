@@ -50,9 +50,9 @@ END
 
 ## References 
 
-https://www.freecodecamp.org/news/greedy-algorithms/
-https://ideone.com/thinkphp/greedy
-https://infoarena.ro/metoda-greedy-si-problema-fractionara-a-rucsacului
+- https://www.freecodecamp.org/news/greedy-algorithms/
+- https://ideone.com/thinkphp/greedy
+- https://infoarena.ro/metoda-greedy-si-problema-fractionara-a-rucsacului
 
 
 
