@@ -1,5 +1,6 @@
 # Lee"s algorithm 
 
+BFS with Queue 
 
 ### Problem Set
 - https://leetcode.com/problems/shortest-path-in-binary-matrix/description/
