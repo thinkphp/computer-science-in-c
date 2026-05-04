@@ -1,4 +1,4 @@
-# Lee
+# Lee"s algorithm 
 
 
 ### Problem Set
