@@ -57,7 +57,7 @@ https://ideone.com/HIWObq
 
 ###  Combinations.
 
-###  Genersting Subsets of a set.
+###  Generating Subsets of a set.
 https://ideone.com/XcDijE
 
 ### Subsets Sum 
