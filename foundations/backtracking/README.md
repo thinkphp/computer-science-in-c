@@ -17,16 +17,16 @@ universe is in S. The vector can even represent a sequence of moves i
 
 ## Classical Problem Set
 
-1.  Permutations  iterative - https://ideone.com/J5acy7
+1.  🟢 Permutations  iterative - https://ideone.com/J5acy7
                   recursive - https://ideone.com/r2D5KS
-3.  Partitions (set) 
+3. 🟢  Partitions (set) 
 4.  Partitions (integer)
-5.  Arrangements.
-6.  Combinations.
-7.  Subsets. https://ideone.com/XcDijE
-8.  Product Cartesian.
-9.  Hamiltonian Cycles https://ideone.com/8zomIJ
-10.  TSP
+5.  🟢 Arrangements.
+6.  🟢 Combinations.
+7. 🟢 Subsets. https://ideone.com/XcDijE
+8. 🟢  Product Cartesian.
+9. 🟢  Hamiltonian Cycles https://ideone.com/8zomIJ
+10.  🟢 TSP
 11.  Payment Method.
 12. Photo Problem. https://ideone.com/UTuGBV
 13. Graph Coloring Problem https://ideone.com/lMAw6N
