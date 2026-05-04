@@ -22,16 +22,16 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 ### Classical Problem Set
 
-1. Climbing Stairs
+1. 🟢 Climbing Stairs
     - https://leetcode.com/problems/climbing-stairs/
 
-2. Triangle Problem
+2. 🟢 Triangle Problem
    - https://leetcode.com/problems/triangle/
    - https://ideone.com/PJBk00
    - https://www.pbinfo.ro/probleme/385/sumtri
    - https://www.pbinfo.ro/probleme/386/sumtri1
 
-2. LIS - Longest Increasing Subsequence
+3. 🟢 LIS - Longest Increasing Subsequence
    - https://infoarena.ro/problema/scmax
    - https://cses.fi/problemset/task/1145 Increasing Subsequence
    - https://www.hackerrank.com/challenges/longest-increasing-subsequent/problem
@@ -39,7 +39,7 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    - https://www.pbinfo.ro/probleme/1876/sclm2
    - https://www.pbinfo.ro/probleme/2086/sclmprime
    
-3. Knapsack Problem (Discreat 0/1)
+4. 🟢 Knapsack Problem (Discreat 0/1)
    - https://www.infoarena.ro/problema/rucsac
    - https://www.pbinfo.ro/probleme/1886/rucsac1
    - https://www.hackerrank.com/challenges/unbounded-knapsack/problem
@@ -48,14 +48,14 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    - https://leetcode.com/problems/painting-the-walls/
    - https://ideone.com/dTwyz6
 
-4. Levenshtein Distance
+5. 🟢 Edit Distance (Levenshtein Distance)
     - https://leetcode.com/problems/edit-distance/
     - Edit Distance https://cses.fi/problemset/task/1639/
     - https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
     - https://ideone.com/cmwTX3   
   
 
-3. LCS - Longest Common Subsequence
+6. 🟢 LCS - Longest Common Subsequence
    - https://leetcode.com/problems/longest-common-subsequence/
    - https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem
    - https://infoarena.ro/problema/cmlsc
@@ -65,17 +65,17 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
    - https://ideone.com/Cr2Kat for int arr1[], int arr2[]
    - https://ideone.com/tv5Ms7 for string word1, string word2
       
-5. SubSet Sum Problem 
+7. 🟢 SubSet Sum Problem 
    - Partition Equal Subset Sum https://leetcode.com/problems/partition-equal-subset-sum/description/
    - Target Sum https://leetcode.com/problems/target-sum/description/
    
-7. MSS - Maximum Subsequence Sum
+8. 🟢 MSS - Maximum Subsequence Sum
    * https://ideone.com/3jZMWP
    
-11. Finding Comb(n,k)
+9. 🟢 Finding Comb(n,k)
     - https://ideone.com/ZYjGlM
 
-12. Matrix Chain Multiplication
+10. 🟢 Matrix Chain Multiplication
    - https://infoarena.ro/problema/podm
    - https://infoarena.ro/problema/redu 
    - https://ideone.com/GAFmpt
