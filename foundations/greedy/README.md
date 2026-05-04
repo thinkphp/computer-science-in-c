@@ -1,4 +1,4 @@
-## Greedy Algorithm Paradigm
+## Greedy Aproach 
 
 Metoda Greedy se aplica problemelor de optimizare. Aceasta
 metoda determina intotdeauna o singura solutie. Ea construieste
