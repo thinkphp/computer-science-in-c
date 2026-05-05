@@ -24,8 +24,6 @@ Lots of problems formulated and solved in terms of graphs
 
 - https://www.cs.cmu.edu/~15451-f20/LectureNotes/
 
-- https://cs.lmu.edu/~ray/notes/graphalgorithms/
-
 - https://www.cip.ifi.lmu.de/~grinberg/t/22s/graphs.pdf
 
 - https://www.algopedia.ro/wiki/index.php/Clasele_11-12_lec%C8%9Bia_10_-_19_nov_2014#Grafuri - partea 1
@@ -41,3 +39,5 @@ Lots of problems formulated and solved in terms of graphs
 - https://www.algopedia.ro/wiki/index.php/Clasele_11-12_lec%C8%9Bia_20_-_25_feb_2015
 
 - https://www.w3schools.com/dsa/dsa_theory_graphs.php
+
+- https://cs.lmu.edu/~ray/notes/graphalgorithms/
