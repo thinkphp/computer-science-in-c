@@ -31,14 +31,5 @@ This foundational knowledge is not only essential for computer science students 
 #### References:
 
 
-
-#### CS Open CourseWare
-
-* https://www2.cs.uh.edu/~panruowu/2023f_cosc3320/course.html
-* https://learncs.me/curriculum/
-* https://www.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html
-* https://nixdell.com/teaching.html
-* https://courses.cs.washington.edu/courses/cse373/
-
 #### Problem Set
 - https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/
