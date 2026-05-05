@@ -169,6 +169,8 @@ https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
 
 ## References
 
+https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
+
 https://www.hackerrank.com/topics/dynamic-programming
 
 https://www.cs.princeton.edu/courses/archive/spring21/cos226/lectures/DynamicProgramming.pdf
