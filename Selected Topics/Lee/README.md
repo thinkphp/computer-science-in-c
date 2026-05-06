@@ -1,6 +1,6 @@
 # Lee's algorithm 
 
-BFS with Queue 
+BFS on Matrix/Labirinth
 
 ### Practice
 O1 Matrix https://leetcode.com/problems/01-matrix/description/
