@@ -2,11 +2,11 @@
 
 In computer science, data structures are fundamental components that enable efficient organization, management, and storage of data. They are the building blocks upon which complex software and algorithms are developed. Understanding data structures is crucial for writing efficient programs and solving complex computational problems.
 
-**Abstract**
+### Abstract
 
 A data structure is a specialized format for organizing, processing, retrieving, and storing data. To make it easier to work with, data structures define a way to organize information that ensures it can be accessed and modified efficiently. Each data structure provides a multifaceted way to manage data, offering various operations such as addition, deletion, and traversal.
 
-**Basic Examples**
+### Basic Examples
 
 1. **Arrays**: A simple data structure used to store elements in a sequential manner. Each element can be accessed using an index. Arrays are useful when you need quick access to elements using indices.
 
