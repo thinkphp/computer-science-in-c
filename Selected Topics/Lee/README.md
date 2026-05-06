@@ -1,6 +1,10 @@
 # Lee's algorithm 
-
-BFS on Matrix/Labyrinth
+- BFS on Matrix/Grid/Maze/Labyrinth
+- shortest path in a maze
+- minimum steps in grid
+- escape problems
+- flood fill variants
+- robot movement on gri
 
 ### Practice
 - O1 Matrix https://leetcode.com/problems/01-matrix/description/
