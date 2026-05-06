@@ -51,4 +51,5 @@ Lots of problems formulated and solved in terms of graphs
 - Graph Theory - J.A. Bondy U.S.R. Murty
 - Introduction to Algorithms - CLRS
 - Algorithms Unlocked - Cormen
+- Data Structures and Network Algorithms - Tanjan
   
