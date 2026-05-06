@@ -28,8 +28,10 @@ This foundational knowledge is not only essential for computer science students 
 
 # Data Structures + Algorithm = Program
 
-#### References:
 
-
-#### Problem Set
+### Problem Set
 - https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/
+- 
+### References:  
+
+### Books
