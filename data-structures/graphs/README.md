@@ -49,4 +49,5 @@ Lots of problems formulated and solved in terms of graphs
 - Random Graphs - Béla Bollobás
 - Advances in Graph Theory - Béla Bollobás
 - Graph Theory - J.A. Bondy U.S.R. Murty
+- Introduction to Algorithms - CLRS
   
