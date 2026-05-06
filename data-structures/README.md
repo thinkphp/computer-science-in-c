@@ -4,7 +4,7 @@ In computer science, data structures are fundamental components that enable effi
 
 ### Abstract
 
-A data structure is a specialized format for organizing, processing, retrieving, and storing data. To make it easier to work with, data structures define a way to organize information that ensures it can be accessed and modified efficiently. Each data structure provides a multifaceted way to manage data, offering various operations such as addition, deletion, and traversal. Data 
+A data structure is a specialized format for organizing, processing, retrieving, and storing data. To make it easier to work with, data structures define a way to organize information that ensures it can be accessed and modified efficiently. Each data structure provides a multifaceted way to manage data, offering various operations such as addition, deletion, and traversal. 
 
 ### Basic Examples
 
@@ -26,7 +26,7 @@ Understanding these data structures and their applications helps in selecting th
 
 This foundational knowledge is not only essential for computer science students but also increasingly relevant in fields like data analysis, machine learning, and artificial intelligence. As you delve deeper into the subject, you'll learn how to implement, analyze, and apply these structures to solve real-world problems efficiently.
 
-### Structures + Algorithm = Program
+### Data Structures + Algorithm = Program
 
 ### Problem Set
 - https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/
