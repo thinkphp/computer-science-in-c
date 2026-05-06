@@ -41,3 +41,12 @@ Lots of problems formulated and solved in terms of graphs
 - https://www.w3schools.com/dsa/dsa_theory_graphs.php
 
 - https://cs.lmu.edu/~ray/notes/graphalgorithms/
+
+### Books
+
+- Graph Theory An Introductory Course - Béla Bollobás
+- Basic Graph Theory - Béla Bollobás
+- Random Graphs - Béla Bollobás
+- Advances in Graph Theory - Béla Bollobás
+- Graph Theory - J.A. Bondy U.S.R. Murty
+  
