@@ -1,6 +1,6 @@
 # Lee's algorithm 
 
-BFS on Matrix/Labirinth
+BFS on Matrix/Labyrinth
 
 ### Practice
 O1 Matrix https://leetcode.com/problems/01-matrix/description/
