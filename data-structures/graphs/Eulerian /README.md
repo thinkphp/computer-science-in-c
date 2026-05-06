@@ -5,7 +5,8 @@
 * https://infoarena.ro/problema/ciclueuler
 * https://infoarena.ro/problema/domino
 
-#### Ideone
+### References 
 
-* https://ideone.com/xPPdxU
+https://youtu.be/-63bVAzHY74?is=l184m5voKLFC-e_w
+https://ideone.com/xPPdxU
 
