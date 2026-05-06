@@ -6,19 +6,19 @@
       
 ### Classical Problem Set
 
-1. Binary Search
-2. Quicksort
-3. Mergesort
-4. Suma Gauss
-5. Factorial
-6. Towers of Hanoi https://cses.fi/problemset/task/2165
-7. Min/Max Element
-8. Merge Lists
-9. Number of Inversions
-10. Closest Pairs of Points
-11. Fast Exponentiation
-12. Max Sum Subarray
-13. Natural logarithm
+1. 🟢 Binary Search
+2. 🟢 Quicksort
+3. 🟢 Mergesort
+4. 🟢 Gauss
+5. 🟢 Factorial
+6. 🟢 Towers of Hanoi https://cses.fi/problemset/task/2165
+7. 🟢 Min/Max Element
+8. 🟢 Merge Lists
+9. 🟢 Number of Inversions
+10.🟢 Closest Pairs of Points
+11.🟢 Fast Exponentiation
+12.🟢 Max Sum Subarray
+13.🟢 Natural logarithm
 
 
 ## Practice
