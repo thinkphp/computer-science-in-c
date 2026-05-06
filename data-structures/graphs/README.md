@@ -1,4 +1,4 @@
-## Graph Algorithms
+# Graph Theory
 
 An abstract way of representing connectivity using nodes (also
 called vertices) and edges
