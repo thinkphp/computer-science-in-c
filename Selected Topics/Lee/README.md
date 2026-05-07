@@ -7,6 +7,7 @@
 - robot movement on gri
 
 ### Practice
+- Alee https://www.infoarena.ro/problema/alee OJI 2007
 - O1 Matrix https://leetcode.com/problems/01-matrix/description/
 - Shortest Path in Binary Matrix https://leetcode.com/problems/shortest-path-in-binary-matrix/description/
 - Nearest Exit From Entrance in Maze https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/
