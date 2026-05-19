@@ -5,4 +5,4 @@
 
 ### References 
 
--https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread
+- https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread
