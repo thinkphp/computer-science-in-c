@@ -1729,6 +1729,8 @@ https://codeforces.com/contest/1796/problem/A
 
 824) Koshary https://codeforces.com/contest/2227/problem/A
 
+825) We be Flipping https://codeforces.com/contest/2229/problem/C1
+
      
 
 
