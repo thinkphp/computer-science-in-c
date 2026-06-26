@@ -446,17 +446,26 @@ https://cs.brown.edu/courses/
 
 https://cs.lmu.edu/~ray/classes/a/
 
-### Books
+# Books
+- The art of Computer Programming - Volume 1 / Fundamental Algorithms - Donald Knuth
 - Introduction to Algorithms fourth edition - Thomas H. Cormen, Charles E. Leiserson, Ronald R. Rivest, Clifford Stein (CLRS)
 - Algorithms Unlocked - Cormen
 - Algorithm Design - Jon Kleinberg, Éva Tardos
 - Algorithms by Sanjoy Dasgupta, Christos Papadimitriou, and Umesh Vazirani. McGraw Hill, 2006.
-- Computer Algorithms - Ellis Horowitz.
+- Computer Algorithms -  Ellis Horowitz.
 - The Design and Analysis of Algorithms by Dexter Kozen. Springer, 1992.
 - The Algorithm Design Manual - Skiena.
 - Algorithms 4/e by Robert Sedgewick and Kevin Wayne. Addison-Wesley Professional, 2011.
 - Data Structures and Network Algorithms by Robert Tarjan.
 - Algorithms Illuminated - Tim Roughgarden's Book Series
 - Algorithms and Data Structures. The basic ToolBox - Kurt Mehlhorn • Peter Sanders
+- Algorithms in a Nutshell - George T. Heineman
+- Introduction to the Design and Analysis Algorithms - Levitin
+- How to think about Algorithms - Jeff Edmons
+- Algorithmic thinking - Daniel Zingaro
 - Grokking Algorithms - Aditya
 - Grokking Data Structures - Marcello la Rocca
+- Algorithms - Robert Sedgewick
+
+
+
