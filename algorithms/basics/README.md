@@ -1731,6 +1731,8 @@ https://codeforces.com/contest/1796/problem/A
 
 825) We be Flipping https://codeforces.com/contest/2229/problem/C1
 
+826) Add Binary https://leetcode.com/problems/add-binary/description/
+
      
 
 
