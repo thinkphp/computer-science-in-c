@@ -1733,6 +1733,8 @@ https://codeforces.com/contest/1796/problem/A
 
 826) Add Binary https://leetcode.com/problems/add-binary/description/
 
+827) Construct an array https://codeforces.com/contest/2231/problem/A
+
      
 
 
