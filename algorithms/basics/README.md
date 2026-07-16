@@ -1735,6 +1735,12 @@ https://codeforces.com/contest/1796/problem/A
 
 827) Construct an array https://codeforces.com/contest/2231/problem/A
 
+828) 3Sum Closest https://leetcode.com/problems/3sum-closest/description/
+
+829) Absolute Cinema https://codeforces.com/contest/2229/problem/B
+
+830) Slimes on a Line https://codeforces.com/contest/2229/problem/A
+
      
 
 
