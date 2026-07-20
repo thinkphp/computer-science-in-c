@@ -1743,6 +1743,8 @@ https://codeforces.com/contest/1796/problem/A
 
 831) Another Puzzle from Papyrus https://codeforces.com/contest/2238/problem/A
 
+832) Divide Two Integers https://leetcode.com/problems/divide-two-integers/description/
+
      
 
 
