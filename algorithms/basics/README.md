@@ -1741,6 +1741,8 @@ https://codeforces.com/contest/1796/problem/A
 
 830) Slimes on a Line https://codeforces.com/contest/2229/problem/A
 
+831) Another Puzzle from Papyrus https://codeforces.com/contest/2238/problem/A
+
      
 
 
