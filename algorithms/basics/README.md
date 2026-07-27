@@ -1745,6 +1745,24 @@ https://codeforces.com/contest/1796/problem/A
 
 832) Divide Two Integers https://leetcode.com/problems/divide-two-integers/description/
 
+833) Swap Nodes in Pairs https://leetcode.com/problems/swap-nodes-in-pairs/description/
+
+834) Zigzag Conversion https://leetcode.com/problems/zigzag-conversion/description/
+
+835) Repeated DNA Sequence https://leetcode.com/problems/repeated-dna-sequences/description/
+
+836) Bigrams https://codeforces.com/contest/2242/problem/A
+
+837) Destroying Towers https://codeforces.com/contest/2237/problem/A
+
+838) Zero Sum https://codeforces.com/contest/2247/problem/A
+
+839) Yet Another Constructive https://codeforces.com/contest/2247/problem/B
+
+840) Nikita and Books https://codeforces.com/contest/2244/problem/B
+
+841) Stepan and Permutation https://codeforces.com/contest/2244/problem/C
+
      
 
 
