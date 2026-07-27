@@ -1763,6 +1763,16 @@ https://codeforces.com/contest/1796/problem/A
 
 841) Stepan and Permutation https://codeforces.com/contest/2244/problem/C
 
+842) Adjacent XOR https://codeforces.com/contest/2131/problem/E
+
+843) Nested Segments https://codeforces.com/contest/976/problem/C
+
+844) Degree Set https://codeforces.com/contest/976/problem/D
+
+845) A wonderful Contest https://codeforces.com/contest/2222/problem/A
+
+846) Equidistance Vertices https://codeforces.com/contest/1551/problem/F
+
      
 
 
