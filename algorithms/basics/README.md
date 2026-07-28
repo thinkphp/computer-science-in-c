@@ -1781,6 +1781,16 @@ https://codeforces.com/contest/1796/problem/A
 
 850) Tom and jerry https://codeforces.com/contest/2245/problem/E
 
+851) Animals https://codeforces.com/contest/35/problem/D
+
+852) Parade https://codeforces.com/contest/35/problem/E
+
+853) Bit++ https://codeforces.com/contest/282/problem/A
+
+854) Happy Farm 5 https://codeforces.com/contest/50/problem/C
+
+855) Domino Piling https://codeforces.com/contest/50/problem/A
+
      
 
 
