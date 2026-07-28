@@ -1773,6 +1773,14 @@ https://codeforces.com/contest/1796/problem/A
 
 846) Equidistance Vertices https://codeforces.com/contest/1551/problem/F
 
+847) Rervers words in a String https://leetcode.com/problems/reverse-words-in-a-string/description/
+
+848) Delete and Concatenate https://codeforces.com/contest/2245/problem/B
+
+849) Who whatches the Watchpig https://codeforces.com/contest/2245/problem/A
+
+850) Tom and jerry https://codeforces.com/contest/2245/problem/E
+
      
 
 
