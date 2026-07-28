@@ -430,12 +430,6 @@
 
 166) Reconnaissance https://codeforces.com/contest/32/problem/A
 
-168) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
-
-169) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
-
-170) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/
-
 171) Sum https://acm.timus.ru/problem.aspx?space=1&num=1068
 
 172) Zero Sum https://atcoder.jp/contests/abc349/tasks/abc349_a
@@ -738,10 +732,6 @@ https://codeforces.com/contest/1796/problem/A
 325) Buying Lemonade https://codeforces.com/contest/2024/problem/B
 
 326) Swap Columns and Find a Path https://codeforces.com/contest/2046/problem/A
-
-327) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
-
-329) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
 
 330) Ping-Pong https://codeforces.com/contest/320/problem/B
 
@@ -1790,6 +1780,16 @@ https://codeforces.com/contest/1796/problem/A
 854) Happy Farm 5 https://codeforces.com/contest/50/problem/C
 
 855) Domino Piling https://codeforces.com/contest/50/problem/A
+
+856) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
+
+857) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
+
+858) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/
+
+859) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
+
+860) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
 
      
 
