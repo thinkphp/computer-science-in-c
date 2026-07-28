@@ -1785,11 +1785,11 @@ https://codeforces.com/contest/1796/problem/A
 
 857) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
 
-858) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/
+858) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/                         
 
-859) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
+860) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
 
-860) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
+861) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
 
      
 
