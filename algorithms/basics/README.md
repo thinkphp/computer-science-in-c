@@ -1797,6 +1797,12 @@ https://codeforces.com/contest/1796/problem/A
 
 863) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
 
+864) Divisibility https://www.hackerearth.com/community/problem/algorithm/divisible-or-not-81b86ad7/
+
+865) ASCII Value https://www.hackerearth.com/community/problem/algorithm/ascii-value/
+
+866) Bob And Bombs https://www.hackerearth.com/community/problem/algorithm/bob-and-bombs-cake-walk/
+
      
 
 
