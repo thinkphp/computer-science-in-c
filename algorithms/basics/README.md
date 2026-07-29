@@ -77,7 +77,7 @@
 
  * https://www.hackerearth.com/practice/
 
- * UVa https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
+ * https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1 uVA Universidad de Valladolid
 
  * https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
