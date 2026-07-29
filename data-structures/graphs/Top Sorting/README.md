@@ -3,7 +3,7 @@
 ### Problem Set
 
 ### Spoj
-- https://www.spoj.com/problems/TOPOSORT/
+- Topological Sorting https://www.spoj.com/problems/TOPOSORT/
 
 #### Infoarena
  - Sortare topologica https://www.infoarena.ro/problema/sortaret
