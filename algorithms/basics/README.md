@@ -226,12 +226,6 @@
 
 52) Superhero Transformation https://codeforces.com/contest/1111/problem/A
 
-53) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
-
-54) Is it a tree https://www.spoj.com/problems/PT07Y/
-
-55) Labyrinth https://www.spoj.com/problems/LABYR1/
-
 57) Dubstep https://codeforces.com/contest/208/problem/A
 
 58) Strong Password https://codeforces.com/contest/1845/problem/C
@@ -1805,6 +1799,11 @@ https://codeforces.com/contest/1796/problem/A
 
 867) Bob And Bombs https://www.hackerearth.com/community/problem/algorithm/bob-and-bombs-cake-walk/
 
+868) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
+
+869) Is it a tree https://www.spoj.com/problems/PT07Y/
+
+870) Labyrinth https://www.spoj.com/problems/LABYR1/
      
 
 
