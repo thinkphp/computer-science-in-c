@@ -1781,17 +1781,21 @@ https://codeforces.com/contest/1796/problem/A
 
 855) Domino Piling https://codeforces.com/contest/50/problem/A
 
-856) Bubble Sort https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/bubble-sort-15-8064c987/
+856) Threshold Movement https://codeforces.com/contest/2250/problem/A
 
-857) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
+857) String Construction https://codeforces.com/contest/2250/problem/B
 
-858) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
+858) Bubble Sort https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/bubble-sort-15-8064c987/
 
-859) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/                         
+859) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
 
-860) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
+860) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
 
-861) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
+861) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/                         
+
+862) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
+
+863) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
 
      
 
