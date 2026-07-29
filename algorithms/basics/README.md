@@ -1807,6 +1807,10 @@ https://codeforces.com/contest/1796/problem/A
 
 872) The Max lines https://www.spoj.com/problems/MAXLN/
 
+873) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+
+874) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+
 
 
 
