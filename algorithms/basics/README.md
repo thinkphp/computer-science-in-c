@@ -1804,9 +1804,7 @@ https://codeforces.com/contest/1796/problem/A
   <li>
     <p><a href="https://kremlin.cc/k&amp;r.pdf">C Programming Language: Dennis Ritchie, Brian Kernighan</a></p>
   </li>
-  <li>
-    <p><a href="https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483">Coders at Work: Reflections on the Craft of Programming</a></p>
-  </li>
+  
   <li>
     <p><a href="https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043">The art of computing programming: Donalt Knuth</a></p>
   </li>
