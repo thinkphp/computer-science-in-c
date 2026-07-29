@@ -1785,23 +1785,25 @@ https://codeforces.com/contest/1796/problem/A
 
 857) String Construction https://codeforces.com/contest/2250/problem/B
 
-858) Bubble Sort https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/bubble-sort-15-8064c987/
+858) Count and Say https://leetcode.com/problems/count-and-say/description/
 
-859) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
+859) Bubble Sort https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/bubble-sort-15-8064c987/
 
-860) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
+860) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
 
-861) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/                         
+861) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
 
-862) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
+862) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/                         
 
-863) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
+863) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
 
-864) Divisibility https://www.hackerearth.com/community/problem/algorithm/divisible-or-not-81b86ad7/
+864) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
 
-865) ASCII Value https://www.hackerearth.com/community/problem/algorithm/ascii-value/
+865) Divisibility https://www.hackerearth.com/community/problem/algorithm/divisible-or-not-81b86ad7/
 
-866) Bob And Bombs https://www.hackerearth.com/community/problem/algorithm/bob-and-bombs-cake-walk/
+866) ASCII Value https://www.hackerearth.com/community/problem/algorithm/ascii-value/
+
+867) Bob And Bombs https://www.hackerearth.com/community/problem/algorithm/bob-and-bombs-cake-walk/
 
      
 
