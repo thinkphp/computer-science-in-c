@@ -75,7 +75,7 @@
 
  * https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving
 
- * https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/ 
+ * https://www.hackerearth.com/practice/
 
  * UVa https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
 
