@@ -390,11 +390,9 @@
 
 149) SecvdesumaS https://www.pbinfo.ro/probleme/4233/secvdesumas
 
-150) The Max lines https://www.spoj.com/problems/MAXLN/
+
 
 151) Party https://codeforces.com/contest/1711/problem/B
-
-152) Businessmen Problems https://codeforces.com/contest/981/problem/B
 
 153) System Administrator https://codeforces.com/contest/245/problem/A
 
@@ -1779,32 +1777,36 @@ https://codeforces.com/contest/1796/problem/A
 
 857) String Construction https://codeforces.com/contest/2250/problem/B
 
-858) Count and Say https://leetcode.com/problems/count-and-say/description/
+858) Businessmen Problems https://codeforces.com/contest/981/problem/B
 
-859) Bubble Sort https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/bubble-sort-15-8064c987/
+859) Count and Say https://leetcode.com/problems/count-and-say/description/
 
-860) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
+860) Bubble Sort https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/bubble-sort-15-8064c987/
 
-861) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
+861) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
 
-862) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/                         
+862) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
 
-863) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
+863) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/                         
 
-864) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
+864) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
 
-865) Divisibility https://www.hackerearth.com/community/problem/algorithm/divisible-or-not-81b86ad7/
+865) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
 
-866) ASCII Value https://www.hackerearth.com/community/problem/algorithm/ascii-value/
+866) Divisibility https://www.hackerearth.com/community/problem/algorithm/divisible-or-not-81b86ad7/
 
-867) Bob And Bombs https://www.hackerearth.com/community/problem/algorithm/bob-and-bombs-cake-walk/
+867) ASCII Value https://www.hackerearth.com/community/problem/algorithm/ascii-value/
 
-868) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
+868) Bob And Bombs https://www.hackerearth.com/community/problem/algorithm/bob-and-bombs-cake-walk/
 
-869) Is it a tree https://www.spoj.com/problems/PT07Y/
+869) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
 
-870) Labyrinth https://www.spoj.com/problems/LABYR1/
-     
+870) Is it a tree https://www.spoj.com/problems/PT07Y/
+
+871) Labyrinth https://www.spoj.com/problems/LABYR1/
+
+872) The Max lines https://www.spoj.com/problems/MAXLN/
+
 
 
 
