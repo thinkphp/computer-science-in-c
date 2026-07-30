@@ -1705,8 +1705,6 @@ https://codeforces.com/contest/1796/problem/A
 
 821) Center Alignment https://codeforces.com/contest/5/problem/B
 
-822) Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
-
 823) Serval and String Theory https://codeforces.com/contest/2085/problem/A
 
 824) Koshary https://codeforces.com/contest/2227/problem/A
@@ -1810,6 +1808,8 @@ https://codeforces.com/contest/1796/problem/A
 873) Alice Sieve https://www.spoj.com/problems/ALICESIE/
 
 874) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+
+875) Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
 
 
 
