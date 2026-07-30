@@ -1809,7 +1809,7 @@ https://codeforces.com/contest/1796/problem/A
 
 874) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
 
-875) Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+875) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
 
 
 
