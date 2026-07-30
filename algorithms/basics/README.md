@@ -422,8 +422,6 @@
 
 166) Reconnaissance https://codeforces.com/contest/32/problem/A
 
-171) Sum https://acm.timus.ru/problem.aspx?space=1&num=1068
-
 172) Zero Sum https://atcoder.jp/contests/abc349/tasks/abc349_a
 
 173) 123233 https://atcoder.jp/contests/abc380/tasks/abc380_a
@@ -1647,39 +1645,41 @@ https://codeforces.com/contest/1796/problem/A
 
 794) NP-Hard https://codeforces.com/contest/687/problem/A
 
-795) Reverse Root https://acm.timus.ru/problem.aspx?space=1&num=1001
+795) Sum https://acm.timus.ru/problem.aspx?space=1&num=1068
 
-796) Phone Numbers https://acm.timus.ru/problem.aspx?space=1&num=1002
+796) Reverse Root https://acm.timus.ru/problem.aspx?space=1&num=1001
 
-797) Parity https://acm.timus.ru/problem.aspx?space=1&num=1003
+797) Phone Numbers https://acm.timus.ru/problem.aspx?space=1&num=1002
 
-798) Stone Pile https://acm.timus.ru/problem.aspx?space=1&num=1005
+798) Parity https://acm.timus.ru/problem.aspx?space=1&num=1003
 
-799) Product of Digits https://acm.timus.ru/problem.aspx?space=1&num=1014
+799) Stone Pile https://acm.timus.ru/problem.aspx?space=1&num=1005
 
-800) Factorials!!! https://acm.timus.ru/problem.aspx?space=1&num=1083
+800) Product of Digits https://acm.timus.ru/problem.aspx?space=1&num=1014
 
-801) Workdays https://acm.timus.ru/problem.aspx?space=1&num=1264
+801) Factorials!!! https://acm.timus.ru/problem.aspx?space=1&num=1083
 
-802) Enyia https://acm.timus.ru/problem.aspx?space=1&num=1293
+802) Workdays https://acm.timus.ru/problem.aspx?space=1&num=1264
 
-803) Two Gangsters https://acm.timus.ru/problem.aspx?space=1&num=1409
+803) Enyia https://acm.timus.ru/problem.aspx?space=1&num=1293
 
-804) Simple Expression https://acm.timus.ru/problem.aspx?space=1&num=2066
+804) Two Gangsters https://acm.timus.ru/problem.aspx?space=1&num=1409
 
-805) Make Even https://codeforces.com/contest/1611/problem/A
+805) Simple Expression https://acm.timus.ru/problem.aspx?space=1&num=2066
 
-806) Team Composition:  Programmers and Mathematicians https://codeforces.com/contest/1611/problem/B
+806) Make Even https://codeforces.com/contest/1611/problem/A
 
-807) Polycarp Recovers the Permutations https://codeforces.com/contest/1611/problem/C
+807) Team Composition:  Programmers and Mathematicians https://codeforces.com/contest/1611/problem/B
 
-808) Weights Assignments For Tree Edges https://codeforces.com/contest/1611/problem/D
+808) Polycarp Recovers the Permutations https://codeforces.com/contest/1611/problem/C
 
-809) Escape the Maze (Easy version) https://codeforces.com/contest/1611/problem/E1
+809) Weights Assignments For Tree Edges https://codeforces.com/contest/1611/problem/D
 
-810) Escape the Maze (hard version) https://codeforces.com/contest/1611/problem/E2
+810) Escape the Maze (Easy version) https://codeforces.com/contest/1611/problem/E1
 
-811)  Sum https://kilonova.ro/problems/1 (while(b) carry = a&b; a = a ^ b; )
+811) Escape the Maze (hard version) https://codeforces.com/contest/1611/problem/E2
+
+812)  Sum https://kilonova.ro/problems/1 (while(b) carry = a&b; a = a ^ b; )
 
 412)  Maximize Grandi's Function https://kilonova.ro/problems/3657
 
