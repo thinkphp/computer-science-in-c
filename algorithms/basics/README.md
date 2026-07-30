@@ -949,479 +949,475 @@ https://codeforces.com/contest/1796/problem/A
 
 441)  Phone Numbers https://codeforces.com/contest/1060/problem/A
 
-442)  Maximize Grandi's Function https://kilonova.ro/problems/3657
-
 443)  Valid Anagrame https://leetcode.com/problems/valid-anagram/description/
 
 444)  Two Tables https://codeforces.com/contest/1555/problem/B
 
-445)  Sum https://kilonova.ro/problems/1 (while(b) carry = a&b; a = a ^ b; )
+447)  Choose Two Numbers https://codeforces.com/contest/1206/problem/A
 
-446)  Choose Two Numbers https://codeforces.com/contest/1206/problem/A
+448)  Olympiad Date https://codeforces.com/contest/2091/problem/A
 
-447)  Olympiad Date https://codeforces.com/contest/2091/problem/A
+449)  Team Training https://codeforces.com/contest/2091/problem/B
 
-448)  Team Training https://codeforces.com/contest/2091/problem/B
+450)  Combination Lock https://codeforces.com/contest/2091/problem/C
 
-449)  Combination Lock https://codeforces.com/contest/2091/problem/C
+451)  Igor and Mountain https://codeforces.com/contest/2091/problem/F
 
-450)  Igor and Mountain https://codeforces.com/contest/2091/problem/F
+452)  Interesting Ratio https://codeforces.com/contest/2091/problem/E
 
-451)  Interesting Ratio https://codeforces.com/contest/2091/problem/E
+453)  Place of the Olympiad https://codeforces.com/contest/2091/problem/D
 
-452)  Place of the Olympiad https://codeforces.com/contest/2091/problem/D
+454)  Kamilka and the Sheep https://codeforces.com/contest/2092/problem/A
 
-453)  Kamilka and the Sheep https://codeforces.com/contest/2092/problem/A
+455)  Piecing It Together https://codeforces.com/contest/2095/problem/A
 
-454)  Piecing It Together https://codeforces.com/contest/2095/problem/A
+456)  Plinko https://codeforces.com/contest/2095/problem/B
 
-455)  Plinko https://codeforces.com/contest/2095/problem/B
+457)  Would it be unrated? https://codeforces.com/contest/2095/problem/C
 
-456)  Would it be unrated? https://codeforces.com/contest/2095/problem/C
+458)  Where Am I? https://codeforces.com/contest/2095/problem/D
 
-457)  Where Am I? https://codeforces.com/contest/2095/problem/D
+459)  Simple Permutation https://codeforces.com/contest/2089/problem/A
 
-458)  Simple Permutation https://codeforces.com/contest/2089/problem/A
+460)  Treasure Hunt https://codeforces.com/contest/2090/problem/A
 
-459)  Treasure Hunt https://codeforces.com/contest/2090/problem/A
+461)  Wolf https://codeforces.com/problemset/problem/2106/E
 
-460)  Wolf https://codeforces.com/problemset/problem/2106/E
+462)  St. Chroma https://codeforces.com/contest/2106/problem/B
 
-461)  St. Chroma https://codeforces.com/contest/2106/problem/B
+463)  Dr. TC https://codeforces.com/problemset/problem/2106/A
 
-462)  Dr. TC https://codeforces.com/problemset/problem/2106/A
+464)  Wolf https://codeforces.com/problemset/problem/2106/E
 
-463)  Wolf https://codeforces.com/problemset/problem/2106/E
+465)  Unpleasant Strings https://codeforces.com/problemset/problem/2104/E
 
-464)  Unpleasant Strings https://codeforces.com/problemset/problem/2104/E
+466)  Array and GCD https://codeforces.com/problemset/problem/2104/D
 
-465)  Array and GCD https://codeforces.com/problemset/problem/2104/D
+467)  Piecing It Together https://codeforces.com/problemset/problem/2095/A
 
-466)  Piecing It Together https://codeforces.com/problemset/problem/2095/A
+468)  Plinko https://codeforces.com/problemset/problem/2095/B
 
-467)  Plinko https://codeforces.com/problemset/problem/2095/B
+469)  ⅓ оf а Рrоblеm https://codeforces.com/contest/2095/problem/F
 
-468)  ⅓ оf а Рrоblеm https://codeforces.com/contest/2095/problem/F
+470)  Permutation Warm-Up https://codeforces.com/contest/2108/problem/A
 
-469)  Permutation Warm-Up https://codeforces.com/contest/2108/problem/A
+471)  SUMdamental Decomposition https://codeforces.com/contest/2108/problem/B
 
-470)  SUMdamental Decomposition https://codeforces.com/contest/2108/problem/B
+472)  Neo's Escape https://codeforces.com/contest/2108/problem/C
 
-471)  Neo's Escape https://codeforces.com/contest/2108/problem/C
+473)  Find the Duplicate Number https://leetcode.com/problems/find-the-duplicate-number/description/
 
-472)  Find the Duplicate Number https://leetcode.com/problems/find-the-duplicate-number/description/
+474)  Longest Increasing Subsequence https://leetcode.com/problems/longest-increasing-subsequence/description/
 
-473)  Longest Increasing Subsequence https://leetcode.com/problems/longest-increasing-subsequence/description/
+475) Valid Anagram https://leetcode.com/problems/valid-anagram/description/
 
-474) Valid Anagram https://leetcode.com/problems/valid-anagram/description/
+476) Sport Betting https://codeforces.com/contest/2097/problem/A
 
-475) Sport Betting https://codeforces.com/contest/2097/problem/A
+477) Baggage Claim https://codeforces.com/contest/2097/problem/B
 
-476) Baggage Claim https://codeforces.com/contest/2097/problem/B
+478) Bermuda Triangle https://codeforces.com/contest/2097/problem/C
 
-477) Bermuda Triangle https://codeforces.com/contest/2097/problem/C
+479) Combine Two Tables https://leetcode.com/problems/combine-two-tables/description/
 
-478) Combine Two Tables https://leetcode.com/problems/combine-two-tables/description/
+480) The Dining Philosophers https://leetcode.com/problems/the-dining-philosophers/description/
 
-479) The Dining Philosophers https://leetcode.com/problems/the-dining-philosophers/description/
+481) Building H2O https://leetcode.com/problems/building-h2o/description/
 
-480) Building H2O https://leetcode.com/problems/building-h2o/description/
+482) Print foobar alternatively https://leetcode.com/problems/print-foobar-alternately/description/
 
-481) Print foobar alternatively https://leetcode.com/problems/print-foobar-alternately/description/
+483) Print in Order https://leetcode.com/problems/print-in-order/description/
 
-482) Print in Order https://leetcode.com/problems/print-in-order/description/
+484) Print Zero Even Odd https://leetcode.com/problems/print-zero-even-odd/description/
 
-483) Print Zero Even Odd https://leetcode.com/problems/print-zero-even-odd/description/
+485) Cycling (Easy Version) https://codeforces.com/contest/2107/problem/F1
 
-484) Cycling (Easy Version) https://codeforces.com/contest/2107/problem/F1
+486) Apple Tree Traversing https://codeforces.com/contest/2107/problem/D
 
-485) Apple Tree Traversing https://codeforces.com/contest/2107/problem/D
+487) Apples in Boxes https://codeforces.com/contest/2107/problem/B
 
-486) Apples in Boxes https://codeforces.com/contest/2107/problem/B
+488) LRC and VIP https://codeforces.com/contest/2107/problem/A
 
-487) LRC and VIP https://codeforces.com/contest/2107/problem/A
+489) Hacking Numbers (Easy Version) https://codeforces.com/contest/2109/problem/C1
 
-488) Hacking Numbers (Easy Version) https://codeforces.com/contest/2109/problem/C1
+490) It's Time To Duel https://codeforces.com/contest/2109/problem/A
 
-489) It's Time To Duel https://codeforces.com/contest/2109/problem/A
+491) The Picky Cat https://codeforces.com/contest/2102/problem/B
 
-490) The Picky Cat https://codeforces.com/contest/2102/problem/B
+492) The Dinner Time https://codeforces.com/contest/2102/problem/A
 
-491) The Dinner Time https://codeforces.com/contest/2102/problem/A
+493) Small Operations https://codeforces.com/contest/2114/problem/F
 
-492) Small Operations https://codeforces.com/contest/2114/problem/F
+494) Kirei Attacks The Estate https://codeforces.com/contest/2114/problem/E
 
-493) Kirei Attacks The Estate https://codeforces.com/contest/2114/problem/E
+495) Square Year https://codeforces.com/contest/2114/problem/A
 
-494) Square Year https://codeforces.com/contest/2114/problem/A
+496) Where is the Bishop https://codeforces.com/contest/1692/problem/C
 
-495) Where is the Bishop https://codeforces.com/contest/1692/problem/C
+497) Marathon https://codeforces.com/contest/1692/problem/A
 
-496) Marathon https://codeforces.com/contest/1692/problem/A
+498) All Distinct https://codeforces.com/contest/1692/problem/B
 
-497) All Distinct https://codeforces.com/contest/1692/problem/B
+499) Gellyfish and Tricolor Pansy https://codeforces.com/contest/2116/problem/A
 
-498) Gellyfish and Tricolor Pansy https://codeforces.com/contest/2116/problem/A
+500)  Gellyfish and Baby's Breath https://codeforces.com/contest/2116/problem/B
 
-499)  Gellyfish and Baby's Breath https://codeforces.com/contest/2116/problem/B
+501)  Down with Brackets https://codeforces.com/contest/2110/problem/B
 
-500)  Down with Brackets https://codeforces.com/contest/2110/problem/B
+502)  Binary Typewriter https://codeforces.com/contest/2103/problem/B
 
-501)  Binary Typewriter https://codeforces.com/contest/2103/problem/B
+503) Commong Multiple https://codeforces.com/contest/2103/problem/A
 
-502) Commong Multiple https://codeforces.com/contest/2103/problem/A
+504) Cherry Bomb https://codeforces.com/contest/2106/problem/C
 
-503) Cherry Bomb https://codeforces.com/contest/2106/problem/C
+505) ⅓ оf а Рrоblеm https://codeforces.com/contest/2095/problem/F
 
-504) ⅓ оf а Рrоblеm https://codeforces.com/contest/2095/problem/F
+506) Fashionable Array https://codeforces.com/contest/2110/problem/A
 
-505) Fashionable Array https://codeforces.com/contest/2110/problem/A
+507) Square Year https://codeforces.com/contest/2114/problem/A
 
-506) Square Year https://codeforces.com/contest/2114/problem/A
+508) Not Quite A Palindromic String https://codeforces.com/contest/2114/problem/B
 
-507) Not Quite A Palindromic String https://codeforces.com/contest/2114/problem/B
+509) False Alarm https://codeforces.com/contest/2117/problem/A
 
-508) False Alarm https://codeforces.com/contest/2117/problem/A
+510) Shrink https://codeforces.com/contest/2117/problem/B
 
-509) Shrink https://codeforces.com/contest/2117/problem/B
+511) Cool Partition https://codeforces.com/contest/2117/problem/C
 
-510) Cool Partition https://codeforces.com/contest/2117/problem/C
+512) Omg Graph https://codeforces.com/contest/2117/problem/G
 
-511) Omg Graph https://codeforces.com/contest/2117/problem/G
+513) Vadim's Collection https://codeforces.com/contest/2098/problem/A
 
-512) Vadim's Collection https://codeforces.com/contest/2098/problem/A
+514) Lost Soul https://codeforces.com/contest/2117/problem/E
 
-513) Lost Soul https://codeforces.com/contest/2117/problem/E
+515) Sliding Window Sum https://cses.fi/problemset/task/3220
 
-514) Sliding Window Sum https://cses.fi/problemset/task/3220
+516) Sliding Window Minimum https://cses.fi/problemset/task/3221
 
-515) Sliding Window Minimum https://cses.fi/problemset/task/3221
+517) Sliding Window Median https://cses.fi/problemset/task/1076
 
-516) Sliding Window Median https://cses.fi/problemset/task/1076
+518) Sliding Window Cost https://cses.fi/problemset/task/1077
 
-517) Sliding Window Cost https://cses.fi/problemset/task/1077
+519) Hidden Integer https://cses.fi/problemset/task/3112
 
-518) Hidden Integer https://cses.fi/problemset/task/3112
+520) Array Recovery https://codeforces.com/contest/1739/problem/B
 
-519) Array Recovery https://codeforces.com/contest/1739/problem/B
+521) Working Week https://codeforces.com/contest/1735/problem/A
 
-520) Working Week https://codeforces.com/contest/1735/problem/A
+522) Immobile Knight https://codeforces.com/contest/1739/problem/A
 
-521) Immobile Knight https://codeforces.com/contest/1739/problem/A
+523) Word Game https://codeforces.com/contest/1722/problem/C
 
-522) Word Game https://codeforces.com/contest/1722/problem/C
+524) Spell Check https://codeforces.com/contest/1722/problem/A
 
-523) Spell Check https://codeforces.com/contest/1722/problem/A
+525) Energy Crystals https://codeforces.com/contest/2111/problem/A
 
-524) Energy Crystals https://codeforces.com/contest/2111/problem/A
+526) Equal Values https://codeforces.com/contest/2111/problem/C
 
-525) Equal Values https://codeforces.com/contest/2111/problem/C
+527) Creating a Schedule https://codeforces.com/contest/2111/problem/D
 
-526) Creating a Schedule https://codeforces.com/contest/2111/problem/D
+528) Fibonacci Cubes https://codeforces.com/contest/2111/problem/B
 
-527) Fibonacci Cubes https://codeforces.com/contest/2111/problem/B
+529) Tree Jumps https://codeforces.com/contest/2070/problem/D
 
-528) Tree Jumps https://codeforces.com/contest/2070/problem/D
+530) FizzBuzz Remixed https://codeforces.com/contest/2070/problem/A
 
-529) FizzBuzz Remixed https://codeforces.com/contest/2070/problem/A
+531) Robot Program https://codeforces.com/contest/2070/problem/B
 
-530) Robot Program https://codeforces.com/contest/2070/problem/B
+532) A, B, AB, and BA https://codeforces.com/contest/2069/problem/E
 
-531) A, B, AB, and BA https://codeforces.com/contest/2069/problem/E
+533) Beautiful Sequence https://codeforces.com/contest/2069/problem/C
 
-532) Beautiful Sequence https://codeforces.com/contest/2069/problem/C
+534) Palindrome Shuffle https://codeforces.com/contest/2069/problem/D
 
-533) Palindrome Shuffle https://codeforces.com/contest/2069/problem/D
+535) Equal Subsequences https://codeforces.com/problemset/problem/2118/A
 
-534) Equal Subsequences https://codeforces.com/problemset/problem/2118/A
+536) Good Start https://codeforces.com/contest/2113/problem/B
 
-535) Good Start https://codeforces.com/contest/2113/problem/B
+537) Division https://codeforces.com/contest/1669/problem/A
 
-536) Division https://codeforces.com/contest/1669/problem/A
+538) 1709 https://codeforces.com/contest/2121/problem/D
 
-537) 1709 https://codeforces.com/contest/2121/problem/D
+539) Above the clouds https://codeforces.com/contest/2121/problem/B
 
-538) Above the clouds https://codeforces.com/contest/2121/problem/B
+540) Letter Home https://codeforces.com/contest/2121/problem/A
 
-539) Letter Home https://codeforces.com/contest/2121/problem/A
+541) Skibidus and Amog'u https://codeforces.com/contest/2065/problem/A
 
-540) Skibidus and Amog'u https://codeforces.com/contest/2065/problem/A
+542) Skibidus and Ohio https://codeforces.com/contest/2065/problem/B
 
-541) Skibidus and Ohio https://codeforces.com/contest/2065/problem/B
+543) Skibidus and Sigma https://codeforces.com/contest/2065/problem/D
 
-542) Skibidus and Sigma https://codeforces.com/contest/2065/problem/D
+544) Skibidus and Slay https://codeforces.com/contest/2065/problem/F
 
-543) Skibidus and Slay https://codeforces.com/contest/2065/problem/F
+545) Skibidus and Rizz https://codeforces.com/contest/2065/problem/E
 
-544) Skibidus and Rizz https://codeforces.com/contest/2065/problem/E
+546) Skibidus and Amog'u https://codeforces.com/contest/2065/problem/A
 
-545) Skibidus and Amog'u https://codeforces.com/contest/2065/problem/A
+547) Sponsor of Your Problem https://codeforces.com/contest/2121/problem/E
 
-546) Sponsor of Your Problem https://codeforces.com/contest/2121/problem/E
+548) Trippi Troppi https://codeforces.com/contest/2094/problem/A
 
-547) Trippi Troppi https://codeforces.com/contest/2094/problem/A
+549) Tung Tung Sahur https://codeforces.com/contest/2094/problem/D
 
-548) Tung Tung Sahur https://codeforces.com/contest/2094/problem/D
+550) Square of Rectangles https://codeforces.com/contest/2120/problem/A
 
-549) Square of Rectangles https://codeforces.com/contest/2120/problem/A
+551) Hackers and Neural Networks https://codeforces.com/contest/2093/problem/F
 
-550) Hackers and Neural Networks https://codeforces.com/contest/2093/problem/F
+552) Bobritto Bandito https://codeforces.com/contest/2094/problem/B
 
-551) Bobritto Bandito https://codeforces.com/contest/2094/problem/B
+553) Blackboard Game https://codeforces.com/contest/2123/problem/A
 
-552) Blackboard Game https://codeforces.com/contest/2123/problem/A
+554) Tournament https://codeforces.com/contest/2123/problem/B
 
-553) Tournament https://codeforces.com/contest/2123/problem/B
+555) Square Pool https://codeforces.com/problemset/problem/2120/B
 
-554) Square Pool https://codeforces.com/problemset/problem/2120/B
+556) Wildflower https://codeforces.com/contest/2117/problem/F
 
-555) Wildflower https://codeforces.com/contest/2117/problem/F
+557) Retaliation https://codeforces.com/contest/2117/problem/D
 
-556) Retaliation https://codeforces.com/contest/2117/problem/D
+558) Binary String Battle https://codeforces.com/contest/2123/problem/D
 
-557) Binary String Battle https://codeforces.com/contest/2123/problem/D
+559) Prefix Min Suffix Max https://codeforces.com/contest/2123/problem/C
 
-558) Prefix Min Suffix Max https://codeforces.com/contest/2123/problem/C
+560) Slightly Decreasing Permutations https://codeforces.com/contest/285/problem/A
 
-559) Slightly Decreasing Permutations https://codeforces.com/contest/285/problem/A
+561) Golden System https://codeforces.com/contest/457/problem/A
 
-560) Golden System https://codeforces.com/contest/457/problem/A
+562) Distributed Join https://codeforces.com/contest/457/problem/B
 
-561) Distributed Join https://codeforces.com/contest/457/problem/B
+563) Elections https://codeforces.com/contest/457/problem/C
 
-562) Elections https://codeforces.com/contest/457/problem/C
+564) Alternating Sum of Numbers https://codeforces.com/contest/2010/problem/A
 
-563) Alternating Sum of Numbers https://codeforces.com/contest/2010/problem/A
+565) Permutation Value https://codeforces.com/contest/1743/problem/B
 
-564) Permutation Value https://codeforces.com/contest/1743/problem/B
+566) Save the Magazines https://codeforces.com/contest/1743/problem/C
 
-565) Save the Magazines https://codeforces.com/contest/1743/problem/C
+567) Year of University Entrance https://codeforces.com/contest/769/problem/A
 
-566) Year of University Entrance https://codeforces.com/contest/769/problem/A
+568) News About Credit https://codeforces.com/contest/769/problem/B
 
-567) News About Credit https://codeforces.com/contest/769/problem/B
+569) Cycle in Maze https://codeforces.com/contest/769/problem/C
 
-568) Cycle in Maze https://codeforces.com/contest/769/problem/C
+570) Ordered Permutations https://codeforces.com/contest/2040/problem/C
 
-569) Ordered Permutations https://codeforces.com/contest/2040/problem/C
+571) Broken Keyboard https://codeforces.com/contest/1765/problem/B
 
-570) Broken Keyboard https://codeforces.com/contest/1765/problem/B
+572) Exchange https://codeforces.com/contest/1765/problem/E
 
-571) Exchange https://codeforces.com/contest/1765/problem/E
+573) Minimum LCM https://codeforces.com/contest/1765/problem/M
 
-572) Minimum LCM https://codeforces.com/contest/1765/problem/M
+574) Wonderful Lightbulbs https://codeforces.com/contest/2096/problem/D
 
-573) Wonderful Lightbulbs https://codeforces.com/contest/2096/problem/D
+575) Digital Wallet https://codeforces.com/contest/1866/problem/D
 
-574) Digital Wallet https://codeforces.com/contest/1866/problem/D
+576) Robot Cleaner https://codeforces.com/contest/1623/problem/A
 
-575) Robot Cleaner https://codeforces.com/contest/1623/problem/A
+577) A + B = C Problem https://codeforces.com/gym/105632/problem/A
 
-576) A + B = C Problem https://codeforces.com/gym/105632/problem/A
+578) Only One Digit https://codeforces.com/contest/2126/problem/A
 
-577) Only One Digit https://codeforces.com/contest/2126/problem/A
+579) No Casino in the Mountains https://codeforces.com/contest/2126/problem/B
 
-578) No Casino in the Mountains https://codeforces.com/contest/2126/problem/B
+580) I Will Definitely Make It https://codeforces.com/contest/2126/problem/C
 
-579) I Will Definitely Make It https://codeforces.com/contest/2126/problem/C
+581) THis is the Last Time https://codeforces.com/contest/2126/problem/D
 
-580) THis is the Last Time https://codeforces.com/contest/2126/problem/D
+582) G-C-D, Unlucky! https://codeforces.com/contest/2126/problem/E
 
-581) G-C-D, Unlucky! https://codeforces.com/contest/2126/problem/E
+583) 1-1-1, Free Tree https://codeforces.com/contest/2126/problem/F
 
-582) 1-1-1, Free Tree https://codeforces.com/contest/2126/problem/F
+584) Difficult Contest https://codeforces.com/contest/2125/problem/A
 
-583) Difficult Contest https://codeforces.com/contest/2125/problem/A
+585) Left and Down https://codeforces.com/contest/2125/problem/B
 
-584) Left and Down https://codeforces.com/contest/2125/problem/B
+586) Nene's Game https://codeforces.com/contest/1956/problem/A
 
-585) Nene's Game https://codeforces.com/contest/1956/problem/A
+587) Nene's Magical Matrix https://codeforces.com/contest/1956/problem/C
 
-586) Nene's Magical Matrix https://codeforces.com/contest/1956/problem/C
+588) Left and Down https://codeforces.com/contest/2125/problem/B
 
-587) Left and Down https://codeforces.com/contest/2125/problem/B
+589) Treasure Hunt https://codeforces.com/contest/2090/problem/A
 
-588) Treasure Hunt https://codeforces.com/contest/2090/problem/A
+590) Short Sort https://codeforces.com/contest/1873/problem/A
 
-589) Short Sort https://codeforces.com/contest/1873/problem/A
+591) Greedy Grid https://codeforces.com/contest/2122/problem/A
 
-590) Greedy Grid https://codeforces.com/contest/2122/problem/A
+592) Traffic Lights https://codeforces.com/contest/2122/problem/D
 
-591) Traffic Lights https://codeforces.com/contest/2122/problem/D
+593)  New World, New Me, New Array https://codeforces.com/contest/2072/problem/A
 
-592)  New World, New Me, New Array https://codeforces.com/contest/2072/problem/A
+594) Having Been a Treasurer in the Past, I Help Goblins Deceive https://codeforces.com/contest/2072/problem/B
 
-593) Having Been a Treasurer in the Past, I Help Goblins Deceive https://codeforces.com/contest/2072/problem/B
+595) Hacking Numbers (Easy Version) https://codeforces.com/contest/2109/problem/C1
 
-594) Hacking Numbers (Easy Version) https://codeforces.com/contest/2109/problem/C1
+596) Hacking Numbers (Medium Version) https://codeforces.com/contest/2109/problem/C2
 
-595) Hacking Numbers (Medium Version) https://codeforces.com/contest/2109/problem/C2
+597) This is the Last Time https://codeforces.com/contest/2126/problem/D
 
-596) This is the Last Time https://codeforces.com/contest/2126/problem/D
+598) Only One Digit https://codeforces.com/contest/2126/problem/A
 
-597) Only One Digit https://codeforces.com/contest/2126/problem/A
+599) No Casino in the Mountains https://codeforces.com/contest/2126/problem/B
 
-598) No Casino in the Mountains https://codeforces.com/contest/2126/problem/B
+600) I will difinitely Make it https://codeforces.com/contest/2126/problem/C
 
-599) I will difinitely Make it https://codeforces.com/contest/2126/problem/C
+601) Joey Takes Money https://codeforces.com/contest/1731/problem/A
 
-600) Joey Takes Money https://codeforces.com/contest/1731/problem/A
+602) Adjacent Digit Sums https://codeforces.com/contest/2067/problem/A
 
-601) Adjacent Digit Sums https://codeforces.com/contest/2067/problem/A
+603) Submedians https://codeforces.com/contest/2128/problem/E1
 
-602) Submedians https://codeforces.com/contest/2128/problem/E1
+604) Valid Parenthesis String https://leetcode.com/problems/valid-parenthesis-string/description/
 
-603) Valid Parenthesis String https://leetcode.com/problems/valid-parenthesis-string/description/
+605) Valid Parentheses https://leetcode.com/problems/valid-parentheses/description/
 
-604) Valid Parentheses https://leetcode.com/problems/valid-parentheses/description/
+606) Primes or Palindromes https://codeforces.com/contest/568/problem/A
 
-605) Primes or Palindromes https://codeforces.com/contest/568/problem/A
+607) Music https://codeforces.com/contest/569/problem/A
 
-606) Music https://codeforces.com/contest/569/problem/A
+608) Symmetric and Transitive https://codeforces.com/contest/568/problem/B
 
-607) Symmetric and Transitive https://codeforces.com/contest/568/problem/B
+609) Plus One on the Subset https://codeforces.com/contest/1624/problem/A
 
-608) Plus One on the Subset https://codeforces.com/contest/1624/problem/A
+610) Make AP https://codeforces.com/contest/1624/problem/B
 
-609) Make AP https://codeforces.com/contest/1624/problem/B
+611) Division by Two and Permutation https://codeforces.com/contest/1624/problem/C
 
-610) Division by Two and Permutation https://codeforces.com/contest/1624/problem/C
+612) a-Good String https://codeforces.com/contest/1385/problem/D
 
-611) a-Good String https://codeforces.com/contest/1385/problem/D
+613) Kayaking https://codeforces.com/contest/863/problem/B
 
-612) Kayaking https://codeforces.com/contest/863/problem/B
+614) Yet Another Array Queries Problem https://codeforces.com/contest/863/problem/D
 
-613) Yet Another Array Queries Problem https://codeforces.com/contest/863/problem/D
+615) Quasi-Palindrome https://codeforces.com/contest/863/problem/A
 
-614) Quasi-Palindrome https://codeforces.com/contest/863/problem/A
+616) 1-2-3 https://codeforces.com/contest/863/problem/C
 
-615) 1-2-3 https://codeforces.com/contest/863/problem/C
+617) Turn-Off the TV https://codeforces.com/contest/863/problem/E
 
-616) Turn-Off the TV https://codeforces.com/contest/863/problem/E
+618) Lever https://codeforces.com/contest/2131/problem/A
 
-617) Lever https://codeforces.com/contest/2131/problem/A
+619) Homework https://codeforces.com/contest/2132/problem/A
 
-618) Homework https://codeforces.com/contest/2132/problem/A
+620) Painting With Two Colors https://codeforces.com/contest/2134/problem/A
 
-619) Painting With Two Colors https://codeforces.com/contest/2134/problem/A
+621) The play never ends https://codeforces.com/problemset/problem/2071/A
 
-620) The play never ends https://codeforces.com/problemset/problem/2071/A
+622) Make it equal https://codeforces.com/contest/2131/problem/C
 
-621) Make it equal https://codeforces.com/contest/2131/problem/C
+623) Villagers https://codeforces.com/problemset/problem/2133/B
 
-622) Villagers https://codeforces.com/problemset/problem/2133/B
+624) Redstone? https://codeforces.com/contest/2133/problem/A
 
-623) Redstone? https://codeforces.com/contest/2133/problem/A
+625) In the dream https://codeforces.com/contest/2136/problem/A
 
-624) In the dream https://codeforces.com/contest/2136/problem/A
+626) The cunning seller https://codeforces.com/contest/2132/problem/C1
 
-625) The cunning seller https://codeforces.com/contest/2132/problem/C1
+627) Arithmentics Competition https://codeforces.com/contest/2132/problem/E
 
-626) Arithmentics Competition https://codeforces.com/contest/2132/problem/E
+628) Leftmost Below https://codeforces.com/contest/2128/problem/C
 
-627) Leftmost Below https://codeforces.com/contest/2128/problem/C
+629) Against the Difference https://codeforces.com/contest/2135/problem/A
 
-628) Against the Difference https://codeforces.com/contest/2135/problem/A
+630) For the Champion https://codeforces.com/contest/2135/problem/B
 
-629) For the Champion https://codeforces.com/contest/2135/problem/B
+631) Cake Collection https://codeforces.com/contest/2139/problem/B
 
-630) Cake Collection https://codeforces.com/contest/2139/problem/B
+632) Maximum Even Sum https://codeforces.com/contest/2137/problem/C
 
-631) Maximum Even Sum https://codeforces.com/contest/2137/problem/C
+633) Collatz Conjecture https://codeforces.com/contest/2137/problem/A
 
-632) Collatz Conjecture https://codeforces.com/contest/2137/problem/A
+634) Maple and Multiplication https://codeforces.com/contest/2139/problem/A
 
-633) Maple and Multiplication https://codeforces.com/contest/2139/problem/A
+635) Fun Permutation https://codeforces.com/contest/2137/problem/B
 
-634) Fun Permutation https://codeforces.com/contest/2137/problem/B
+636) Replace with Occurrences https://codeforces.com/contest/2137/problem/D
 
-635) Replace with Occurrences https://codeforces.com/contest/2137/problem/D
+637) The Nether https://codeforces.com/contest/2133/problem/C
 
-636) The Nether https://codeforces.com/contest/2133/problem/C
+638) Pacer https://codeforces.com/contest/2148/problem/C
 
-637) Pacer https://codeforces.com/contest/2148/problem/C
+639) Lasers https://codeforces.com/contest/2148/problem/B
 
-638) Lasers https://codeforces.com/contest/2148/problem/B
+640) Sublime Sequence https://codeforces.com/contest/2148/problem/A
 
-639) Sublime Sequence https://codeforces.com/contest/2148/problem/A
+641) Furniture Store https://codeforces.com/contest/2141/problem/A
 
-640) Furniture Store https://codeforces.com/contest/2141/problem/A
+642) Cut The Array https://codeforces.com/contest/2144/problem/A
 
-641) Cut The Array https://codeforces.com/contest/2144/problem/A
+643) Darius' Wisdom https://codeforces.com/contest/2034/problem/D
 
-642) Darius' Wisdom https://codeforces.com/contest/2034/problem/D
+644) Equal or Not Equal https://codeforces.com/contest/1620/problem/A
 
-643) Equal or Not Equal https://codeforces.com/contest/1620/problem/A
+645) Hemose Shopping https://codeforces.com/contest/1592/problem/B
 
-644) Hemose Shopping https://codeforces.com/contest/1592/problem/B
+646) Misha and Changing Handles https://codeforces.com/contest/501/problem/B
 
-645) Misha and Changing Handles https://codeforces.com/contest/501/problem/B
+647) Split https://codeforces.com/contest/2148/problem/E
 
-646) Split https://codeforces.com/contest/2148/problem/E
+648) Maximum Cost Permutation https://codeforces.com/contest/2144/problem/B
 
-647) Maximum Cost Permutation https://codeforces.com/contest/2144/problem/B
+649) Cloudberry Jam https://codeforces.com/contest/2086/problem/A
 
-648) Cloudberry Jam https://codeforces.com/contest/2086/problem/A
+650) Only One Digit https://codeforces.com/contest/2126/problem/A
 
-649) Only One Digit https://codeforces.com/contest/2126/problem/A
+651) Destruction of the Dandelion Fields https://codeforces.com/contest/2148/problem/D
 
-650) Destruction of the Dandelion Fields https://codeforces.com/contest/2148/problem/D
+652) Farmer john's last wish https://codeforces.com/contest/2148/problem/G
 
-651) Farmer john's last wish https://codeforces.com/contest/2148/problem/G
+653) Incremental Subarray https://codeforces.com/contest/2151/problem/A
 
-652) Incremental Subarray https://codeforces.com/contest/2151/problem/A
+654) Incremental Path https://codeforces.com/contest/2150/problem/A
 
-653) Incremental Path https://codeforces.com/contest/2150/problem/A
+655) Incremental Stay https://codeforces.com/contest/2151/problem/C
 
-654) Incremental Stay https://codeforces.com/contest/2151/problem/C
+656) El fucho https://codeforces.com/contest/2155/problem/A
 
-655) El fucho https://codeforces.com/contest/2155/problem/A
+657) The Ancient Wizard's Capes https://codeforces.com/contest/2155/problem/C
 
-656) The Ancient Wizard's Capes https://codeforces.com/contest/2155/problem/C
+658) Abraham's Great Escape https://codeforces.com/contest/2155/problem/B
 
-657) Abraham's Great Escape https://codeforces.com/contest/2155/problem/B
+659) Equal Occurrences https://codeforces.com/contest/2146/problem/A
 
-658) Equal Occurrences https://codeforces.com/contest/2146/problem/A
+660) Mergings the Sets https://codeforces.com/contest/2146/problem/B
 
-659) Mergings the Sets https://codeforces.com/contest/2146/problem/B
+661) MAX Sum Or https://codeforces.com/contest/2146/problem/D1
 
-660) MAX Sum Or https://codeforces.com/contest/2146/problem/D1
+662) Wrong Binary Search https://codeforces.com/contest/2146/problem/C
 
-661) Wrong Binary Search https://codeforces.com/contest/2146/problem/C
+663) Marathon https://codeforces.com/contest/404/problem/B
 
-662) Marathon https://codeforces.com/contest/404/problem/B
+664) Round Trip https://codeforces.com/contest/2161/problem/A
 
-663) Round Trip https://codeforces.com/contest/2161/problem/A
+665) Pyramid of Glasses https://codeforces.com/contest/676/problem/B
 
-664) Pyramid of Glasses https://codeforces.com/contest/676/problem/B
+666) Tree, TREE https://codeforces.com/contest/2167/problem/F
 
-665) Tree, TREE https://codeforces.com/contest/2167/problem/F
+667) Circle of Apple Trees https://codeforces.com/contest/2153/problem/A
 
-666) Circle of Apple Trees https://codeforces.com/contest/2153/problem/A
+668) Increase or Smash https://codeforces.com/contest/2152/problem/A
 
-667) Increase or Smash https://codeforces.com/contest/2152/problem/A
+669) Shizuku Hoshikawa and Farm Legs https://codeforces.com/contest/2171/problem/A
 
-668) Shizuku Hoshikawa and Farm Legs https://codeforces.com/contest/2171/problem/A
+670) Yuu Koito and Minimum Absolute Sum https://codeforces.com/contest/2171/problem/B
 
-669) Yuu Koito and Minimum Absolute Sum https://codeforces.com/contest/2171/problem/B
+671)  Renako Amaori and XOR Game (easy version) https://codeforces.com/contest/2171/problem/C1
 
-670)  Renako Amaori and XOR Game (easy version) https://codeforces.com/contest/2171/problem/C1
+672)  Rae Taylor and Trees (easy version) https://codeforces.com/contest/2171/problem/D
 
-671)  Rae Taylor and Trees (easy version) https://codeforces.com/contest/2171/problem/D
+673)  Aquatic Dragon https://codeforces.com/contest/2045/problem/D
 
-672)  Aquatic Dragon https://codeforces.com/contest/2045/problem/D
+674)  Make Good https://codeforces.com/contest/1270/problem/C
 
-673)  Make Good https://codeforces.com/contest/1270/problem/C
+675)  XOR Array https://codeforces.com/problemset/problem/2175/B
 
-674)  XOR Array https://codeforces.com/problemset/problem/2175/B
+676)  Operations With Inversions https://codeforces.com/contest/2176/problem/A
 
-675)  Operations With Inversions https://codeforces.com/contest/2176/problem/A
+677)  Fibonacci Paths https://codeforces.com/contest/2176/problem/D
 
-676)  Fibonacci Paths https://codeforces.com/contest/2176/problem/D
+678)  Optimal Shifts https://codeforces.com/contest/2176/problem/B
 
-677)  Optimal Shifts https://codeforces.com/contest/2176/problem/B
-
-678)  New Year String https://codeforces.com/problemset/problem/2182/A
+679)  New Year String https://codeforces.com/problemset/problem/2182/A
 
 680)  Social Experiment https://codeforces.com/contest/2184/problem/A
 
@@ -1683,19 +1679,23 @@ https://codeforces.com/contest/1796/problem/A
 
 810) Escape the Maze (hard version) https://codeforces.com/contest/1611/problem/E2
 
-811) Ecuatii https://kilonova.ro/problems/2918?list_id=1142
+811)  Sum https://kilonova.ro/problems/1 (while(b) carry = a&b; a = a ^ b; )
 
-812) Esentiale https://kilonova.ro/problems/4180?list_id=1551
+412)  Maximize Grandi's Function https://kilonova.ro/problems/3657
 
-813) Gems https://kilonova.ro/problems/4181?list_id=1551
+813) Ecuatii https://kilonova.ro/problems/2918?list_id=1142
 
-814) Collatz https://kilonova.ro/problems/4225
+814) Esentiale https://kilonova.ro/problems/4180?list_id=1551
 
-815) Canonic https://kilonova.ro/problems/4271
+815) Gems https://kilonova.ro/problems/4181?list_id=1551
 
-816) Fractii2 https://kilonova.ro/problems/34
+816) Collatz https://kilonova.ro/problems/4225
 
-817) cifPrim https://kilonova.ro/problems/75
+817) Canonic https://kilonova.ro/problems/4271
+
+818) Fractii2 https://kilonova.ro/problems/34
+
+819) cifPrim https://kilonova.ro/problems/75
 
 818) Maximum Neighborshood https://codeforces.com/contest/2170/problem/A
 
