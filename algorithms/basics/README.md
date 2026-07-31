@@ -1933,6 +1933,28 @@ https://codeforces.com/contest/1796/problem/A
 
 935) FizzBuzz https://open.kattis.com/problems/fizzbuzz
 
+936) Til hamingju https://open.kattis.com/problems/tilhamingju
+
+937) Velkomin https://open.kattis.com/problems/velkomin
+
+938) Telja https://open.kattis.com/problems/telja
+
+939) Takkar https://open.kattis.com/problems/takkar
+
+940) hipp Hipp https://open.kattis.com/problems/hipphipp
+
+941) Leggja saman https://open.kattis.com/problems/leggjasaman
+
+942) Óvissa https://open.kattis.com/problems/ovissa
+
+943) Fifa https://open.kattis.com/problems/fifa
+
+944) Viðsnúningur https://open.kattis.com/problems/vidsnuningur
+
+945) Á leið í bíó https://open.kattis.com/problems/aleidibio
+
+946) M-Climb https://open.kattis.com/problems/mclimb
+
 
 
 
