@@ -1897,25 +1897,31 @@ https://codeforces.com/contest/1796/problem/A
 
 918) Shubham and Subarray Xor https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/shubham-and-subarray-xor-d9e787a7/
 
-919) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
+919) The maximum distance https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/lazy-segment-0186d695/
 
-920) Is it a tree https://www.spoj.com/problems/PT07Y/
+920) Triplets https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/triplets-3-231a9aea/
 
-921) Labyrinth https://www.spoj.com/problems/LABYR1/
+921) Concert capacity https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/practice-problems/algorithm/concert-capacity-2cef594a/
 
-922) The Max lines https://www.spoj.com/problems/MAXLN/
+922) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
 
-923) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+923) Is it a tree https://www.spoj.com/problems/PT07Y/
 
-924) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+924) Labyrinth https://www.spoj.com/problems/LABYR1/
 
-925) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+925) The Max lines https://www.spoj.com/problems/MAXLN/
 
-926) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+926) Alice Sieve https://www.spoj.com/problems/ALICESIE/
 
-927) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+927) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
 
-928) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
+928) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+
+929) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+
+930) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+
+931) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
 
 
 
