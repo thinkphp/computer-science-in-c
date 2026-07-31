@@ -1849,25 +1849,41 @@ https://codeforces.com/contest/1796/problem/A
 
 894) Number Sum https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/abcd-26-81bc0a09/
 
-895) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
+895) Find Set https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/find-set-2d8c7e4d/
 
-896) Is it a tree https://www.spoj.com/problems/PT07Y/
+896) Superjump in a grid https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/superjump-in-a-grid-773f1e31/
 
-897) Labyrinth https://www.spoj.com/problems/LABYR1/
+897) Real Estate Agents https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/real-estate-1-059f5228/
 
-898) The Max lines https://www.spoj.com/problems/MAXLN/
+898) K Cut and Product https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/k-cut-and-product-e5998b3f/
 
-899) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+899) Number formation https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/number-formation-1cae96c5/
 
-900) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+900) (Problem B) Prime https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/prime-game-1-2604365b/
 
-901) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+901) Final Voyage https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/final-voyage-1/
 
-902) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+902) Vanya and GCD https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/vanya-and-gcd-array/
 
-903) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+903) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
 
-904) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
+904) Is it a tree https://www.spoj.com/problems/PT07Y/
+
+905) Labyrinth https://www.spoj.com/problems/LABYR1/
+
+906) The Max lines https://www.spoj.com/problems/MAXLN/
+
+907) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+
+908) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+
+909) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+
+910) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+
+911) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+
+912) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
 
 
 
