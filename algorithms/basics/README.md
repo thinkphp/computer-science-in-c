@@ -1984,7 +1984,42 @@ https://codeforces.com/contest/1796/problem/A
 960) A shortcut to What? https://open.kattis.com/problems/shortcuttowhat
 
 961) Class Photo https://open.kattis.com/problems/classphoto
-962) 
+
+962) Öfugsnúið https://open.kattis.com/problems/ofugsnuid
+
+963) Stórafmæli https://open.kattis.com/problems/storafmaeli
+
+964) Hraðgreining https://open.kattis.com/problems/hradgreining
+
+965) D Fyrir Dreki https://open.kattis.com/problems/dfyrirdreki
+
+966) Aldur https://open.kattis.com/problems/aldur
+
+967) BergMál https://open.kattis.com/problems/bergmal
+
+968) Skák https://open.kattis.com/problems/skak
+
+969) Dagatal https://open.kattis.com/problems/dagatal
+
+970) Besta gjöfin https://open.kattis.com/problems/bestagjofin
+
+971) Blaðra https://open.kattis.com/problems/bladra2
+
+972) Hipp Hipp Húrra https://open.kattis.com/problems/hipphipphurra
+
+973) Takk fyrir mig https://open.kattis.com/problems/takkfyrirmig
+
+974) Odd Echo https://open.kattis.com/problems/oddecho
+
+975) Amerískur vinnustaður https://open.kattis.com/problems/ameriskur
+
+976) Spritt https://open.kattis.com/problems/spritt
+
+977) Veður - Lokaðar heiðar https://open.kattis.com/problems/vedurheidar
+
+978) Umferð https://open.kattis.com/problems/umferd
+
+979) Decimal Deletion https://open.kattis.com/problems/decimaldeletion
 
 
 
