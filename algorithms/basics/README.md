@@ -1873,25 +1873,33 @@ https://codeforces.com/contest/1796/problem/A
 
 906) Phi-phi-phi https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/phi-phi-phi/
 
-907) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
+907) Maze Maximum https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/maze-maximum-8f0fa284/
 
-908) Is it a tree https://www.spoj.com/problems/PT07Y/
+908) Not Even Max Sum https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/not-even-max-sum-a3ccf284/
 
-909) Labyrinth https://www.spoj.com/problems/LABYR1/
+909) Swap Sum https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/swap-sum-786eb7eb/
 
-910) The Max lines https://www.spoj.com/problems/MAXLN/
+910) Safe Programming https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/safe-programming-d5cf9331/
 
-911) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+911) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
 
-912) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+912) Is it a tree https://www.spoj.com/problems/PT07Y/
 
-913) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+913) Labyrinth https://www.spoj.com/problems/LABYR1/
 
-914) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+914) The Max lines https://www.spoj.com/problems/MAXLN/
 
-915) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+915) Alice Sieve https://www.spoj.com/problems/ALICESIE/
 
-916) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
+916) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+
+917) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+
+918) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+
+919) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+
+920) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
 
 
 
