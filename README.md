@@ -424,6 +424,8 @@ https://www.cs.cmu.edu/~15451-f20/LectureNotes/
 
 https://timroughgarden.org/ Tim Roughgarden
 
+https://www.cs.helsinki.fi/u/ahslaaks/ Antti Laaksonen
+
 https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm
 
 https://www.enjoyalgorithms.com/
