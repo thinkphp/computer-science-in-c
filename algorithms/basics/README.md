@@ -1833,25 +1833,41 @@ https://codeforces.com/contest/1796/problem/A
 
 886) Smart Travel Agent https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/smart-travel-agent/
 
-887) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
+887) Reach the Queen https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/reach-the-queen-c12a82bf/
 
-888) Is it a tree https://www.spoj.com/problems/PT07Y/
+888) Wise Business https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/wise-business-89b04f1a/
 
-889) Labyrinth https://www.spoj.com/problems/LABYR1/
+889) Lonely Island https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/lonelyisland-49054110/
 
-890) The Max lines https://www.spoj.com/problems/MAXLN/
+890) Telephone Connections https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/group-minmax-1cddbceb/
 
-891) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+891) Max Separations https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/max-seperations-4ed0b552/
 
-892) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+892) Roses in a shop https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/roses-for-valentine-4a795f72/
 
-893) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+893) Accommodations https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/accomodation-a5c006f3/
 
-894) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+894) Number Sum https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/abcd-26-81bc0a09/
 
-895) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+895) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
 
-896) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
+896) Is it a tree https://www.spoj.com/problems/PT07Y/
+
+897) Labyrinth https://www.spoj.com/problems/LABYR1/
+
+898) The Max lines https://www.spoj.com/problems/MAXLN/
+
+899) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+
+900) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+
+901) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+
+902) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+
+903) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+
+904) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
 
 
 
