@@ -71,11 +71,11 @@
  
  * https://acm.timus.ru/problemset.aspx
  
- * https://leetcode.com/problemset/
+ * https://leetcode.com/problemset/ => oriented FAANG
 
- * https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving
+ * https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving => learning, recruting, interviews, certifications
 
- * https://www.hackerearth.com/practice/
+ * https://www.hackerearth.com/practice/ => oriented learning, recruting, interviews
 
  * https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1 UVa Online Judge Universidad de Valladolid
 
