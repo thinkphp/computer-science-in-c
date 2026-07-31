@@ -174,6 +174,10 @@ https://ideone.com/fR8nF8
   - Binary Search https://codeforces.com/problemset/problem/1945/E
   - Interesting Drink https://codeforces.com/contest/706/problem/B
   - Number of Pairs https://codeforces.com/contest/1538/problem/C
+ 
+- Hackerearth
+
+  - Maze Maximum https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/maze-maximum-8f0fa284/    
 
 
 
