@@ -57,29 +57,31 @@
 
 ## Problem Set
 
- * https://cses.fi/problemset/list/ => oriented Competitive Programming, FAANG
+ * https://cses.fi/problemset/list/ ✅ Learning, Competitive Programming, Interviews
  
- * https://codeforces.com/problemset => oriented Competitive Programming, FAANG
+ * https://codeforces.com/problemset ✅ Competitive Programming
    
- * https://www.spoj.com/problems/classical/ => oriented Competitive Programming, FAANG
+ * https://www.spoj.com/problems/classical/ ✅ Competitive Programming, Classical Problems
 
- * https://infoarena.ro/arhiva-educationala => oriented Competitive Programming, FAANG
+ * https://infoarena.ro/arhiva-educationala ✅ Competitive Programming, Olympiads, High School
 
- * https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari => oriented Beginners,Highschool,College 
+ * https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari ✅ Beginners, High School, College
  
- * https://atcoder.jp/contests/archive => oriented Competitive Programming, FAANG
+ * https://atcoder.jp/contests/archive ✅ Competitive Programming
  
- * https://acm.timus.ru/problemset.aspx => oriented Competitive Programming, FAANG
+ * https://acm.timus.ru/problemset.aspx ✅ Competitive Programming, Classical Problems
  
- * https://leetcode.com/problemset/ => oriented FAANG
+ * https://leetcode.com/problemset/ ✅ Interviews, FAANG, Recruiting
 
- * https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving => learning, recruting, interviews, certifications
+ * https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving ✅ Learning, Interviews, Recruiting, Certifications
 
- * https://www.hackerearth.com/practice/ => oriented learning, recruting, interviews
+ * https://www.hackerearth.com/practice/ ✅ Learning, Recruiting, Interviews, Hackathons
 
- * https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1 UVa Online Judge Universidad de Valladolid
-
- * https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
+ * https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1 ✅ Competitive Programming, Classical Problems UVa Online Judge Universidad de Valladolid
+ 
+ * https://open.kattis.com/ ✅ ICPC, Universities, Competitive Programming
+   
+ * https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions ✅ Learning, Interview Preparation, High School, College
 
 
 ### Codeforces // HackerRank // HackerEarth // Leetcode // Infoarena // AtCoder // Spoj // UVa // CSES // Timus // Kilonova // Meta Hacker Cup
