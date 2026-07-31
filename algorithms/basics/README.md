@@ -1927,6 +1927,12 @@ https://codeforces.com/contest/1796/problem/A
 
 932) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
 
+933) ABC https://open.kattis.com/problems/abc
+
+934) Aaah! https://open.kattis.com/problems/aaah
+
+935) FizzBuzz https://open.kattis.com/problems/fizzbuzz
+
 
 
 
