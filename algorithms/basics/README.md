@@ -1915,13 +1915,15 @@ https://codeforces.com/contest/1796/problem/A
 
 927) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
 
-928) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+928) Richest Beggar https://www.spoj.com/problems/RCB/
 
-929) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+929) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
 
-930) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+930) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
 
-931) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
+931) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+
+932) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
 
 
 
