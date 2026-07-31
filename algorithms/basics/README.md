@@ -1819,25 +1819,39 @@ https://codeforces.com/contest/1796/problem/A
 
 879) Path Value https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/path-value-2-54ac4ca3/
 
-880) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
+880) Connected Components https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/connected-components-2-193825f8/
 
-881) Is it a tree https://www.spoj.com/problems/PT07Y/
+881) Coloring trees https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/coloring-the-tree-7e8a557a/
 
-882) Labyrinth https://www.spoj.com/problems/LABYR1/
+882) Cross the river https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/cross-the-river-052be366/
 
-883) The Max lines https://www.spoj.com/problems/MAXLN/
+883) Saving ms. W https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/saving-ms-w-7b3d36df/
 
-884) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+884) Routes https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/routes-48c6192a/
 
-885) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+885) Grid https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/robot-in-grid-b7d391f7/
 
-886) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+886) Smart Travel Agent https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/smart-travel-agent/
 
-887) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+887) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
 
-888) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+888) Is it a tree https://www.spoj.com/problems/PT07Y/
 
-889) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
+889) Labyrinth https://www.spoj.com/problems/LABYR1/
+
+890) The Max lines https://www.spoj.com/problems/MAXLN/
+
+891) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+
+892) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+
+893) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+
+894) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+
+895) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+
+896) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
 
 
 
