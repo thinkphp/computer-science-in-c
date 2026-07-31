@@ -57,19 +57,19 @@
 
 ## Problem Set
 
- * https://cses.fi/problemset/list/
+ * https://cses.fi/problemset/list/ => oriented Competitive Programming, FAANG
  
- * https://codeforces.com/problemset
+ * https://codeforces.com/problemset => oriented Competitive Programming, FAANG
    
- * https://www.spoj.com/problems/classical/
+ * https://www.spoj.com/problems/classical/ => oriented Competitive Programming, FAANG
 
- * https://infoarena.ro/arhiva-educationala
+ * https://infoarena.ro/arhiva-educationala => oriented Competitive Programming, FAANG
 
- * https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
+ * https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari => oriented Beginners,Highschool,College 
  
- * https://atcoder.jp/contests/archive
+ * https://atcoder.jp/contests/archive => oriented Competitive Programming, FAANG
  
- * https://acm.timus.ru/problemset.aspx
+ * https://acm.timus.ru/problemset.aspx => oriented Competitive Programming, FAANG
  
  * https://leetcode.com/problemset/ => oriented FAANG
 
