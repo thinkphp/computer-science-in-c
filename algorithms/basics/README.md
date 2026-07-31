@@ -1955,6 +1955,37 @@ https://codeforces.com/contest/1796/problem/A
 
 946) M-Climb https://open.kattis.com/problems/mclimb
 
+947) Millifærsla https://open.kattis.com/problems/millifaersla
+
+948) Tölvunarfræðingar telja https://open.kattis.com/problems/tolvunarfraedingartelja
+
+949) Flatbökuveisla https://open.kattis.com/problems/flatbokuveisla
+
+950) Reduplication https://open.kattis.com/problems/reduplikation
+
+951) Draga Frá https://open.kattis.com/problems/dragafra
+
+952) Lubbi Lærir https://open.kattis.com/problems/lubbilaerir
+
+953) Kveðja https://open.kattis.com/problems/kvedja
+
+954) Concatenate https://open.kattis.com/problems/skeytasaman
+
+955) Enjoy your Repast! https://open.kattis.com/problems/verditheradgodu
+
+956) ASCII Box 0 https://open.kattis.com/problems/asciikassi0
+
+957) Take Two Stones https://open.kattis.com/problems/twostones
+
+958) Metronome https://open.kattis.com/problems/metronome
+
+959) Parking Pantemonium https://open.kattis.com/problems/parkingpandemonium
+
+960) A shortcut to What? https://open.kattis.com/problems/shortcuttowhat
+
+961) Class Photo https://open.kattis.com/problems/classphoto
+962) 
+
 
 
 
