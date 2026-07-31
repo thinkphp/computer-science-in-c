@@ -1803,25 +1803,41 @@ https://codeforces.com/contest/1796/problem/A
 
 871) A cricket tournament https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/chef-and-chefa-a5c8800a/
 
-872) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
+872) Split the Bill https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/split-the-bill-3-5a0690ff/
 
-873) Is it a tree https://www.spoj.com/problems/PT07Y/
+873) Rooted Trees https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/hemose-asking-bakry-about-trees-e9598556/
 
-874) Labyrinth https://www.spoj.com/problems/LABYR1/
+874) Build a Graph https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/build-a-graph-5f5c6b4a/
 
-875) The Max lines https://www.spoj.com/problems/MAXLN/
+875) Uniformity https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/uniformity-794d7bdc/
 
-876) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+876) Monk in the real estate https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-in-the-real-estate/
 
-877) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+877) Friedship value https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/approximate/freindship-and-covid-2-b2d978ae/
 
-878) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+878) New Traveling Salesman Problem https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/approximate/tzp-5a83020f/
 
-879) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+879) Path Value https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/path-value-2-54ac4ca3/
 
-880) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+880) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
 
-881) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
+881) Is it a tree https://www.spoj.com/problems/PT07Y/
+
+882) Labyrinth https://www.spoj.com/problems/LABYR1/
+
+883) The Max lines https://www.spoj.com/problems/MAXLN/
+
+884) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+
+885) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+
+886) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+
+887) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+
+888) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+
+889) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
 
 
 
