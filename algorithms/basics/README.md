@@ -2021,6 +2021,54 @@ https://codeforces.com/contest/1796/problem/A
 
 979) Decimal Deletion https://open.kattis.com/problems/decimaldeletion
 
+980) Quality-Adjusted Life-Year https://open.kattis.com/problems/qaly
+
+981) Hack-a-Holics https://open.kattis.com/problems/hackaholics
+
+982) Flatter Land https://open.kattis.com/problems/flatterland
+
+983) Jack-O'-Lantern Juxtaposition https://open.kattis.com/problems/jackolanternjuxtaposition
+
+984) FYI https://open.kattis.com/problems/fyi
+
+985) Jumbo Javelin https://open.kattis.com/problems/jumbojavelin
+
+986) Add Two Numbers https://open.kattis.com/problems/addtwonumbers
+
+987) Echo Echo Echo https://open.kattis.com/problems/echoechoecho
+
+988) Sort Two Numbers https://open.kattis.com/problems/sorttwonumbers
+
+989) Digit Swap https://open.kattis.com/problems/digitswap
+
+990) N-sum https://open.kattis.com/problems/nsum
+
+991) Triangle Area https://open.kattis.com/problems/triarea
+
+992) Blandað Best https://open.kattis.com/problems/blandadbest
+
+993) Triangle Factory https://open.kattis.com/problems/triangelfabriken
+
+994) Gluttonous George https://open.kattis.com/problems/goggi
+
+995) Polypleating https://open.kattis.com/problems/margfoldun
+
+996) Literally 1984 https://open.kattis.com/problems/bokstaflega1984
+
+997) Bijele https://open.kattis.com/problems/bijele
+
+998) Solving the Carrots https://open.kattis.com/problems/carrots
+
+999) Stuck in A time Loop https://open.kattis.com/problems/timeloop
+
+1000) Autori https://open.kattis.com/problems/autori
+
+1001) Quadrant Selection https://open.kattis.com/problems/quadrant
+
+1002) Missing Microphone https://open.kattis.com/problems/hissingmicrophone
+
+1003) E-Days One Cart Pull https://open.kattis.com/problems/edays
+
 
 
 
