@@ -2069,6 +2069,66 @@ https://codeforces.com/contest/1796/problem/A
 
 1003) E-Days One Cart Pull https://open.kattis.com/problems/edays
 
+1004) Equal Shots https://open.kattis.com/problems/equalshots
+
+1005) Finding an A https://open.kattis.com/problems/findingana
+
+1006) Count The Vowels https://open.kattis.com/problems/countthevowels
+
+1007) Which is Greater? https://open.kattis.com/problems/whichisgreater
+
+1008) Knight Packing https://open.kattis.com/problems/knightpacking
+
+1009) Adding Trouble https://open.kattis.com/problems/addingtrouble
+
+1010) Above the Sea https://open.kattis.com/problems/abovesealevel
+
+1011) Is Y a Vowel https://open.kattis.com/problems/isyavowel
+
+1012) Shandy https://open.kattis.com/problems/shandy
+
+1013) The Cube https://open.kattis.com/problems/cube
+
+1014) Countdown https://open.kattis.com/problems/countdown2
+
+1015) Fancy multiplication https://open.kattis.com/problems/fancymultiplication
+
+1016) Palindrome https://open.kattis.com/problems/palindrome
+
+1017) Ascending Squares https://open.kattis.com/problems/ascendingsquares
+
+1018) Pop count https://open.kattis.com/problems/popcount
+
+1019) A terible Fortress https://open.kattis.com/problems/aterriblefortress
+
+1020) Skip Counting https://open.kattis.com/problems/counting
+
+1021) Leyniþjónusta https://open.kattis.com/problems/leynithjonusta
+
+1022) Kiki Boba https://open.kattis.com/problems/kikiboba
+
+1023) Fjöldi Bókstafa https://open.kattis.com/problems/fjoldibokstafa
+
+1024) Bilað Lyklaborð https://open.kattis.com/problems/biladlyklabord
+
+1025) Programmeringsolympiaden's Budget https://open.kattis.com/problems/pobudget
+
+1026) The Recepe https://open.kattis.com/problems/receptet
+
+1027) Heysata https://open.kattis.com/problems/heysata
+
+1028) Hakkari https://open.kattis.com/problems/hakkari
+
+1029) Barcelona https://open.kattis.com/problems/barcelona
+
+1030) Flýtibaka https://open.kattis.com/problems/flytibaka
+
+1031) Monopoly https://open.kattis.com/problems/monopol
+
+1032) Dyggy Hole https://open.kattis.com/problems/grafaholur
+
+1033) Wake Up Call https://open.kattis.com/problems/wakeupcall
+
 
 
 
