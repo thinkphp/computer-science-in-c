@@ -379,6 +379,13 @@ https://atcoder.jp/contests/abc382/tasks
 https://atcoder.jp/contests/abc365
 
 
+### Kattis
+
+- https://open.kattis.com/problems/allpairspath
+- https://open.kattis.com/problems/dungeon
+- https://open.kattis.com/problems/chineseremainder
+- https://open.kattis.com/problems/maxcolinear
+- https://open.kattis.com/problems/arcticnetwork
 
 
 ### Educational Codeforces
