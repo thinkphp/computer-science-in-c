@@ -1,4 +1,4 @@
-# Sorting Algorithms
+# Sorting
 In Computer Science, a sorting algorithm is a method that puts elements of a list in a certain order.
 
 ### LeetCode
