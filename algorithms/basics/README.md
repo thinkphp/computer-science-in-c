@@ -57,25 +57,25 @@
 
 ## Problem Set
 
- * https://cses.fi/problemset/list/ ✅ Learning, Competitive Programming, Interviews
+ * 🇫🇮 https://cses.fi/problemset/list/ ✅ Learning, Competitive Programming, Interviews
  
- * https://codeforces.com/problemset ✅ Competitive Programming
+ * 🇷🇺 https://codeforces.com/problemset ✅ Competitive Programming
    
- * https://www.spoj.com/problems/classical/ ✅ Competitive Programming, Classical Problems
+ * 🇵🇱 https://www.spoj.com/problems/classical/ ✅ Competitive Programming, Classical Problems
 
- * https://infoarena.ro/arhiva-educationala ✅ Competitive Programming, Olympiads, High School
+ * 🇷🇴 https://infoarena.ro/arhiva-educationala ✅ Competitive Programming, Olympiads, High School
 
- * https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari ✅ Beginners, High School, College
+ * 🇷🇴 https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari ✅ Beginners, High School, College
  
- * https://atcoder.jp/contests/archive ✅ Competitive Programming
+ * 🇯🇵 https://atcoder.jp/contests/archive ✅ Competitive Programming
  
- * https://acm.timus.ru/problemset.aspx ✅ Competitive Programming, Classical Problems
+ * 🇷🇺 https://acm.timus.ru/problemset.aspx ✅ Competitive Programming, Classical Problems
  
- * https://leetcode.com/problemset/ ✅ Interviews, FAANG, Recruiting
+ * 🇺🇸 https://leetcode.com/problemset/ ✅ Interviews, FAANG, Recruiting
 
- * https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving ✅ Learning, Interviews, Recruiting, Certifications
+ * 🇺🇸 https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving ✅ Learning, Interviews, Recruiting, Certifications
 
- * https://www.hackerearth.com/practice/ ✅ Learning, Recruiting, Interviews, Hackathons
+ * 🇮🇳 https://www.hackerearth.com/practice/ ✅ Learning, Recruiting, Interviews, Hackathons
 
  * https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1 ✅ Competitive Programming, Classical Problems UVa Online Judge Universidad de Valladolid
  
