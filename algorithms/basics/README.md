@@ -2132,7 +2132,7 @@ https://codeforces.com/contest/1796/problem/A
 
 
 
-#### References
+### References
 
 <ul>
   <li>
@@ -2180,7 +2180,7 @@ https://codeforces.com/contest/1796/problem/A
 
 * https://www.math.cmu.edu/~bkell/21110-2010s/extended-euclidean.html
 
-#### Math References:
+### Math References:
 
 - https://brilliant.org/wiki/bezouts-identity/
 
