@@ -1,4 +1,4 @@
-# Search Algorithms
+# Search
 
 Here are some popular search algorithms:
 
