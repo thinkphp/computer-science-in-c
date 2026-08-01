@@ -77,11 +77,11 @@
 
  * 🇮🇳 https://www.hackerearth.com/practice/ ✅ Learning, Recruiting, Interviews, Hackathons
 
- * https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1 ✅ Competitive Programming, Classical Problems UVa Online Judge Universidad de Valladolid
+ * 🇪🇸 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1 ✅ Competitive Programming, Classical Problems UVa Online Judge Universidad de Valladolid
  
- * https://open.kattis.com/ ✅ ICPC, Universities, Competitive Programming
+ * 🇸🇪 https://open.kattis.com/ ✅ ICPC, Universities, Competitive Programming
    
- * https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions ✅ Learning, Interview Preparation, High School, College
+ * 🇮🇳 https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions ✅ Learning, Interview Preparation, High School, College
 
 
 ### Codeforces // HackerRank // HackerEarth // Leetcode // Infoarena // AtCoder // Spoj // UVa // CSES // Timus // Kilonova // Kattis //Meta Hacker Cup
