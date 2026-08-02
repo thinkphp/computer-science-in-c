@@ -153,6 +153,9 @@ When developing a dynamic programming algorithm, we follow a sequence of four st
 
 32. Maximum Profit in job Scheduling
     - https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/
+
+33. Lista lui Andrei
+   - https://www.infoarena.ro/problema/nrcuv
      
 
 ## Practice
