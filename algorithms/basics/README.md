@@ -1781,353 +1781,357 @@ https://codeforces.com/contest/1796/problem/A
 
 859) Count and Say https://leetcode.com/problems/count-and-say/description/
 
-860) Bubble Sort https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/bubble-sort-15-8064c987/
+860) Jellyfish and Undertale https://codeforces.com/contest/1875/problem/A
 
-861) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
+861) Jellyfish and Game https://codeforces.com/contest/1875/problem/B
 
-862) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
+862) Bubble Sort https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/bubble-sort-15-8064c987/
 
-863) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/                         
+863) Favourite Singer https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
 
-864) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
+864) Employee Rating https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/employee-rating-8cd8dc10/
 
-865) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
+865) Telephone Directory https://www.hackerearth.com/problem/algorithm/dummy3-1/                         
 
-866) Divisibility https://www.hackerearth.com/community/problem/algorithm/divisible-or-not-81b86ad7/
+866) Counting Frog Paths https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/
 
-867) ASCII Value https://www.hackerearth.com/community/problem/algorithm/ascii-value/
+867) All Vowels https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/all-vowels-2/
 
-868) Bob And Bombs https://www.hackerearth.com/community/problem/algorithm/bob-and-bombs-cake-walk/
+868) Divisibility https://www.hackerearth.com/community/problem/algorithm/divisible-or-not-81b86ad7/
 
-869) Alien Language https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/alien-language/
+869) ASCII Value https://www.hackerearth.com/community/problem/algorithm/ascii-value/
 
-870) Tic-tac-toe https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/tic-tac-toe-thingy-7ce8b17b/
+870) Bob And Bombs https://www.hackerearth.com/community/problem/algorithm/bob-and-bombs-cake-walk/
 
-871) A cricket tournament https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/chef-and-chefa-a5c8800a/
+871) Alien Language https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/alien-language/
 
-872) Split the Bill https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/split-the-bill-3-5a0690ff/
+872) Tic-tac-toe https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/tic-tac-toe-thingy-7ce8b17b/
 
-873) Rooted Trees https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/hemose-asking-bakry-about-trees-e9598556/
+873) A cricket tournament https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/chef-and-chefa-a5c8800a/
 
-874) Build a Graph https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/build-a-graph-5f5c6b4a/
+874) Split the Bill https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/split-the-bill-3-5a0690ff/
 
-875) Uniformity https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/uniformity-794d7bdc/
+875) Rooted Trees https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/hemose-asking-bakry-about-trees-e9598556/
 
-876) Monk in the real estate https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-in-the-real-estate/
+876) Build a Graph https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/build-a-graph-5f5c6b4a/
 
-877) Friedship value https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/approximate/freindship-and-covid-2-b2d978ae/
+877) Uniformity https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/uniformity-794d7bdc/
 
-878) New Traveling Salesman Problem https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/approximate/tzp-5a83020f/
+878) Monk in the real estate https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-in-the-real-estate/
 
-879) Path Value https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/path-value-2-54ac4ca3/
+879) Friedship value https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/approximate/freindship-and-covid-2-b2d978ae/
 
-880) Connected Components https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/connected-components-2-193825f8/
+880) New Traveling Salesman Problem https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/approximate/tzp-5a83020f/
 
-881) Coloring trees https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/coloring-the-tree-7e8a557a/
+881) Path Value https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/path-value-2-54ac4ca3/
 
-882) Cross the river https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/cross-the-river-052be366/
+882) Connected Components https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/connected-components-2-193825f8/
 
-883) Saving ms. W https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/saving-ms-w-7b3d36df/
+883) Coloring trees https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/coloring-the-tree-7e8a557a/
 
-884) Routes https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/routes-48c6192a/
+884) Cross the river https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/cross-the-river-052be366/
 
-885) Grid https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/robot-in-grid-b7d391f7/
+885) Saving ms. W https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/saving-ms-w-7b3d36df/
 
-886) Smart Travel Agent https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/smart-travel-agent/
+886) Routes https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/routes-48c6192a/
 
-887) Reach the Queen https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/reach-the-queen-c12a82bf/
+887) Grid https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/robot-in-grid-b7d391f7/
 
-888) Wise Business https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/wise-business-89b04f1a/
+888) Smart Travel Agent https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/smart-travel-agent/
 
-889) Lonely Island https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/lonelyisland-49054110/
+889) Reach the Queen https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/reach-the-queen-c12a82bf/
 
-890) Telephone Connections https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/group-minmax-1cddbceb/
+890) Wise Business https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/wise-business-89b04f1a/
 
-891) Max Separations https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/max-seperations-4ed0b552/
+891) Lonely Island https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/lonelyisland-49054110/
 
-892) Roses in a shop https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/roses-for-valentine-4a795f72/
+892) Telephone Connections https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/group-minmax-1cddbceb/
 
-893) Accommodations https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/accomodation-a5c006f3/
+893) Max Separations https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/max-seperations-4ed0b552/
 
-894) Number Sum https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/abcd-26-81bc0a09/
+894) Roses in a shop https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/roses-for-valentine-4a795f72/
 
-895) Find Set https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/find-set-2d8c7e4d/
+895) Accommodations https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/accomodation-a5c006f3/
 
-896) Superjump in a grid https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/superjump-in-a-grid-773f1e31/
+896) Number Sum https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/abcd-26-81bc0a09/
 
-897) Real Estate Agents https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/real-estate-1-059f5228/
+897) Find Set https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/find-set-2d8c7e4d/
 
-898) K Cut and Product https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/k-cut-and-product-e5998b3f/
+898) Superjump in a grid https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/superjump-in-a-grid-773f1e31/
 
-899) Number formation https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/number-formation-1cae96c5/
+899) Real Estate Agents https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/real-estate-1-059f5228/
 
-900) (Problem B) Prime https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/prime-game-1-2604365b/
+900) K Cut and Product https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/k-cut-and-product-e5998b3f/
 
-901) Final Voyage https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/final-voyage-1/
+901) Number formation https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/number-formation-1cae96c5/
 
-902) Vanya and GCD https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/vanya-and-gcd-array/
+902) (Problem B) Prime https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/prime-game-1-2604365b/
 
-903) Prime Query https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/prime-query-bbe5751b/
+903) Final Voyage https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/final-voyage-1/
 
-904) A quadratic equation https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/quadratic-equation-4-22fecbd9/
+904) Vanya and GCD https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/vanya-and-gcd-array/
 
-905) Gone bananas https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/monks-problem-ffeebf8a/
+905) Prime Query https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/prime-query-bbe5751b/
 
-906) Phi-phi-phi https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/phi-phi-phi/
+906) A quadratic equation https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/quadratic-equation-4-22fecbd9/
 
-907) Maze Maximum https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/maze-maximum-8f0fa284/
+907) Gone bananas https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/monks-problem-ffeebf8a/
 
-908) Not Even Max Sum https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/not-even-max-sum-a3ccf284/
+908) Phi-phi-phi https://www.hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/phi-phi-phi/
 
-909) Swap Sum https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/swap-sum-786eb7eb/
+909) Maze Maximum https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/maze-maximum-8f0fa284/
 
-910) Safe Programming https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/safe-programming-d5cf9331/
+910) Not Even Max Sum https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/not-even-max-sum-a3ccf284/
 
-911) Reversed Linked List https://www.hackerearth.com/practice/data-structures/linked-list/singly-linked-list/practice-problems/algorithm/reversed-linked-list-01b722df/
+911) Swap Sum https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/swap-sum-786eb7eb/
 
-912) Remove Friends https://www.hackerearth.com/practice/data-structures/linked-list/singly-linked-list/practice-problems/algorithm/remove-friends-5/
+912) Safe Programming https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/safe-programming-d5cf9331/
 
-913) B-Sequence https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/b-sequence-f919fc86/
+913) Reversed Linked List https://www.hackerearth.com/practice/data-structures/linked-list/singly-linked-list/practice-problems/algorithm/reversed-linked-list-01b722df/
 
-914) Monk and his Friends https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends/
+914) Remove Friends https://www.hackerearth.com/practice/data-structures/linked-list/singly-linked-list/practice-problems/algorithm/remove-friends-5/
 
-915) Distinct Count https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/distinct-count/
+915) B-Sequence https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/b-sequence-f919fc86/
 
-916) Minimum XOR https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/kth-min-xor-37903b94/
+916) Monk and his Friends https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends/
 
-917) XOR and insert https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xor-and-insert-92b9b529/
+917) Distinct Count https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/distinct-count/
 
-918) Shubham and Subarray Xor https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/shubham-and-subarray-xor-d9e787a7/
+918) Minimum XOR https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/kth-min-xor-37903b94/
 
-919) The maximum distance https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/lazy-segment-0186d695/
+919) XOR and insert https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xor-and-insert-92b9b529/
 
-920) Triplets https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/triplets-3-231a9aea/
+920) Shubham and Subarray Xor https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/shubham-and-subarray-xor-d9e787a7/
 
-921) Concert capacity https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/practice-problems/algorithm/concert-capacity-2cef594a/
+921) The maximum distance https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/lazy-segment-0186d695/
 
-922) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
+922) Triplets https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/triplets-3-231a9aea/
 
-923) Is it a tree https://www.spoj.com/problems/PT07Y/
+923) Concert capacity https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/practice-problems/algorithm/concert-capacity-2cef594a/
 
-924) Labyrinth https://www.spoj.com/problems/LABYR1/
+924) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
 
-925) The Max lines https://www.spoj.com/problems/MAXLN/
+925) Is it a tree https://www.spoj.com/problems/PT07Y/
 
-926) Alice Sieve https://www.spoj.com/problems/ALICESIE/
+926) Labyrinth https://www.spoj.com/problems/LABYR1/
 
-927) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
+927) The Max lines https://www.spoj.com/problems/MAXLN/
 
-928) Richest Beggar https://www.spoj.com/problems/RCB/
+928) Alice Sieve https://www.spoj.com/problems/ALICESIE/
 
-929) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
+929) Topological Sorting https://www.spoj.com/problems/TOPOSORT/
 
-930) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+930) Richest Beggar https://www.spoj.com/problems/RCB/
 
-931) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
+931) UVa Dollars https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=83
 
-932) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
+932) UVa The 3n + 1 problem https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
 
-933) ABC https://open.kattis.com/problems/abc
+933) UVa Zapping https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3912
 
-934) Aaah! https://open.kattis.com/problems/aaah
+934) UVa Find The Telephone https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1862
 
-935) FizzBuzz https://open.kattis.com/problems/fizzbuzz
+935) ABC https://open.kattis.com/problems/abc
 
-936) Til hamingju https://open.kattis.com/problems/tilhamingju
+936) Aaah! https://open.kattis.com/problems/aaah
 
-937) Velkomin https://open.kattis.com/problems/velkomin
+937) FizzBuzz https://open.kattis.com/problems/fizzbuzz
 
-938) Telja https://open.kattis.com/problems/telja
+938) Til hamingju https://open.kattis.com/problems/tilhamingju
 
-939) Takkar https://open.kattis.com/problems/takkar
+939) Velkomin https://open.kattis.com/problems/velkomin
 
-940) hipp Hipp https://open.kattis.com/problems/hipphipp
+940) Telja https://open.kattis.com/problems/telja
 
-941) Leggja saman https://open.kattis.com/problems/leggjasaman
+941) Takkar https://open.kattis.com/problems/takkar
 
-942) Óvissa https://open.kattis.com/problems/ovissa
+942) hipp Hipp https://open.kattis.com/problems/hipphipp
 
-943) Fifa https://open.kattis.com/problems/fifa
+943) Leggja saman https://open.kattis.com/problems/leggjasaman
 
-944) Viðsnúningur https://open.kattis.com/problems/vidsnuningur
+944) Óvissa https://open.kattis.com/problems/ovissa
 
-945) Á leið í bíó https://open.kattis.com/problems/aleidibio
+945) Fifa https://open.kattis.com/problems/fifa
 
-946) M-Climb https://open.kattis.com/problems/mclimb
+946) Viðsnúningur https://open.kattis.com/problems/vidsnuningur
 
-947) Millifærsla https://open.kattis.com/problems/millifaersla
+947) Á leið í bíó https://open.kattis.com/problems/aleidibio
 
-948) Tölvunarfræðingar telja https://open.kattis.com/problems/tolvunarfraedingartelja
+948) M-Climb https://open.kattis.com/problems/mclimb
 
-949) Flatbökuveisla https://open.kattis.com/problems/flatbokuveisla
+949) Millifærsla https://open.kattis.com/problems/millifaersla
 
-950) Reduplication https://open.kattis.com/problems/reduplikation
+950) Tölvunarfræðingar telja https://open.kattis.com/problems/tolvunarfraedingartelja
 
-951) Draga Frá https://open.kattis.com/problems/dragafra
+951) Flatbökuveisla https://open.kattis.com/problems/flatbokuveisla
 
-952) Lubbi Lærir https://open.kattis.com/problems/lubbilaerir
+952) Reduplication https://open.kattis.com/problems/reduplikation
 
-953) Kveðja https://open.kattis.com/problems/kvedja
+953) Draga Frá https://open.kattis.com/problems/dragafra
 
-954) Concatenate https://open.kattis.com/problems/skeytasaman
+954) Lubbi Lærir https://open.kattis.com/problems/lubbilaerir
 
-955) Enjoy your Repast! https://open.kattis.com/problems/verditheradgodu
+955) Kveðja https://open.kattis.com/problems/kvedja
 
-956) ASCII Box 0 https://open.kattis.com/problems/asciikassi0
+956) Concatenate https://open.kattis.com/problems/skeytasaman
 
-957) Take Two Stones https://open.kattis.com/problems/twostones
+957) Enjoy your Repast! https://open.kattis.com/problems/verditheradgodu
 
-958) Metronome https://open.kattis.com/problems/metronome
+958) ASCII Box 0 https://open.kattis.com/problems/asciikassi0
 
-959) Parking Pantemonium https://open.kattis.com/problems/parkingpandemonium
+959) Take Two Stones https://open.kattis.com/problems/twostones
 
-960) A shortcut to What? https://open.kattis.com/problems/shortcuttowhat
+960) Metronome https://open.kattis.com/problems/metronome
 
-961) Class Photo https://open.kattis.com/problems/classphoto
+961) Parking Pantemonium https://open.kattis.com/problems/parkingpandemonium
 
-962) Öfugsnúið https://open.kattis.com/problems/ofugsnuid
+962) A shortcut to What? https://open.kattis.com/problems/shortcuttowhat
 
-963) Stórafmæli https://open.kattis.com/problems/storafmaeli
+963) Class Photo https://open.kattis.com/problems/classphoto
 
-964) Hraðgreining https://open.kattis.com/problems/hradgreining
+964) Öfugsnúið https://open.kattis.com/problems/ofugsnuid
 
-965) D Fyrir Dreki https://open.kattis.com/problems/dfyrirdreki
+965) Stórafmæli https://open.kattis.com/problems/storafmaeli
 
-966) Aldur https://open.kattis.com/problems/aldur
+966) Hraðgreining https://open.kattis.com/problems/hradgreining
 
-967) BergMál https://open.kattis.com/problems/bergmal
+967) D Fyrir Dreki https://open.kattis.com/problems/dfyrirdreki
 
-968) Skák https://open.kattis.com/problems/skak
+968) Aldur https://open.kattis.com/problems/aldur
 
-969) Dagatal https://open.kattis.com/problems/dagatal
+969) BergMál https://open.kattis.com/problems/bergmal
 
-970) Besta gjöfin https://open.kattis.com/problems/bestagjofin
+970) Skák https://open.kattis.com/problems/skak
 
-971) Blaðra https://open.kattis.com/problems/bladra2
+971) Dagatal https://open.kattis.com/problems/dagatal
 
-972) Hipp Hipp Húrra https://open.kattis.com/problems/hipphipphurra
+972) Besta gjöfin https://open.kattis.com/problems/bestagjofin
 
-973) Takk fyrir mig https://open.kattis.com/problems/takkfyrirmig
+973) Blaðra https://open.kattis.com/problems/bladra2
 
-974) Odd Echo https://open.kattis.com/problems/oddecho
+974) Hipp Hipp Húrra https://open.kattis.com/problems/hipphipphurra
 
-975) Amerískur vinnustaður https://open.kattis.com/problems/ameriskur
+975) Takk fyrir mig https://open.kattis.com/problems/takkfyrirmig
 
-976) Spritt https://open.kattis.com/problems/spritt
+976) Odd Echo https://open.kattis.com/problems/oddecho
 
-977) Veður - Lokaðar heiðar https://open.kattis.com/problems/vedurheidar
+977) Amerískur vinnustaður https://open.kattis.com/problems/ameriskur
 
-978) Umferð https://open.kattis.com/problems/umferd
+978) Spritt https://open.kattis.com/problems/spritt
 
-979) Decimal Deletion https://open.kattis.com/problems/decimaldeletion
+979) Veður - Lokaðar heiðar https://open.kattis.com/problems/vedurheidar
 
-980) Quality-Adjusted Life-Year https://open.kattis.com/problems/qaly
+980) Umferð https://open.kattis.com/problems/umferd
 
-981) Hack-a-Holics https://open.kattis.com/problems/hackaholics
+981) Decimal Deletion https://open.kattis.com/problems/decimaldeletion
 
-982) Flatter Land https://open.kattis.com/problems/flatterland
+982) Quality-Adjusted Life-Year https://open.kattis.com/problems/qaly
 
-983) Jack-O'-Lantern Juxtaposition https://open.kattis.com/problems/jackolanternjuxtaposition
+983) Hack-a-Holics https://open.kattis.com/problems/hackaholics
 
-984) FYI https://open.kattis.com/problems/fyi
+984) Flatter Land https://open.kattis.com/problems/flatterland
 
-985) Jumbo Javelin https://open.kattis.com/problems/jumbojavelin
+985) Jack-O'-Lantern Juxtaposition https://open.kattis.com/problems/jackolanternjuxtaposition
 
-986) Add Two Numbers https://open.kattis.com/problems/addtwonumbers
+986) FYI https://open.kattis.com/problems/fyi
 
-987) Echo Echo Echo https://open.kattis.com/problems/echoechoecho
+987) Jumbo Javelin https://open.kattis.com/problems/jumbojavelin
 
-988) Sort Two Numbers https://open.kattis.com/problems/sorttwonumbers
+988) Add Two Numbers https://open.kattis.com/problems/addtwonumbers
 
-989) Digit Swap https://open.kattis.com/problems/digitswap
+989) Echo Echo Echo https://open.kattis.com/problems/echoechoecho
 
-990) N-sum https://open.kattis.com/problems/nsum
+990) Sort Two Numbers https://open.kattis.com/problems/sorttwonumbers
 
-991) Triangle Area https://open.kattis.com/problems/triarea
+991) Digit Swap https://open.kattis.com/problems/digitswap
 
-992) Blandað Best https://open.kattis.com/problems/blandadbest
+992) N-sum https://open.kattis.com/problems/nsum
 
-993) Triangle Factory https://open.kattis.com/problems/triangelfabriken
+993) Triangle Area https://open.kattis.com/problems/triarea
 
-994) Gluttonous George https://open.kattis.com/problems/goggi
+994) Blandað Best https://open.kattis.com/problems/blandadbest
 
-995) Polypleating https://open.kattis.com/problems/margfoldun
+995) Triangle Factory https://open.kattis.com/problems/triangelfabriken
 
-996) Literally 1984 https://open.kattis.com/problems/bokstaflega1984
+996) Gluttonous George https://open.kattis.com/problems/goggi
 
-997) Bijele https://open.kattis.com/problems/bijele
+997) Polypleating https://open.kattis.com/problems/margfoldun
 
-998) Solving the Carrots https://open.kattis.com/problems/carrots
+998) Literally 1984 https://open.kattis.com/problems/bokstaflega1984
 
-999) Stuck in A time Loop https://open.kattis.com/problems/timeloop
+999) Bijele https://open.kattis.com/problems/bijele
 
-1000) Autori https://open.kattis.com/problems/autori
+1000) Solving the Carrots https://open.kattis.com/problems/carrots
 
-1001) Quadrant Selection https://open.kattis.com/problems/quadrant
+1001) Stuck in A time Loop https://open.kattis.com/problems/timeloop
 
-1002) Missing Microphone https://open.kattis.com/problems/hissingmicrophone
+1002) Autori https://open.kattis.com/problems/autori
 
-1003) E-Days One Cart Pull https://open.kattis.com/problems/edays
+1003) Quadrant Selection https://open.kattis.com/problems/quadrant
 
-1004) Equal Shots https://open.kattis.com/problems/equalshots
+1004) Missing Microphone https://open.kattis.com/problems/hissingmicrophone
 
-1005) Finding an A https://open.kattis.com/problems/findingana
+1005) E-Days One Cart Pull https://open.kattis.com/problems/edays
 
-1006) Count The Vowels https://open.kattis.com/problems/countthevowels
+1006) Equal Shots https://open.kattis.com/problems/equalshots
 
-1007) Which is Greater? https://open.kattis.com/problems/whichisgreater
+1007) Finding an A https://open.kattis.com/problems/findingana
 
-1008) Knight Packing https://open.kattis.com/problems/knightpacking
+1008) Count The Vowels https://open.kattis.com/problems/countthevowels
 
-1009) Adding Trouble https://open.kattis.com/problems/addingtrouble
+1009) Which is Greater? https://open.kattis.com/problems/whichisgreater
 
-1010) Above the Sea https://open.kattis.com/problems/abovesealevel
+1010) Knight Packing https://open.kattis.com/problems/knightpacking
 
-1011) Is Y a Vowel https://open.kattis.com/problems/isyavowel
+1011) Adding Trouble https://open.kattis.com/problems/addingtrouble
 
-1012) Shandy https://open.kattis.com/problems/shandy
+1012) Above the Sea https://open.kattis.com/problems/abovesealevel
 
-1013) The Cube https://open.kattis.com/problems/cube
+1013) Is Y a Vowel https://open.kattis.com/problems/isyavowel
 
-1014) Countdown https://open.kattis.com/problems/countdown2
+1014) Shandy https://open.kattis.com/problems/shandy
 
-1015) Fancy multiplication https://open.kattis.com/problems/fancymultiplication
+1015) The Cube https://open.kattis.com/problems/cube
 
-1016) Palindrome https://open.kattis.com/problems/palindrome
+1016) Countdown https://open.kattis.com/problems/countdown2
 
-1017) Ascending Squares https://open.kattis.com/problems/ascendingsquares
+1017) Fancy multiplication https://open.kattis.com/problems/fancymultiplication
 
-1018) Pop count https://open.kattis.com/problems/popcount
+1018) Palindrome https://open.kattis.com/problems/palindrome
 
-1019) A terible Fortress https://open.kattis.com/problems/aterriblefortress
+1019) Ascending Squares https://open.kattis.com/problems/ascendingsquares
 
-1020) Skip Counting https://open.kattis.com/problems/counting
+1020) Pop count https://open.kattis.com/problems/popcount
 
-1021) Leyniþjónusta https://open.kattis.com/problems/leynithjonusta
+1021) A terible Fortress https://open.kattis.com/problems/aterriblefortress
 
-1022) Kiki Boba https://open.kattis.com/problems/kikiboba
+1022) Skip Counting https://open.kattis.com/problems/counting
 
-1023) Fjöldi Bókstafa https://open.kattis.com/problems/fjoldibokstafa
+1023) Leyniþjónusta https://open.kattis.com/problems/leynithjonusta
 
-1024) Bilað Lyklaborð https://open.kattis.com/problems/biladlyklabord
+1024) Kiki Boba https://open.kattis.com/problems/kikiboba
 
-1025) Programmeringsolympiaden's Budget https://open.kattis.com/problems/pobudget
+1025) Fjöldi Bókstafa https://open.kattis.com/problems/fjoldibokstafa
 
-1026) The Recepe https://open.kattis.com/problems/receptet
+1026) Bilað Lyklaborð https://open.kattis.com/problems/biladlyklabord
 
-1027) Heysata https://open.kattis.com/problems/heysata
+1027) Programmeringsolympiaden's Budget https://open.kattis.com/problems/pobudget
 
-1028) Hakkari https://open.kattis.com/problems/hakkari
+1028) The Recepe https://open.kattis.com/problems/receptet
 
-1029) Barcelona https://open.kattis.com/problems/barcelona
+1029) Heysata https://open.kattis.com/problems/heysata
 
-1030) Flýtibaka https://open.kattis.com/problems/flytibaka
+1030) Hakkari https://open.kattis.com/problems/hakkari
 
-1031) Monopoly https://open.kattis.com/problems/monopol
+1031) Barcelona https://open.kattis.com/problems/barcelona
 
-1032) Dyggy Hole https://open.kattis.com/problems/grafaholur
+1032) Flýtibaka https://open.kattis.com/problems/flytibaka
 
-1033) Wake Up Call https://open.kattis.com/problems/wakeupcall
+1033) Monopoly https://open.kattis.com/problems/monopol
+
+1034) Dyggy Hole https://open.kattis.com/problems/grafaholur
+
+1035) Wake Up Call https://open.kattis.com/problems/wakeupcall
 
 
 
