@@ -2133,6 +2133,8 @@ https://codeforces.com/contest/1796/problem/A
 
 1035) Wake Up Call https://open.kattis.com/problems/wakeupcall
 
+1036) Reptide https://codeforces.com/contest/2254/problem/A
+
 
 
 
