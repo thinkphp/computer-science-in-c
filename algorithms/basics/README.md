@@ -2137,6 +2137,18 @@ https://codeforces.com/contest/1796/problem/A
 
 1037) Evanescent https://codeforces.com/contest/2254/problem/B
 
+1038) Moo Language School https://codeforces.com/contest/2259/problem/A
+
+1039) Binary Bubble Sort Inversions https://codeforces.com/contest/2259/problem/F
+
+1040) Treasure Map Destruction https://codeforces.com/contest/2259/problem/E
+
+1041) Minus Two https://codeforces.com/contest/2259/problem/B
+
+1042) 101 https://codeforces.com/contest/2259/problem/C
+
+1043) MEX Multiset https://codeforces.com/contest/2259/problem/D
+
 
 
 
