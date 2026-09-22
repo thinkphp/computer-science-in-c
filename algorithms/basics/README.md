@@ -2149,6 +2149,8 @@ https://codeforces.com/contest/1796/problem/A
 
 1043) MEX Multiset https://codeforces.com/contest/2259/problem/D
 
+1044) Admitere FMI 2016 https://www.infoarena.ro/problema/admitere-fmi-2016
+
 
 
 
