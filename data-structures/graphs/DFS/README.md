@@ -8,6 +8,7 @@ CSES
   
 Infoarena:
 * https://infoarena.ro/problema/dfs
+* https://www.infoarena.ro/problema/admitere-fmi-2016
 
 Codeforce:
 
