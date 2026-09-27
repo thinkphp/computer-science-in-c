@@ -395,6 +395,7 @@ https://codeforces.com/contest/600
 
 ### Math:
 
+* Matrix Inverse https://mathworld.wolfram.com/MatrixInverse.html
 * https://brilliant.org/wiki/bezouts-identity/
 * https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
 * https://codeforces.com/blog/entry/97623
