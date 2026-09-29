@@ -1,0 +1,22 @@
+Am gasit un caracter care nu este litera: 2
+Am gasit un caracter care nu este litera: 3
+Am gasit un caracter care nu este litera: 2
+Am gasit un caracter care nu este litera:  
+Am gasit un caracter care nu este litera:  
+Am gasit un caracter care nu este litera: 2
+Am gasit un caracter care nu este litera: 3
+Am gasit un caracter care nu este litera: 4
+Am gasit un caracter care nu este litera: 2
+Am gasit un caracter care nu este litera: 3
+Am gasit un caracter care nu este litera: 4
+Am gasit un caracter care nu este litera:  
+Am gasit un caracter care nu este litera: 2
+Am gasit un caracter care nu este litera: 3
+Am gasit un caracter care nu este litera: 4
+Am gasit un caracter care nu este litera: 2
+Am gasit un caracter care nu este litera: 3
+Am gasit un caracter care nu este litera:  
+Am gasit un caracter care nu este litera: 3
+Am gasit un caracter care nu este litera: 2
+Am gasit un caracter care nu este litera: 4
+Am gasit un caracter care nu este litera: ?
