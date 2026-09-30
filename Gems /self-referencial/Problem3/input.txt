@@ -1,0 +1,18 @@
+typedef struct CELL {
+
+        char word[SIZE];
+
+        int count;
+
+        struct CELL *next;
+} CELL;
+
+CELL *head = NULL,
+     *aux = NULL;
+
+int main( int argc, char const *argv[] ) {
+     printf("Hello C language");
+     printf("Hello C language");
+     printf("Hello C language");
+}
+.
