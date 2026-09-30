@@ -1,8 +1,0 @@
-typedef struct CELL{
-
-	char word[ SIZE ];
-	struct CELL *next;
-
-} CELL;
-char word[SIZE];
-
