@@ -2151,6 +2151,8 @@ https://codeforces.com/contest/1796/problem/A
 
 1044) Admitere FMI 2016 https://www.infoarena.ro/problema/admitere-fmi-2016
 
+1045) Atoi https://leetcode.com/problems/string-to-integer-atoi/description/
+
 
 
 
