@@ -1,5 +1,7 @@
 # Introduction to Data Structures
 
+### Abstract Data Types vs Data Structures
+
 In computer science, data structures are fundamental components that enable efficient organization, management, and storage of data. They are the building blocks upon which complex software and algorithms are developed. Understanding data structures is crucial for writing efficient programs and solving complex computational problems.
 
 ### Abstract
