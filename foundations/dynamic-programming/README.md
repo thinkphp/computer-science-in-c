@@ -172,6 +172,8 @@ https://www.pbinfo.ro/probleme/categorii/53/programare-dinamica
 
 ## References
 
+https://github.com/thinkphp/atCoder-educational-dp
+
 https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
 
 https://www.hackerrank.com/topics/dynamic-programming
