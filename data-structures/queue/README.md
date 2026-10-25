@@ -58,3 +58,7 @@ int main(int argc, char const *argv[]) {
 ### Problem Set
 
 https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=queues
+
+### Resources:
+
+- https://bytebytego.com/guides/explaining-the-4-most-commonly-used-types-of-queues-in-a-single-diagram/
