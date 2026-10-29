@@ -7,6 +7,9 @@ Computer science is no more about computers than astronomy is about telescopes, 
 ### Roadmap 
 https://roadmap.sh/computer-science
 
+### Big-O-Notation 
+- https://github.com/thinkphp/Big-O-Notation
+
 ## Academic Level: University (Oxford Standard)
 *A rigorous academic program designed to develop profound understanding of computational thinking and problem-solving across theoretical and practical domains.*
 This courseware meets the exacting standards of Oxford University, emphasizing deep theoretical understanding alongside practical application and research excellence.
